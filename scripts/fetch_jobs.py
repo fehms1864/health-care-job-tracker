@@ -337,7 +337,7 @@ class _Links(HTMLParser):
 JOBLINK = re.compile(r'(job|jobs|vacanc|vacature|career|position|opening|posting|requisition|/j/|/o/)', re.I)
 NAV = re.compile(r'^(apply|apply now|read more|learn more|view|view job|see more|details|careers?|jobs?|'
                  r'search|home|about|contact|login|sign in|next|previous|back|all jobs|open positions|\d+)$|'
-                 r'\b(account|log ?in|sign ?(in|up)|register|privacy|cookie|terms|faq|blog|news|press|about us|'
+                 r'\b(email|e-mail|mail|call us|account|log ?in|sign ?(in|up)|register|privacy|cookie|terms|faq|blog|news|press|about us|'
                  r'contact|linkedin|twitter|facebook|instagram|youtube|job alert|talent community|policy|help|'
                  r'language|english|العربية|nederlands|home|search jobs|our (people|culture|values)|life at|'
                  r'benefits|students|graduates|early careers|events|locations?)\b', re.I)
@@ -352,6 +352,8 @@ def page_watch(url, prev):
         if not href or not t or len(t) < 8 or len(t) > 140 or len(t.split()) < 2 or NAV.search(t):
             continue
         full = urljoin(url, href)
+        if re.search(r'^(mailto|tel|javascript):|cdn-cgi|#', full, re.I):
+            continue
         if JOBLINK.search(full) and full.rstrip('/') != url.rstrip('/'):
             postings[full] = t
     body = text_of(r.text)
