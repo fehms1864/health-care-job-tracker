@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Relocation Control</title>
+<meta name="description" content="Daily tracker of new healthcare strategy, operations and consulting roles at watchlist employers in the UK, Netherlands and Middle East.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#1B1F2A; --ink-2:#242A38; --ink-3:#2E3648; --ink-4:#3A4356;
+    --amber:#E8A33D; --amber-dim:#8C692C;
+    --parchment:#F3ECDD; --stamp:#C1443C; --pine:#5B9A87; --slate:#8890A0;
+    --paper-ink:#2B2418;
+    --serif:'Fraunces','Iowan Old Style',Georgia,serif;
+    --mono:'Space Mono','IBM Plex Mono',monospace;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--ink);color:var(--parchment);font-family:var(--serif);line-height:1.5}
+  a{color:inherit}
+  .wrap{max-width:1080px;margin:0 auto;padding:26px 16px 90px}
+  :focus-visible{outline:2px solid var(--amber);outline-offset:2px}
+
+  .board{background:linear-gradient(180deg,var(--ink-2),var(--ink));border:1px solid var(--ink-3);border-radius:6px;padding:24px 22px;margin-bottom:26px}
+  .board-top{display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:14px}
+  .board-name{font-family:var(--mono);font-weight:700;letter-spacing:.04em;font-size:1.4rem;color:var(--amber)}
+  .board-sub{font-family:var(--mono);font-size:.75rem;color:var(--slate);margin-top:6px;letter-spacing:.03em}
+  .board-clock{font-family:var(--mono);text-align:right;font-size:.85rem}
+  .board-clock .zone{color:var(--slate);font-size:.7rem}
+  .stats{margin-top:18px;padding-top:16px;border-top:1px dashed var(--ink-3);display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+  .stat{font-family:var(--mono)}
+  .stat b{display:block;font-size:1.5rem;color:var(--amber);font-weight:700;line-height:1.2}
+  .stat span{font-size:.66rem;color:var(--slate);letter-spacing:.05em;text-transform:uppercase}
+  .btn{font-family:var(--mono);font-size:.72rem;letter-spacing:.04em;background:transparent;color:var(--amber);border:1px solid var(--amber-dim);border-radius:4px;padding:7px 12px;cursor:pointer;text-decoration:none;display:inline-block}
+  .btn:hover{background:rgba(232,163,61,.08)}
+  .btn-ghost{color:var(--slate);border-color:var(--ink-4)}
+  .btn-ghost:hover{background:rgba(255,255,255,.04)}
+  .btn-row{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
+
+  section{margin-bottom:40px}
+  .section-head{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;margin-bottom:12px}
+  .section-title{font-weight:600;font-size:1.35rem;font-style:italic}
+  .section-meta{font-family:var(--mono);font-size:.7rem;color:var(--slate)}
+  .section-note{font-size:.9rem;color:var(--slate);margin:-6px 0 16px;max-width:68ch}
+
+  .filters{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px;align-items:center}
+  .chip{font-family:var(--mono);font-size:.7rem;padding:6px 11px;border-radius:20px;border:1px solid var(--ink-4);background:transparent;color:var(--slate);cursor:pointer}
+  .chip.on{border-color:var(--amber-dim);color:var(--amber);background:rgba(232,163,61,.1)}
+  .chip .n{opacity:.7;margin-left:4px}
+  .sep{width:1px;height:20px;background:var(--ink-4);margin:0 4px}
+  .filters input[type=search],.filters select{font-family:var(--serif);font-size:.86rem;background:var(--ink-2);border:1px solid var(--ink-3);color:var(--parchment);border-radius:20px;padding:7px 14px;min-width:0}
+  .filters input[type=search]{flex:1;min-width:150px}
+  .filters select{font-family:var(--mono);font-size:.72rem;max-width:220px}
+
+  .tickets{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+  .ticket{background:var(--parchment);color:var(--paper-ink);border-radius:5px;position:relative;overflow:hidden;display:flex;flex-direction:column}
+  .ticket.is-new::after{content:'NEW';position:absolute;top:12px;right:-30px;transform:rotate(35deg);background:var(--stamp);color:var(--parchment);font-family:var(--mono);font-size:.62rem;font-weight:700;letter-spacing:.08em;padding:3px 34px}
+  .ticket-main{padding:17px 17px 13px;flex:1}
+  .ticket-role{font-weight:600;font-size:1.04rem;margin-bottom:3px;padding-right:34px;overflow-wrap:anywhere}
+  .ticket-co{font-family:var(--mono);font-size:.75rem;color:#5b4f38;margin-bottom:9px;overflow-wrap:anywhere}
+  .ticket-meta{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:9px}
+  .pill{font-family:var(--mono);font-size:.62rem;padding:2px 7px;border-radius:3px;background:rgba(43,36,24,.08);color:#4a4030;letter-spacing:.02em}
+  .pill.fit{background:rgba(91,154,135,.22);color:#2f6555}
+  .pill.score{background:rgba(232,163,61,.25);color:#7a5410}
+  .ticket-why{font-size:.83rem;color:#4a4030}
+  .ticket-div{position:relative;height:0;border-top:2px dashed #c9bd9c}
+  .ticket-div::before,.ticket-div::after{content:'';position:absolute;top:-9px;width:18px;height:18px;border-radius:50%;background:var(--ink)}
+  .ticket-div::before{left:-9px}.ticket-div::after{right:-9px}
+  .ticket-stub{padding:11px 17px;display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}
+  .ticket-src{font-family:var(--mono);font-size:.64rem;color:#6b5f45}
+  .ticket-act{display:flex;gap:7px}
+  .ticket-act a,.ticket-act button{font-family:var(--mono);font-size:.66rem;border:1px solid #c9bd9c;background:transparent;color:var(--paper-ink);border-radius:3px;padding:5px 9px;cursor:pointer;text-decoration:none;white-space:nowrap}
+  .ticket-act a:hover,.ticket-act button:hover{background:rgba(43,36,24,.07)}
+  .ticket-act button.done{color:#2f6555;border-color:#8fbcae}
+  .more{text-align:center;margin-top:16px}
+
+  .manual{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+  .mco{display:block;background:var(--ink-2);border:1px solid var(--ink-3);border-radius:5px;padding:12px 14px;text-decoration:none}
+  .mco:hover{border-color:var(--amber-dim);background:var(--ink-3)}
+  .mco.flag{border-color:var(--amber-dim)}
+  .mco-t{font-weight:500;font-size:.93rem;overflow-wrap:anywhere}
+  .mco-d{font-family:var(--mono);font-size:.64rem;color:var(--slate);margin-top:2px}
+  .mco-d.hot{color:var(--amber)}
+  .mco ul{margin:6px 0 0;padding-left:16px;font-size:.8rem}
+  .region-h{font-family:var(--mono);font-size:.72rem;color:var(--amber);letter-spacing:.06em;margin:18px 0 8px;text-transform:uppercase}
+
+  .tadd{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}
+  .tadd input{font-family:var(--serif);font-size:.86rem;background:var(--ink-2);border:1px solid var(--ink-3);color:var(--parchment);border-radius:4px;padding:9px 11px;flex:1;min-width:130px}
+  .tadd button{font-family:var(--mono);font-size:.73rem;background:var(--amber);color:var(--ink);border:none;border-radius:4px;padding:9px 15px;cursor:pointer;font-weight:700}
+  .table-wrap{overflow-x:auto}
+  table{width:100%;border-collapse:collapse;font-size:.86rem}
+  th{text-align:left;font-family:var(--mono);font-size:.65rem;color:var(--slate);text-transform:uppercase;padding:8px 6px;border-bottom:1px solid var(--ink-3)}
+  td{padding:9px 6px;border-bottom:1px solid var(--ink-3);vertical-align:top}
+  td input{width:100%;background:transparent;border:none;color:var(--parchment);font-family:var(--serif);font-size:.86rem}
+  td a{color:var(--amber)}
+  select.st{font-family:var(--mono);font-size:.72rem;background:var(--ink-2);color:var(--parchment);border:1px solid var(--ink-3);border-radius:3px;padding:4px 6px}
+  .st-Watching{color:var(--slate)!important}.st-Applied{color:var(--amber)!important}.st-Interviewing{color:var(--pine)!important}.st-Offer{color:#7bc99a!important}.st-Rejected{color:var(--stamp)!important}
+  .del{background:none;border:none;color:var(--slate);cursor:pointer;font-family:var(--mono);font-size:.72rem}
+  .del:hover{color:var(--stamp)}
+
+  .note{font-style:italic;color:var(--slate);font-size:.9rem;padding:14px 4px}
+  .banner{font-family:var(--mono);font-size:.75rem;padding:9px 13px;border-radius:4px;margin-bottom:13px}
+  .banner.err{background:rgba(193,68,60,.13);color:#e39089;border:1px solid rgba(193,68,60,.32)}
+  .banner.load{background:rgba(232,163,61,.1);color:var(--amber);border:1px solid rgba(232,163,61,.28)}
+
+  details{background:var(--ink-2);border:1px solid var(--ink-3);border-radius:5px;padding:14px 16px}
+  summary{font-family:var(--mono);font-size:.78rem;color:var(--amber);cursor:pointer}
+  .set-body{margin-top:12px;font-size:.88rem;color:var(--slate)}
+  .health{font-family:var(--mono);font-size:.7rem;line-height:1.8}
+  .health .bad{color:#e39089}
+  .rules li{margin-bottom:4px}
+
+  footer{font-family:var(--mono);font-size:.7rem;color:var(--slate);border-top:1px solid var(--ink-3);padding-top:16px;max-width:76ch;line-height:1.7}
+
+  @media(max-width:860px){ .manual{grid-template-columns:repeat(2,minmax(0,1fr))} }
+  @media(max-width:760px){
+    .tickets,.manual{grid-template-columns:1fr}
+    .stats{grid-template-columns:repeat(2,1fr)}
+    .board-clock{text-align:left}
+    table{font-size:.8rem}
+    .hide-sm{display:none}
+    .sep{display:none}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<div class="board">
+  <div class="board-top">
+    <div>
+      <div class="board-name">RELOCATION CONTROL</div>
+      <div class="board-sub">HEALTHCARE STRATEGY &amp; OPS · DIGITAL HEALTH · CONSULTING</div>
+    </div>
+    <div class="board-clock">
+      <div id="ck-t">--:--</div>
+      <div class="zone" id="ck-d">--</div>
+    </div>
+  </div>
+  <div class="stats">
+    <div class="stat"><b id="st-new">–</b><span>New since last visit</span></div>
+    <div class="stat"><b id="st-jobs">–</b><span>Open matching roles</span></div>
+    <div class="stat"><b id="st-cos">–</b><span>Companies watched</span></div>
+    <div class="stat"><b id="st-when">–</b><span>Last checked</span></div>
+  </div>
+  <div class="btn-row">
+    <button class="btn btn-ghost" onclick="exportData()">Export tracker backup</button>
+    <button class="btn btn-ghost" onclick="document.getElementById('imp').click()">Import backup</button>
+    <input type="file" id="imp" accept=".json" style="display:none" onchange="importData(event)">
+  </div>
+</div>
+
+<section>
+  <div class="section-head">
+    <div class="section-title">Open roles at watchlist companies</div>
+    <div class="section-meta" id="m-jobs">—</div>
+  </div>
+  <p class="section-note">Checked automatically every morning across every company with a public job board. Engineering, analytics and finance roles are removed, and so is anything that needs Dutch or Arabic. Best-fit roles are sorted to the top.</p>
+  <div id="b-jobs"><div class="banner load">Loading today's results…</div></div>
+  <div class="filters" id="f-region"></div>
+  <div class="filters">
+    <button class="chip" id="c-new" onclick="toggle('newOnly')">New this week</button>
+    <button class="chip" id="c-fit" onclick="toggle('fitOnly')">Best fit only</button>
+    <div class="sep"></div>
+    <select id="co" onchange="render()" aria-label="Company"><option value="">All companies</option></select>
+    <input type="search" id="q" placeholder="Filter by word…" oninput="render()">
+  </div>
+  <div class="tickets" id="tickets"></div>
+  <div class="more" id="more"></div>
+</section>
+
+<section>
+  <div class="section-head">
+    <div class="section-title">Check by hand</div>
+    <div class="section-meta" id="m-manual">—</div>
+  </div>
+  <p class="section-note">These companies don't publish a job feed the daily check can read. Where the careers page can be read, it's still checked each morning, and a company is <span style="color:var(--amber)">highlighted</span> when its page changes or new job links appear. The rest link straight to their careers page or a LinkedIn search.</p>
+  <div class="filters" id="f-manual"></div>
+  <div id="manual"></div>
+</section>
+
+<section>
+  <div class="section-head">
+    <div class="section-title">My tracker</div>
+    <div class="section-meta">saved in this browser</div>
+  </div>
+  <p class="section-note">Everything you're watching or have applied to. Stored on this device only, so export a backup before switching phone or laptop.</p>
+  <div class="tadd">
+    <input id="a-co" placeholder="Company">
+    <input id="a-ro" placeholder="Role">
+    <input id="a-lo" placeholder="Location">
+    <button onclick="addManual()">+ Add</button>
+  </div>
+  <div class="table-wrap">
+  <table>
+    <thead><tr><th>Company</th><th>Role</th><th class="hide-sm">Location</th><th>Status</th><th class="hide-sm">Notes</th><th></th></tr></thead>
+    <tbody id="tbody"></tbody>
+  </table>
+  </div>
+  <div id="t-empty" class="note" style="display:none">Nothing tracked yet. Hit Track on a role above, or add one by hand.</div>
+</section>
+
+<section>
+  <details>
+    <summary>How the filtering works · feed health</summary>
+    <div class="set-body">
+      <ul class="rules">
+        <li><b>Where:</b> UK and Netherlands roles at the UK/NL watchlist companies; Middle East roles (UAE, Saudi Arabia, Qatar, Bahrain, Kuwait, Oman, Egypt, Jordan, Lebanon) at the Middle East companies.</li>
+        <li><b>Removed by title:</b> engineering and technical roles, analytics and data roles, finance roles, clinical practitioner roles, Director/VP/Head-of level, internships, and clearly unrelated roles like sales reps or recruiters.</li>
+        <li><b>Removed by language:</b> the posting is written in Dutch or Arabic, or says Dutch or Arabic is required. Roles where it's only "a plus" stay in.</li>
+        <li><b>Ranking:</b> each role is scored on healthcare, strategy, operations, implementation and consulting words in the title and description. Title matches count double. "Best fit" means a score of 20 or more.</li>
+      </ul>
+      <div class="health" id="health"></div>
+    </div>
+  </details>
+</section>
+
+<footer>
+  Job data comes from each employer's own job board and is refreshed once a day. Everything you type on this page stays on this device. Listings can be removed, mislabelled or missing, so always confirm the role, the language requirement and visa sponsorship directly with the employer.
+</footer>
+
+</div>
+
+<script>
+const FIT = 20, PAGE = 40;
+const REGION_NAME = {UK:'United Kingdom', NL:'Netherlands', ME:'Middle East'};
+const K = {tracker:'rc_tracker', seen:'rc_seen2', visit:'rc_visit', ui:'rc_ui'};
+let data = {jobs:[], manual:[], status:[], counts:{}};
+let tracker = [], seen = new Set(), prevVisitSeen = new Set();
+let ui = {region:'all', newOnly:false, fitOnly:true, mregion:'all'}, shown = PAGE;
+
+const load = (k,d) => { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch(e) { return d; } };
+const save = (k,v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch(e) {} };
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const safeUrl = u => /^https?:\/\//i.test(u || '') ? esc(u) : '#';
+
+function clock(){
+  const n = new Date();
+  document.getElementById('ck-t').textContent = n.toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'});
+  document.getElementById('ck-d').textContent = n.toLocaleDateString([], {weekday:'short', day:'2-digit', month:'short', year:'numeric'}).toUpperCase();
+}
+clock(); setInterval(clock, 30000);
+
+function ago(iso){
+  if(!iso) return 'never';
+  const m = Math.round((Date.now() - new Date(iso)) / 60000);
+  if(m < 60) return m + 'm ago';
+  const h = Math.round(m / 60); if(h < 24) return h + 'h ago';
+  return Math.round(h / 24) + 'd ago';
+}
+function daysSince(d){ return (Date.now() - new Date(d + 'T00:00:00Z')) / 864e5; }
+const isNewWeek = j => j.first_seen !== data.baseline_date && daysSince(j.first_seen) < 7;
+const isUnseen = j => !prevVisitSeen.has(j.id) && j.first_seen !== data.baseline_date;
+
+/* ---------- jobs ---------- */
+function toggle(k){ ui[k] = !ui[k]; save(K.ui, ui); shown = PAGE; render(); }
+function setRegion(r){ ui.region = r; save(K.ui, ui); shown = PAGE; render(); }
+
+function filtered(){
+  const q = (document.getElementById('q').value || '').toLowerCase();
+  const co = document.getElementById('co').value;
+  return data.jobs.filter(j => {
+    if(ui.region !== 'all' && j.region !== ui.region) return false;
+    if(ui.newOnly && !isNewWeek(j)) return false;
+    if(ui.fitOnly && j.score < FIT) return false;
+    if(co && j.company !== co) return false;
+    if(q && !(j.title + ' ' + j.company + ' ' + j.location).toLowerCase().includes(q)) return false;
+    return true;
+  }).sort((a,b) => (isNewWeek(b) - isNewWeek(a)) || (b.score - a.score));
+}
+
+function render(){
+  const counts = {all:data.jobs.length, UK:0, NL:0, ME:0};
+  data.jobs.forEach(j => counts[j.region]++);
+  document.getElementById('f-region').innerHTML = ['all','UK','NL','ME'].map(r =>
+    `<button class="chip ${ui.region===r?'on':''}" onclick="setRegion('${r}')">${r==='all'?'All':REGION_NAME[r]}<span class="n">${counts[r]}</span></button>`).join('');
+  document.getElementById('c-new').classList.toggle('on', ui.newOnly);
+  document.getElementById('c-fit').classList.toggle('on', ui.fitOnly);
+
+  const list = filtered();
+  const grid = document.getElementById('tickets');
+  if(!list.length){
+    grid.innerHTML = `<div class="note">Nothing matches right now.${ui.fitOnly ? ' Try turning off “Best fit only”.' : ''}${ui.newOnly ? ' Try turning off “New this week”.' : ''}</div>`;
+  } else {
+    grid.innerHTML = list.slice(0, shown).map(j => {
+      const tracked = tracker.some(t => t.url === j.url || (t.company === j.company && t.role === j.title));
+      const posted = j.posted && !/ago|today|yesterday/i.test(j.posted) && !isNaN(new Date(j.posted))
+        ? new Date(j.posted).toLocaleDateString([], {day:'numeric', month:'short'}) : (j.posted || '');
+      return `<div class="ticket ${isUnseen(j) || (isNewWeek(j) && daysSince(j.first_seen) < 2) ? 'is-new' : ''}">
+        <div class="ticket-main">
+          <div class="ticket-role">${esc(j.title)}</div>
+          <div class="ticket-co">${esc(j.company)}${j.location ? ' · ' + esc(j.location) : ''}</div>
+          <div class="ticket-meta">
+            <span class="pill">${j.region}</span>
+            ${j.score >= FIT ? '<span class="pill fit">best fit</span>' : ''}
+            <span class="pill score">match ${j.score}</span>
+          </div>
+          ${j.hits && j.hits.length ? `<div class="ticket-why">Matched on ${esc(j.hits.join(', '))}.</div>` : ''}
+        </div>
+        <div class="ticket-div"></div>
+        <div class="ticket-stub">
+          <div class="ticket-src">first seen ${esc(new Date(j.first_seen + 'T12:00:00Z').toLocaleDateString([], {day:'numeric', month:'short'}))}${posted ? ' · posted ' + esc(posted) : ''}</div>
+          <div class="ticket-act">
+            <button class="${tracked ? 'done' : ''}" onclick="trackJob('${j.id}')">${tracked ? '✓ Tracked' : '+ Track'}</button>
+            <a href="${safeUrl(j.url)}" target="_blank" rel="noopener">Open ↗</a>
+          </div>
+        </div>
+      </div>`;
+    }).join('');
+  }
+  document.getElementById('more').innerHTML = list.length > shown
+    ? `<button class="btn" onclick="shown+=${PAGE};render()">Show more (${list.length - shown} left)</button>` : '';
+  document.getElementById('m-jobs').textContent = `${Math.min(shown, list.length)} of ${list.length} shown`;
+}
+
+/* ---------- manual list ---------- */
+function setMRegion(r){ ui.mregion = r; save(K.ui, ui); renderManual(); }
+function renderManual(){
+  const m = data.manual || [];
+  document.getElementById('f-manual').innerHTML = ['all','UK','NL','ME'].map(r =>
+    `<button class="chip ${ui.mregion===r?'on':''}" onclick="setMRegion('${r}')">${r==='all'?'All':REGION_NAME[r]}<span class="n">${r==='all'?m.length:m.filter(x=>x.region===r).length}</span></button>`).join('');
+  const flagged = x => (x.new_on && daysSince(x.new_on) < 7) || (x.changed_on && daysSince(x.changed_on) < 3);
+  const regions = ui.mregion === 'all' ? ['ME','UK','NL'] : [ui.mregion];
+  document.getElementById('manual').innerHTML = regions.map(r => {
+    const rows = m.filter(x => x.region === r).sort((a,b) => (flagged(b) - flagged(a)) || a.company.localeCompare(b.company));
+    if(!rows.length) return '';
+    return `<div class="region-h">${REGION_NAME[r]}</div><div class="manual">` + rows.map(x => {
+      let d, hot = false;
+      if(x.new_links && x.new_links.length && x.new_on && daysSince(x.new_on) < 7){ d = `${x.new_links.length} new job link${x.new_links.length>1?'s':''} · ${x.new_on}`; hot = true; }
+      else if(x.changed_on && daysSince(x.changed_on) < 3){ d = `page changed ${x.changed_on}`; hot = true; }
+      else if(x.kind === 'page') d = x.error ? 'page could not be read, check by hand' : (x.readable ? 'page watched daily, no change' : 'page loads by script, check by hand');
+      else if(x.kind === 'linkedin') d = 'LinkedIn search';
+      else d = 'careers page';
+      const links = hot && x.new_links && x.new_links.length
+        ? '<ul>' + x.new_links.slice(0,4).map(l => `<li>${esc(l.title)}</li>`).join('') + '</ul>' : '';
+      return `<a class="mco ${hot?'flag':''}" href="${safeUrl(x.url)}" target="_blank" rel="noopener">
+        <div class="mco-t">${esc(x.company)} ↗</div><div class="mco-d ${hot?'hot':''}">${esc(d)}</div>${links}</a>`;
+    }).join('') + '</div>';
+  }).join('');
+  document.getElementById('m-manual').textContent = `${m.filter(flagged).length} flagged · ${m.length} companies`;
+}
+
+/* ---------- health ---------- */
+function renderHealth(){
+  const st = data.status || [];
+  const bad = st.filter(s => s.error);
+  document.getElementById('health').innerHTML =
+    `<p>${st.length - bad.length} of ${st.length} job feeds answered on the last check (${esc(data.generated_at || '')}).</p>` +
+    (bad.length ? '<div>' + bad.map(s => `<div class="bad">✕ ${esc(s.companies.join(', '))}: ${esc(s.error)}</div>`).join('') + '</div>' : '') +
+    '<div style="margin-top:8px">' + st.filter(s => !s.error).map(s =>
+      `<div>✓ ${esc(s.companies.join(', '))}: ${s.total} roles, ${s.in_region} in region, ${s.kept} kept</div>`).join('') + '</div>';
+}
+
+/* ---------- tracker ---------- */
+function renderTracker(){
+  const b = document.getElementById('tbody'), e = document.getElementById('t-empty');
+  if(!tracker.length){ b.innerHTML = ''; e.style.display = 'block'; return; }
+  e.style.display = 'none';
+  b.innerHTML = tracker.map((t,i) => `<tr>
+    <td>${esc(t.company)}</td>
+    <td>${t.url ? `<a href="${safeUrl(t.url)}" target="_blank" rel="noopener">${esc(t.role)}</a>` : esc(t.role)}</td>
+    <td class="hide-sm">${esc(t.location)}</td>
+    <td><select class="st st-${esc(t.status)}" onchange="setStatus(${i},this.value)">
+      ${['Watching','Applied','Interviewing','Offer','Rejected'].map(s => `<option ${s===t.status?'selected':''}>${s}</option>`).join('')}
+    </select></td>
+    <td class="hide-sm"><input value="${esc(t.notes)}" onchange="setNotes(${i},this.value)" placeholder="…"></td>
+    <td><button class="del" onclick="rm(${i})">remove</button></td>
+  </tr>`).join('');
+}
+function trackJob(id){
+  const j = data.jobs.find(x => x.id === id); if(!j) return;
+  if(tracker.some(t => t.url === j.url)) return;
+  tracker.push({company:j.company, role:j.title, location:j.location, url:j.url, status:'Watching', notes:''});
+  save(K.tracker, tracker); renderTracker(); render();
+}
+function addManual(){
+  const c = document.getElementById('a-co').value.trim(), r = document.getElementById('a-ro').value.trim(), l = document.getElementById('a-lo').value.trim();
+  if(!c && !r) return;
+  tracker.push({company:c, role:r, location:l, status:'Watching', notes:''});
+  ['a-co','a-ro','a-lo'].forEach(id => document.getElementById(id).value = '');
+  save(K.tracker, tracker); renderTracker(); render();
+}
+function setStatus(i,v){ tracker[i].status = v; save(K.tracker, tracker); renderTracker(); }
+function setNotes(i,v){ tracker[i].notes = v; save(K.tracker, tracker); }
+function rm(i){ tracker.splice(i,1); save(K.tracker, tracker); renderTracker(); render(); }
+
+function exportData(){
+  const blob = new Blob([JSON.stringify({tracker, seen:[...seen]}, null, 2)], {type:'application/json'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob); a.download = 'relocation-control-backup.json'; a.click();
+}
+function importData(ev){
+  const f = ev.target.files[0]; if(!f) return;
+  const r = new FileReader();
+  r.onload = () => {
+    try {
+      const d = JSON.parse(r.result);
+      if(Array.isArray(d.tracker)){ tracker = d.tracker; save(K.tracker, tracker); }
+      if(Array.isArray(d.seen)){ d.seen.forEach(x => seen.add(x)); save(K.seen, [...seen]); }
+      renderTracker(); render();
+      document.getElementById('b-jobs').innerHTML = '<div class="banner load">Backup imported.</div>';
+    } catch(e) {
+      document.getElementById('b-jobs').innerHTML = '<div class="banner err">That file could not be read as a backup.</div>';
+    }
+  };
+  r.readAsText(f);
+}
+
+/* ---------- init ---------- */
+tracker = load(K.tracker, []);
+ui = Object.assign(ui, load(K.ui, {}));
+seen = new Set(load(K.seen, []));
+renderTracker();
+
+fetch('data/jobs.json', {cache:'no-cache'})
+  .then(r => { if(!r.ok) throw new Error(r.status); return r.json(); })
+  .then(d => {
+    data = d;
+    prevVisitSeen = new Set(seen);
+    const firstVisit = seen.size === 0;
+    if(firstVisit) data.jobs.forEach(j => prevVisitSeen.add(j.id));  // don't flag everything on a first visit
+    const unseen = data.jobs.filter(isUnseen).length;
+    document.getElementById('st-new').textContent = unseen;
+    document.getElementById('st-jobs').textContent = data.jobs.length;
+    document.getElementById('st-cos').textContent = (data.counts && data.counts.companies) || '–';
+    document.getElementById('st-when').textContent = ago(data.generated_at);
+    const errs = (data.status || []).filter(s => s.error).length;
+    document.getElementById('b-jobs').innerHTML = errs
+      ? `<div class="banner err">${errs} job feed${errs>1?'s':''} didn't answer on the last check. See feed health at the bottom of the page.</div>` : '';
+    const cos = [...new Set(data.jobs.map(j => j.company))].sort();
+    document.getElementById('co').innerHTML = '<option value="">All companies</option>' + cos.map(c => `<option>${esc(c)}</option>`).join('');
+    render(); renderManual(); renderHealth();
+    data.jobs.forEach(j => seen.add(j.id));
+    save(K.seen, [...seen].slice(-3000));
+  })
+  .catch(() => {
+    document.getElementById('b-jobs').innerHTML = '<div class="banner err">Today\'s results haven\'t been generated yet. The first check runs a few minutes after setup, then every morning.</div>';
+    document.getElementById('tickets').innerHTML = '';
+  });
+</script>
+</body>
+</html>

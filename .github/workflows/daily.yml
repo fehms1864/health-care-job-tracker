@@ -1,0 +1,48 @@
+name: Daily job check
+
+on:
+  schedule:
+    - cron: '17 5 * * *'   # every day ~05:17 UTC (6am UK, 9am UAE)
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: ['scripts/fetch_jobs.py', 'scripts/rules.py', 'data/companies.json']
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: daily-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - name: Check every company's job board
+        run: python scripts/fetch_jobs.py
+      - name: Save results
+        run: |
+          git config user.name "job-tracker-bot"
+          git config user.email "job-tracker-bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Daily job check $(date -u +%F)"
+          git pull --rebase --autostash origin main || true
+          git push
+      - name: Open an issue listing today's new jobs (GitHub emails you)
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: |
+          body="$(python scripts/notify.py)"
+          if [ -n "$body" ]; then
+            count=$(python -c "import json;print(len(json.load(open('data/new_today.json'))))")
+            gh issue create --title "$count new job(s) — $(date -u +'%a %d %b %Y')" --body "$body"
+          fi
