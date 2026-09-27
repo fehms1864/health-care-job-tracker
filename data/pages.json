@@ -8,7 +8,7 @@
    "https://huma.us/careers/": "Let’s Build a Sustainable Future Together"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -40,16 +40,11 @@
    "https://lifeworks.wd3.myworkdayjobs.com/en-US/External": "View open positions"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
   "new_on": null
- },
- "https://congenica.com/careers/application/": {
-  "company": "Congenica",
-  "error": "HTTPError: 404 Client Error: Not Found for url: https://www.congenica.com/careers/application",
-  "checked": "2026-09-27T01:45:33+00:00"
  },
  "https://careers.elder.org": {
   "company": "Elder",
@@ -74,7 +69,7 @@
    "https://www.teamtailor.com/?utm_campaign=poweredby&utm_content=careers.elder.org&utm_medium=referral&utm_source=career-site": "Career site by Teamtailor"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -90,7 +85,7 @@
    "https://oviva.com/global/en/career/#using-ai-in-application": "Using AI in your Oviva application"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -108,16 +103,11 @@
    "https://www.zs.com/fraudulent-job-postings-fake-companies-and-scams": "Fraud Warning"
   },
   "readable": false,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
   "new_on": null
- },
- "https://attain.co.uk/people-careers/": {
-  "company": "Attain",
-  "error": "HTTPError: 404 Client Error: Not Found for url: https://attain.co.uk/people-careers/",
-  "checked": "2026-09-27T01:45:33+00:00"
  },
  "https://lek.com/careers/apply": {
   "company": "L.E.K. Consulting",
@@ -146,7 +136,7 @@
    "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-7/brand-3/xf-40310662594a/candidate/jobboard/vacancy/12": "Campus events"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -188,7 +178,7 @@
    "https://careers-phastar.icims.com/start": "Deutsch"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -300,7 +290,7 @@
    "mailto:?body=https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services/25282": "Share Assistant Director, Financial Due Diligence, Financial Services with a friend via e-mail"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -312,7 +302,7 @@
   "hash": "6e16a8d318a35bde96f9ca9bd6c31788c302b13a",
   "postings": {},
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -321,19 +311,19 @@
  "https://jobs.pwc.co.uk/experienced/uk/en/search-results": {
   "company": "PwC",
   "region": "UK",
-  "hash": "8db366097bf3dd0812ec3f8c1638b955a1ce4b81",
+  "hash": "29e39e46c65a189da7e70949d6f2c53328a096a2",
   "postings": {},
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
-  "changed_on": null,
+  "changed_on": "2026-09-27",
   "new_links": {},
   "new_on": null
  },
  "https://careers.kainos.com": {
   "company": "Kainos",
   "region": "UK",
-  "hash": "0a9bf64619ed681ee9dbfd2ab9a3899f97144802",
+  "hash": "5f6fa68c0babae8b5b793288ec8e02edfa9e1795",
   "postings": {
    "https://careers.kainos.com/search-results": "Search results",
    "https://careers.kainos.com/gb/en/jointalentcommunity": "Sign up",
@@ -341,9 +331,9 @@
    "https://careers.kainos.com/gb/en/cookiesettings": "Career Site Cookie Settings"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
-  "changed_on": null,
+  "changed_on": "2026-09-27",
   "new_links": {},
   "new_on": null
  },
@@ -365,7 +355,7 @@
    "https://revolut.com/blog/post/revolut-career-journeys-5-minutes-with-boon-pek/": "Talent programmes · PeopleRevolut Career Journeys: 5 minutes with Head of Engineering, Boon Pek21 April 2026"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -386,7 +376,7 @@
    "https://careers.mail.salesforce.com/wtlv2?cid=7017y00001QEGdUAAX&utm_sourc[%E2%80%A6]ersite&utm_campaign=global_tc_globallg&utm_content=link&_ga=2.44408548.1330779391.1752545366-1583299444.1752003170": "Join our Talent Community"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -436,7 +426,7 @@
    "https://careers.servicenow.com/sitemap/": "Sitemap"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -451,7 +441,7 @@
    "https://snyk.io/careers/": "Careers Join Snyk today"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -511,7 +501,7 @@
    "https://atlassian.com/legal/careers-privacy-notice#additional-disclosures": "Limit the Use of My Sensitive Personal Information"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -531,7 +521,7 @@
    "https://careers.bupa.co.uk/sitemap.xml": "Sitemap"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -571,7 +561,7 @@
    "https://hcahealthcare.co.uk/careers/search-and-apply#cookie-settings": "Cookie settings"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -600,7 +590,7 @@
    "https://jobs.siemens-healthineers.com/en_US/searchjobs/CookieNotice": "Cookie notice"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -666,7 +656,99 @@
    "https://careers.castoredc.com/wp-content/uploads/2026/08/Castor-Assessment-of-GDPR-and-HIPAA-Compliance-v2_0.pdf": "GDPR & HIPAA Compliance"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
+  "error": null,
+  "changed_on": null,
+  "new_links": {},
+  "new_on": null
+ },
+ "https://job-boards.eu.greenhouse.io/openup": {
+  "company": "OpenUp",
+  "region": "NL",
+  "hash": "0eb075a456009702a86e8076f0997611ee0c148b",
+  "postings": {
+   "https://job-boards.eu.greenhouse.io/employees/": "For Employees",
+   "https://job-boards.eu.greenhouse.io/mental-health-coaching/": "Mental Health Coaching",
+   "https://job-boards.eu.greenhouse.io/physical-health-coaching/": "Lifestyle Coaching",
+   "https://job-boards.eu.greenhouse.io/financial-coaching/": "Financial Coaching",
+   "https://job-boards.eu.greenhouse.io/workshops-webinars/": "Workshops & Webinars",
+   "https://job-boards.eu.greenhouse.io/self-directed-learning/#wellbeing-tracker": "Personalised check-ins Tracking and insights into personal well-being",
+   "https://job-boards.eu.greenhouse.io/self-directed-learning/": "Self Directed Learning",
+   "https://job-boards.eu.greenhouse.io/managers-leaders/": "For Managers & Leaders",
+   "https://job-boards.eu.greenhouse.io/managers-leaders/#coaching": "Leadership Coaching Private coaching to grow leadership and resilience",
+   "https://job-boards.eu.greenhouse.io/managers-leaders/#peer": "Peer-to-Peer Learning Facilitated peer groups for shared leadership insights",
+   "https://job-boards.eu.greenhouse.io/managers-leaders/#training": "Mental Health Training Tools and resources to support team well-being",
+   "https://job-boards.eu.greenhouse.io/hr-organisations/": "For HR & Organisations",
+   "https://job-boards.eu.greenhouse.io/hr-organisations/#onboarding": "Onboarding & Activation Implementation expertise and engagement support",
+   "https://job-boards.eu.greenhouse.io/hr-organisations/#reporting": "Company Reporting & Insights Real-time dashboards to track well-being and usage",
+   "https://job-boards.eu.greenhouse.io/hr-organisations/#compliance": "Compliance Meet your duty of care, go beyond EAPs",
+   "https://job-boards.eu.greenhouse.io/healthcare/": "Healthcare Build resilience and reduce absenteeism in overstretched teams",
+   "https://job-boards.eu.greenhouse.io/retail/": "Retail & E-Commerce Support frontline and office teams through peaks and pressure",
+   "https://job-boards.eu.greenhouse.io/construction/": "Construction & Engineering Keep teams strong where physical demands meet tight deadlines",
+   "https://job-boards.eu.greenhouse.io/professional-services/": "Professional Services Prevent burnout in high performers facing ongoing pressure",
+   "https://job-boards.eu.greenhouse.io/software-it/": "Software & IT Protect focus and mental well-being in always-on work",
+   "https://job-boards.eu.greenhouse.io/education/": "Education Give teachers space to recharge and stay mentally strong",
+   "https://job-boards.eu.greenhouse.io/absenteeism/": "Reduce Absenteeism",
+   "https://job-boards.eu.greenhouse.io/manager/": "Grow Leadership Skills Strengthen leaders, grow resilience",
+   "https://job-boards.eu.greenhouse.io/employee-retention/": "Attract & Retain Talent Keep top talent engaged and growing",
+   "https://job-boards.eu.greenhouse.io/eap-solution/": "Go Beyond EAPs",
+   "https://job-boards.eu.greenhouse.io/employee-wellbeing-roi/": "Drive Performance & ROI",
+   "https://job-boards.eu.greenhouse.io/people-analytics/": "People Analytics Get insights and support for HR",
+   "https://job-boards.eu.greenhouse.io/case-studies/": "Case studies",
+   "https://job-boards.eu.greenhouse.io/team/": "Our team",
+   "https://job-boards.eu.greenhouse.io/mission/": "Mission",
+   "https://job-boards.eu.greenhouse.io/resources/": "All resources",
+   "https://job-boards.eu.greenhouse.io/webinars/": "Webinars",
+   "https://job-boards.eu.greenhouse.io/podcasts/": "Podcast",
+   "https://job-boards.eu.greenhouse.io/resources/mental-health/": "All Mental Health",
+   "https://job-boards.eu.greenhouse.io/resources/therapy-counseling/": "Therapy & Counseling",
+   "https://job-boards.eu.greenhouse.io/resources/mental-health-awareness-education/": "Awareness & Education",
+   "https://job-boards.eu.greenhouse.io/resources/resilience/": "Resilience",
+   "https://job-boards.eu.greenhouse.io/resources/financial-wellbeing/": "Financial Well-Being",
+   "https://job-boards.eu.greenhouse.io/resources/workplace-well-being/": "All Workplace Well-Being",
+   "https://job-boards.eu.greenhouse.io/resources/employee-well-being/": "Employee Well-being",
+   "https://job-boards.eu.greenhouse.io/resources/leadership-management/": "Leadership & Management",
+   "https://job-boards.eu.greenhouse.io/resources/workplace-health-safety-absenteeism/": "Health, Safety & Absenteeism",
+   "https://job-boards.eu.greenhouse.io/resources/personal-development/": "All Personal Development",
+   "https://job-boards.eu.greenhouse.io/resources/finding-purpose/": "Finding Purpose",
+   "https://job-boards.eu.greenhouse.io/resources/communication-setting-boundaries/": "Communication & Boundaries",
+   "https://job-boards.eu.greenhouse.io/resources/focus-productivity/": "Focus & Productivity",
+   "https://job-boards.eu.greenhouse.io/resources/self-confidence-self-esteem/": "Self-Confidence & Self-Esteem",
+   "https://job-boards.eu.greenhouse.io/resources/emotional-well-being/": "All Emotional Well-Being",
+   "https://job-boards.eu.greenhouse.io/resources/stress-anxiety/": "Stress & Anxiety",
+   "https://job-boards.eu.greenhouse.io/resources/coping/": "Coping",
+   "https://job-boards.eu.greenhouse.io/resources/emotional-intelligence-eq/": "Emotional Intelligence (EQ)",
+   "https://job-boards.eu.greenhouse.io/resources/social-well-being/": "All Social Well-Being",
+   "https://job-boards.eu.greenhouse.io/resources/family-dynamics-parenting/": "Family Dynamics & Parenting",
+   "https://job-boards.eu.greenhouse.io/resources/romantic-relationships/": "Romantic Relationships",
+   "https://job-boards.eu.greenhouse.io/resources/friendship-social-support/": "Friendship & Social Support",
+   "https://job-boards.eu.greenhouse.io/resources/self-care-mindfulness/": "All Self-Care & Mindfulness",
+   "https://job-boards.eu.greenhouse.io/resources/self-care-routines-rituals/": "Self-Care Routines & Rituals",
+   "https://job-boards.eu.greenhouse.io/resources/mindfulness-breathing/": "Mindfulness & Breathing",
+   "https://job-boards.eu.greenhouse.io/resources/social-media-mental-well-being/": "Social Media & Well-being",
+   "https://job-boards.eu.greenhouse.io/resources/physical-health/": "All Physical Health",
+   "https://job-boards.eu.greenhouse.io/resources/nutrition/": "Nutrition",
+   "https://job-boards.eu.greenhouse.io/resources/hormonal-reproductive-health/": "Hormonal Health",
+   "https://job-boards.eu.greenhouse.io/resources/exercise-energy/": "Exercise & Energy",
+   "https://job-boards.eu.greenhouse.io/resources/addiction-recovery/": "Addiction & Recovery",
+   "https://openup.com/job-board/": "job board",
+   "https://job-boards.eu.greenhouse.io/demo-request/": "Sales Support",
+   "https://job-boards.eu.greenhouse.io/openup#department-no-department": "Join us",
+   "https://job-boards.eu.greenhouse.io/openup#department-openup-psychologists": "Careers in this team",
+   "https://job-boards.eu.greenhouse.io/openup#department-bnlx-sales": "Careers in this team",
+   "https://job-boards.eu.greenhouse.io/openup#job-board": "Careers in this team",
+   "mailto:careers@openup.com": "careers@openup.com",
+   "https://job-boards.eu.greenhouse.io/courses/": "Courses",
+   "https://job-boards.eu.greenhouse.io/spaces/": "Webinars",
+   "https://job-boards.eu.greenhouse.io/press/": "Newsroom",
+   "https://job-boards.eu.greenhouse.io/psychologist-support/": "Psychologist Support",
+   "https://job-boards.eu.greenhouse.io/helpdesk-support/": "Helpdesk",
+   "https://job-boards.eu.greenhouse.io/terms-of-use/": "Terms of Use",
+   "https://job-boards.eu.greenhouse.io/privacy-policy-and-imprint/": "Privacy Policy",
+   "https://job-boards.eu.greenhouse.io/cookie-policy-en/": "Cookie policy"
+  },
+  "readable": true,
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -693,7 +775,7 @@
    "https://careers.danone.com/content/dam/corp/global/hr/global/My%20Accounts%20iCIMS.pdf": "My account"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -702,16 +784,16 @@
  "https://explore.jobs.netflix.net/careers": {
   "company": "Netflix",
   "region": "NL",
-  "hash": "60053fe86110e35cc61f067d6338793400d055d6",
+  "hash": "7f2314c8df837d561e16ef6b6884b6c7766e6735",
   "postings": {
    "https://apply.netflixhouse.com/careers": "Netflix House",
    "https://jobs.netflix.com/candidate-privacy": "Privacy",
    "https://jobs.netflix.com/dnssi": "Do Not Sell Or Share My Personal Information"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
-  "changed_on": null,
+  "changed_on": "2026-09-27",
   "new_links": {},
   "new_on": null
  },
@@ -742,7 +824,7 @@
    "https://optiver.com/join-us/jobs/human-resources-and-recruiting/sydney/technical-recruiter/": "Technical Recruiter"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -771,7 +853,7 @@
    "https://www.teamtailor.com/?utm_campaign=poweredby&utm_content=jobs.sendcloud.com&utm_medium=referral&utm_source=career-site": "Career site by Teamtailor"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -789,7 +871,7 @@
    "https://tomtom.com/careers/diversity-and-inclusion/": "Diversity and inclusion"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -835,15 +917,17 @@
    "https://careers.wolterskluwer.com/en/take-the-next-step-in-your-job-search": "Take The Next Step",
    "https://wk.wd3.myworkdayjobs.com/en-US/External/introduceYourself": "Join Our Talent Community",
    "https://careers.wolterskluwer.com/en/recruitment-fraud-alert": "Recruiting Fraud - Please Stay Alert",
-   "https://careers.wolterskluwer.com/cdn-cgi/l/email-protection#f0b8a2b5888495829e919ca38580809f8284dda5a3b0879f9c849582839b9c85879582de939f9d": "Email Us",
+   "https://careers.wolterskluwer.com/cdn-cgi/l/email-protection#4c041e093438293e222d201f393c3c233e3861191f0c3b232038293e3f2720393b293e622f2321": "Email Us",
    "https://careers.wolterskluwer.com/en/careers-privacy-cookies": "Careers Privacy & Cookie Notice"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
-  "new_links": {},
-  "new_on": null
+  "new_links": {
+   "https://careers.wolterskluwer.com/cdn-cgi/l/email-protection#4c041e093438293e222d201f393c3c233e3861191f0c3b232038293e3f2720393b293e622f2321": "Email Us"
+  },
+  "new_on": "2026-09-27"
  },
  "https://komwerkenbijey.nl/vacatures": {
   "company": "EY Nederland",
@@ -868,7 +952,7 @@
    "https://careers.ey.com/ey/job/Amsterdam-Senior-OT-Consultant-1083-HP/1438387633/": "Senior OT ConsultantConsulting,Amsterdam,40 uurProfessionalVaste baanProfessionalPermanent job"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -884,7 +968,7 @@
    "mailto:careers@vintura.com": "careers@vintura.com"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -896,16 +980,11 @@
   "hash": "f1a79ffc00df9d20a5a491c80a9f1b212ef57788",
   "postings": {},
   "readable": false,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
   "new_on": null
- },
- "https://nabtahealth.com/about-nabta/careers/": {
-  "company": "Nabta Health",
-  "error": "HTTPError: 404 Client Error: Not Found for url: https://nabtahealth.com/about-nabta/careers/",
-  "checked": "2026-09-27T01:45:33+00:00"
  },
  "https://altibbi.zenats.com/": {
   "company": "Altibbi",
@@ -913,16 +992,11 @@
   "hash": "5853c0697ec80ec8fa3372c51a735a2ab3a4c9ab",
   "postings": {},
   "readable": false,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
   "new_on": null
- },
- "https://careers.lean.sa/jobs": {
-  "company": "Lean Business Services",
-  "error": "HTTPError: 403 Client Error: Forbidden for url: https://careers.lean.sa/jobs",
-  "checked": "2026-09-27T01:45:33+00:00"
  },
  "https://careers-m42.icims.com/jobs/search?pr=0&in_iframe=1": {
   "company": "M42",
@@ -930,16 +1004,11 @@
   "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
   "postings": {},
   "readable": false,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
   "new_on": null
- },
- "https://yourpurehealth.com/careers/": {
-  "company": "PureHealth",
-  "error": "HTTPError: 403 Client Error: Forbidden for url: https://yourpurehealth.com/careers/",
-  "checked": "2026-09-27T01:45:33+00:00"
  },
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
@@ -957,7 +1026,7 @@
    "https://careers.bupa.com.sa/en/mymailbox-j/": "Mailbox",
    "https://careers.bupa.com.sa/en/my-applications/": "My Applications",
    "https://careers.bupa.com.sa/en/interviews-listing-j/": "Interview Invites",
-   "https://careers.bupa.com.sa/en/account-js/?token=GZVS2Q": "My Account",
+   "https://careers.bupa.com.sa/en/account-js/?token=YI6WQ2": "My Account",
    "https://careers.bupa.com.sa/en/job-search-results/": "Search Jobs",
    "https://careers.bupa.com.sa/en/job-search-advanced/": "Advanced Search",
    "https://careers.bupa.com.sa/en/mysearches-j/": "Saved Searches",
@@ -967,10 +1036,12 @@
    "https://ownmycareer.com/bupa/": "Free Resources"
   },
   "readable": true,
-  "checked": "2026-09-27T01:45:33+00:00",
+  "checked": "2026-09-27T01:50:54+00:00",
   "error": null,
   "changed_on": null,
-  "new_links": {},
-  "new_on": null
+  "new_links": {
+   "https://careers.bupa.com.sa/en/account-js/?token=YI6WQ2": "My Account"
+  },
+  "new_on": "2026-09-27"
  }
 }
