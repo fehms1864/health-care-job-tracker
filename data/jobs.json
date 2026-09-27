@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-27T01:56:13+00:00",
+ "generated_at": "2026-09-27T02:01:33+00:00",
  "baseline_date": "2026-09-27",
- "rules_version": 3,
+ "rules_version": 4,
  "jobs": [
   {
    "id": "0f340ca9d80af9",
@@ -1896,13 +1896,13 @@
    "lang_checked": true
   },
   {
-   "id": "5095cf2978ef5d",
+   "id": "9fd0a0cc6730c6",
    "company": "Intercom",
    "region": "UK",
    "title": "Senior Customer Success Manager",
-   "location": "London, England | Dublin, Ireland Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/intercom/jobs/7600712",
-   "posted": "2026-02-09T21:42:37-05:00",
+   "location": "Dublin, Ireland | Dublin, Ireland Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/7600671",
+   "posted": "2026-02-09T21:42:36-05:00",
    "first_seen": "2026-09-27",
    "score": 28,
    "hits": [
@@ -1914,13 +1914,13 @@
    "lang_checked": true
   },
   {
-   "id": "9fd0a0cc6730c6",
+   "id": "5095cf2978ef5d",
    "company": "Intercom",
    "region": "UK",
    "title": "Senior Customer Success Manager",
-   "location": "Dublin, Ireland | Dublin, Ireland Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/intercom/jobs/7600671",
-   "posted": "2026-02-09T21:42:36-05:00",
+   "location": "London, England | Dublin, Ireland Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/7600712",
+   "posted": "2026-02-09T21:42:37-05:00",
    "first_seen": "2026-09-27",
    "score": 28,
    "hits": [
@@ -2048,24 +2048,6 @@
     "strategy",
     "operations",
     "product manager"
-   ],
-   "lang_checked": true
-  },
-  {
-   "id": "e9e9384794a679",
-   "company": "Bayer Middle East",
-   "region": "ME",
-   "title": "National Account Dir Health Systems",
-   "location": "Chantilly,Virginia,United States / Salt Lake City,Utah,United States / Layton,Utah,United States / Clearfield,Utah,United States / Sugarland,Texas,United States",
-   "url": "https://talent.bayer.com/careers/job/562949978475265",
-   "posted": null,
-   "first_seen": "2026-09-27",
-   "score": 28,
-   "hits": [
-    "healthcare",
-    "health",
-    "hospital",
-    "health system"
    ],
    "lang_checked": true
   },
@@ -4254,13 +4236,13 @@
    "lang_checked": true
   },
   {
-   "id": "81c39b525e545a",
+   "id": "e6a2d181965e1e",
    "company": "Intercom",
    "region": "UK",
    "title": "Staff AI Product Manager",
-   "location": "Dublin, Ireland | Dublin, Ireland Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/intercom/jobs/7377200",
-   "posted": "2025-11-20T08:26:34-05:00",
+   "location": "London, England | Dublin, Ireland Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/7464291",
+   "posted": "2025-12-12T04:36:29-05:00",
    "first_seen": "2026-09-27",
    "score": 20,
    "hits": [
@@ -4272,13 +4254,13 @@
    "lang_checked": true
   },
   {
-   "id": "e6a2d181965e1e",
+   "id": "81c39b525e545a",
    "company": "Intercom",
    "region": "UK",
    "title": "Staff AI Product Manager",
-   "location": "London, England | Dublin, Ireland Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/intercom/jobs/7464291",
-   "posted": "2025-12-12T04:36:29-05:00",
+   "location": "Dublin, Ireland | Dublin, Ireland Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/7377200",
+   "posted": "2025-11-20T08:26:34-05:00",
    "first_seen": "2026-09-27",
    "score": 20,
    "hits": [
@@ -4396,13 +4378,13 @@
    "lang_checked": true
   },
   {
-   "id": "bc72adcd6fb03c",
+   "id": "7d1d768d8a3c0a",
    "company": "Stripe",
    "region": "UK",
    "title": "Customer Success Manager",
    "location": "London | United Kingdom Locations",
-   "url": "https://stripe.com/jobs/search?gh_jid=8170772",
-   "posted": "2026-09-03T10:25:33-04:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8009536",
+   "posted": "2026-06-16T04:23:09-04:00",
    "first_seen": "2026-09-27",
    "score": 20,
    "hits": [
@@ -4414,13 +4396,13 @@
    "lang_checked": true
   },
   {
-   "id": "7d1d768d8a3c0a",
+   "id": "bc72adcd6fb03c",
    "company": "Stripe",
    "region": "UK",
    "title": "Customer Success Manager",
    "location": "London | United Kingdom Locations",
-   "url": "https://stripe.com/jobs/search?gh_jid=8009536",
-   "posted": "2026-06-16T04:23:09-04:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8170772",
+   "posted": "2026-09-03T10:25:33-04:00",
    "first_seen": "2026-09-27",
    "score": 20,
    "hits": [
@@ -6343,13 +6325,13 @@
    "lang_checked": true
   },
   {
-   "id": "4d9ef2b33e8fce",
+   "id": "ef16c34318f6df",
    "company": "Deliveroo",
    "region": "UK",
    "title": "Franchisee Manager, Enterprise QSR",
-   "location": "Manchester, United Kingdom | Manchester, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206391",
-   "posted": "2026-09-22T13:06:53-04:00",
+   "location": "London, United Kingdom - Deliveroo | London, United Kingdom - Deliveroo",
+   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206421",
+   "posted": "2026-09-18T09:47:44-04:00",
    "first_seen": "2026-09-27",
    "score": 10,
    "hits": [
@@ -6375,13 +6357,13 @@
    "lang_checked": true
   },
   {
-   "id": "ef16c34318f6df",
+   "id": "4d9ef2b33e8fce",
    "company": "Deliveroo",
    "region": "UK",
    "title": "Franchisee Manager, Enterprise QSR",
-   "location": "London, United Kingdom - Deliveroo | London, United Kingdom - Deliveroo",
-   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206421",
-   "posted": "2026-09-18T09:47:44-04:00",
+   "location": "Manchester, United Kingdom | Manchester, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206391",
+   "posted": "2026-09-22T13:06:53-04:00",
    "first_seen": "2026-09-27",
    "score": 10,
    "hits": [
@@ -8115,19 +8097,6 @@
    "lang_checked": true
   },
   {
-   "id": "cc79a4f82bba3e",
-   "company": "Datadog",
-   "region": "UK",
-   "title": "Principal GSI Partner Manager - Accenture (EMEA)",
-   "location": "United Kingdom, Remote | Amsterdam Amsterdam, Noord-Holland, Netherlands / London London, Greater London, England, United Kingdom / Paris Paris, Paris, France /",
-   "url": "https://careers.datadoghq.com/detail/8203733/?gh_jid=8203733",
-   "posted": "2026-09-18T05:55:33-04:00",
-   "first_seen": "2026-09-27",
-   "score": 2,
-   "hits": [],
-   "lang_checked": true
-  },
-  {
    "id": "a8be7cd2eb02f7",
    "company": "Datadog",
    "region": "UK",
@@ -8135,6 +8104,19 @@
    "location": "London, United Kingdom | Amsterdam Amsterdam, Noord-Holland, Netherlands / London London, Greater London, England, United Kingdom / Paris Paris, Paris, France /",
    "url": "https://careers.datadoghq.com/detail/8219989/?gh_jid=8219989",
    "posted": "2026-09-21T04:54:47-04:00",
+   "first_seen": "2026-09-27",
+   "score": 2,
+   "hits": [],
+   "lang_checked": true
+  },
+  {
+   "id": "cc79a4f82bba3e",
+   "company": "Datadog",
+   "region": "UK",
+   "title": "Principal GSI Partner Manager - Accenture (EMEA)",
+   "location": "United Kingdom, Remote | Amsterdam Amsterdam, Noord-Holland, Netherlands / London London, Greater London, England, United Kingdom / Paris Paris, Paris, France /",
+   "url": "https://careers.datadoghq.com/detail/8203733/?gh_jid=8203733",
+   "posted": "2026-09-18T05:55:33-04:00",
    "first_seen": "2026-09-27",
    "score": 2,
    "hits": [],
@@ -9197,7 +9179,7 @@
    "new_links": [
     {
      "title": "Email Us",
-     "url": "https://careers.wolterskluwer.com/cdn-cgi/l/email-protection#bbf3e9fec3cfdec9d5dad7e8cecbcbd4c9cf96eee8fbccd4d7cfdec9c8d0d7ceccdec995d8d4d6"
+     "url": "https://careers.wolterskluwer.com/cdn-cgi/l/email-protection#1b53495e636f7e69757a77486e6b6b74696f364e485b6c74776f7e696870776e6c7e6935787476"
     }
    ],
    "new_on": "2026-09-27",
@@ -9398,7 +9380,7 @@
    "new_links": [
     {
      "title": "My Account",
-     "url": "https://careers.bupa.com.sa/en/account-js/?token=2UTMFJ"
+     "url": "https://careers.bupa.com.sa/en/account-js/?token=GUV6N8"
     }
    ],
    "new_on": "2026-09-27",
@@ -9530,7 +9512,7 @@
    "error": null,
    "total": 616,
    "in_region": 2,
-   "kept": 1
+   "kept": 0
   },
   {
    "companies": [
@@ -10293,7 +10275,7 @@
  "counts": {
   "companies": 215,
   "feeds": 82,
-  "jobs": 514,
+  "jobs": 513,
   "new_today": 0,
   "pages": 35
  }
