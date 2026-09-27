@@ -2134,10 +2134,10 @@
   "category": "Middle East",
   "core": false,
   "source": {
-   "type": "workable",
-   "token": "vezeeta"
+   "type": "page",
+   "url": "https://vezeetacareers.zenats.com/en/careers_page"
   },
-  "careers_url": "https://apply.workable.com/vezeeta/",
+  "careers_url": "https://vezeetacareers.zenats.com/en/careers_page",
   "note": ""
  },
  {

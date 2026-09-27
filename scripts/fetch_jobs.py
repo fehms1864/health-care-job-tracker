@@ -209,29 +209,42 @@ def recruitee(token):
 
 
 def _walk_facets(facets, want):
-    """Find country facet values in a Workday facet tree. Returns {facetParameter: [(id, region)]}."""
-    found = {}
+    """Find location facet values in a Workday facet tree that fall in the wanted regions.
+    Returns {facetParameter: [(id, region)]}, preferring country-level facets."""
+    country, place = {}, {}
     for f in facets or []:
         param = f.get('facetParameter', '')
         for v in f.get('values') or []:
             if v.get('facetParameter'):  # nested group
-                for k, vals in _walk_facets([v], want).items():
-                    found.setdefault(k, []).extend(vals)
+                sub_c, sub_p = _walk_facets_raw([v], want)
+                for k, vals in sub_c.items():
+                    country.setdefault(k, []).extend(vals)
+                for k, vals in sub_p.items():
+                    place.setdefault(k, []).extend(vals)
                 continue
-            if 'country' not in param.lower() and 'country' not in (f.get('descriptor') or '').lower():
+            label = (param + ' ' + (f.get('descriptor') or '')).lower()
+            if 'country' not in label and 'location' not in label:
                 continue
-            name = (v.get('descriptor') or '').lower()
-            for region in want:
-                if any(name == c or name.startswith(c + ' ') or name.startswith(c + ',') for c in rules.REGION_COUNTRIES[region]):
-                    found.setdefault(param, []).append((v.get('id'), region))
-    return found
+            hit = rules.regions_in(v.get('descriptor') or '') & set(want)
+            if len(hit) == 1:
+                (country if 'country' in label else place).setdefault(param, []).append((v.get('id'), hit.pop()))
+    return country, place
+
+
+def _walk_facets_raw(facets, want):
+    return _walk_facets(facets, want)
+
+
+def _pick_facets(facets, want):
+    country, place = _walk_facets(facets, want)
+    return country or place
 
 
 def workday(tenant, wd, site, regions):
     base = f'https://{tenant}.{wd}.myworkdayjobs.com'
     api = f'{base}/wday/cxs/{tenant}/{site}'
     first = post(f'{api}/jobs', {'appliedFacets': {}, 'limit': 20, 'offset': 0, 'searchText': ''}).json()
-    facets = _walk_facets(first.get('facets'), regions)
+    facets = _pick_facets(first.get('facets'), regions)
     queries = []
     for param, vals in facets.items():
         for vid, region in vals:
@@ -278,20 +291,14 @@ def eightfold(host, domain, regions):
             out.append(job(p.get('name'), locs, p.get('canonicalPositionUrl') or f'https://{host}/careers/job/{pid}',
                            pid, None, None, None, detail))
 
-    for region in regions:
-        for country in rules.REGION_COUNTRIES[region]:
-            d = get(f'https://{host}/api/apply/v2/jobs?domain={domain}&location={quote(country.title())}'
-                    f'&start=0&num=100&sort_by=relevance').json()
-            add(d.get('positions') or [])
-    if not out:  # location search unsupported: page through everything, classify by location text
-        start = 0
-        while start < 3000:
-            d = get(f'https://{host}/api/apply/v2/jobs?domain={domain}&start={start}&num=100').json()
-            ps = d.get('positions') or []
-            add(ps)
-            start += 100
-            if not ps or start >= (d.get('count') or 0):
-                break
+    start = 0  # the location filter isn't reliable, so read every posting and classify by location text
+    while start < 4000:
+        d = get(f'https://{host}/api/apply/v2/jobs?domain={domain}&start={start}&num=100').json()
+        ps = d.get('positions') or []
+        add(ps)
+        start += len(ps) or 100
+        if not ps or start >= (d.get('count') or 0):
+            break
     return out
 
 

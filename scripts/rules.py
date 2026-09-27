@@ -2,7 +2,7 @@
 import re
 
 # Bump this whenever you change the rules below, so every job is re-checked and re-scored.
-RULES_VERSION = 2
+RULES_VERSION = 3
 
 # ---------- Locations ----------
 UK_WORDS = ['united kingdom', 'england', 'scotland', 'wales', 'northern ireland', 'great britain', 'london',
@@ -30,17 +30,13 @@ REGION_COUNTRIES = {  # names used to pick Workday / Eightfold country facets
 }
 
 
+_RX = {r: re.compile(r'\b(' + '|'.join(re.escape(w) for w in words) + r')\b|' + '|'.join(codes), re.I)
+       for r, words, codes in (('UK', UK_WORDS, UK_CODES), ('NL', NL_WORDS, NL_CODES), ('ME', ME_WORDS, ME_CODES))}
+
+
 def regions_in(text):
-    """Every region (UK / NL / ME) that a location string mentions."""
-    t = (text or '').lower()
-    found = set()
-    if any(w in t for w in UK_WORDS) or any(re.search(p, t) for p in UK_CODES):
-        found.add('UK')
-    if any(w in t for w in NL_WORDS) or any(re.search(p, t) for p in NL_CODES):
-        found.add('NL')
-    if any(w in t for w in ME_WORDS) or any(re.search(p, t) for p in ME_CODES):
-        found.add('ME')
-    return found
+    """Every region (UK / NL / ME) that a location string mentions, matched on whole words."""
+    return {r for r, rx in _RX.items() if rx.search(text or '')}
 
 
 # ---------- Title exclusions ----------
@@ -73,7 +69,7 @@ EXCLUDE = {
                   'managing director', 'cto', 'ceo', 'coo', 'general manager', 'country manager'],
     'level': ['intern', 'internship', 'werkstudent', 'working student', 'stage', 'stagiair', 'apprentice',
               'apprenticeship', 'graduate scheme', 'student'],
-    'other': ['sales', 'key account', 'account manager', 'business development', 'sales representative', 'account executive', 'sales executive', 'business development representative',
+    'other': ['translator', 'translators', 'linguist', 'interpreter', 'freelance', 'sales', 'key account', 'account manager', 'business development', 'sales representative', 'account executive', 'sales executive', 'business development representative',
               'sdr', 'bdr', 'recruiter', 'talent acquisition', 'warehouse', 'driver', 'courier', 'chef', 'cook',
               'cleaner', 'receptionist', 'teacher', 'designer', 'copywriter', 'legal counsel', 'lawyer',
               'solicitor', 'paralegal', 'field sales', 'medical representative', 'sales rep', 'picker',
@@ -119,7 +115,7 @@ def language_block(title, text):
         return 'Dutch required (posting in Dutch)'
     if len(ARABIC_CHARS.findall(t)) > 0.3 * len(t.replace(' ', '')) and len(t) > 60:
         return 'Arabic required (posting in Arabic)'
-    if re.search(r'\b(dutch|arabic)[- ]speaking\b', title or '', re.I) or re.search(r'\((nl|dutch|arabic)\)', title or '', re.I):
+    if LANG.search(title or '') or re.search(r'\((nl)\)', title or '', re.I):
         return ('Dutch' if re.search('dutch|nl', title, re.I) else 'Arabic') + ' required (title)'
     # look at the words around each mention of Dutch / Arabic
     for m in LANG.finditer(t):
