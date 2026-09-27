@@ -87,9 +87,20 @@ def text_of(h):
     return re.sub(r'[ \t\r\f\v]+', ' ', re.sub(r'\n\s*\n+', '\n', ''.join(p.out))).strip()
 
 
+def tidy_location(loc):
+    parts = [p.strip(' ,') for p in re.split(r'\s*[/|]\s*', loc or '')]
+    out = []
+    for p in parts:
+        if p and not any(p.lower() == o.lower() or p.lower() in o.lower() for o in out):
+            out = [o for o in out if o.lower() not in p.lower()] + [p]
+    return ' / '.join(out)
+
+
 def job(title, location, url, jid, desc=None, posted=None, region=None, detail=None):
     """Normalised job. `detail` is a zero-arg callable that returns the description when needed."""
-    return {'title': (title or '').strip(), 'location': (location or '').strip(), 'url': url, 'jid': str(jid),
+    if isinstance(posted, str):
+        posted = re.sub(r'^posted\s+', '', posted.strip(), flags=re.I)
+    return {'title': (title or '').strip(), 'location': tidy_location(location), 'url': url, 'jid': str(jid),
             'desc': desc, 'posted': posted, 'region': region, '_detail': detail}
 
 
@@ -325,7 +336,11 @@ class _Links(HTMLParser):
 
 JOBLINK = re.compile(r'(job|jobs|vacanc|vacature|career|position|opening|posting|requisition|/j/|/o/)', re.I)
 NAV = re.compile(r'^(apply|apply now|read more|learn more|view|view job|see more|details|careers?|jobs?|'
-                 r'search|home|about|contact|login|sign in|next|previous|back|all jobs|open positions|\d+)$', re.I)
+                 r'search|home|about|contact|login|sign in|next|previous|back|all jobs|open positions|\d+)$|'
+                 r'\b(account|log ?in|sign ?(in|up)|register|privacy|cookie|terms|faq|blog|news|press|about us|'
+                 r'contact|linkedin|twitter|facebook|instagram|youtube|job alert|talent community|policy|help|'
+                 r'language|english|العربية|nederlands|home|search jobs|our (people|culture|values)|life at|'
+                 r'benefits|students|graduates|early careers|events|locations?)\b', re.I)
 
 
 def page_watch(url, prev):
@@ -334,7 +349,7 @@ def page_watch(url, prev):
     p.feed(r.text)
     postings = {}
     for t, href in p.links:
-        if not href or not t or len(t) < 6 or len(t) > 140 or NAV.match(t):
+        if not href or not t or len(t) < 8 or len(t) > 140 or len(t.split()) < 2 or NAV.search(t):
             continue
         full = urljoin(url, href)
         if JOBLINK.search(full) and full.rstrip('/') != url.rstrip('/'):

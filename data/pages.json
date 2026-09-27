@@ -924,10 +924,8 @@
   "checked": "2026-09-27T02:01:33+00:00",
   "error": null,
   "changed_on": null,
-  "new_links": {
-   "https://careers.wolterskluwer.com/cdn-cgi/l/email-protection#1b53495e636f7e69757a77486e6b6b74696f364e485b6c74776f7e696870776e6c7e6935787476": "Email Us"
-  },
-  "new_on": "2026-09-27"
+  "new_links": {},
+  "new_on": null
  },
  "https://komwerkenbijey.nl/vacatures": {
   "company": "EY Nederland",
@@ -1051,9 +1049,7 @@
   "checked": "2026-09-27T02:01:33+00:00",
   "error": null,
   "changed_on": null,
-  "new_links": {
-   "https://careers.bupa.com.sa/en/account-js/?token=GUV6N8": "My Account"
-  },
-  "new_on": "2026-09-27"
+  "new_links": {},
+  "new_on": null
  }
 }
