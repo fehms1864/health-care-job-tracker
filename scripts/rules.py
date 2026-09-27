@@ -1,6 +1,9 @@
 """Filtering and scoring rules. Edit this file to tune what shows up on the site."""
 import re
 
+# Bump this whenever you change the rules below, so every job is re-checked and re-scored.
+RULES_VERSION = 2
+
 # ---------- Locations ----------
 UK_WORDS = ['united kingdom', 'england', 'scotland', 'wales', 'northern ireland', 'great britain', 'london',
             'manchester', 'birmingham', 'bristol', 'leeds', 'glasgow', 'edinburgh', 'cambridge', 'oxford',
@@ -47,11 +50,13 @@ EXCLUDE = {
                     'software', 'firmware', 'architect', 'qa', 'tester', 'test automation', 'machine learning',
                     'ml', 'ai researcher', 'research scientist', 'full stack', 'fullstack', 'front end', 'frontend',
                     'back end', 'backend', 'ios', 'android', 'infrastructure', 'cloud', 'cyber', 'security operations',
-                    'penetration', 'technician', 'technical lead', 'tech lead', 'mechanical', 'electrical'],
+                    'penetration', 'technician', 'application support', 'technical support', 'it support', 'service desk',
+                    'support engineer', 'sql', 'api', 'apis', 'fhir', 'integration engineer', 'programming', 'systems administrator', 'technical lead', 'tech lead', 'mechanical', 'electrical'],
     'analytics': ['analytics', 'data analyst', 'data scientist', 'data science', 'business intelligence', 'bi',
                   'insights analyst', 'reporting analyst', 'statistician', 'biostatistician', 'quantitative',
                   'quant', 'data engineer', 'data manager', 'data management', 'data specialist', 'data lead',
-                  'analytical', 'econometric', 'modeller', 'modeler', 'rwe analyst'],
+                  'analytical', 'econometric', 'modeller', 'modeler', 'rwe analyst', 'statistics', 'statistical',
+                  'psychometrics', 'biostatistics', 'epidemiologist', 'data governance'],
     'finance': ['finance', 'financial', 'accountant', 'accounting', 'accounts payable', 'accounts receivable',
                 'tax', 'treasury', 'audit', 'auditor', 'controller', 'fp&a', 'payroll', 'bookkeeper', 'credit',
                 'actuary', 'actuarial', 'underwriter', 'underwriting', 'investment', 'trader', 'trading',
@@ -68,7 +73,7 @@ EXCLUDE = {
                   'managing director', 'cto', 'ceo', 'coo', 'general manager', 'country manager'],
     'level': ['intern', 'internship', 'werkstudent', 'working student', 'stage', 'stagiair', 'apprentice',
               'apprenticeship', 'graduate scheme', 'student'],
-    'other': ['sales representative', 'account executive', 'sales executive', 'business development representative',
+    'other': ['sales', 'key account', 'account manager', 'business development', 'sales representative', 'account executive', 'sales executive', 'business development representative',
               'sdr', 'bdr', 'recruiter', 'talent acquisition', 'warehouse', 'driver', 'courier', 'chef', 'cook',
               'cleaner', 'receptionist', 'teacher', 'designer', 'copywriter', 'legal counsel', 'lawyer',
               'solicitor', 'paralegal', 'field sales', 'medical representative', 'sales rep', 'picker',
@@ -151,16 +156,22 @@ BOOST = {
 
 
 def score(title, text, company_category=''):
+    """Title words count double; description words count half and are capped, so a long
+    boilerplate description can't outscore a well-matched title."""
     t = (title or '').lower()
-    hay = f'{t} {(text or "")[:4000].lower()}'
-    s, hits = 0, []
+    body = (text or '')[:5000].lower()
+    title_pts, body_pts, hits = 0, 0, []
     for k, v in BOOST.items():
-        if re.search(r'\b' + re.escape(k) + r'\b', hay):
-            s += v
-            if v >= 5:
+        rx = r'\b' + re.escape(k) + r'\b'
+        if re.search(rx, t):
+            title_pts += 2 * v
+            if v >= 4:
                 hits.append(k)
-        if re.search(r'\b' + re.escape(k) + r'\b', t):
-            s += v  # title matches count double
+        elif re.search(rx, body):
+            body_pts += v / 2
+            if v >= 6:
+                hits.append(k)
+    s = title_pts + min(body_pts, 20)
     if 'health' in company_category.lower():
         s += 3
-    return s, list(dict.fromkeys(hits))[:4]
+    return round(s), list(dict.fromkeys(hits))[:4]

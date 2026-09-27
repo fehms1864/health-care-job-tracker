@@ -145,17 +145,29 @@ def lever(token):
 
 
 def workable(token):
-    d = get(f'https://apply.workable.com/api/v1/widget/accounts/{token}?details=true').json()
-    out = []
-    for j in d.get('jobs', []):
-        locs = [', '.join(x for x in (j.get('city'), j.get('state'), j.get('country')) if x)]
-        for l in j.get('locations') or []:
-            locs.append(', '.join(x for x in (l.get('city'), l.get('region'), l.get('country')) if x))
-        cc = (j.get('country_code') or '').lower()
-        region = rules.COUNTRY_CODE.get(cc)
-        out.append(job(j.get('title'), ' / '.join(x for x in locs if x), j.get('url') or j.get('application_url'),
-                       j.get('shortcode') or j.get('id'), text_of(j.get('description')), j.get('published_on'),
-                       region))
+    """Workable's v3 careers API (the older widget API now returns empty job lists)."""
+    out, body, pages = [], {'query': '', 'location': [], 'department': [], 'worktype': [], 'remote': []}, 0
+    while pages < 20:
+        r = S.post(f'https://apply.workable.com/api/v3/accounts/{token}/jobs', json=body, timeout=30)
+        r.raise_for_status()
+        d = r.json()
+        for j in d.get('results', []):
+            locs = [j.get('location') or {}] + (j.get('locations') or [])
+            text = ' / '.join(', '.join(x for x in (l.get('city'), l.get('region'), l.get('country')) if x) for l in locs)
+            ccs = {(l.get('countryCode') or '').lower() for l in locs}
+            region = next((rules.COUNTRY_CODE[c] for c in ccs if c in rules.COUNTRY_CODE), None)
+            sc = j.get('shortcode')
+
+            def detail(sc=sc):
+                x = get(f'https://apply.workable.com/api/v2/accounts/{token}/jobs/{sc}').json()
+                return text_of((x.get('description') or '') + (x.get('requirements') or '') + (x.get('benefits') or ''))
+            out.append(job(j.get('title'), text, f'https://apply.workable.com/{token}/j/{sc}/', sc, None,
+                           j.get('published'), region, detail))
+        pages += 1
+        if not d.get('nextPage'):
+            break
+        body = {**body, 'token': d['nextPage']}
+        time.sleep(0.5)
     return out
 
 
@@ -210,7 +222,7 @@ def _walk_facets(facets, want):
                 continue
             name = (v.get('descriptor') or '').lower()
             for region in want:
-                if any(c == name or c in name for c in rules.REGION_COUNTRIES[region]):
+                if any(name == c or name.startswith(c + ' ') or name.startswith(c + ',') for c in rules.REGION_COUNTRIES[region]):
                     found.setdefault(param, []).append((v.get('id'), region))
     return found
 
@@ -251,28 +263,35 @@ def workday(tenant, wd, site, regions):
 
 def eightfold(host, domain, regions):
     out, seen = [], set()
+
+    def add(ps):
+        for p in ps:
+            pid = p.get('id')
+            if pid in seen:
+                continue
+            seen.add(pid)
+
+            def detail(pid=pid):
+                x = get(f'https://{host}/api/apply/v2/jobs/{pid}?domain={domain}').json()
+                return text_of(x.get('job_description', ''))
+            locs = ' / '.join(p.get('locations') or [p.get('location') or ''])
+            out.append(job(p.get('name'), locs, p.get('canonicalPositionUrl') or f'https://{host}/careers/job/{pid}',
+                           pid, None, None, None, detail))
+
     for region in regions:
         for country in rules.REGION_COUNTRIES[region]:
-            start = 0
-            while True:
-                d = get(f'https://{host}/api/apply/v2/jobs?domain={domain}&location={quote(country)}'
-                        f'&start={start}&num=50').json()
-                ps = d.get('positions') or []
-                for p in ps:
-                    if p.get('id') in seen:
-                        continue
-                    seen.add(p.get('id'))
-                    pid = p.get('id')
-
-                    def detail(pid=pid):
-                        x = get(f'https://{host}/api/apply/v2/jobs/{pid}?domain={domain}').json()
-                        return text_of(x.get('job_description', ''))
-                    locs = ' / '.join(p.get('locations') or [p.get('location', '')])
-                    out.append(job(p.get('name'), locs, p.get('canonicalPositionUrl') or
-                                   f'https://{host}/careers/job/{pid}', pid, None, None, None, detail))
-                start += 50
-                if not ps or start >= (d.get('count') or 0) or start > 500:
-                    break
+            d = get(f'https://{host}/api/apply/v2/jobs?domain={domain}&location={quote(country.title())}'
+                    f'&start=0&num=100&sort_by=relevance').json()
+            add(d.get('positions') or [])
+    if not out:  # location search unsupported: page through everything, classify by location text
+        start = 0
+        while start < 3000:
+            d = get(f'https://{host}/api/apply/v2/jobs?domain={domain}&start={start}&num=100').json()
+            ps = d.get('positions') or []
+            add(ps)
+            start += 100
+            if not ps or start >= (d.get('count') or 0):
+                break
     return out
 
 
@@ -403,7 +422,7 @@ def main():
     def fill(j):
         if j['desc'] is None and j['_detail']:
             old = prev_jobs.get(j['id'])
-            if old and old.get('lang_checked'):
+            if old and old.get('lang_checked') and prev.get('rules_version') == rules.RULES_VERSION:
                 j['desc'] = ''  # already vetted on a previous run; skip the extra request
                 j['_reuse'] = old
             else:
@@ -478,7 +497,7 @@ def main():
                            'kind': 'link' if c.get('careers_url') else 'linkedin', 'note': c.get('note', '')})
 
     new_today = [j for j in kept if j['first_seen'] == TODAY and TODAY != baseline]
-    out = {'generated_at': NOW, 'baseline_date': baseline, 'jobs': kept, 'manual': manual,
+    out = {'generated_at': NOW, 'baseline_date': baseline, 'rules_version': rules.RULES_VERSION, 'jobs': kept, 'manual': manual,
            'status': sorted(status, key=lambda s: (s['error'] is None, s['companies'][0])),
            'counts': {'companies': len(companies), 'feeds': len(groups), 'jobs': len(kept),
                       'new_today': len(new_today), 'pages': len(page_cos)}}

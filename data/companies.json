@@ -181,11 +181,8 @@
   "region": "UK",
   "category": "UK — Health-tech & digital health",
   "core": false,
-  "source": {
-   "type": "page",
-   "url": "https://congenica.com/careers/application/"
-  },
-  "careers_url": "https://congenica.com/careers/application/",
+  "source": null,
+  "careers_url": null,
   "note": "congenica.com/careers/application/"
  },
  {
@@ -202,9 +199,12 @@
   "region": "UK",
   "category": "UK — Health-tech & digital health",
   "core": false,
-  "source": null,
+  "source": {
+   "type": "workable",
+   "token": "doctify"
+  },
   "careers_url": null,
-  "note": "unresolved — LinkedIn and builtin only"
+  "note": "found by board discovery"
  },
  {
   "name": "Elder",
@@ -256,9 +256,12 @@
   "region": "UK",
   "category": "UK — Health-tech & digital health",
   "core": false,
-  "source": null,
+  "source": {
+   "type": "workable",
+   "token": "peppy"
+  },
   "careers_url": null,
-  "note": "unresolved — workable:peppy-health returns 404"
+  "note": "found by board discovery"
  },
  {
   "name": "Proximie",
@@ -331,9 +334,12 @@
   "region": "UK",
   "category": "UK — Healthcare & life-sciences consulting",
   "core": true,
-  "source": null,
+  "source": {
+   "type": "workable",
+   "token": "channel-3-consulting"
+  },
   "careers_url": null,
-  "note": "LinkedIn only — no public feed"
+  "note": "found by board discovery"
  },
  {
   "name": "IQVIA",
@@ -366,11 +372,8 @@
   "region": "UK",
   "category": "UK — Healthcare & life-sciences consulting",
   "core": false,
-  "source": {
-   "type": "page",
-   "url": "https://attain.co.uk/people-careers/"
-  },
-  "careers_url": "https://attain.co.uk/people-careers/",
+  "source": null,
+  "careers_url": null,
   "note": "attain.co.uk/people-careers/ + HSJ Jobs"
  },
  {
@@ -648,9 +651,12 @@
   "region": "UK",
   "category": "UK — Consulting & implementation at scale",
   "core": false,
-  "source": null,
+  "source": {
+   "type": "smartrecruiters",
+   "token": "synechron"
+  },
   "careers_url": null,
-  "note": "unresolved"
+  "note": "found by board discovery"
  },
  {
   "name": "Talan",
@@ -917,9 +923,12 @@
   "region": "UK",
   "category": "UK — Tech & SaaS with heavy ops / customer success functions",
   "core": false,
-  "source": null,
+  "source": {
+   "type": "greenhouse",
+   "token": "deliveroo"
+  },
   "careers_url": null,
-  "note": "PARTIAL BOARD — real board Greenhouse, API 404"
+  "note": "found by board discovery"
  },
  {
   "name": "Faculty",
@@ -1121,9 +1130,12 @@
   "region": "UK",
   "category": "UK — Tech & SaaS with heavy ops / customer success functions",
   "core": false,
-  "source": null,
+  "source": {
+   "type": "greenhouse",
+   "token": "stripe"
+  },
   "careers_url": null,
-  "note": "unresolved"
+  "note": "found by board discovery"
  },
  {
   "name": "SumUp",
@@ -1390,10 +1402,10 @@
   "category": "Netherlands — health & life sciences",
   "core": true,
   "source": {
-   "type": "greenhouse-eu",
-   "token": "openup"
+   "type": "page",
+   "url": "https://job-boards.eu.greenhouse.io/openup"
   },
-  "careers_url": null,
+  "careers_url": "https://job-boards.eu.greenhouse.io/openup",
   "note": "host robots-blocked"
  },
  {
@@ -1706,9 +1718,12 @@
   "region": "NL",
   "category": "Netherlands — tech & scale-ups",
   "core": false,
-  "source": null,
+  "source": {
+   "type": "greenhouse",
+   "token": "databricks"
+  },
   "careers_url": null,
-  "note": "unresolved"
+  "note": "found by board discovery"
  },
  {
   "name": "Elsevier",
@@ -1804,9 +1819,12 @@
   "region": "NL",
   "category": "Netherlands — tech & scale-ups",
   "core": false,
-  "source": null,
+  "source": {
+   "type": "lever",
+   "token": "palantir"
+  },
   "careers_url": null,
-  "note": "unresolved"
+  "note": "found by board discovery"
  },
  {
   "name": "Personio NL",
@@ -1954,18 +1972,24 @@
   "region": "NL",
   "category": "Netherlands — consulting",
   "core": false,
-  "source": null,
+  "source": {
+   "type": "smartrecruiters",
+   "token": "deloittenl"
+  },
   "careers_url": null,
-  "note": "unresolved — only Big-4 NL row producing in-grade leads"
+  "note": "found by board discovery"
  },
  {
   "name": "KPMG NL",
   "region": "NL",
   "category": "Netherlands — consulting",
   "core": false,
-  "source": null,
+  "source": {
+   "type": "smartrecruiters",
+   "token": "kpmgnl"
+  },
   "careers_url": null,
-  "note": "unresolved"
+  "note": "found by board discovery"
  },
  {
   "name": "McKinsey NL",
@@ -2038,11 +2062,8 @@
   "region": "ME",
   "category": "Middle East",
   "core": false,
-  "source": {
-   "type": "page",
-   "url": "https://nabtahealth.com/about-nabta/careers/"
-  },
-  "careers_url": "https://nabtahealth.com/about-nabta/careers/",
+  "source": null,
+  "careers_url": null,
   "note": ""
  },
  {
@@ -2172,10 +2193,7 @@
   "region": "ME",
   "category": "Middle East",
   "core": false,
-  "source": {
-   "type": "page",
-   "url": "https://careers.lean.sa/jobs"
-  },
+  "source": null,
   "careers_url": "https://careers.lean.sa/jobs",
   "note": ""
  },
@@ -2196,10 +2214,7 @@
   "region": "ME",
   "category": "Middle East",
   "core": false,
-  "source": {
-   "type": "page",
-   "url": "https://yourpurehealth.com/careers/"
-  },
+  "source": null,
   "careers_url": "https://yourpurehealth.com/careers/",
   "note": ""
  },
