@@ -2,7 +2,7 @@
 import re
 
 # Bump this whenever you change the rules below, so every job is re-checked and re-scored.
-RULES_VERSION = 3
+RULES_VERSION = 4
 
 # ---------- Locations ----------
 UK_WORDS = ['united kingdom', 'england', 'scotland', 'wales', 'northern ireland', 'great britain', 'london',
@@ -18,8 +18,8 @@ NL_CODES = [r'\bnl\b', r'\bnld\b']
 ME_WORDS = ['united arab emirates', 'emirates', 'dubai', 'abu dhabi', 'sharjah', 'ajman', 'al ain',
             'saudi', 'riyadh', 'jeddah', 'jedda', 'dammam', 'khobar', 'mecca', 'makkah', 'medina', 'neom',
             'qatar', 'doha', 'bahrain', 'manama', 'kuwait', 'oman', 'muscat', 'egypt', 'cairo', 'giza',
-            'alexandria', 'jordan', 'amman', 'lebanon', 'beirut', 'middle east', 'gcc']
-ME_CODES = [r'\buae\b', r'\bksa\b', r'\bmena\b', r'\bmea\b']
+            'alexandria', 'amman', 'lebanon', 'beirut', 'middle east', 'gcc']
+ME_CODES = [r'\buae\b', r'\bksa\b', r'\bmena\b', r'\bmea\b', r'(?<!west )(?<!south )\bjordan\b(?!,?\s*(utah|ut)\b)']
 COUNTRY_CODE = {'gb': 'UK', 'uk': 'UK', 'nl': 'NL', 'ae': 'ME', 'sa': 'ME', 'qa': 'ME', 'bh': 'ME', 'kw': 'ME',
                 'om': 'ME', 'eg': 'ME', 'jo': 'ME', 'lb': 'ME'}
 REGION_COUNTRIES = {  # names used to pick Workday / Eightfold country facets
@@ -65,7 +65,7 @@ EXCLUDE = {
                  'medical officer', 'care assistant', 'healthcare assistant', 'carer', 'support worker',
                  'phlebotomist', 'optometrist', 'veterinary', 'vet', 'clinician', 'lab technician',
                  'laboratory', 'scientist', 'specialist registrar', 'resident'],
-    'seniority': ['director', 'vp', 'vice president', 'head of', 'chief', 'svp', 'evp', 'associate partner',
+    'seniority': ['director', 'dir', 'directeur', 'vp', 'vice president', 'head of', 'chief', 'svp', 'evp', 'associate partner',
                   'managing director', 'cto', 'ceo', 'coo', 'general manager', 'country manager'],
     'level': ['intern', 'internship', 'werkstudent', 'working student', 'stage', 'stagiair', 'apprentice',
               'apprenticeship', 'graduate scheme', 'student'],

@@ -210,7 +210,7 @@
         <li><b>Where:</b> UK and Netherlands roles at the UK/NL watchlist companies; Middle East roles (UAE, Saudi Arabia, Qatar, Bahrain, Kuwait, Oman, Egypt, Jordan, Lebanon) at the Middle East companies.</li>
         <li><b>Removed by title:</b> engineering and technical roles, analytics and data roles, finance roles, clinical practitioner roles, Director/VP/Head-of level, internships, and clearly unrelated roles like sales reps or recruiters.</li>
         <li><b>Removed by language:</b> the posting is written in Dutch or Arabic, or says Dutch or Arabic is required. Roles where it's only "a plus" stay in.</li>
-        <li><b>Ranking:</b> each role is scored on healthcare, strategy, operations, implementation and consulting words in the title and description. Title matches count double. "Best fit" means a score of 20 or more.</li>
+        <li><b>Ranking:</b> each role is scored on healthcare, strategy, operations, implementation and consulting words in the title and description. Title matches count double. "Best fit" means a score of 25 or more.</li>
       </ul>
       <div class="health" id="health"></div>
     </div>
@@ -224,7 +224,7 @@
 </div>
 
 <script>
-const FIT = 20, PAGE = 40;
+const FIT = 25, PAGE = 40;
 const REGION_NAME = {UK:'United Kingdom', NL:'Netherlands', ME:'Middle East'};
 const K = {tracker:'rc_tracker', seen:'rc_seen2', visit:'rc_visit', ui:'rc_ui'};
 let data = {jobs:[], manual:[], status:[], counts:{}};

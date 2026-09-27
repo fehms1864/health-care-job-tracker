@@ -15,7 +15,7 @@ if new:
             continue
         lines.append(f'### {names[region]} ({len(rows)})')
         for j in rows:
-            fit = ' ⭐' if j['score'] >= 20 else ''
+            fit = ' ⭐' if j['score'] >= 25 else ''
             lines.append(f"- **[{j['title']}]({j['url']})**: {j['company']}, {j['location']} · match {j['score']}{fit}")
         lines.append('')
     site = os.environ.get('SITE_URL', '')
