@@ -1,0 +1,293 @@
+{
+ "Zava": [
+  {
+   "type": "workable",
+   "token": "zava",
+   "info": "Zava"
+  }
+ ],
+ "Doctify": [
+  {
+   "type": "workable",
+   "token": "doctify",
+   "info": "Doctify"
+  }
+ ],
+ "Peppy Health": [
+  {
+   "type": "workable",
+   "token": "peppy",
+   "info": "Peppy"
+  }
+ ],
+ "Second Nature": [
+  {
+   "type": "workable",
+   "token": "second",
+   "info": "second"
+  },
+  {
+   "type": "ashby",
+   "token": "second-nature",
+   "info": "9 jobs"
+  },
+  {
+   "type": "workable",
+   "token": "second-nature",
+   "info": "Second Nature"
+  },
+  {
+   "type": "workable",
+   "token": "secondnature",
+   "info": "Second Nature"
+  },
+  {
+   "type": "smartrecruiters",
+   "token": "secondnature",
+   "info": "Second Nature"
+  }
+ ],
+ "Channel 3 Consulting": [
+  {
+   "type": "workable",
+   "token": "channel-3-consulting",
+   "info": "Channel 3 Consulting"
+  },
+  {
+   "type": "workable",
+   "token": "channel",
+   "info": "Channel"
+  }
+ ],
+ "Envision Pharma": [
+  {
+   "type": "workable",
+   "token": "envision",
+   "info": "Envision"
+  }
+ ],
+ "Accenture": [
+  {
+   "type": "workable",
+   "token": "accenture",
+   "info": "Accenture"
+  },
+  {
+   "type": "recruitee",
+   "token": "accenture",
+   "info": "accenture"
+  }
+ ],
+ "Fractal Analytics": [
+  {
+   "type": "workable",
+   "token": "fractal-analytics",
+   "info": "Fractal Analytics"
+  },
+  {
+   "type": "workable",
+   "token": "fractal",
+   "info": "fractal"
+  }
+ ],
+ "KPMG": [
+  {
+   "type": "workable",
+   "token": "kpmg",
+   "info": "KPMG"
+  }
+ ],
+ "Bain": [
+  {
+   "type": "workable",
+   "token": "bain",
+   "info": "Bain"
+  }
+ ],
+ "BCG": [
+  {
+   "type": "greenhouse",
+   "token": "bcg",
+   "info": "Bohen Consulting Group   "
+  },
+  {
+   "type": "workable",
+   "token": "bcg",
+   "info": "BCG"
+  }
+ ],
+ "BJSS": [
+  {
+   "type": "workable",
+   "token": "bjss",
+   "info": "BJSS"
+  }
+ ],
+ "Capgemini": [
+  {
+   "type": "workable",
+   "token": "capgemini",
+   "info": "capgemini"
+  }
+ ],
+ "Cognizant": [
+  {
+   "type": "workable",
+   "token": "cognizant",
+   "info": "Cognizant"
+  }
+ ],
+ "Delta Capita Consulting": [
+  {
+   "type": "workable",
+   "token": "delta",
+   "info": "delta"
+  }
+ ],
+ "Synechron Platform Consulting": [
+  {
+   "type": "smartrecruiters",
+   "token": "synechron",
+   "info": "Synechron"
+  }
+ ],
+ "Cleo AI": [
+  {
+   "type": "greenhouse",
+   "token": "cleo",
+   "info": "Cleo (US) "
+  }
+ ],
+ "Deliveroo": [
+  {
+   "type": "greenhouse",
+   "token": "deliveroo",
+   "info": "Deliveroo "
+  },
+  {
+   "type": "ashby",
+   "token": "deliveroo",
+   "info": "12 jobs"
+  }
+ ],
+ "HubSpot": [
+  {
+   "type": "greenhouse",
+   "token": "hubspot",
+   "info": "HubSpot Product"
+  }
+ ],
+ "Personio": [
+  {
+   "type": "recruitee",
+   "token": "personio",
+   "info": "FD Sandbox"
+  }
+ ],
+ "Stripe": [
+  {
+   "type": "greenhouse",
+   "token": "stripe",
+   "info": "Stripe"
+  }
+ ],
+ "Wise": [
+  {
+   "type": "greenhouse",
+   "token": "wise",
+   "info": "Wise Worksite Field Sales "
+  },
+  {
+   "type": "smartrecruiters",
+   "token": "wise",
+   "info": "Wise"
+  }
+ ],
+ "Circle Health Group": [
+  {
+   "type": "ashby",
+   "token": "circle",
+   "info": "9 jobs"
+  }
+ ],
+ "ICON": [
+  {
+   "type": "greenhouse",
+   "token": "icon",
+   "info": "ICON Talent Community"
+  },
+  {
+   "type": "ashby",
+   "token": "icon",
+   "info": "6 jobs"
+  }
+ ],
+ "Spire Healthcare": [
+  {
+   "type": "greenhouse",
+   "token": "spire",
+   "info": "Spire"
+  }
+ ],
+ "Google NL": [
+  {
+   "type": "recruitee",
+   "token": "google",
+   "info": "Google"
+  }
+ ],
+ "Databricks NL": [
+  {
+   "type": "greenhouse",
+   "token": "databricks",
+   "info": "Databricks"
+  }
+ ],
+ "Palantir NL": [
+  {
+   "type": "lever",
+   "token": "palantir",
+   "info": "Administrative Business Partner, Administrative Business Partner, Administrative Business Partner - ShipOS"
+  },
+  {
+   "type": "smartrecruiters",
+   "token": "palantir",
+   "info": "Palantir"
+  }
+ ],
+ "Deloitte NL": [
+  {
+   "type": "smartrecruiters",
+   "token": "deloittenl",
+   "info": "Deloitte NL"
+  }
+ ],
+ "KPMG NL": [
+  {
+   "type": "smartrecruiters",
+   "token": "kpmgnl",
+   "info": "KPMG NL"
+  }
+ ],
+ "Cura": [
+  {
+   "type": "lever",
+   "token": "cura",
+   "info": "Business Development Manager, General Application \u2013 Future Opportunities, Mechanical Engineer"
+  }
+ ],
+ "Health at Home": [
+  {
+   "type": "greenhouse",
+   "token": "athomehealth",
+   "info": "At Home Healthcare"
+  }
+ ],
+ "BCG Middle East": [
+  {
+   "type": "greenhouse",
+   "token": "bcg",
+   "info": "Bohen Consulting Group   "
+  }
+ ]
+}
