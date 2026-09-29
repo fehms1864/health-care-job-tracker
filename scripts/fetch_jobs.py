@@ -520,7 +520,8 @@ def main():
                            'url': c.get('careers_url') or f'https://www.linkedin.com/jobs/search/?keywords={q}',
                            'kind': 'link' if c.get('careers_url') else 'linkedin', 'note': c.get('note', '')})
 
-    new_today = [j for j in kept if j['first_seen'] == TODAY and TODAY != baseline]
+    # only roles that weren't there on the previous check, so the second daily run doesn't repeat the first
+    new_today = [j for j in kept if j['id'] not in prev_jobs and TODAY != baseline]
     out = {'generated_at': NOW, 'baseline_date': baseline, 'rules_version': rules.RULES_VERSION, 'jobs': kept, 'manual': manual,
            'status': sorted(status, key=lambda s: (s['error'] is None, s['companies'][0])),
            'counts': {'companies': len(companies), 'feeds': len(groups), 'jobs': len(kept),

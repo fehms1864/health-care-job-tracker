@@ -2,7 +2,8 @@ name: Daily job check
 
 on:
   schedule:
-    - cron: '17 5 * * *'   # every day ~05:17 UTC (6am UK, 9am UAE)
+    - cron: '17 5 * * *'    # ~05:17 UTC: early morning UK / NL, mid-morning Gulf
+    - cron: '43 12 * * *'   # ~12:43 UTC: early afternoon UK / NL, late afternoon Gulf
   workflow_dispatch: {}
   push:
     branches: [main]

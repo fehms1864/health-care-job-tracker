@@ -157,7 +157,7 @@
     <div class="section-title">Open roles at watchlist companies</div>
     <div class="section-meta" id="m-jobs">—</div>
   </div>
-  <p class="section-note">Checked automatically every morning across every company with a public job board. Engineering, analytics and finance roles are removed, and so is anything that needs Dutch or Arabic. Best-fit roles are sorted to the top.</p>
+  <p class="section-note">Checked automatically twice a day across every company with a public job board. Engineering, analytics and finance roles are removed, and so is anything that needs Dutch or Arabic. Best-fit roles are sorted to the top.</p>
   <div id="b-jobs"><div class="banner load">Loading today's results…</div></div>
   <div class="filters" id="f-region"></div>
   <div class="filters">
@@ -176,7 +176,7 @@
     <div class="section-title">Check by hand</div>
     <div class="section-meta" id="m-manual">—</div>
   </div>
-  <p class="section-note">These companies don't publish a job feed the daily check can read. Where the careers page can be read, it's still checked each morning, and a company is <span style="color:var(--amber)">highlighted</span> when its page changes or new job links appear. The rest link straight to their careers page or a LinkedIn search.</p>
+  <p class="section-note">These companies don't publish a job feed the daily check can read. Where the careers page can be read, it's still checked twice a day, and a company is <span style="color:var(--amber)">highlighted</span> when its page changes or new job links appear. The rest link straight to their careers page or a LinkedIn search.</p>
   <div class="filters" id="f-manual"></div>
   <div id="manual"></div>
 </section>
@@ -330,7 +330,7 @@ function renderManual(){
       let d, hot = false;
       if(x.new_links && x.new_links.length && x.new_on && daysSince(x.new_on) < 7){ d = `${x.new_links.length} new job link${x.new_links.length>1?'s':''} · ${x.new_on}`; hot = true; }
       else if(x.changed_on && daysSince(x.changed_on) < 3){ d = `page changed ${x.changed_on}`; hot = true; }
-      else if(x.kind === 'page') d = x.error ? 'page could not be read, check by hand' : (x.readable ? 'page watched daily, no change' : 'page loads by script, check by hand');
+      else if(x.kind === 'page') d = x.error ? 'page could not be read, check by hand' : (x.readable ? 'page watched, no change yet' : 'page loads by script, check by hand');
       else if(x.kind === 'linkedin') d = 'LinkedIn search';
       else d = 'careers page';
       const links = hot && x.new_links && x.new_links.length
@@ -436,7 +436,7 @@ fetch('data/jobs.json', {cache:'no-cache'})
     save(K.seen, [...seen].slice(-3000));
   })
   .catch(() => {
-    document.getElementById('b-jobs').innerHTML = '<div class="banner err">Today\'s results haven\'t been generated yet. The first check runs a few minutes after setup, then every morning.</div>';
+    document.getElementById('b-jobs').innerHTML = '<div class="banner err">Today\'s results haven\'t been generated yet. The first check runs a few minutes after setup, then twice a day.</div>';
     document.getElementById('tickets').innerHTML = '';
   });
 </script>
