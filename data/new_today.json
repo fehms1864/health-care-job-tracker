@@ -1,1 +1,73 @@
-[]
+[
+ {
+  "id": "ecb61c343d30f1",
+  "company": "Lendable",
+  "region": "UK",
+  "title": "Product Manager (UK Loans)",
+  "location": "London, United Kingdom",
+  "url": "https://jobs.ashbyhq.com/lendable/ede7a45c-71e6-48d9-a7c0-d1079131a5e6",
+  "posted": "2026-09-29T08:48:32.379+00:00",
+  "posted_date": "2026-09-29",
+  "posted_approx": false,
+  "first_seen": "2026-09-29",
+  "score": 20,
+  "hits": [
+   "strategy",
+   "operations",
+   "implementation",
+   "product manager"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "5b60bdb831ea0f",
+  "company": "Lantum",
+  "region": "UK",
+  "title": "People Advisor (6-Month Fixed Term Contract)",
+  "location": "London, England, United Kingdom",
+  "url": "https://apply.workable.com/lantum/j/C0AEBB0095/",
+  "posted": "2026-09-29T00:00:00.000Z",
+  "posted_date": "2026-09-29",
+  "posted_approx": false,
+  "first_seen": "2026-09-29",
+  "score": 18,
+  "hits": [
+   "healthcare",
+   "nhs",
+   "operations"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "b9542d5321a63d",
+  "company": "Lendable",
+  "region": "UK",
+  "title": "Complaints Officer - Graduate",
+  "location": "London / United Kingdom",
+  "url": "https://jobs.ashbyhq.com/lendable/4c6ac55f-a41c-428a-8f7b-965b5d370114",
+  "posted": "2026-09-29T11:16:18.169+00:00",
+  "posted_date": "2026-09-29",
+  "posted_approx": false,
+  "first_seen": "2026-09-29",
+  "score": 5,
+  "hits": [
+   "operations"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "884a0fde242e6f",
+  "company": "IQVIA",
+  "region": "UK",
+  "title": "",
+  "location": "",
+  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA",
+  "posted": null,
+  "posted_date": "2026-09-29",
+  "posted_approx": true,
+  "first_seen": "2026-09-29",
+  "score": 3,
+  "hits": [],
+  "lang_checked": true
+ }
+]
