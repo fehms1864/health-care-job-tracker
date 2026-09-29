@@ -96,6 +96,28 @@ def tidy_location(loc):
     return ' / '.join(out)
 
 
+def parse_posted(p):
+    """Turn a board's posting date into (YYYY-MM-DD, is_approximate). Handles ISO dates,
+    '2026-09-01 10:00:00 UTC', 'Today', 'Yesterday', '3 Days Ago' and '30+ Days Ago'."""
+    if not p:
+        return None, False
+    s = str(p).strip()
+    m = re.match(r'(\d{4}-\d{2}-\d{2})', s)
+    if m:
+        return m.group(1), False
+    low = s.lower()
+    today = dt.date.today()
+    if 'today' in low or 'just' in low or 'hour' in low:
+        return today.isoformat(), False
+    if 'yesterday' in low:
+        return (today - dt.timedelta(days=1)).isoformat(), False
+    m = re.search(r'(\d+)\s*(\+)?\s*(day|week|month)', low)
+    if m:
+        n = int(m.group(1)) * {'day': 1, 'week': 7, 'month': 30}[m.group(3)]
+        return (today - dt.timedelta(days=n)).isoformat(), bool(m.group(2))
+    return None, False
+
+
 def job(title, location, url, jid, desc=None, posted=None, region=None, detail=None):
     """Normalised job. `detail` is a zero-arg callable that returns the description when needed."""
     if isinstance(posted, str):
@@ -469,8 +491,14 @@ def main():
             s, hits = rules.score(j['title'], j['desc'], j['category'])
         old = prev_jobs.get(j['id'])
         j['_stat']['kept'] += 1
+        pdate, approx = parse_posted(j['posted'])
+        if old and old.get('posted_date') and (pdate is None or old['posted_date'] < pdate):
+            # relative dates like "30+ Days Ago" drift forward each day; keep the earliest we've seen
+            pdate, approx = old['posted_date'], old.get('posted_approx', False)
+        if pdate is None:
+            pdate, approx = (old['first_seen'] if old else TODAY), True
         kept.append({'id': j['id'], 'company': j['company'], 'region': j['region'], 'title': j['title'],
-                     'location': j['location'][:160], 'url': j['url'], 'posted': j['posted'],
+                     'location': j['location'][:160], 'url': j['url'], 'posted': j['posted'], 'posted_date': pdate, 'posted_approx': approx,
                      'first_seen': old['first_seen'] if old else TODAY, 'score': s, 'hits': hits,
                      'lang_checked': True})
 

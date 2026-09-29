@@ -164,6 +164,11 @@
     <button class="chip" id="c-new" onclick="toggle('newOnly')">New this week</button>
     <button class="chip" id="c-fit" onclick="toggle('fitOnly')">Best fit only</button>
     <div class="sep"></div>
+    <select id="sort" onchange="setSort(this.value)" aria-label="Sort">
+      <option value="match">Sort: best match</option>
+      <option value="newest">Sort: newest posted first</option>
+      <option value="oldest">Sort: oldest posted first</option>
+    </select>
     <select id="co" onchange="render()" aria-label="Company"><option value="">All companies</option></select>
     <input type="search" id="q" placeholder="Filter by word…" oninput="render()">
   </div>
@@ -229,7 +234,20 @@ const REGION_NAME = {UK:'United Kingdom', NL:'Netherlands', ME:'Middle East'};
 const K = {tracker:'rc_tracker', seen:'rc_seen2', visit:'rc_visit', ui:'rc_ui'};
 let data = {jobs:[], manual:[], status:[], counts:{}};
 let tracker = [], seen = new Set(), prevVisitSeen = new Set();
-let ui = {region:'all', newOnly:false, fitOnly:true, mregion:'all'}, shown = PAGE;
+let ui = {region:'all', newOnly:false, fitOnly:true, mregion:'all', sort:'match'}, shown = PAGE;
+const postedDate = j => j.posted_date || j.first_seen;
+function fmtDate(d){
+  const x = new Date(d + 'T12:00:00Z');
+  const opts = {day:'numeric', month:'short'};
+  if(x.getUTCFullYear() !== new Date().getFullYear()) opts.year = 'numeric';
+  return x.toLocaleDateString([], opts);
+}
+function postedLabel(j){
+  if(!j.posted_date) return '';
+  if(!j.posted_approx) return 'posted ' + fmtDate(j.posted_date);
+  return j.posted ? 'posted before ' + fmtDate(j.posted_date) : '';
+}
+function setSort(v){ ui.sort = v; save(K.ui, ui); shown = PAGE; render(); }
 
 const load = (k,d) => { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch(e) { return d; } };
 const save = (k,v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch(e) {} };
@@ -268,7 +286,11 @@ function filtered(){
     if(co && j.company !== co) return false;
     if(q && !(j.title + ' ' + j.company + ' ' + j.location).toLowerCase().includes(q)) return false;
     return true;
-  }).sort((a,b) => (isNewWeek(b) - isNewWeek(a)) || (b.score - a.score));
+  }).sort((a,b) => {
+    if(ui.sort === 'newest') return postedDate(b).localeCompare(postedDate(a)) || (b.score - a.score);
+    if(ui.sort === 'oldest') return postedDate(a).localeCompare(postedDate(b)) || (b.score - a.score);
+    return (isNewWeek(b) - isNewWeek(a)) || (b.score - a.score);
+  });
 }
 
 function render(){
@@ -286,8 +308,7 @@ function render(){
   } else {
     grid.innerHTML = list.slice(0, shown).map(j => {
       const tracked = tracker.some(t => t.url === j.url || (t.company === j.company && t.role === j.title));
-      const posted = j.posted && !/ago|today|yesterday/i.test(j.posted) && !isNaN(new Date(j.posted))
-        ? new Date(j.posted).toLocaleDateString([], {day:'numeric', month:'short'}) : (j.posted || '');
+      const posted = postedLabel(j);
       return `<div class="ticket ${isUnseen(j) || (isNewWeek(j) && daysSince(j.first_seen) < 2) ? 'is-new' : ''}">
         <div class="ticket-main">
           <div class="ticket-role">${esc(j.title)}</div>
@@ -301,7 +322,7 @@ function render(){
         </div>
         <div class="ticket-div"></div>
         <div class="ticket-stub">
-          <div class="ticket-src">first seen ${esc(new Date(j.first_seen + 'T12:00:00Z').toLocaleDateString([], {day:'numeric', month:'short'}))}${posted ? ' · posted ' + esc(posted) : ''}</div>
+          <div class="ticket-src">${posted ? esc(posted) + ' · ' : ''}first seen ${esc(fmtDate(j.first_seen))}</div>
           <div class="ticket-act">
             <button class="${tracked ? 'done' : ''}" onclick="trackJob('${j.id}')">${tracked ? '✓ Tracked' : '+ Track'}</button>
             <a href="${safeUrl(j.url)}" target="_blank" rel="noopener">Open ↗</a>
@@ -411,6 +432,7 @@ function importData(ev){
 /* ---------- init ---------- */
 tracker = load(K.tracker, []);
 ui = Object.assign(ui, load(K.ui, {}));
+document.getElementById('sort').value = ui.sort || 'match';
 seen = new Set(load(K.seen, []));
 renderTracker();
 
