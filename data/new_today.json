@@ -1,73 +1,271 @@
 [
  {
-  "id": "ecb61c343d30f1",
-  "company": "Lendable",
+  "id": "4e66fa0bf926e4",
+  "company": "IQVIA",
   "region": "UK",
-  "title": "Product Manager (UK Loans)",
+  "title": "Senior Client Operations Manager - Biotech",
+  "location": "3 Locations",
+  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Livingston-West-Lothian-United-Kingdom/Senior-Client-Operations-Manager---Biotech_R1567559",
+  "posted": "Today",
+  "posted_date": "2026-09-29",
+  "posted_approx": false,
+  "first_seen": "2026-09-29",
+  "score": 51,
+  "hits": [
+   "healthcare",
+   "patient",
+   "population health",
+   "operations"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "896426cea6aded",
+  "company": "Baringa",
+  "region": "UK",
+  "title": "Senior Manager - Health and Life Sciences (Government)",
   "location": "London, United Kingdom",
-  "url": "https://jobs.ashbyhq.com/lendable/ede7a45c-71e6-48d9-a7c0-d1079131a5e6",
-  "posted": "2026-09-29T08:48:32.379+00:00",
+  "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/4930533101",
+  "posted": "2026-07-20T07:02:59-04:00",
+  "posted_date": "2026-07-20",
+  "posted_approx": false,
+  "first_seen": "2026-09-29",
+  "score": 39,
+  "hits": [
+   "health",
+   "life sciences",
+   "nhs",
+   "health system"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "ff6134c59ac41e",
+  "company": "IQVIA",
+  "region": "UK",
+  "title": "Clinical Research Associate, South West England",
+  "location": "2 Locations",
+  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bath-United-Kingdom/Clinical-Research-Associate--South-West-England_R1550620",
+  "posted": "Today",
+  "posted_date": "2026-09-29",
+  "posted_approx": false,
+  "first_seen": "2026-09-29",
+  "score": 37,
+  "hits": [
+   "healthcare",
+   "health care",
+   "clinical",
+   "patient"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "2b22e2b2ca0717",
+  "company": "IQVIA",
+  "region": "UK",
+  "title": "Clinical Supply Chain Manager",
+  "location": "9 Locations",
+  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Clinical-Supply-Chain-Manager_R1570986",
+  "posted": "Today",
+  "posted_date": "2026-09-29",
+  "posted_approx": false,
+  "first_seen": "2026-09-29",
+  "score": 33,
+  "hits": [
+   "healthcare",
+   "clinical",
+   "patient",
+   "population health"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "a2df9f89740b8d",
+  "company": "IQVIA",
+  "region": "UK",
+  "title": "Clinical Trials Assistant I",
+  "location": "Reading, Berkshire, United Kingdom",
+  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Clinical-Trials-Assistant-I_R1571552",
+  "posted": "Today",
+  "posted_date": "2026-09-29",
+  "posted_approx": false,
+  "first_seen": "2026-09-29",
+  "score": 31,
+  "hits": [
+   "healthcare",
+   "clinical",
+   "patient",
+   "population health"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "6a0961dfa60700",
+  "company": "IQVIA",
+  "region": "UK",
+  "title": "Clinical Trials Assistant II",
+  "location": "Reading, Berkshire, United Kingdom",
+  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Clinical-Trials-Assistant-II_R1571550",
+  "posted": "Today",
+  "posted_date": "2026-09-29",
+  "posted_approx": false,
+  "first_seen": "2026-09-29",
+  "score": 30,
+  "hits": [
+   "healthcare",
+   "clinical",
+   "patient",
+   "population health"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "39f69ad1036399",
+  "company": "IQVIA",
+  "region": "UK",
+  "title": "Associate Research Leader - Stem Cells",
+  "location": "Cambridge, United Kingdom",
+  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Cambridge-United-Kingdom/Associate-Research-Leader---Stem-Cells_R1571530",
+  "posted": "Today",
+  "posted_date": "2026-09-29",
+  "posted_approx": false,
+  "first_seen": "2026-09-29",
+  "score": 27,
+  "hits": [
+   "healthcare",
+   "patient",
+   "population health",
+   "strategy"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "a5a238592f4df1",
+  "company": "IQVIA",
+  "region": "UK",
+  "title": "Lead Generation Agent",
+  "location": "Reading, Berkshire, United Kingdom",
+  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Lead-Generation-Agent_R1571559",
+  "posted": "Today",
+  "posted_date": "2026-09-29",
+  "posted_approx": false,
+  "first_seen": "2026-09-29",
+  "score": 23,
+  "hits": [
+   "healthcare",
+   "patient",
+   "nhs",
+   "population health"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "547bac8ae0c745",
+  "company": "Multiverse",
+  "region": "UK",
+  "title": "Customer Value Partner, Strategic Accounts",
+  "location": "London / UK",
+  "url": "https://jobs.ashbyhq.com/multiverse/51424d0a-3d73-4d5c-91c1-a92cf5e42d51",
+  "posted": "2026-09-29T12:45:43.804+00:00",
   "posted_date": "2026-09-29",
   "posted_approx": false,
   "first_seen": "2026-09-29",
   "score": 20,
   "hits": [
-   "strategy",
-   "operations",
-   "implementation",
-   "product manager"
+   "consulting",
+   "implementation"
   ],
   "lang_checked": true
  },
  {
-  "id": "5b60bdb831ea0f",
-  "company": "Lantum",
-  "region": "UK",
-  "title": "People Advisor (6-Month Fixed Term Contract)",
-  "location": "London, England, United Kingdom",
-  "url": "https://apply.workable.com/lantum/j/C0AEBB0095/",
-  "posted": "2026-09-29T00:00:00.000Z",
+  "id": "8b4f799f299d39",
+  "company": "ING",
+  "region": "NL",
+  "title": "Sourcing Project Manager Global Technology",
+  "location": "CDR (Amsterdam - Cedar)",
+  "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/CDR-Amsterdam---Cedar/Sourcing-Project-Manager-Global-Technology_REQ-10108380-2",
+  "posted": "Today",
   "posted_date": "2026-09-29",
+  "posted_approx": false,
+  "first_seen": "2026-09-29",
+  "score": 20,
+  "hits": [
+   "operations",
+   "project manager"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "60c735d8bd3aa7",
+  "company": "Adyen",
+  "region": "NL",
+  "title": "Supply Chain, Capability Manager",
+  "location": "Amsterdam Amsterdam",
+  "url": "https://job-boards.greenhouse.io/adyen/jobs/8203665",
+  "posted": "2026-09-16T05:18:25-04:00",
+  "posted_date": "2026-09-16",
   "posted_approx": false,
   "first_seen": "2026-09-29",
   "score": 18,
   "hits": [
-   "healthcare",
-   "nhs",
-   "operations"
+   "strategy",
+   "operations",
+   "program manager",
+   "change management"
   ],
   "lang_checked": true
  },
  {
-  "id": "b9542d5321a63d",
-  "company": "Lendable",
-  "region": "UK",
-  "title": "Complaints Officer - Graduate",
-  "location": "London / United Kingdom",
-  "url": "https://jobs.ashbyhq.com/lendable/4c6ac55f-a41c-428a-8f7b-965b5d370114",
-  "posted": "2026-09-29T11:16:18.169+00:00",
+  "id": "fd4734405c0040",
+  "company": "Philips",
+  "region": "NL",
+  "title": "Category Sourcing Manager Ocean Freight (all genders)",
+  "location": "Eindhoven",
+  "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Category-Sourcing-Manager-Ocean-Freight--all-genders-_589416",
+  "posted": "Today",
   "posted_date": "2026-09-29",
   "posted_approx": false,
   "first_seen": "2026-09-29",
-  "score": 5,
+  "score": 15,
   "hits": [
-   "operations"
+   "strategy",
+   "process improvement"
   ],
   "lang_checked": true
  },
  {
-  "id": "884a0fde242e6f",
-  "company": "IQVIA",
-  "region": "UK",
-  "title": "",
-  "location": "",
-  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA",
-  "posted": null,
-  "posted_date": "2026-09-29",
-  "posted_approx": true,
+  "id": "e2b174144cdea8",
+  "company": "Mollie",
+  "region": "NL",
+  "title": "Senior Internal Communications Specialist",
+  "location": "Amsterdam / Netherlands",
+  "url": "https://jobs.ashbyhq.com/mollie/a673dc2c-f11f-4ebd-9e84-347161dbf890",
+  "posted": "2026-09-28T11:21:02.839+00:00",
+  "posted_date": "2026-09-28",
+  "posted_approx": false,
   "first_seen": "2026-09-29",
-  "score": 3,
-  "hits": [],
+  "score": 11,
+  "hits": [
+   "strategy",
+   "change management"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "2b8d5151dda6d3",
+  "company": "Lendable",
+  "region": "UK",
+  "title": "Direct Marketing Growth Manager",
+  "location": "London / United Kingdom",
+  "url": "https://jobs.ashbyhq.com/lendable/5760704f-23e7-4b4e-928c-f9edb9dfafa6",
+  "posted": "2026-09-29T16:45:35.197+00:00",
+  "posted_date": "2026-09-29",
+  "posted_approx": false,
+  "first_seen": "2026-09-29",
+  "score": 6,
+  "hits": [
+   "strategy"
+  ],
   "lang_checked": true
  }
 ]
