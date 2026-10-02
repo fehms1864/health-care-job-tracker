@@ -1,74 +1,174 @@
 [
  {
-  "id": "729ccd417059de",
-  "company": "Starling Bank",
+  "id": "5a0970caa52acc",
+  "company": "Baringa",
   "region": "UK",
-  "title": "Technology Operations Manager",
-  "location": "London, England, United Kingdom",
-  "url": "https://apply.workable.com/starling-bank/j/6E4985765B/",
-  "posted": "2026-10-01T00:00:00.000Z",
-  "posted_date": "2026-10-01",
+  "title": "Graduate Analyst Programme - Public Sector Consulting",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/4994406101",
+  "posted": "2026-10-02T03:33:17-04:00",
+  "posted_date": "2026-10-02",
   "posted_approx": false,
-  "first_seen": "2026-10-01",
-  "score": 36,
+  "first_seen": "2026-10-02",
+  "score": 35,
   "hits": [
-   "mental health",
+   "strategy",
    "operations",
-   "operations manager"
+   "consultant",
+   "consulting"
   ],
   "lang_checked": true
  },
  {
-  "id": "0340a2d2b40c29",
-  "company": "AstraZeneca",
+  "id": "a2df9f89740b8d",
+  "company": "IQVIA",
   "region": "UK",
-  "title": "Medical Affairs Lead - Neurology",
-  "location": "UK - London",
-  "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/Medical-Affairs-Lead---Neurology_R-260986-1",
+  "title": "Clinical Trials Assistant I",
+  "location": "Reading, Berkshire, United Kingdom",
+  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Clinical-Trials-Assistant-I_R1571552",
   "posted": "Today",
-  "posted_date": "2026-10-01",
+  "posted_date": "2026-10-02",
   "posted_approx": false,
-  "first_seen": "2026-10-01",
+  "first_seen": "2026-10-02",
   "score": 31,
   "hits": [
    "healthcare",
+   "clinical",
    "patient",
-   "medical",
-   "digital health"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "07ee8398f5086f",
-  "company": "IQVIA",
-  "region": "UK",
-  "title": "Facilities Assistant",
-  "location": "Manchester, United Kingdom",
-  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Manchester-United-Kingdom/Facilities-Assistant_R1571971",
-  "posted": "Today",
-  "posted_date": "2026-10-01",
-  "posted_approx": false,
-  "first_seen": "2026-10-01",
-  "score": 23,
-  "hits": [
-   "healthcare",
-   "patient",
-   "hospital",
    "population health"
   ],
   "lang_checked": true
  },
  {
-  "id": "2c40bd5bbd10fb",
+  "id": "209a3297dde208",
+  "company": "AstraZeneca",
+  "region": "UK",
+  "title": "Medical Evidence Delivery Manager",
+  "location": "Australia – New South Wales",
+  "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Australia--New-South-Wales/Medical-Evidence-Delivery-Manager_R-260743-1",
+  "posted": "Today",
+  "posted_date": "2026-10-02",
+  "posted_approx": false,
+  "first_seen": "2026-10-02",
+  "score": 31,
+  "hits": [
+   "healthcare",
+   "patient",
+   "medical"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "6a0961dfa60700",
+  "company": "IQVIA",
+  "region": "UK",
+  "title": "Clinical Trials Assistant II",
+  "location": "Reading, Berkshire, United Kingdom",
+  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Clinical-Trials-Assistant-II_R1571550",
+  "posted": "Today",
+  "posted_date": "2026-10-02",
+  "posted_approx": false,
+  "first_seen": "2026-10-02",
+  "score": 30,
+  "hits": [
+   "healthcare",
+   "clinical",
+   "patient",
+   "population health"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "93fe2b85d5f370",
+  "company": "IQVIA",
+  "region": "UK",
+  "title": "CRA 2 - Single Sponsor Dedicated",
+  "location": "4 Locations",
+  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/CRA-2---Single-Sponsor-Dedicated_R1527512",
+  "posted": "Today",
+  "posted_date": "2026-10-02",
+  "posted_approx": false,
+  "first_seen": "2026-10-02",
+  "score": 23,
+  "hits": [
+   "healthcare",
+   "health care",
+   "patient",
+   "population health"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "3f45f69f241bbb",
+  "company": "IQVIA",
+  "region": "UK",
+  "title": "Sr. CRA 1 - Single Sponsor Dedicated",
+  "location": "Reading, Berkshire, United Kingdom",
+  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Sr-CRA-1---Single-Sponsor-Dedicated_R1524547",
+  "posted": "Today",
+  "posted_date": "2026-10-02",
+  "posted_approx": false,
+  "first_seen": "2026-10-02",
+  "score": 23,
+  "hits": [
+   "healthcare",
+   "health care",
+   "patient",
+   "population health"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "f471ddd28dce64",
   "company": "Baringa",
   "region": "UK",
-  "title": "Personal Assistant - 12 month FTC",
+  "title": "Graduate Analyst Programme - Capabilities",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/4822552101",
-  "posted": "2026-03-25T13:03:57-04:00",
-  "posted_date": "2026-03-25",
+  "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/4994128101",
+  "posted": "2026-10-02T03:32:16-04:00",
+  "posted_date": "2026-10-02",
   "posted_approx": false,
-  "first_seen": "2026-10-01",
+  "first_seen": "2026-10-02",
+  "score": 23,
+  "hits": [
+   "strategy",
+   "operations",
+   "consulting",
+   "transformation"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "47876ddc583987",
+  "company": "Baringa",
+  "region": "UK",
+  "title": "Graduate Analyst Programme - Products & Services",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/4994036101",
+  "posted": "2026-10-02T03:32:55-04:00",
+  "posted_date": "2026-10-02",
+  "posted_approx": false,
+  "first_seen": "2026-10-02",
+  "score": 22,
+  "hits": [
+   "strategy",
+   "operations",
+   "consulting",
+   "transformation"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "3c5988a4c255ad",
+  "company": "Baringa",
+  "region": "UK",
+  "title": "Graduate Analyst Programme - Energy & Resources",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/4990860101",
+  "posted": "2026-09-30T09:15:32-04:00",
+  "posted_date": "2026-09-30",
+  "posted_approx": false,
+  "first_seen": "2026-10-02",
   "score": 20,
   "hits": [
    "strategy",
@@ -78,17 +178,89 @@
   "lang_checked": true
  },
  {
-  "id": "cad1ce9900fecb",
-  "company": "Deliveroo",
+  "id": "4efd303810fd6b",
+  "company": "Costello Medical",
   "region": "UK",
-  "title": "Strategy & Commercial Manager",
-  "location": "London, United Kingdom - Deliveroo",
-  "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8220160",
-  "posted": "2026-10-01T12:59:37-04:00",
+  "title": "Senior Analyst - Rare Diseases",
+  "location": "Cambridge, England, United Kingdom / Manchester, England, United Kingdom / Bristol, England, United Kingdom",
+  "url": "https://apply.workable.com/costello-medical/j/7742FF10E7/",
+  "posted": "2026-10-02T00:00:00.000Z",
+  "posted_date": "2026-10-02",
+  "posted_approx": false,
+  "first_seen": "2026-10-02",
+  "score": 20,
+  "hits": [
+   "healthcare",
+   "patient"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "c4334b0d852f47",
+  "company": "Neko Health",
+  "region": "UK",
+  "title": "People Partner Lead, Commercial",
+  "location": "New York / London / United States",
+  "url": "https://jobs.ashbyhq.com/neko-health/79a2e104-dbe0-48df-9a2c-ff2a28e0c1b6",
+  "posted": "2026-10-01T19:26:41.584+00:00",
   "posted_date": "2026-10-01",
   "posted_approx": false,
-  "first_seen": "2026-10-01",
-  "score": 20,
+  "first_seen": "2026-10-02",
+  "score": 18,
+  "hits": [
+   "healthcare",
+   "strategy"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "c17f2fee8fa3d2",
+  "company": "Starling Bank",
+  "region": "UK",
+  "title": "Customer Service Team Lead - Overnight",
+  "location": "Southampton, England, United Kingdom",
+  "url": "https://apply.workable.com/starling-bank/j/B7518935A5/",
+  "posted": "2026-10-02T00:00:00.000Z",
+  "posted_date": "2026-10-02",
+  "posted_approx": false,
+  "first_seen": "2026-10-02",
+  "score": 18,
+  "hits": [
+   "mental health",
+   "operations",
+   "operations manager"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "44ec3d16946a36",
+  "company": "Costello Medical",
+  "region": "UK",
+  "title": "IT Specialist",
+  "location": "Cambridge, England, United Kingdom",
+  "url": "https://apply.workable.com/costello-medical/j/200C996BB1/",
+  "posted": "2026-10-02T00:00:00.000Z",
+  "posted_date": "2026-10-02",
+  "posted_approx": false,
+  "first_seen": "2026-10-02",
+  "score": 14,
+  "hits": [
+   "operations"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "5fd76ed3be8cf0",
+  "company": "Monzo",
+  "region": "UK",
+  "title": "Controls Product Senior Manager",
+  "location": "London; Remote (UK)",
+  "url": "https://job-boards.greenhouse.io/monzo/jobs/8245673",
+  "posted": "2026-10-02T04:42:49-04:00",
+  "posted_date": "2026-10-02",
+  "posted_approx": false,
+  "first_seen": "2026-10-02",
+  "score": 14,
   "hits": [
    "strategy",
    "operations"
@@ -96,73 +268,52 @@
   "lang_checked": true
  },
  {
-  "id": "14d4504401d4b6",
-  "company": "Mews",
-  "region": "NL",
-  "title": "Staff Product Manager",
-  "location": "Czechia; Netherlands; Sweden; United Kingdom / Germany",
-  "url": "https://www.mews.com/en/careers/jobs/4924574101?gh_jid=4924574101",
-  "posted": "2026-07-24T05:57:13-04:00",
-  "posted_date": "2026-07-24",
+  "id": "033136816031f9",
+  "company": "Zendesk",
+  "region": "UK",
+  "title": "AI Success Strategist",
+  "location": "3 Locations",
+  "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Berlin-Germany/AI-Success-Strategist_R35606",
+  "posted": "Today",
+  "posted_date": "2026-10-02",
   "posted_approx": false,
-  "first_seen": "2026-10-01",
-  "score": 16,
+  "first_seen": "2026-10-02",
+  "score": 13,
   "hits": [
-   "strategy",
+   "strategy"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "e20c798b3dfe3b",
+  "company": "ING",
+  "region": "NL",
+  "title": "Senior product manager",
+  "location": "CDR (Amsterdam - Cedar)",
+  "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/CDR-Amsterdam---Cedar/Senior-product-manager_REQ-10121602-2",
+  "posted": "Today",
+  "posted_date": "2026-10-02",
+  "posted_approx": false,
+  "first_seen": "2026-10-02",
+  "score": 13,
+  "hits": [
    "product manager"
   ],
   "lang_checked": true
  },
  {
-  "id": "1a0e660d45c61e",
-  "company": "Deliveroo",
-  "region": "UK",
-  "title": "Commercial City Manager - Milton Keynes & Northampton",
-  "location": "London, United Kingdom - Deliveroo",
-  "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206039",
-  "posted": "2026-09-18T09:48:43-04:00",
-  "posted_date": "2026-09-18",
+  "id": "8e05808d68cc18",
+  "company": "Adyen",
+  "region": "NL",
+  "title": "Internal Control Specialist, Technology Risk",
+  "location": "Amsterdam Amsterdam",
+  "url": "https://job-boards.greenhouse.io/adyen/jobs/8232621",
+  "posted": "2026-10-02T03:16:01-04:00",
+  "posted_date": "2026-10-02",
   "posted_approx": false,
-  "first_seen": "2026-10-01",
-  "score": 11,
-  "hits": [
-   "strategy",
-   "operations"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "9d7fa48c52031a",
-  "company": "Quantexa",
-  "region": "UK",
-  "title": "Talent Partner - GTM",
-  "location": "London / United Kingdom",
-  "url": "https://jobs.ashbyhq.com/quantexa/09a8ab54-c558-4df2-b515-43d488996aad",
-  "posted": "2026-10-01T13:43:49.136+00:00",
-  "posted_date": "2026-10-01",
-  "posted_approx": false,
-  "first_seen": "2026-10-01",
-  "score": 10,
-  "hits": [
-   "healthcare"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "72abd1a9c72d49",
-  "company": "Deliveroo",
-  "region": "UK",
-  "title": "Senior Global Manager, Enterprise Ads & Promos",
-  "location": "London, United Kingdom - Deliveroo",
-  "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8236387",
-  "posted": "2026-10-01T11:54:07-04:00",
-  "posted_date": "2026-10-01",
-  "posted_approx": false,
-  "first_seen": "2026-10-01",
-  "score": 9,
-  "hits": [
-   "strategy"
-  ],
+  "first_seen": "2026-10-02",
+  "score": 4,
+  "hits": [],
   "lang_checked": true
  }
 ]
