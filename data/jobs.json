@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T11:09:19+00:00",
+ "generated_at": "2026-10-02T18:02:25+00:00",
  "baseline_date": "2026-09-27",
  "rules_version": 4,
  "jobs": [
@@ -77,6 +77,25 @@
    "hits": [
     "healthcare",
     "clinical",
+    "patient",
+    "population health"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "28822ecd5ecdaf",
+   "company": "IQVIA",
+   "region": "UK",
+   "title": "Regional Specialist",
+   "location": "Reading, Berkshire, United Kingdom",
+   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Regional-Specialist_R1535946",
+   "posted": "Today",
+   "posted_date": "2026-10-02",
+   "posted_approx": false,
+   "first_seen": "2026-10-02",
+   "score": 25,
+   "hits": [
+    "healthcare",
     "patient",
     "population health"
    ],
@@ -163,6 +182,46 @@
    "lang_checked": true
   },
   {
+   "id": "11428e38d056db",
+   "company": "Faculty",
+   "region": "UK",
+   "title": "Associate (National Security)",
+   "location": "UK - London / United Kingdom",
+   "url": "https://jobs.ashbyhq.com/faculty/cc5be5b9-e294-4ecf-bf73-d03894fb5f00",
+   "posted": "2026-10-02T11:10:55.392+00:00",
+   "posted_date": "2026-10-02",
+   "posted_approx": false,
+   "first_seen": "2026-10-02",
+   "score": 22,
+   "hits": [
+    "strategy",
+    "operations",
+    "implementation",
+    "transformation"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "ba7e5bd30728a6",
+   "company": "Lendable",
+   "region": "UK",
+   "title": "Associate Product Manager (US Cards)",
+   "location": "London / United Kingdom",
+   "url": "https://jobs.ashbyhq.com/lendable/3eca44e8-1221-431b-bb88-6eb654e1876d",
+   "posted": "2026-10-02T16:00:43.904+00:00",
+   "posted_date": "2026-10-02",
+   "posted_approx": false,
+   "first_seen": "2026-10-02",
+   "score": 22,
+   "hits": [
+    "strategy",
+    "operations",
+    "consulting",
+    "product manager"
+   ],
+   "lang_checked": true
+  },
+  {
    "id": "3c5988a4c255ad",
    "company": "Baringa",
    "region": "UK",
@@ -200,6 +259,24 @@
    "lang_checked": true
   },
   {
+   "id": "2d5536a4bcc5a1",
+   "company": "AstraZeneca",
+   "region": "UK",
+   "title": "Global Product Lead - Vaccines",
+   "location": "2 Locations",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Global-Product-Lead---Vaccines_R-261100",
+   "posted": "Today",
+   "posted_date": "2026-10-02",
+   "posted_approx": false,
+   "first_seen": "2026-10-02",
+   "score": 19,
+   "hits": [
+    "strategy",
+    "transformation"
+   ],
+   "lang_checked": true
+  },
+  {
    "id": "c4334b0d852f47",
    "company": "Neko Health",
    "region": "UK",
@@ -214,6 +291,26 @@
    "hits": [
     "healthcare",
     "strategy"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "cac6af3594332c",
+   "company": "Lendable",
+   "region": "UK",
+   "title": "Product Manager (US Cards)",
+   "location": "London / United Kingdom",
+   "url": "https://jobs.ashbyhq.com/lendable/18168f59-1ebe-497d-a4ac-5cffa51911df",
+   "posted": "2026-10-02T16:00:14.136+00:00",
+   "posted_date": "2026-10-02",
+   "posted_approx": false,
+   "first_seen": "2026-10-02",
+   "score": 18,
+   "hits": [
+    "strategy",
+    "operations",
+    "consulting",
+    "product manager"
    ],
    "lang_checked": true
   },
@@ -233,6 +330,24 @@
     "mental health",
     "operations",
     "operations manager"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "9577724d3d7653",
+   "company": "Neko Health",
+   "region": "UK",
+   "title": "FFE Design Lead",
+   "location": "London / United Kingdom",
+   "url": "https://jobs.ashbyhq.com/neko-health/8c64fba4-f691-4c11-a82d-03bf4fb165bc",
+   "posted": "2026-10-02T17:13:29.606+00:00",
+   "posted_date": "2026-10-02",
+   "posted_approx": false,
+   "first_seen": "2026-10-02",
+   "score": 16,
+   "hits": [
+    "strategy",
+    "operations"
    ],
    "lang_checked": true
   },
@@ -272,19 +387,37 @@
    "lang_checked": true
   },
   {
-   "id": "033136816031f9",
-   "company": "Zendesk",
-   "region": "UK",
-   "title": "AI Success Strategist",
-   "location": "3 Locations",
-   "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Berlin-Germany/AI-Success-Strategist_R35606",
+   "id": "9511229b57ad01",
+   "company": "Databricks NL",
+   "region": "NL",
+   "title": "Product Manager, New Grad (2026) - Belgrade",
+   "location": "Belgrade, Serbia / Amsterdam, Netherlands Amsterdam, Netherlands",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8863326002",
+   "posted": "2026-10-02T10:38:42-04:00",
+   "posted_date": "2026-10-02",
+   "posted_approx": false,
+   "first_seen": "2026-10-02",
+   "score": 14,
+   "hits": [
+    "product manager"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "e464208c598e37",
+   "company": "ING",
+   "region": "NL",
+   "title": "Product Owner Global Equity Listed Products (FMGT)",
+   "location": "TRC (Amsterdam - Treasury Center)",
+   "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/TRC-Amsterdam---Treasury-Center/Product-Owner-Global-Equity-Listed-Products--FMGT-_REQ-10114191-3",
    "posted": "Today",
    "posted_date": "2026-10-02",
    "posted_approx": false,
    "first_seen": "2026-10-02",
-   "score": 13,
+   "score": 14,
    "hits": [
-    "strategy"
+    "strategy",
+    "operations"
    ],
    "lang_checked": true
   },
@@ -306,6 +439,89 @@
    "lang_checked": true
   },
   {
+   "id": "30d84d22673eb4",
+   "company": "Databricks NL",
+   "region": "NL",
+   "title": "Product Manager, New Grad (2026) - Amsterdam",
+   "location": "Amsterdam, Netherlands Amsterdam, Netherlands",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133727002",
+   "posted": "2025-08-29T17:19:21-04:00",
+   "posted_date": "2025-08-29",
+   "posted_approx": false,
+   "first_seen": "2026-10-02",
+   "score": 12,
+   "hits": [
+    "product manager"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "9331e44eba3249",
+   "company": "Databricks NL",
+   "region": "NL",
+   "title": "Product Manager, New Grad (2026) - Berlin",
+   "location": "Berlin, Germany / Amsterdam, Netherlands Amsterdam, Netherlands",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8145800002",
+   "posted": "2025-08-29T17:19:22-04:00",
+   "posted_date": "2025-08-29",
+   "posted_approx": false,
+   "first_seen": "2026-10-02",
+   "score": 12,
+   "hits": [
+    "product manager"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "b24aeef5c3baa4",
+   "company": "Adyen",
+   "region": "NL",
+   "title": "Associate Commercial Counsel",
+   "location": "Amsterdam Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8232623",
+   "posted": "2026-10-02T08:37:26-04:00",
+   "posted_date": "2026-10-02",
+   "posted_approx": false,
+   "first_seen": "2026-10-02",
+   "score": 8,
+   "hits": [],
+   "lang_checked": true
+  },
+  {
+   "id": "b5dd4b711efa1b",
+   "company": "Trainline",
+   "region": "UK",
+   "title": "Executive Assistant",
+   "location": "London / United Kingdom",
+   "url": "https://jobs.ashbyhq.com/trainline/f7a8849d-3109-47e4-8a95-aaaee263d9e4",
+   "posted": "2026-10-02T13:21:50.916+00:00",
+   "posted_date": "2026-10-02",
+   "posted_approx": false,
+   "first_seen": "2026-10-02",
+   "score": 6,
+   "hits": [
+    "healthcare"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "c80b2f6c3a90f9",
+   "company": "Starling Bank",
+   "region": "UK",
+   "title": "Customer Service Team Member - Part Time Evenings",
+   "location": "Cardiff, Wales, United Kingdom",
+   "url": "https://apply.workable.com/starling-bank/j/A24057111C/",
+   "posted": "2026-10-02T00:00:00.000Z",
+   "posted_date": "2026-10-02",
+   "posted_approx": false,
+   "first_seen": "2026-10-02",
+   "score": 4,
+   "hits": [
+    "strategy"
+   ],
+   "lang_checked": true
+  },
+  {
    "id": "8e05808d68cc18",
    "company": "Adyen",
    "region": "NL",
@@ -317,6 +533,36 @@
    "posted_approx": false,
    "first_seen": "2026-10-02",
    "score": 4,
+   "hits": [],
+   "lang_checked": true
+  },
+  {
+   "id": "d61dd277cd57db",
+   "company": "Mollie",
+   "region": "NL",
+   "title": "Product Delivery Manager - Partner Scale",
+   "location": "Amsterdam / Milan / Netherlands",
+   "url": "https://jobs.ashbyhq.com/mollie/632619e8-45b0-4719-a994-0605ebfd65e0",
+   "posted": "2026-10-02T12:27:14.406+00:00",
+   "posted_date": "2026-10-02",
+   "posted_approx": false,
+   "first_seen": "2026-10-02",
+   "score": 3,
+   "hits": [],
+   "lang_checked": true
+  },
+  {
+   "id": "f83ca146cdfc22",
+   "company": "Adyen",
+   "region": "NL",
+   "title": "Legal Team Lead for Deal Desk - Transactions",
+   "location": "Amsterdam Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8225779",
+   "posted": "2026-10-02T08:19:41-04:00",
+   "posted_date": "2026-10-02",
+   "posted_approx": false,
+   "first_seen": "2026-10-02",
+   "score": 2,
    "hits": [],
    "lang_checked": true
   },
@@ -2176,26 +2422,6 @@
     "patient",
     "digital health",
     "population health"
-   ],
-   "lang_checked": true
-  },
-  {
-   "id": "6651893d357103",
-   "company": "Talan",
-   "region": "UK",
-   "title": "Senior Data & Digital Solutions Consultant",
-   "location": "London, England, gb",
-   "url": "https://jobs.smartrecruiters.com/talan/744000141859616",
-   "posted": "2026-08-06T07:57:25.671Z",
-   "posted_date": "2026-08-06",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 40,
-   "hits": [
-    "strategy",
-    "consultant",
-    "consulting",
-    "transformation"
    ],
    "lang_checked": true
   },
@@ -4103,7 +4329,7 @@
    "title": "Global Clinical Program Lead",
    "location": "UK - Cambridge",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---Cambridge/Global-Clinical-Program-Lead_R-260624-1",
-   "posted": "7 Days Ago",
+   "posted": "Today",
    "posted_date": "2026-09-25",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -4133,26 +4359,6 @@
     "patient",
     "nhs",
     "strategy"
-   ],
-   "lang_checked": true
-  },
-  {
-   "id": "cf72f7099a6409",
-   "company": "Talan",
-   "region": "UK",
-   "title": "Economic Consultant",
-   "location": "Birmingham, England, gb",
-   "url": "https://jobs.smartrecruiters.com/talan/744000141452201",
-   "posted": "2026-08-04T09:44:24.293Z",
-   "posted_date": "2026-08-04",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 26,
-   "hits": [
-    "strategy",
-    "consultant",
-    "consulting",
-    "transformation"
    ],
    "lang_checked": true
   },
@@ -6305,24 +6511,6 @@
    "lang_checked": true
   },
   {
-   "id": "89897124bc1b68",
-   "company": "Neko Health",
-   "region": "UK",
-   "title": "Market Activation Lead, London",
-   "location": "London / United Kingdom",
-   "url": "https://jobs.ashbyhq.com/neko-health/22d465a2-ed83-4903-9682-f6416539b685",
-   "posted": "2026-06-19T11:24:50.247+00:00",
-   "posted_date": "2026-06-19",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 18,
-   "hits": [
-    "strategy",
-    "operations"
-   ],
-   "lang_checked": true
-  },
-  {
    "id": "1114f3492d74bf",
    "company": "Neko Health",
    "region": "UK",
@@ -6541,13 +6729,13 @@
    "lang_checked": true
   },
   {
-   "id": "2c79f6ba2bad5c",
+   "id": "34115999fb7a88",
    "company": "Adyen",
    "region": "NL",
    "title": "Manager, Platform Offering Strategy",
    "location": "Amsterdam Amsterdam / New York New York",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8010419",
-   "posted": "2026-06-16T12:29:00-04:00",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/7760238",
+   "posted": "2026-06-16T12:25:41-04:00",
    "posted_date": "2026-06-16",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -6559,13 +6747,13 @@
    "lang_checked": true
   },
   {
-   "id": "34115999fb7a88",
+   "id": "2c79f6ba2bad5c",
    "company": "Adyen",
    "region": "NL",
    "title": "Manager, Platform Offering Strategy",
    "location": "Amsterdam Amsterdam / New York New York",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/7760238",
-   "posted": "2026-06-16T12:25:41-04:00",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8010419",
+   "posted": "2026-06-16T12:29:00-04:00",
    "posted_date": "2026-06-16",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -7394,24 +7582,6 @@
    "lang_checked": true
   },
   {
-   "id": "55cdb480170b4e",
-   "company": "OpenAI",
-   "region": "UK",
-   "title": "Child Safety Enforcement Specialist",
-   "location": "San Francisco / Singapore / Dublin, Ireland / US - Remote / London, UK / United States",
-   "url": "https://jobs.ashbyhq.com/openai/2dad7155-8f62-4f0b-8368-0be331187367",
-   "posted": "2026-10-01T19:18:57.757+00:00",
-   "posted_date": "2026-09-08",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 12,
-   "hits": [
-    "operations",
-    "process improvement"
-   ],
-   "lang_checked": true
-  },
-  {
    "id": "31be75e8ae6a8d",
    "company": "Stripe",
    "region": "UK",
@@ -7906,13 +8076,13 @@
    "lang_checked": true
   },
   {
-   "id": "5c9923fc2a4c97",
+   "id": "94cb7bc472850f",
    "company": "SumUp",
    "region": "UK",
    "title": "Workday Specialist",
    "location": "Barcelona Barcelona, Barcelona, Spain / Berlin Berlin, Germany / London London, England, United Kingdom / Mexico - Remote Mexico City, Mexico City, Mexico / São",
-   "url": "https://sumup.com/careers/positions/8547633002?gh_jid=8547633002",
-   "posted": "2026-05-13T10:38:36-04:00",
+   "url": "https://sumup.com/careers/positions/8547634002?gh_jid=8547634002",
+   "posted": "2026-05-13T10:39:15-04:00",
    "posted_date": "2026-05-13",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -7924,13 +8094,13 @@
    "lang_checked": true
   },
   {
-   "id": "94cb7bc472850f",
+   "id": "5c9923fc2a4c97",
    "company": "SumUp",
    "region": "UK",
    "title": "Workday Specialist",
    "location": "Barcelona Barcelona, Barcelona, Spain / Berlin Berlin, Germany / London London, England, United Kingdom / Mexico - Remote Mexico City, Mexico City, Mexico / São",
-   "url": "https://sumup.com/careers/positions/8547634002?gh_jid=8547634002",
-   "posted": "2026-05-13T10:39:15-04:00",
+   "url": "https://sumup.com/careers/positions/8547633002?gh_jid=8547633002",
+   "posted": "2026-05-13T10:38:36-04:00",
    "posted_date": "2026-05-13",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -8223,7 +8393,7 @@
    "id": "deefe4d2f996b8",
    "company": "Quantexa",
    "region": "UK",
-   "title": "Technology Account Partner - Public Sector",
+   "title": "Technology Account Partner - Public Sector - UK",
    "location": "London / United Kingdom",
    "url": "https://jobs.ashbyhq.com/quantexa/ef5a561c-37e5-4094-a584-e5dfe6ee0f40",
    "posted": "2026-09-21T17:07:15.584+00:00",
@@ -8287,13 +8457,13 @@
    "lang_checked": true
   },
   {
-   "id": "fddc3e59949d98",
+   "id": "46f817c03b29f9",
    "company": "Datadog",
    "region": "UK",
    "title": "Global Safety & Security Manager",
-   "location": "Sydney, Australia / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
-   "url": "https://careers.datadoghq.com/detail/8224963/?gh_jid=8224963",
-   "posted": "2026-09-23T22:03:12-04:00",
+   "location": "Singapore, Singapore / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
+   "url": "https://careers.datadoghq.com/detail/8223272/?gh_jid=8223272",
+   "posted": "2026-09-23T21:51:51-04:00",
    "posted_date": "2026-09-23",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -8304,13 +8474,13 @@
    "lang_checked": true
   },
   {
-   "id": "46f817c03b29f9",
+   "id": "fddc3e59949d98",
    "company": "Datadog",
    "region": "UK",
    "title": "Global Safety & Security Manager",
-   "location": "Singapore, Singapore / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
-   "url": "https://careers.datadoghq.com/detail/8223272/?gh_jid=8223272",
-   "posted": "2026-09-23T21:51:51-04:00",
+   "location": "Sydney, Australia / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
+   "url": "https://careers.datadoghq.com/detail/8224963/?gh_jid=8224963",
+   "posted": "2026-09-23T22:03:12-04:00",
    "posted_date": "2026-09-23",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -9479,13 +9649,13 @@
    "lang_checked": true
   },
   {
-   "id": "ceeaa0cf8c6de2",
+   "id": "5436cb72ceda73",
    "company": "Datadog",
    "region": "UK",
    "title": "Senior Partner Manager - Channels (Security)",
-   "location": "Sydney, Australia / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
-   "url": "https://careers.datadoghq.com/detail/8166231/?gh_jid=8166231",
-   "posted": "2026-09-04T06:56:39-04:00",
+   "location": "Singapore, Singapore / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
+   "url": "https://careers.datadoghq.com/detail/8164588/?gh_jid=8164588",
+   "posted": "2026-09-04T06:56:37-04:00",
    "posted_date": "2026-09-04",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -9494,13 +9664,13 @@
    "lang_checked": true
   },
   {
-   "id": "5436cb72ceda73",
+   "id": "ceeaa0cf8c6de2",
    "company": "Datadog",
    "region": "UK",
    "title": "Senior Partner Manager - Channels (Security)",
-   "location": "Singapore, Singapore / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
-   "url": "https://careers.datadoghq.com/detail/8164588/?gh_jid=8164588",
-   "posted": "2026-09-04T06:56:37-04:00",
+   "location": "Sydney, Australia / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
+   "url": "https://careers.datadoghq.com/detail/8166231/?gh_jid=8166231",
+   "posted": "2026-09-04T06:56:39-04:00",
    "posted_date": "2026-09-04",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -10173,32 +10343,12 @@
    "changed_on": "2026-10-02",
    "new_links": [
     {
-     "title": "Sr. Staff Design Program Manager, Core Business Workflows",
-     "url": "https://careers.servicenow.com/jobs/744000153048964/sr-staff-design-program-manager-core-business-workflows/"
+     "title": "Partner Manager",
+     "url": "https://careers.servicenow.com/jobs/744000153235011/partner-manager/"
     },
     {
-     "title": "Senior Customer Success Manager - Moveworks",
-     "url": "https://careers.servicenow.com/jobs/744000153036467/senior-customer-success-manager-moveworks/"
-    },
-    {
-     "title": "CIO Strategic Initiatives GTM Lead",
-     "url": "https://careers.servicenow.com/jobs/744000153036559/cio-strategic-initiatives-gtm-lead/"
-    },
-    {
-     "title": "AVP, Alliances & Channels Ecosystem EMEA Central",
-     "url": "https://careers.servicenow.com/jobs/744000153033989/avp-alliances-channels-ecosystem-emea-central/"
-    },
-    {
-     "title": "Sr. Manager, Product Design, IT Asset Management",
-     "url": "https://careers.servicenow.com/jobs/744000153032540/sr-manager-product-design-it-asset-management/"
-    },
-    {
-     "title": "Principal Inbound Product Manager - Now Engage",
-     "url": "https://careers.servicenow.com/jobs/744000153020371/principal-inbound-product-manager-now-engage/"
-    },
-    {
-     "title": "Customer Success Executive",
-     "url": "https://careers.servicenow.com/jobs/744000153013069/customer-success-executive/"
+     "title": "Principal Customer Success Executive - Manufacturing Vertical",
+     "url": "https://careers.servicenow.com/jobs/744000153222540/principal-customer-success-executive-manufacturing-vertical/"
     }
    ],
    "new_on": "2026-10-02",
@@ -10610,7 +10760,7 @@
    "url": "https://optiver.com/join-us/jobs/",
    "kind": "page",
    "readable": true,
-   "changed_on": "2026-10-01",
+   "changed_on": "2026-10-02",
    "new_links": [],
    "new_on": "2026-10-01",
    "error": null
@@ -10642,32 +10792,12 @@
    "changed_on": "2026-10-02",
    "new_links": [
     {
-     "title": "Sr. Staff Design Program Manager, Core Business Workflows",
-     "url": "https://careers.servicenow.com/jobs/744000153048964/sr-staff-design-program-manager-core-business-workflows/"
+     "title": "Partner Manager",
+     "url": "https://careers.servicenow.com/jobs/744000153235011/partner-manager/"
     },
     {
-     "title": "Senior Customer Success Manager - Moveworks",
-     "url": "https://careers.servicenow.com/jobs/744000153036467/senior-customer-success-manager-moveworks/"
-    },
-    {
-     "title": "CIO Strategic Initiatives GTM Lead",
-     "url": "https://careers.servicenow.com/jobs/744000153036559/cio-strategic-initiatives-gtm-lead/"
-    },
-    {
-     "title": "AVP, Alliances & Channels Ecosystem EMEA Central",
-     "url": "https://careers.servicenow.com/jobs/744000153033989/avp-alliances-channels-ecosystem-emea-central/"
-    },
-    {
-     "title": "Sr. Manager, Product Design, IT Asset Management",
-     "url": "https://careers.servicenow.com/jobs/744000153032540/sr-manager-product-design-it-asset-management/"
-    },
-    {
-     "title": "Principal Inbound Product Manager - Now Engage",
-     "url": "https://careers.servicenow.com/jobs/744000153020371/principal-inbound-product-manager-now-engage/"
-    },
-    {
-     "title": "Customer Success Executive",
-     "url": "https://careers.servicenow.com/jobs/744000153013069/customer-success-executive/"
+     "title": "Principal Customer Success Executive - Manufacturing Vertical",
+     "url": "https://careers.servicenow.com/jobs/744000153222540/principal-customer-success-executive-manufacturing-vertical/"
     }
    ],
    "new_on": "2026-10-02",
@@ -10989,9 +11119,9 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 212,
-   "in_region": 64,
-   "kept": 24
+   "total": 220,
+   "in_region": 70,
+   "kept": 26
   },
   {
    "companies": [
@@ -11009,9 +11139,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 88,
-   "in_region": 88,
-   "kept": 18
+   "total": 91,
+   "in_region": 91,
+   "kept": 19
   },
   {
    "companies": [
@@ -11019,7 +11149,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 47,
+   "total": 48,
    "in_region": 7,
    "kept": 1
   },
@@ -11030,7 +11160,7 @@
    "source": "greenhouse",
    "error": null,
    "total": 94,
-   "in_region": 42,
+   "in_region": 40,
    "kept": 27
   },
   {
@@ -11039,7 +11169,7 @@
    ],
    "source": "eightfold",
    "error": null,
-   "total": 617,
+   "total": 633,
    "in_region": 2,
    "kept": 0
   },
@@ -11069,7 +11199,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 77,
+   "total": 79,
    "in_region": 2,
    "kept": 0
   },
@@ -11099,8 +11229,8 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 22,
-   "in_region": 13,
+   "total": 20,
+   "in_region": 11,
    "kept": 2
   },
   {
@@ -11149,8 +11279,8 @@
    ],
    "source": "smartrecruiters",
    "error": null,
-   "total": 482,
-   "in_region": 300,
+   "total": 483,
+   "in_region": 301,
    "kept": 5
   },
   {
@@ -11180,9 +11310,9 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 873,
-   "in_region": 84,
-   "kept": 6
+   "total": 879,
+   "in_region": 91,
+   "kept": 9
   },
   {
    "companies": [
@@ -11190,8 +11320,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 440,
-   "in_region": 43,
+   "total": 443,
+   "in_region": 44,
    "kept": 14
   },
   {
@@ -11200,8 +11330,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 180,
-   "in_region": 125,
+   "total": 184,
+   "in_region": 129,
    "kept": 32
   },
   {
@@ -11240,9 +11370,9 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 69,
-   "in_region": 69,
-   "kept": 14
+   "total": 77,
+   "in_region": 77,
+   "kept": 15
   },
   {
    "companies": [
@@ -11260,7 +11390,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 164,
+   "total": 163,
    "in_region": 19,
    "kept": 5
   },
@@ -11291,7 +11421,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 27,
+   "total": 25,
    "in_region": 10,
    "kept": 2
   },
@@ -11321,9 +11451,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 41,
-   "in_region": 41,
-   "kept": 8
+   "total": 43,
+   "in_region": 43,
+   "kept": 9
   },
   {
    "companies": [
@@ -11333,9 +11463,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 295,
-   "in_region": 295,
-   "kept": 80
+   "total": 299,
+   "in_region": 299,
+   "kept": 81
   },
   {
    "companies": [
@@ -11363,7 +11493,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 107,
+   "total": 108,
    "in_region": 52,
    "kept": 9
   },
@@ -11403,9 +11533,9 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 69,
-   "in_region": 65,
-   "kept": 24
+   "total": 71,
+   "in_region": 67,
+   "kept": 26
   },
   {
    "companies": [
@@ -11473,9 +11603,9 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 41,
-   "in_region": 13,
-   "kept": 1
+   "total": 42,
+   "in_region": 14,
+   "kept": 2
   },
   {
    "companies": [
@@ -11503,8 +11633,8 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 111,
-   "in_region": 40,
+   "total": 112,
+   "in_region": 41,
    "kept": 18
   },
   {
@@ -11543,9 +11673,9 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 833,
-   "in_region": 36,
-   "kept": 9
+   "total": 829,
+   "in_region": 35,
+   "kept": 8
   },
   {
    "companies": [
@@ -11553,7 +11683,7 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 81,
+   "total": 84,
    "in_region": 0,
    "kept": 0
   },
@@ -11564,7 +11694,7 @@
    ],
    "source": "lever",
    "error": null,
-   "total": 320,
+   "total": 319,
    "in_region": 44,
    "kept": 7
   },
@@ -11586,8 +11716,8 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 65,
-   "in_region": 65,
+   "total": 63,
+   "in_region": 63,
    "kept": 18
   },
   {
@@ -11606,7 +11736,7 @@
    ],
    "source": "lever",
    "error": null,
-   "total": 138,
+   "total": 137,
    "in_region": 32,
    "kept": 12
   },
@@ -11626,8 +11756,8 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 37,
-   "in_region": 15,
+   "total": 38,
+   "in_region": 16,
    "kept": 4
   },
   {
@@ -11666,9 +11796,9 @@
    ],
    "source": "workable",
    "error": null,
-   "total": 45,
-   "in_region": 41,
-   "kept": 9
+   "total": 46,
+   "in_region": 42,
+   "kept": 10
   },
   {
    "companies": [
@@ -11677,7 +11807,7 @@
    "source": "greenhouse",
    "error": null,
    "total": 711,
-   "in_region": 59,
+   "in_region": 60,
    "kept": 19
   },
   {
@@ -11686,8 +11816,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 339,
-   "in_region": 98,
+   "total": 341,
+   "in_region": 97,
    "kept": 8
   },
   {
@@ -11706,9 +11836,9 @@
    ],
    "source": "smartrecruiters",
    "error": null,
-   "total": 473,
-   "in_region": 31,
-   "kept": 4
+   "total": 477,
+   "in_region": 30,
+   "kept": 2
   },
   {
    "companies": [
@@ -11726,9 +11856,9 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 27,
-   "in_region": 27,
-   "kept": 7
+   "total": 29,
+   "in_region": 29,
+   "kept": 8
   },
   {
    "companies": [
@@ -11766,7 +11896,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 307,
+   "total": 305,
    "in_region": 17,
    "kept": 2
   },
@@ -11786,9 +11916,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 12,
-   "in_region": 12,
-   "kept": 5
+   "total": 11,
+   "in_region": 11,
+   "kept": 4
   },
   {
    "companies": [
@@ -11804,8 +11934,8 @@
  "counts": {
   "companies": 215,
   "feeds": 82,
-  "jobs": 532,
-  "new_today": 17,
+  "jobs": 542,
+  "new_today": 15,
   "pages": 35
  }
 }

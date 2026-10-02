@@ -1,151 +1,51 @@
 [
  {
-  "id": "5a0970caa52acc",
-  "company": "Baringa",
+  "id": "28822ecd5ecdaf",
+  "company": "IQVIA",
   "region": "UK",
-  "title": "Graduate Analyst Programme - Public Sector Consulting",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/4994406101",
-  "posted": "2026-10-02T03:33:17-04:00",
+  "title": "Regional Specialist",
+  "location": "Reading, Berkshire, United Kingdom",
+  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Regional-Specialist_R1535946",
+  "posted": "Today",
   "posted_date": "2026-10-02",
   "posted_approx": false,
   "first_seen": "2026-10-02",
-  "score": 35,
+  "score": 25,
+  "hits": [
+   "healthcare",
+   "patient",
+   "population health"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "11428e38d056db",
+  "company": "Faculty",
+  "region": "UK",
+  "title": "Associate (National Security)",
+  "location": "UK - London / United Kingdom",
+  "url": "https://jobs.ashbyhq.com/faculty/cc5be5b9-e294-4ecf-bf73-d03894fb5f00",
+  "posted": "2026-10-02T11:10:55.392+00:00",
+  "posted_date": "2026-10-02",
+  "posted_approx": false,
+  "first_seen": "2026-10-02",
+  "score": 22,
   "hits": [
    "strategy",
    "operations",
-   "consultant",
-   "consulting"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "a2df9f89740b8d",
-  "company": "IQVIA",
-  "region": "UK",
-  "title": "Clinical Trials Assistant I",
-  "location": "Reading, Berkshire, United Kingdom",
-  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Clinical-Trials-Assistant-I_R1571552",
-  "posted": "Today",
-  "posted_date": "2026-10-02",
-  "posted_approx": false,
-  "first_seen": "2026-10-02",
-  "score": 31,
-  "hits": [
-   "healthcare",
-   "clinical",
-   "patient",
-   "population health"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "209a3297dde208",
-  "company": "AstraZeneca",
-  "region": "UK",
-  "title": "Medical Evidence Delivery Manager",
-  "location": "Australia – New South Wales",
-  "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Australia--New-South-Wales/Medical-Evidence-Delivery-Manager_R-260743-1",
-  "posted": "Today",
-  "posted_date": "2026-10-02",
-  "posted_approx": false,
-  "first_seen": "2026-10-02",
-  "score": 31,
-  "hits": [
-   "healthcare",
-   "patient",
-   "medical"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "6a0961dfa60700",
-  "company": "IQVIA",
-  "region": "UK",
-  "title": "Clinical Trials Assistant II",
-  "location": "Reading, Berkshire, United Kingdom",
-  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Clinical-Trials-Assistant-II_R1571550",
-  "posted": "Today",
-  "posted_date": "2026-10-02",
-  "posted_approx": false,
-  "first_seen": "2026-10-02",
-  "score": 30,
-  "hits": [
-   "healthcare",
-   "clinical",
-   "patient",
-   "population health"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "93fe2b85d5f370",
-  "company": "IQVIA",
-  "region": "UK",
-  "title": "CRA 2 - Single Sponsor Dedicated",
-  "location": "4 Locations",
-  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/CRA-2---Single-Sponsor-Dedicated_R1527512",
-  "posted": "Today",
-  "posted_date": "2026-10-02",
-  "posted_approx": false,
-  "first_seen": "2026-10-02",
-  "score": 23,
-  "hits": [
-   "healthcare",
-   "health care",
-   "patient",
-   "population health"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "3f45f69f241bbb",
-  "company": "IQVIA",
-  "region": "UK",
-  "title": "Sr. CRA 1 - Single Sponsor Dedicated",
-  "location": "Reading, Berkshire, United Kingdom",
-  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Sr-CRA-1---Single-Sponsor-Dedicated_R1524547",
-  "posted": "Today",
-  "posted_date": "2026-10-02",
-  "posted_approx": false,
-  "first_seen": "2026-10-02",
-  "score": 23,
-  "hits": [
-   "healthcare",
-   "health care",
-   "patient",
-   "population health"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "f471ddd28dce64",
-  "company": "Baringa",
-  "region": "UK",
-  "title": "Graduate Analyst Programme - Capabilities",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/4994128101",
-  "posted": "2026-10-02T03:32:16-04:00",
-  "posted_date": "2026-10-02",
-  "posted_approx": false,
-  "first_seen": "2026-10-02",
-  "score": 23,
-  "hits": [
-   "strategy",
-   "operations",
-   "consulting",
+   "implementation",
    "transformation"
   ],
   "lang_checked": true
  },
  {
-  "id": "47876ddc583987",
-  "company": "Baringa",
+  "id": "ba7e5bd30728a6",
+  "company": "Lendable",
   "region": "UK",
-  "title": "Graduate Analyst Programme - Products & Services",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/4994036101",
-  "posted": "2026-10-02T03:32:55-04:00",
+  "title": "Associate Product Manager (US Cards)",
+  "location": "London / United Kingdom",
+  "url": "https://jobs.ashbyhq.com/lendable/3eca44e8-1221-431b-bb88-6eb654e1876d",
+  "posted": "2026-10-02T16:00:43.904+00:00",
   "posted_date": "2026-10-02",
   "posted_approx": false,
   "first_seen": "2026-10-02",
@@ -154,113 +54,60 @@
    "strategy",
    "operations",
    "consulting",
-   "transformation"
+   "product manager"
   ],
   "lang_checked": true
  },
  {
-  "id": "3c5988a4c255ad",
-  "company": "Baringa",
+  "id": "2d5536a4bcc5a1",
+  "company": "AstraZeneca",
   "region": "UK",
-  "title": "Graduate Analyst Programme - Energy & Resources",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/4990860101",
-  "posted": "2026-09-30T09:15:32-04:00",
-  "posted_date": "2026-09-30",
-  "posted_approx": false,
-  "first_seen": "2026-10-02",
-  "score": 20,
-  "hits": [
-   "strategy",
-   "consulting",
-   "transformation"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "4efd303810fd6b",
-  "company": "Costello Medical",
-  "region": "UK",
-  "title": "Senior Analyst - Rare Diseases",
-  "location": "Cambridge, England, United Kingdom / Manchester, England, United Kingdom / Bristol, England, United Kingdom",
-  "url": "https://apply.workable.com/costello-medical/j/7742FF10E7/",
-  "posted": "2026-10-02T00:00:00.000Z",
+  "title": "Global Product Lead - Vaccines",
+  "location": "2 Locations",
+  "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Global-Product-Lead---Vaccines_R-261100",
+  "posted": "Today",
   "posted_date": "2026-10-02",
   "posted_approx": false,
   "first_seen": "2026-10-02",
-  "score": 20,
+  "score": 19,
   "hits": [
-   "healthcare",
-   "patient"
+   "strategy",
+   "transformation"
   ],
   "lang_checked": true
  },
  {
-  "id": "c4334b0d852f47",
+  "id": "cac6af3594332c",
+  "company": "Lendable",
+  "region": "UK",
+  "title": "Product Manager (US Cards)",
+  "location": "London / United Kingdom",
+  "url": "https://jobs.ashbyhq.com/lendable/18168f59-1ebe-497d-a4ac-5cffa51911df",
+  "posted": "2026-10-02T16:00:14.136+00:00",
+  "posted_date": "2026-10-02",
+  "posted_approx": false,
+  "first_seen": "2026-10-02",
+  "score": 18,
+  "hits": [
+   "strategy",
+   "operations",
+   "consulting",
+   "product manager"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "9577724d3d7653",
   "company": "Neko Health",
   "region": "UK",
-  "title": "People Partner Lead, Commercial",
-  "location": "New York / London / United States",
-  "url": "https://jobs.ashbyhq.com/neko-health/79a2e104-dbe0-48df-9a2c-ff2a28e0c1b6",
-  "posted": "2026-10-01T19:26:41.584+00:00",
-  "posted_date": "2026-10-01",
-  "posted_approx": false,
-  "first_seen": "2026-10-02",
-  "score": 18,
-  "hits": [
-   "healthcare",
-   "strategy"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "c17f2fee8fa3d2",
-  "company": "Starling Bank",
-  "region": "UK",
-  "title": "Customer Service Team Lead - Overnight",
-  "location": "Southampton, England, United Kingdom",
-  "url": "https://apply.workable.com/starling-bank/j/B7518935A5/",
-  "posted": "2026-10-02T00:00:00.000Z",
+  "title": "FFE Design Lead",
+  "location": "London / United Kingdom",
+  "url": "https://jobs.ashbyhq.com/neko-health/8c64fba4-f691-4c11-a82d-03bf4fb165bc",
+  "posted": "2026-10-02T17:13:29.606+00:00",
   "posted_date": "2026-10-02",
   "posted_approx": false,
   "first_seen": "2026-10-02",
-  "score": 18,
-  "hits": [
-   "mental health",
-   "operations",
-   "operations manager"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "44ec3d16946a36",
-  "company": "Costello Medical",
-  "region": "UK",
-  "title": "IT Specialist",
-  "location": "Cambridge, England, United Kingdom",
-  "url": "https://apply.workable.com/costello-medical/j/200C996BB1/",
-  "posted": "2026-10-02T00:00:00.000Z",
-  "posted_date": "2026-10-02",
-  "posted_approx": false,
-  "first_seen": "2026-10-02",
-  "score": 14,
-  "hits": [
-   "operations"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "5fd76ed3be8cf0",
-  "company": "Monzo",
-  "region": "UK",
-  "title": "Controls Product Senior Manager",
-  "location": "London; Remote (UK)",
-  "url": "https://job-boards.greenhouse.io/monzo/jobs/8245673",
-  "posted": "2026-10-02T04:42:49-04:00",
-  "posted_date": "2026-10-02",
-  "posted_approx": false,
-  "first_seen": "2026-10-02",
-  "score": 14,
+  "score": 16,
   "hits": [
    "strategy",
    "operations"
@@ -268,51 +115,150 @@
   "lang_checked": true
  },
  {
-  "id": "033136816031f9",
-  "company": "Zendesk",
-  "region": "UK",
-  "title": "AI Success Strategist",
-  "location": "3 Locations",
-  "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Berlin-Germany/AI-Success-Strategist_R35606",
-  "posted": "Today",
-  "posted_date": "2026-10-02",
-  "posted_approx": false,
-  "first_seen": "2026-10-02",
-  "score": 13,
-  "hits": [
-   "strategy"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "e20c798b3dfe3b",
-  "company": "ING",
+  "id": "9511229b57ad01",
+  "company": "Databricks NL",
   "region": "NL",
-  "title": "Senior product manager",
-  "location": "CDR (Amsterdam - Cedar)",
-  "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/CDR-Amsterdam---Cedar/Senior-product-manager_REQ-10121602-2",
-  "posted": "Today",
+  "title": "Product Manager, New Grad (2026) - Belgrade",
+  "location": "Belgrade, Serbia / Amsterdam, Netherlands Amsterdam, Netherlands",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8863326002",
+  "posted": "2026-10-02T10:38:42-04:00",
   "posted_date": "2026-10-02",
   "posted_approx": false,
   "first_seen": "2026-10-02",
-  "score": 13,
+  "score": 14,
   "hits": [
    "product manager"
   ],
   "lang_checked": true
  },
  {
-  "id": "8e05808d68cc18",
+  "id": "e464208c598e37",
+  "company": "ING",
+  "region": "NL",
+  "title": "Product Owner Global Equity Listed Products (FMGT)",
+  "location": "TRC (Amsterdam - Treasury Center)",
+  "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/TRC-Amsterdam---Treasury-Center/Product-Owner-Global-Equity-Listed-Products--FMGT-_REQ-10114191-3",
+  "posted": "Today",
+  "posted_date": "2026-10-02",
+  "posted_approx": false,
+  "first_seen": "2026-10-02",
+  "score": 14,
+  "hits": [
+   "strategy",
+   "operations"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "30d84d22673eb4",
+  "company": "Databricks NL",
+  "region": "NL",
+  "title": "Product Manager, New Grad (2026) - Amsterdam",
+  "location": "Amsterdam, Netherlands Amsterdam, Netherlands",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133727002",
+  "posted": "2025-08-29T17:19:21-04:00",
+  "posted_date": "2025-08-29",
+  "posted_approx": false,
+  "first_seen": "2026-10-02",
+  "score": 12,
+  "hits": [
+   "product manager"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "9331e44eba3249",
+  "company": "Databricks NL",
+  "region": "NL",
+  "title": "Product Manager, New Grad (2026) - Berlin",
+  "location": "Berlin, Germany / Amsterdam, Netherlands Amsterdam, Netherlands",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8145800002",
+  "posted": "2025-08-29T17:19:22-04:00",
+  "posted_date": "2025-08-29",
+  "posted_approx": false,
+  "first_seen": "2026-10-02",
+  "score": 12,
+  "hits": [
+   "product manager"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "b24aeef5c3baa4",
   "company": "Adyen",
   "region": "NL",
-  "title": "Internal Control Specialist, Technology Risk",
+  "title": "Associate Commercial Counsel",
   "location": "Amsterdam Amsterdam",
-  "url": "https://job-boards.greenhouse.io/adyen/jobs/8232621",
-  "posted": "2026-10-02T03:16:01-04:00",
+  "url": "https://job-boards.greenhouse.io/adyen/jobs/8232623",
+  "posted": "2026-10-02T08:37:26-04:00",
+  "posted_date": "2026-10-02",
+  "posted_approx": false,
+  "first_seen": "2026-10-02",
+  "score": 8,
+  "hits": [],
+  "lang_checked": true
+ },
+ {
+  "id": "b5dd4b711efa1b",
+  "company": "Trainline",
+  "region": "UK",
+  "title": "Executive Assistant",
+  "location": "London / United Kingdom",
+  "url": "https://jobs.ashbyhq.com/trainline/f7a8849d-3109-47e4-8a95-aaaee263d9e4",
+  "posted": "2026-10-02T13:21:50.916+00:00",
+  "posted_date": "2026-10-02",
+  "posted_approx": false,
+  "first_seen": "2026-10-02",
+  "score": 6,
+  "hits": [
+   "healthcare"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "c80b2f6c3a90f9",
+  "company": "Starling Bank",
+  "region": "UK",
+  "title": "Customer Service Team Member - Part Time Evenings",
+  "location": "Cardiff, Wales, United Kingdom",
+  "url": "https://apply.workable.com/starling-bank/j/A24057111C/",
+  "posted": "2026-10-02T00:00:00.000Z",
   "posted_date": "2026-10-02",
   "posted_approx": false,
   "first_seen": "2026-10-02",
   "score": 4,
+  "hits": [
+   "strategy"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "d61dd277cd57db",
+  "company": "Mollie",
+  "region": "NL",
+  "title": "Product Delivery Manager - Partner Scale",
+  "location": "Amsterdam / Milan / Netherlands",
+  "url": "https://jobs.ashbyhq.com/mollie/632619e8-45b0-4719-a994-0605ebfd65e0",
+  "posted": "2026-10-02T12:27:14.406+00:00",
+  "posted_date": "2026-10-02",
+  "posted_approx": false,
+  "first_seen": "2026-10-02",
+  "score": 3,
+  "hits": [],
+  "lang_checked": true
+ },
+ {
+  "id": "f83ca146cdfc22",
+  "company": "Adyen",
+  "region": "NL",
+  "title": "Legal Team Lead for Deal Desk - Transactions",
+  "location": "Amsterdam Amsterdam",
+  "url": "https://job-boards.greenhouse.io/adyen/jobs/8225779",
+  "posted": "2026-10-02T08:19:41-04:00",
+  "posted_date": "2026-10-02",
+  "posted_approx": false,
+  "first_seen": "2026-10-02",
+  "score": 2,
   "hits": [],
   "lang_checked": true
  }
