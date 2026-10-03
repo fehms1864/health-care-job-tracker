@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T10:27:24+00:00",
+ "generated_at": "2026-10-03T16:43:10+00:00",
  "baseline_date": "2026-09-27",
  "rules_version": 4,
  "jobs": [
@@ -10200,28 +10200,12 @@
    "changed_on": "2026-10-03",
    "new_links": [
     {
-     "title": "Support Specialist (Complaints) - LithuanianRemote: Lithuania · Poland · Romania",
-     "url": "https://revolut.com/careers/position/support-specialist-complaints-lithuanian-f4d34518-dedf-4cfd-95fb-b7feb17c981f/"
+     "title": "Phone Support Specialist - SpanishRemote: Lithuania · Mexico · Poland",
+     "url": "https://revolut.com/careers/position/phone-support-specialist-spanish-a0d040ce-45af-4065-9c8e-4a88ff7b2dc8/"
     },
     {
-     "title": "Support Specialist (Complaints) - GreekRemote: Poland · Romania",
-     "url": "https://revolut.com/careers/position/support-specialist-complaints-greek-64d54288-c3b6-4882-a943-03083ffc3ede/"
-    },
-    {
-     "title": "Support Specialist (Complaints) - DutchRemote: Poland · Romania",
-     "url": "https://revolut.com/careers/position/support-specialist-complaints-dutch-07b6fe78-9292-49f9-be08-1f09a3a77ef5/"
-    },
-    {
-     "title": "Support Specialist (Complaints) - JapaneseRemote: Poland · Romania",
-     "url": "https://revolut.com/careers/position/support-specialist-complaints-japanese-3886ccd7-a6a7-4872-aa23-bc2988f80384/"
-    },
-    {
-     "title": "Support Specialist (Complaints) - SwedishRemote: Poland · Romania",
-     "url": "https://revolut.com/careers/position/support-specialist-complaints-swedish-03aaa330-b610-4f33-b272-8076084d15d5/"
-    },
-    {
-     "title": "Support Specialist (Complaints) - PortugueseRemote: Poland · Romania",
-     "url": "https://revolut.com/careers/position/support-specialist-complaints-portuguese-c8b64ba2-e3d5-4917-96e7-d4817fe91f33/"
+     "title": "Phone Support Specialist - ArabicRemote: UAE",
+     "url": "https://revolut.com/careers/position/phone-support-specialist-arabic-1fb004f3-cb5d-420b-99b5-cf362fdd2286/"
     }
    ],
    "new_on": "2026-10-03",
@@ -10959,7 +10943,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 641,
+   "total": 640,
    "in_region": 63,
    "kept": 16
   },
@@ -10999,7 +10983,7 @@
    ],
    "source": "eightfold",
    "error": null,
-   "total": 586,
+   "total": 587,
    "in_region": 2,
    "kept": 0
   },
@@ -11140,7 +11124,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 885,
+   "total": 886,
    "in_region": 91,
    "kept": 9
   },
@@ -11503,7 +11487,7 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 830,
+   "total": 828,
    "in_region": 34,
    "kept": 8
   },
@@ -11546,8 +11530,8 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 63,
-   "in_region": 63,
+   "total": 62,
+   "in_region": 62,
    "kept": 17
   },
   {
@@ -11636,7 +11620,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 715,
+   "total": 716,
    "in_region": 60,
    "kept": 19
   },
@@ -11646,7 +11630,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 341,
+   "total": 342,
    "in_region": 97,
    "kept": 8
   },
@@ -11765,7 +11749,7 @@
   "companies": 215,
   "feeds": 82,
   "jobs": 537,
-  "new_today": 1,
+  "new_today": 0,
   "pages": 35
  }
 }
