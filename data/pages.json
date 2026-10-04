@@ -7,7 +7,7 @@
    "https://huma.us/careers/": "Let’s Build a Sustainable Future Together"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -26,7 +26,7 @@
    "https://lifeworks.wd3.myworkdayjobs.com/en-US/External": "View open positions"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -44,7 +44,7 @@
    "https://www.teamtailor.com/?utm_campaign=poweredby&utm_content=careers.elder.org&utm_medium=referral&utm_source=career-site": "Career site by Teamtailor"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": "2026-09-30",
   "new_links": {},
@@ -56,7 +56,7 @@
   "hash": "afa5ae7428d4da63f5b1b3e3c098c8c7ded699f2",
   "postings": {},
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -71,7 +71,7 @@
    "https://www.zs.com/fraudulent-job-postings-fake-companies-and-scams": "Fraud Warning"
   },
   "readable": false,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -96,7 +96,7 @@
    "https://lek.com/careers/life-lek-blog": "Imagine your future at L.E.K."
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": "2026-10-01",
   "new_links": {},
@@ -127,7 +127,7 @@
    "https://careers-phastar.icims.com/case-studies-menu": "Case Studies"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -160,7 +160,7 @@
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Insurance-Legal-Entity-Structuring-Strategy-Risk-Transactions-Advisory/23790": "Assistant Director, Insurance Legal Entity Structuring, Strategy Risk & Transactions Advisory"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": "2026-10-03",
   "new_links": {},
@@ -169,52 +169,47 @@
  "https://hollandmountain.com/careers/": {
   "company": "Holland Mountain",
   "region": "UK",
-  "hash": "95893c9fc23a65435bf2c51ccbb01c00273a3560",
+  "hash": "64a606eb6865db0d46df20b10a8f3d9572e2ca94",
   "postings": {},
-  "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "readable": false,
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
-  "changed_on": "2026-09-30",
+  "changed_on": "2026-10-04",
   "new_links": {},
   "new_on": null
  },
  "https://jobs.pwc.co.uk/experienced/uk/en/search-results": {
   "company": "PwC",
   "region": "UK",
-  "hash": "eec1fa7d8513d39e9ab12b5ba0889b38eaaaaf68",
+  "hash": "431f73d2c420898e3114b6e16c3ac0d55344625a",
   "postings": {},
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
-  "changed_on": "2026-10-03",
+  "changed_on": "2026-10-04",
   "new_links": {},
   "new_on": null
  },
  "https://careers.kainos.com": {
   "company": "Kainos",
   "region": "UK",
-  "hash": "514e2ebedb6e33f6fc846bcd5253003c3e2e1486",
+  "hash": "9b4a7ed832dfd6fb81cd39917fb193f51726cdea",
   "postings": {
    "https://careers.kainos.com/search-results": "Search results"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
-  "changed_on": "2026-10-03",
+  "changed_on": "2026-10-04",
   "new_links": {},
   "new_on": null
  },
  "https://revolut.com/careers/": {
   "company": "Revolut",
   "region": "UK",
-  "hash": "0e5ff2b6949b9bf567784b909816945d2f7b7528",
+  "hash": "12b6b2de8adabcd16d8055744289270713f38db9",
   "postings": {
-   "https://revolut.com/careers/position/phone-support-specialist-spanish-a0d040ce-45af-4065-9c8e-4a88ff7b2dc8/": "Phone Support Specialist - SpanishRemote: Lithuania · Mexico · Poland",
-   "https://revolut.com/careers/position/phone-support-specialist-arabic-1fb004f3-cb5d-420b-99b5-cf362fdd2286/": "Phone Support Specialist - ArabicRemote: UAE",
-   "https://revolut.com/careers/position/support-specialist-complaints-lithuanian-f4d34518-dedf-4cfd-95fb-b7feb17c981f/": "Support Specialist (Complaints) - LithuanianRemote: Lithuania · Poland · Romania",
-   "https://revolut.com/careers/position/support-specialist-complaints-greek-64d54288-c3b6-4882-a943-03083ffc3ede/": "Support Specialist (Complaints) - GreekRemote: Poland · Romania",
-   "https://revolut.com/careers/position/support-specialist-complaints-dutch-07b6fe78-9292-49f9-be08-1f09a3a77ef5/": "Support Specialist (Complaints) - DutchRemote: Poland · Romania",
-   "https://revolut.com/careers/position/support-specialist-complaints-japanese-3886ccd7-a6a7-4872-aa23-bc2988f80384/": "Support Specialist (Complaints) - JapaneseRemote: Poland · Romania",
+   "https://revolut.com/careers/position/graphic-designer-growth-ba99036f-306a-4d82-98bc-8ff73853d41c/": "Graphic Designer (Growth)Office: TokyoRemote: Japan",
    "https://revolut.com/careers/team/business-development/": "Business Development0 open positions",
    "https://revolut.com/careers/team/credit/": "Credit20 open positions",
    "https://revolut.com/careers/team/data/": "Data5 open positions",
@@ -222,13 +217,10 @@
    "https://revolut.com/blog/post/revolut-career-journeys-5-minutes-with-boon-pek/": "Talent programmes · PeopleRevolut Career Journeys: 5 minutes with Head of Engineering, Boon Pek21 April 2026"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
-  "changed_on": "2026-10-03",
-  "new_links": {
-   "https://revolut.com/careers/position/phone-support-specialist-spanish-a0d040ce-45af-4065-9c8e-4a88ff7b2dc8/": "Phone Support Specialist - SpanishRemote: Lithuania · Mexico · Poland",
-   "https://revolut.com/careers/position/phone-support-specialist-arabic-1fb004f3-cb5d-420b-99b5-cf362fdd2286/": "Phone Support Specialist - ArabicRemote: UAE"
-  },
+  "changed_on": "2026-10-04",
+  "new_links": {},
   "new_on": "2026-10-03"
  },
  "https://salesforce.com/company/careers/locations/emea/uk/": {
@@ -243,7 +235,7 @@
    "https://www.salesforce.com/company/careers/jobs/?pagesize=20&_ga=2.27075837.1782687594.1785901784-1914052223.1784325799&_gac=1.184307412.1785539892.CjwKCAjwj7HTBhBiEiwA8s35OumbOLgDWRtqSH2gbA99C5q93wyBJRLO6CoYX948YtWkGxtODSBNyhoCrOQQAvD_BwE&country=United+Kingdom&page=1": "Apply today"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": "2026-10-01",
   "new_links": {},
@@ -283,12 +275,10 @@
    "https://careers.servicenow.com/jobs/744000153044499/program-director/": "Program Director"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": "2026-10-03",
-  "new_links": {
-   "https://careers.servicenow.com/jobs/744000153259319/engagement-mgr/": "Engagement Mgr"
-  },
+  "new_links": {},
   "new_on": "2026-10-03"
  },
  "https://snyk.io/careers/all-jobs/": {
@@ -310,7 +300,7 @@
    "https://jobs.ashbyhq.com/98cd1a00-2706-4aa8-ab72-38a7b8c9c20c/62b7431d-586c-4c8f-b0f2-28e1ee81400c": "Staff Product ManagerProduct Switzerland - Zurich · On-site"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": "2026-10-02",
   "new_links": {},
@@ -339,7 +329,7 @@
    "https://atlassian.com/company/careers/all-jobs?team=Engineering&location=&search=": "Browse all engineering roles"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": "2026-10-03",
   "new_links": {},
@@ -355,7 +345,7 @@
    "https://careers.bupa.co.uk/our-roles": "Job Areas"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -388,7 +378,7 @@
    "https://wd3.myworkdaysite.com/en-US/recruiting/hcahealthcare/hcacareers/jobAlerts": "Job alerts"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -397,7 +387,7 @@
  "https://jobs.siemens-healthineers.com": {
   "company": "Siemens Healthineers",
   "region": "UK",
-  "hash": "96cab3f886ded5fc83b40b00be362c7f3a7f8c6e",
+  "hash": "aa4f36066d727abf021c6d91e282f01a9f126636",
   "postings": {
    "https://jobs.siemens-healthineers.com/search-results": "Search results",
    "https://www.siemens-healthineers.com/perspectives/career-with-purpose": "Alejandra's story",
@@ -409,9 +399,9 @@
    "https://careers.siemens-healthineers.com/global/en/emailpersonalinfo": "Personal Information"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
-  "changed_on": "2026-10-03",
+  "changed_on": "2026-10-04",
   "new_links": {},
   "new_on": "2026-09-29"
  },
@@ -451,7 +441,7 @@
    "https://careers.castoredc.com/wp-content/uploads/2026/08/Castor-Assessment-of-GDPR-and-HIPAA-Compliance-v2_0.pdf": "GDPR & HIPAA Compliance"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": "2026-10-02",
   "new_links": {},
@@ -511,7 +501,7 @@
    "https://job-boards.eu.greenhouse.io/psychologist-support/": "Speak with a psychologist"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": "2026-10-01",
   "new_links": {},
@@ -528,7 +518,7 @@
    "https://careers.danone.com/benelux/en/legal-notice.html": "Legal Notice"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -537,15 +527,15 @@
  "https://explore.jobs.netflix.net/careers": {
   "company": "Netflix",
   "region": "NL",
-  "hash": "880d19340ec1f743a9275451260a2f59b0cc8c05",
+  "hash": "db0e859671e5bb54dd35597b72db6cd22da2da42",
   "postings": {
    "https://apply.netflixhouse.com/careers": "Netflix House",
    "https://jobs.netflix.com/dnssi": "Do Not Sell Or Share My Personal Information"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
-  "changed_on": "2026-10-03",
+  "changed_on": "2026-10-04",
   "new_links": {},
   "new_on": null
  },
@@ -572,7 +562,7 @@
    "https://optiver.com/join-us/jobs/trading/taipei/options-trade-supervisor-night-session/": "Options Trade Supervisor - Night Session"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": "2026-10-02",
   "new_links": {},
@@ -593,7 +583,7 @@
    "https://www.teamtailor.com/?utm_campaign=poweredby&utm_content=jobs.sendcloud.com&utm_medium=referral&utm_source=career-site": "Career site by Teamtailor"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": "2026-09-30",
   "new_links": {},
@@ -609,7 +599,7 @@
    "https://tomtom.com/careers/diversity-and-inclusion/": "Diversity and inclusion"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -635,7 +625,7 @@
    "https://wk.wd3.myworkdayjobs.com/External": "See All Jobs"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": "2026-10-01",
   "new_links": {},
@@ -659,7 +649,7 @@
    "https://careers.ey.com/ey/job/Den-Haag-Manager-Global-Mobility-Den-Haag-2596-CZ/1442879633/": "Manager Global Mobility - Den HaagTax,Den Haag,36 uurProfessionalVaste baanProfessionalPermanent job"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": "2026-10-02",
   "new_links": {},
@@ -673,7 +663,7 @@
    "https://www.vintura.com/consultant-jobs/": "Working at vintura"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -685,7 +675,7 @@
   "hash": "f1a79ffc00df9d20a5a491c80a9f1b212ef57788",
   "postings": {},
   "readable": false,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -697,7 +687,7 @@
   "hash": "0a088b612f606fbf913f11f920d5ff53fd3b6c77",
   "postings": {},
   "readable": false,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -709,7 +699,7 @@
   "hash": "5853c0697ec80ec8fa3372c51a735a2ab3a4c9ab",
   "postings": {},
   "readable": false,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -721,7 +711,7 @@
   "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
   "postings": {},
   "readable": false,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -747,7 +737,7 @@
    "https://ownmycareer.com/bupa/": "Free Resources"
   },
   "readable": true,
-  "checked": "2026-10-03T16:43:10+00:00",
+  "checked": "2026-10-04T11:09:28+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
