@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T11:09:28+00:00",
+ "generated_at": "2026-10-04T17:02:01+00:00",
  "baseline_date": "2026-09-27",
  "rules_version": 4,
  "jobs": [
@@ -19,6 +19,46 @@
     "healthcare",
     "clinical",
     "mental health",
+    "consultant"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "bf3328c264baab",
+   "company": "IQVIA Middle East & Africa",
+   "region": "ME",
+   "title": "Consultant - Primary Market Research",
+   "location": "New Cairo, Egypt",
+   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/New-Cairo-Egypt/Consultant---Primary-Market-Research_R1568124",
+   "posted": "Today",
+   "posted_date": "2026-10-04",
+   "posted_approx": false,
+   "first_seen": "2026-10-04",
+   "score": 32,
+   "hits": [
+    "healthcare",
+    "patient",
+    "population health",
+    "consultant"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "4fde9228cb8849",
+   "company": "IQVIA Middle East & Africa",
+   "region": "ME",
+   "title": "Senior Consultant - Primary Market Research",
+   "location": "New Cairo, Egypt",
+   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/New-Cairo-Egypt/Senior-Consultant---Primary-Market-Research_R1568109",
+   "posted": "Today",
+   "posted_date": "2026-10-04",
+   "posted_approx": false,
+   "first_seen": "2026-10-04",
+   "score": 32,
+   "hits": [
+    "healthcare",
+    "patient",
+    "population health",
     "consultant"
    ],
    "lang_checked": true
@@ -3130,26 +3170,6 @@
    "lang_checked": true
   },
   {
-   "id": "63025aa7b1b257",
-   "company": "AstraZeneca",
-   "region": "UK",
-   "title": "Field Clinical Advisor, Cell Therapy – Australia",
-   "location": "Australia – New South Wales",
-   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Australia--New-South-Wales/Field-Clinical-Advisor--Cell-Therapy---Australia_R-254953",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-01",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 33,
-   "hits": [
-    "healthcare",
-    "clinical",
-    "patient",
-    "patient journey"
-   ],
-   "lang_checked": true
-  },
-  {
    "id": "cf1553cc04982a",
    "company": "IQVIA NL",
    "region": "NL",
@@ -3901,13 +3921,13 @@
    "lang_checked": true
   },
   {
-   "id": "9fd0a0cc6730c6",
+   "id": "5095cf2978ef5d",
    "company": "Intercom",
    "region": "UK",
    "title": "Senior Customer Success Manager",
    "location": "Dublin, Ireland Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/intercom/jobs/7600671",
-   "posted": "2026-02-09T21:42:36-05:00",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/7600712",
+   "posted": "2026-02-09T21:42:37-05:00",
    "posted_date": "2026-02-09",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -3921,13 +3941,13 @@
    "lang_checked": true
   },
   {
-   "id": "5095cf2978ef5d",
+   "id": "9fd0a0cc6730c6",
    "company": "Intercom",
    "region": "UK",
    "title": "Senior Customer Success Manager",
    "location": "Dublin, Ireland Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/intercom/jobs/7600712",
-   "posted": "2026-02-09T21:42:37-05:00",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/7600671",
+   "posted": "2026-02-09T21:42:36-05:00",
    "posted_date": "2026-02-09",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -4012,26 +4032,6 @@
     "healthcare",
     "patient",
     "product manager"
-   ],
-   "lang_checked": true
-  },
-  {
-   "id": "5ba6fb2366b647",
-   "company": "AstraZeneca",
-   "region": "UK",
-   "title": "Senior Medical Manager",
-   "location": "Australia – New South Wales",
-   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Australia--New-South-Wales/Senior-Medical-Manager_R-255448-1",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-03",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 28,
-   "hits": [
-    "healthcare",
-    "patient",
-    "medical",
-    "strategy"
    ],
    "lang_checked": true
   },
@@ -6077,14 +6077,14 @@
    "lang_checked": true
   },
   {
-   "id": "e6a2d181965e1e",
+   "id": "81c39b525e545a",
    "company": "Intercom",
    "region": "UK",
    "title": "Staff AI Product Manager",
    "location": "Dublin, Ireland Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/intercom/jobs/7464291",
-   "posted": "2025-12-12T04:36:29-05:00",
-   "posted_date": "2025-12-12",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/7377200",
+   "posted": "2025-11-20T08:26:34-05:00",
+   "posted_date": "2025-11-20",
    "posted_approx": false,
    "first_seen": "2026-09-27",
    "score": 20,
@@ -6097,14 +6097,14 @@
    "lang_checked": true
   },
   {
-   "id": "81c39b525e545a",
+   "id": "e6a2d181965e1e",
    "company": "Intercom",
    "region": "UK",
    "title": "Staff AI Product Manager",
    "location": "Dublin, Ireland Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/intercom/jobs/7377200",
-   "posted": "2025-11-20T08:26:34-05:00",
-   "posted_date": "2025-11-20",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/7464291",
+   "posted": "2025-12-12T04:36:29-05:00",
+   "posted_date": "2025-12-12",
    "posted_approx": false,
    "first_seen": "2026-09-27",
    "score": 20,
@@ -7829,6 +7829,24 @@
    "lang_checked": true
   },
   {
+   "id": "a6c499cbb2517d",
+   "company": "Deliveroo",
+   "region": "UK",
+   "title": "Franchisee Manager, Enterprise QSR",
+   "location": "Bristol, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206393",
+   "posted": "2026-09-18T09:47:53-04:00",
+   "posted_date": "2026-09-18",
+   "posted_approx": false,
+   "first_seen": "2026-09-27",
+   "score": 10,
+   "hits": [
+    "strategy",
+    "operations"
+   ],
+   "lang_checked": true
+  },
+  {
    "id": "ef16c34318f6df",
    "company": "Deliveroo",
    "region": "UK",
@@ -7855,24 +7873,6 @@
    "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206391",
    "posted": "2026-09-22T13:06:53-04:00",
    "posted_date": "2026-09-22",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 10,
-   "hits": [
-    "strategy",
-    "operations"
-   ],
-   "lang_checked": true
-  },
-  {
-   "id": "a6c499cbb2517d",
-   "company": "Deliveroo",
-   "region": "UK",
-   "title": "Franchisee Manager, Enterprise QSR",
-   "location": "Bristol, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206393",
-   "posted": "2026-09-18T09:47:53-04:00",
-   "posted_date": "2026-09-18",
    "posted_approx": false,
    "first_seen": "2026-09-27",
    "score": 10,
@@ -8005,13 +8005,13 @@
    "lang_checked": true
   },
   {
-   "id": "5c9923fc2a4c97",
+   "id": "94cb7bc472850f",
    "company": "SumUp",
    "region": "UK",
    "title": "Workday Specialist",
    "location": "Barcelona Barcelona, Barcelona, Spain / Berlin Berlin, Germany / London London, England, United Kingdom / Mexico - Remote Mexico City, Mexico City, Mexico / São",
-   "url": "https://sumup.com/careers/positions/8547633002?gh_jid=8547633002",
-   "posted": "2026-05-13T10:38:36-04:00",
+   "url": "https://sumup.com/careers/positions/8547634002?gh_jid=8547634002",
+   "posted": "2026-05-13T10:39:15-04:00",
    "posted_date": "2026-05-13",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -8023,13 +8023,13 @@
    "lang_checked": true
   },
   {
-   "id": "94cb7bc472850f",
+   "id": "5c9923fc2a4c97",
    "company": "SumUp",
    "region": "UK",
    "title": "Workday Specialist",
    "location": "Barcelona Barcelona, Barcelona, Spain / Berlin Berlin, Germany / London London, England, United Kingdom / Mexico - Remote Mexico City, Mexico City, Mexico / São",
-   "url": "https://sumup.com/careers/positions/8547634002?gh_jid=8547634002",
-   "posted": "2026-05-13T10:39:15-04:00",
+   "url": "https://sumup.com/careers/positions/8547633002?gh_jid=8547633002",
+   "posted": "2026-05-13T10:38:36-04:00",
    "posted_date": "2026-05-13",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -8803,23 +8803,6 @@
    "lang_checked": true
   },
   {
-   "id": "198eb217e1e67b",
-   "company": "Anthropic",
-   "region": "UK",
-   "title": "Regional Manager APAC, Data Center Capacity Delivery",
-   "location": "Sydney, Australia Sydney, New South Wales, Australia",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5405898008",
-   "posted": "2026-08-25T15:47:51-04:00",
-   "posted_date": "2026-08-25",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 6,
-   "hits": [
-    "operations"
-   ],
-   "lang_checked": true
-  },
-  {
    "id": "fe5bf8f57d7b94",
    "company": "Deliveroo",
    "region": "UK",
@@ -9548,21 +9531,6 @@
    "lang_checked": true
   },
   {
-   "id": "a8be7cd2eb02f7",
-   "company": "Datadog",
-   "region": "UK",
-   "title": "Principal GSI Partner Manager - Accenture (EMEA)",
-   "location": "London, United Kingdom / Amsterdam Amsterdam, Noord-Holland, Netherlands / London London, Greater London, England, United Kingdom / Paris Paris, Paris, France /",
-   "url": "https://careers.datadoghq.com/detail/8219989/?gh_jid=8219989",
-   "posted": "2026-09-21T04:54:47-04:00",
-   "posted_date": "2026-09-21",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 2,
-   "hits": [],
-   "lang_checked": true
-  },
-  {
    "id": "cc79a4f82bba3e",
    "company": "Datadog",
    "region": "UK",
@@ -9578,14 +9546,14 @@
    "lang_checked": true
   },
   {
-   "id": "ceeaa0cf8c6de2",
+   "id": "a8be7cd2eb02f7",
    "company": "Datadog",
    "region": "UK",
-   "title": "Senior Partner Manager - Channels (Security)",
-   "location": "Sydney, Australia / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
-   "url": "https://careers.datadoghq.com/detail/8166231/?gh_jid=8166231",
-   "posted": "2026-09-04T06:56:39-04:00",
-   "posted_date": "2026-09-04",
+   "title": "Principal GSI Partner Manager - Accenture (EMEA)",
+   "location": "London, United Kingdom / Amsterdam Amsterdam, Noord-Holland, Netherlands / London London, Greater London, England, United Kingdom / Paris Paris, Paris, France /",
+   "url": "https://careers.datadoghq.com/detail/8219989/?gh_jid=8219989",
+   "posted": "2026-09-21T04:54:47-04:00",
+   "posted_date": "2026-09-21",
    "posted_approx": false,
    "first_seen": "2026-09-27",
    "score": 2,
@@ -9600,6 +9568,21 @@
    "location": "Singapore, Singapore / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
    "url": "https://careers.datadoghq.com/detail/8164588/?gh_jid=8164588",
    "posted": "2026-09-04T06:56:37-04:00",
+   "posted_date": "2026-09-04",
+   "posted_approx": false,
+   "first_seen": "2026-09-27",
+   "score": 2,
+   "hits": [],
+   "lang_checked": true
+  },
+  {
+   "id": "ceeaa0cf8c6de2",
+   "company": "Datadog",
+   "region": "UK",
+   "title": "Senior Partner Manager - Channels (Security)",
+   "location": "Sydney, Australia / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
+   "url": "https://careers.datadoghq.com/detail/8166231/?gh_jid=8166231",
+   "posted": "2026-09-04T06:56:39-04:00",
    "posted_date": "2026-09-04",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -10040,7 +10023,7 @@
    "url": "https://apply.deloitte.co.uk/UKCareers/",
    "kind": "page",
    "readable": true,
-   "changed_on": "2026-10-03",
+   "changed_on": "2026-10-04",
    "new_links": [],
    "new_on": "2026-10-02",
    "error": null
@@ -10064,7 +10047,7 @@
    "region": "UK",
    "url": "https://hollandmountain.com/careers/",
    "kind": "page",
-   "readable": false,
+   "readable": true,
    "changed_on": "2026-10-04",
    "new_links": [],
    "new_on": null,
@@ -10218,8 +10201,33 @@
    "kind": "page",
    "readable": true,
    "changed_on": "2026-10-04",
-   "new_links": [],
-   "new_on": "2026-10-03",
+   "new_links": [
+    {
+     "title": "Support Specialist (Complaints) - GreekRemote: Poland · Romania",
+     "url": "https://revolut.com/careers/position/support-specialist-complaints-greek-64d54288-c3b6-4882-a943-03083ffc3ede/"
+    },
+    {
+     "title": "Support Specialist (Complaints) - LithuanianRemote: Lithuania · Poland · Romania",
+     "url": "https://revolut.com/careers/position/support-specialist-complaints-lithuanian-f4d34518-dedf-4cfd-95fb-b7feb17c981f/"
+    },
+    {
+     "title": "Support Specialist (Complaints) - DutchRemote: Poland · Romania",
+     "url": "https://revolut.com/careers/position/support-specialist-complaints-dutch-07b6fe78-9292-49f9-be08-1f09a3a77ef5/"
+    },
+    {
+     "title": "Support Specialist (Complaints) - JapaneseRemote: Poland · Romania",
+     "url": "https://revolut.com/careers/position/support-specialist-complaints-japanese-3886ccd7-a6a7-4872-aa23-bc2988f80384/"
+    },
+    {
+     "title": "Support Specialist (Complaints) - SwedishRemote: Poland · Romania",
+     "url": "https://revolut.com/careers/position/support-specialist-complaints-swedish-03aaa330-b610-4f33-b272-8076084d15d5/"
+    },
+    {
+     "title": "Support Specialist (Complaints) - PortugueseRemote: Poland · Romania",
+     "url": "https://revolut.com/careers/position/support-specialist-complaints-portuguese-c8b64ba2-e3d5-4917-96e7-d4817fe91f33/"
+    }
+   ],
+   "new_on": "2026-10-04",
    "error": null
   },
   {
@@ -10944,9 +10952,9 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 639,
-   "in_region": 63,
-   "kept": 16
+   "total": 638,
+   "in_region": 62,
+   "kept": 15
   },
   {
    "companies": [
@@ -10954,9 +10962,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 70,
-   "in_region": 70,
-   "kept": 16
+   "total": 68,
+   "in_region": 68,
+   "kept": 14
   },
   {
    "companies": [
@@ -11145,7 +11153,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 182,
+   "total": 183,
    "in_region": 127,
    "kept": 30
   },
@@ -11278,9 +11286,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 299,
-   "in_region": 299,
-   "kept": 81
+   "total": 301,
+   "in_region": 301,
+   "kept": 83
   },
   {
    "companies": [
@@ -11749,8 +11757,8 @@
  "counts": {
   "companies": 215,
   "feeds": 82,
-  "jobs": 538,
-  "new_today": 1,
+  "jobs": 537,
+  "new_today": 2,
   "pages": 35
  }
 }

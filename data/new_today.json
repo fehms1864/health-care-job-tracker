@@ -1,20 +1,40 @@
 [
  {
-  "id": "49410c063045d1",
-  "company": "Philips UK",
-  "region": "UK",
-  "title": "Clinical Consultant – Radiology Informatics (PACS)",
-  "location": "United Kingdom - Remote Based",
-  "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-Kingdom---Remote-Based/Clinical-Consultant---Radiology-Informatics--PACS-_582076-1",
-  "posted": "Yesterday",
-  "posted_date": "2026-10-03",
+  "id": "bf3328c264baab",
+  "company": "IQVIA Middle East & Africa",
+  "region": "ME",
+  "title": "Consultant - Primary Market Research",
+  "location": "New Cairo, Egypt",
+  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/New-Cairo-Egypt/Consultant---Primary-Market-Research_R1568124",
+  "posted": "Today",
+  "posted_date": "2026-10-04",
   "posted_approx": false,
   "first_seen": "2026-10-04",
-  "score": 45,
+  "score": 32,
   "hits": [
    "healthcare",
-   "clinical",
-   "mental health",
+   "patient",
+   "population health",
+   "consultant"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "4fde9228cb8849",
+  "company": "IQVIA Middle East & Africa",
+  "region": "ME",
+  "title": "Senior Consultant - Primary Market Research",
+  "location": "New Cairo, Egypt",
+  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/New-Cairo-Egypt/Senior-Consultant---Primary-Market-Research_R1568109",
+  "posted": "Today",
+  "posted_date": "2026-10-04",
+  "posted_approx": false,
+  "first_seen": "2026-10-04",
+  "score": 32,
+  "hits": [
+   "healthcare",
+   "patient",
+   "population health",
    "consultant"
   ],
   "lang_checked": true
