@@ -7,7 +7,7 @@
    "https://huma.us/careers/": "Let’s Build a Sustainable Future Together"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -26,7 +26,7 @@
    "https://lifeworks.wd3.myworkdayjobs.com/en-US/External": "View open positions"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -44,7 +44,7 @@
    "https://www.teamtailor.com/?utm_campaign=poweredby&utm_content=careers.elder.org&utm_medium=referral&utm_source=career-site": "Career site by Teamtailor"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
   "changed_on": "2026-09-30",
   "new_links": {},
@@ -56,7 +56,7 @@
   "hash": "afa5ae7428d4da63f5b1b3e3c098c8c7ded699f2",
   "postings": {},
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -71,7 +71,7 @@
    "https://www.zs.com/fraudulent-job-postings-fake-companies-and-scams": "Fraud Warning"
   },
   "readable": false,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -96,7 +96,7 @@
    "https://lek.com/careers/life-lek-blog": "Imagine your future at L.E.K."
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
   "changed_on": "2026-10-01",
   "new_links": {},
@@ -127,7 +127,7 @@
    "https://careers-phastar.icims.com/case-studies-menu": "Case Studies"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -136,7 +136,7 @@
  "https://apply.deloitte.co.uk/UKCareers/": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "69ba6f41cfb844fdcbf4d52ab7aae4d7de303712",
+  "hash": "399115700164733be9b023f8cf26c42c7ee27856",
   "postings": {
    "https://www.deloitte.com/uk/en/careers.html": "Why join Deloitte?",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -146,7 +146,7 @@
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Application-Architect-Senior-Manager-AI-and-Cloud-Engineering/25331": "AI Application Architect, Senior Manager, AI and Cloud Engineering",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Engineer-Manager-Digital-Innovation/25207": "AI Engineer, Manager, Digital Innovation",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Analyst-Client-and-Engagement-Set-up/25303": "Analyst, Client and Engagement Set-up",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Analyst-Financial-Crime-Operations-Strategy-Risk-Transactions-Advisory-5-5-Month-Fixed-Term-Contract/24389": "Analyst, Financial Crime Operations, Strategy, Risk, Transactions Advisory 5.5 Month Fixed Term Contract",
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Analyst-Financial-Crime-Operations-5-5-Month-Fixed-Term-Contract/24389": "Analyst, Financial Crime Operations, 5.5 Month Fixed Term Contract",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Architect-Manager-Senior-Manager-Commerce-Deloitte-Digital/24737": "Architect, Manager - Senior Manager, Commerce - Deloitte Digital",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Energy-and-Infrastructure-Planner/25104": "Assistant Director- Energy and Infrastructure Planner",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Nuclear-Advisory-Infrastructure-and-Capital-Programmes-Strategy-Risk-and-Transactions-Advisory/24431": "Assistant Director, Nuclear Advisory, Infrastructure and Capital Programmes: Strategy, Risk and Transactions Advisory",
@@ -160,9 +160,9 @@
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services/25282": "Assistant Director, Financial Due Diligence, Financial Services"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
-  "changed_on": "2026-10-05",
+  "changed_on": "2026-10-06",
   "new_links": {},
   "new_on": "2026-10-02"
  },
@@ -172,7 +172,7 @@
   "hash": "95893c9fc23a65435bf2c51ccbb01c00273a3560",
   "postings": {},
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
   "changed_on": "2026-10-04",
   "new_links": {},
@@ -181,47 +181,59 @@
  "https://jobs.pwc.co.uk/experienced/uk/en/search-results": {
   "company": "PwC",
   "region": "UK",
-  "hash": "6f94bd2e80d98344435a1a6fb6c6399a4c6d7e4a",
+  "hash": "88192b74a5308c65ceb2b0e64b62703466baf327",
   "postings": {},
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
-  "changed_on": "2026-10-05",
+  "changed_on": "2026-10-06",
   "new_links": {},
   "new_on": null
  },
  "https://careers.kainos.com": {
   "company": "Kainos",
   "region": "UK",
-  "hash": "4b0237151509d979018d5681165c3f425fa9b733",
+  "hash": "cbba7ff749160145dc6a7db4e51e9514d90e4286",
   "postings": {
    "https://careers.kainos.com/search-results": "Search results"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
-  "changed_on": "2026-10-05",
+  "changed_on": "2026-10-06",
   "new_links": {},
   "new_on": null
  },
  "https://revolut.com/careers/": {
   "company": "Revolut",
   "region": "UK",
-  "hash": "6ac67583a425c9f70f6131dedba471f67a3ed10d",
+  "hash": "99daf2c779778999a37c2c57f7f61ab6becc12e8",
   "postings": {
-   "https://revolut.com/careers/position/graphic-designer-growth-ba99036f-306a-4d82-98bc-8ff73853d41c/": "Graphic Designer (Growth)Office: TokyoRemote: Japan",
-   "https://revolut.com/careers/team/business-development/": "Business Development0 open positions",
+   "https://revolut.com/careers/position/support-specialist-complaints-dutch-07b6fe78-9292-49f9-be08-1f09a3a77ef5/": "Support Specialist (Complaints) - DutchRemote: Poland · Romania",
+   "https://revolut.com/careers/position/support-specialist-complaints-japanese-3886ccd7-a6a7-4872-aa23-bc2988f80384/": "Support Specialist (Complaints) - JapaneseRemote: Poland · Romania",
+   "https://revolut.com/careers/position/support-specialist-complaints-greek-64d54288-c3b6-4882-a943-03083ffc3ede/": "Support Specialist (Complaints) - GreekRemote: Poland · Romania",
+   "https://revolut.com/careers/position/support-specialist-complaints-lithuanian-f4d34518-dedf-4cfd-95fb-b7feb17c981f/": "Support Specialist (Complaints) - LithuanianRemote: Lithuania · Poland · Romania",
+   "https://revolut.com/careers/position/support-specialist-complaints-swedish-03aaa330-b610-4f33-b272-8076084d15d5/": "Support Specialist (Complaints) - SwedishRemote: Poland · Romania",
+   "https://revolut.com/careers/position/support-specialist-complaints-portuguese-c8b64ba2-e3d5-4917-96e7-d4817fe91f33/": "Support Specialist (Complaints) - PortugueseRemote: Poland · Romania",
+   "https://revolut.com/careers/team/business-development/": "Business Development2 open positions",
    "https://revolut.com/careers/team/credit/": "Credit20 open positions",
-   "https://revolut.com/careers/team/data/": "Data5 open positions",
-   "https://revolut.com/careers/team/engineering/": "Engineering24 open positions",
+   "https://revolut.com/careers/team/data/": "Data4 open positions",
+   "https://revolut.com/careers/team/engineering/": "Engineering23 open positions",
    "https://revolut.com/blog/post/revolut-career-journeys-5-minutes-with-boon-pek/": "Talent programmes · PeopleRevolut Career Journeys: 5 minutes with Head of Engineering, Boon Pek21 April 2026"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
-  "changed_on": "2026-10-05",
-  "new_links": {},
-  "new_on": "2026-10-04"
+  "changed_on": "2026-10-06",
+  "new_links": {
+   "https://revolut.com/careers/position/support-specialist-complaints-dutch-07b6fe78-9292-49f9-be08-1f09a3a77ef5/": "Support Specialist (Complaints) - DutchRemote: Poland · Romania",
+   "https://revolut.com/careers/position/support-specialist-complaints-japanese-3886ccd7-a6a7-4872-aa23-bc2988f80384/": "Support Specialist (Complaints) - JapaneseRemote: Poland · Romania",
+   "https://revolut.com/careers/position/support-specialist-complaints-greek-64d54288-c3b6-4882-a943-03083ffc3ede/": "Support Specialist (Complaints) - GreekRemote: Poland · Romania",
+   "https://revolut.com/careers/position/support-specialist-complaints-lithuanian-f4d34518-dedf-4cfd-95fb-b7feb17c981f/": "Support Specialist (Complaints) - LithuanianRemote: Lithuania · Poland · Romania",
+   "https://revolut.com/careers/position/support-specialist-complaints-swedish-03aaa330-b610-4f33-b272-8076084d15d5/": "Support Specialist (Complaints) - SwedishRemote: Poland · Romania",
+   "https://revolut.com/careers/position/support-specialist-complaints-portuguese-c8b64ba2-e3d5-4917-96e7-d4817fe91f33/": "Support Specialist (Complaints) - PortugueseRemote: Poland · Romania"
+  },
+  "new_on": "2026-10-06"
  },
  "https://salesforce.com/company/careers/locations/emea/uk/": {
   "company": "Salesforce",
@@ -235,7 +247,7 @@
    "https://www.salesforce.com/company/careers/jobs/?pagesize=20&_ga=2.27075837.1782687594.1785901784-1914052223.1784325799&_gac=1.184307412.1785539892.CjwKCAjwj7HTBhBiEiwA8s35OumbOLgDWRtqSH2gbA99C5q93wyBJRLO6CoYX948YtWkGxtODSBNyhoCrOQQAvD_BwE&country=United+Kingdom&page=1": "Apply today"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
   "changed_on": "2026-10-01",
   "new_links": {},
@@ -244,7 +256,7 @@
  "https://careers.servicenow.com/jobs/": {
   "company": "ServiceNow NL",
   "region": "NL",
-  "hash": "0ea2d8bfe5fbb5b24bde80d9d4d2438e83787c5a",
+  "hash": "424bb7857f68ba4d01eb441f5cbcedb1df869a70",
   "postings": {
    "https://careers.servicenow.com/teams/ai-engineering-product/": "AI, Engineering, & Product",
    "https://careers.servicenow.com/teams/corporate-functions/": "Corporate Functions",
@@ -256,42 +268,56 @@
    "https://careers.servicenow.com/locations/latam/": "Latin America",
    "https://careers.servicenow.com/how-we-hire/": "How We Hire",
    "https://careers.servicenow.com/jobs/saved-jobs/": "Saved Jobs 0",
-   "https://careers.servicenow.com/jobs/744000153449634/staff-software-engineer/": "Staff Software Engineer",
-   "https://careers.servicenow.com/jobs/744000153446319/sr-software-engineer/": "Sr Software Engineer",
-   "https://careers.servicenow.com/jobs/744000153442299/sr-staff-product-security-engineer-product-security-incident-response-team-psirt/": "Sr Staff Product Security Engineer - Product Security Incident Response Team (PSIRT)",
-   "https://careers.servicenow.com/jobs/744000153415109/senior-devops-machine-learning-engineer-federal/": "Senior (DevOps) Machine Learning Engineer - Federal",
-   "https://careers.servicenow.com/jobs/744000153411889/chief-transformation-officer-governance-risk-cybersecurity-apac/": "Chief Transformation Officer – Governance, Risk & Cybersecurity, APAC",
-   "https://careers.servicenow.com/jobs/744000153407564/customer-success-executive/": "Customer Success Executive",
-   "https://careers.servicenow.com/jobs/744000153333219/sr-software-engineer/": "Sr Software Engineer",
-   "https://careers.servicenow.com/jobs/744000153279380/software-engineer-core-infrastructure-moveworks-new-grad/": "Software Engineer, Core Infrastructure - Moveworks (New Grad)",
-   "https://careers.servicenow.com/jobs/744000153266480/sr-mobile-software-engineer-native-android-and-backend/": "Sr Mobile Software Engineer (Native Android and Backend)",
-   "https://careers.servicenow.com/jobs/744000153267939/director-crm-sales-manufacturing/": "Director, CRM Sales Manufacturing",
-   "https://careers.servicenow.com/jobs/744000153267509/director-crm-sales-manufacturing/": "Director, CRM Sales Manufacturing",
-   "https://careers.servicenow.com/jobs/744000153259319/engagement-mgr/": "Engagement Mgr",
-   "https://careers.servicenow.com/jobs/744000153256860/sr-software-engineer-platform-cryptography/": "Sr Software Engineer, Platform Cryptography",
-   "https://careers.servicenow.com/jobs/744000153256639/sr-software-engineer-platform-cryptography/": "Sr Software Engineer, Platform Cryptography",
-   "https://careers.servicenow.com/jobs/744000153235011/partner-manager/": "Partner Manager",
-   "https://careers.servicenow.com/jobs/744000153222540/principal-customer-success-executive-manufacturing-vertical/": "Principal Customer Success Executive - Manufacturing Vertical",
-   "https://careers.servicenow.com/jobs/744000153211799/forward-deployed-solution-engineer-applied-ai-fde/": "Forward Deployed Solution Engineer – Applied AI FDE"
+   "https://careers.servicenow.com/jobs/744000153706920/sr-software-engineer/": "Sr Software Engineer",
+   "https://careers.servicenow.com/jobs/744000153695234/sr-data-solution-architect-platform-ai-data/": "Sr Data Solution Architect, Platform, AI & Data",
+   "https://careers.servicenow.com/jobs/744000153696450/sr-mgr-channel-reseller-asia/": "Sr Mgr, Channel Reseller Asia",
+   "https://careers.servicenow.com/jobs/744000153696339/advisory-solution-consultant-data-analytics/": "Advisory Solution Consultant - Data & Analytics",
+   "https://careers.servicenow.com/jobs/744000153679913/staff-software-engineer-fullstack/": "Staff Software Engineer- Fullstack",
+   "https://careers.servicenow.com/jobs/744000153671505/sr-software-engineer/": "Sr Software Engineer",
+   "https://careers.servicenow.com/jobs/744000153663349/sr-staff-inbound-product-manager/": "Sr Staff Inbound Product Manager",
+   "https://careers.servicenow.com/jobs/744000153660649/staff-inbound-product-manager/": "Staff Inbound Product Manager",
+   "https://careers.servicenow.com/jobs/744000153656504/principal-customer-success-executive-us-federal/": "Principal Customer Success Executive, U.S. Federal",
+   "https://careers.servicenow.com/jobs/744000153655299/principal-data-platform-software-engineer-database-operations/": "Principal Data Platform Software Engineer (Database Operations)",
+   "https://careers.servicenow.com/jobs/744000153631431/partner-onboarding-program-specialist/": "Partner Onboarding Program Specialist",
+   "https://careers.servicenow.com/jobs/744000153624789/staff-data-platform-software-engineer-persistence/": "Staff Data Platform Software Engineer - Persistence",
+   "https://careers.servicenow.com/jobs/744000153624639/staff-data-platform-software-engineer-persistence/": "Staff Data Platform Software Engineer - Persistence",
+   "https://careers.servicenow.com/jobs/744000153619189/senior-hrbp-manager/": "Senior HRBP Manager",
+   "https://careers.servicenow.com/jobs/744000153614183/sr-advisory-solution-consultant-us-public-sector-moveworks/": "Sr Advisory Solution Consultant- US Public Sector- Moveworks",
+   "https://careers.servicenow.com/jobs/744000153615549/sr-advisory-solution-consultant-us-public-sector-moveworks/": "Sr Advisory Solution Consultant- US Public Sector- Moveworks",
+   "https://careers.servicenow.com/jobs/744000153615369/sr-advisory-solution-consultant-us-public-sector-moveworks/": "Sr Advisory Solution Consultant- US Public Sector- Moveworks",
+   "https://careers.servicenow.com/jobs/744000153615309/sr-advisory-solution-consultant-us-public-sector-moveworks/": "Sr Advisory Solution Consultant- US Public Sector- Moveworks",
+   "https://careers.servicenow.com/jobs/744000153611412/partner-development-manager-business-development-built-on-solutions/": "Partner Development Manager, Business Development - Built On Solutions"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
-  "changed_on": "2026-10-05",
+  "changed_on": "2026-10-06",
   "new_links": {
-   "https://careers.servicenow.com/jobs/744000153407564/customer-success-executive/": "Customer Success Executive"
+   "https://careers.servicenow.com/jobs/744000153696450/sr-mgr-channel-reseller-asia/": "Sr Mgr, Channel Reseller Asia",
+   "https://careers.servicenow.com/jobs/744000153663349/sr-staff-inbound-product-manager/": "Sr Staff Inbound Product Manager",
+   "https://careers.servicenow.com/jobs/744000153660649/staff-inbound-product-manager/": "Staff Inbound Product Manager",
+   "https://careers.servicenow.com/jobs/744000153656504/principal-customer-success-executive-us-federal/": "Principal Customer Success Executive, U.S. Federal",
+   "https://careers.servicenow.com/jobs/744000153631431/partner-onboarding-program-specialist/": "Partner Onboarding Program Specialist",
+   "https://careers.servicenow.com/jobs/744000153619189/senior-hrbp-manager/": "Senior HRBP Manager",
+   "https://careers.servicenow.com/jobs/744000153614183/sr-advisory-solution-consultant-us-public-sector-moveworks/": "Sr Advisory Solution Consultant- US Public Sector- Moveworks",
+   "https://careers.servicenow.com/jobs/744000153615549/sr-advisory-solution-consultant-us-public-sector-moveworks/": "Sr Advisory Solution Consultant- US Public Sector- Moveworks",
+   "https://careers.servicenow.com/jobs/744000153615369/sr-advisory-solution-consultant-us-public-sector-moveworks/": "Sr Advisory Solution Consultant- US Public Sector- Moveworks",
+   "https://careers.servicenow.com/jobs/744000153615309/sr-advisory-solution-consultant-us-public-sector-moveworks/": "Sr Advisory Solution Consultant- US Public Sector- Moveworks"
   },
-  "new_on": "2026-10-05"
+  "new_on": "2026-10-06"
  },
  "https://snyk.io/careers/all-jobs/": {
   "company": "Snyk",
   "region": "UK",
-  "hash": "37686b861585f1c305dfae22b109868a14b5a626",
+  "hash": "da9c1159785612dddd6f7025b23543edc3789a70",
   "postings": {
    "https://snyk.io/careers/": "Careers Join Snyk today",
    "https://jobs.ashbyhq.com/98cd1a00-2706-4aa8-ab72-38a7b8c9c20c/a18c222f-daac-44a2-929d-506532594d03": "GTM Automation EngineerCorp Info Systems Romania - Cluj · On-site",
+   "https://jobs.ashbyhq.com/98cd1a00-2706-4aa8-ab72-38a7b8c9c20c/5bcd9f95-a7e9-4dc6-9d2b-8a87d684dbe4": "GTM Business Applications DirectorCorp Info Systems United States - Boston · Hybrid",
+   "https://jobs.ashbyhq.com/98cd1a00-2706-4aa8-ab72-38a7b8c9c20c/5f62de4c-0536-4072-9a16-a995832cee45": "Senior Manager, Revenue AccountingFinance United States - Remote",
    "https://jobs.ashbyhq.com/98cd1a00-2706-4aa8-ab72-38a7b8c9c20c/a0af3fa5-c951-4764-bc6e-bdaaf465a1f0": "Senior Revenue AccountantFinance United States - Remote",
    "https://jobs.ashbyhq.com/98cd1a00-2706-4aa8-ab72-38a7b8c9c20c/bd76daec-4c95-4516-8c0b-9a3f343fbaff": "Talent Business Partner DirectorPeople United States - Boston · Hybrid",
+   "https://jobs.ashbyhq.com/98cd1a00-2706-4aa8-ab72-38a7b8c9c20c/96b70a9a-0f0a-4129-8611-5420b1233bde": "Channel Manager United Kingdom - London · On-site",
    "https://jobs.ashbyhq.com/98cd1a00-2706-4aa8-ab72-38a7b8c9c20c/8f1c341f-63c4-4d66-a969-209c65285151": "GSI DirectorBusiness Development United States - Remote",
    "https://jobs.ashbyhq.com/98cd1a00-2706-4aa8-ab72-38a7b8c9c20c/d08d65e8-06f8-4164-9b1b-203315cbd555": "Senior Field & Partner Marketing ManagerMarketing United States - San Francisco, United States - Remote · Hybrid",
    "https://jobs.ashbyhq.com/98cd1a00-2706-4aa8-ab72-38a7b8c9c20c/8d612b9e-195c-4f59-a668-23bb62edc510": "Senior Technical Success ManagerCustomer Solutions United States - Boston, United States - Remote · Hybrid",
@@ -302,16 +328,20 @@
    "https://jobs.ashbyhq.com/98cd1a00-2706-4aa8-ab72-38a7b8c9c20c/62b7431d-586c-4c8f-b0f2-28e1ee81400c": "Staff Product ManagerProduct Switzerland - Zurich · On-site"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
-  "changed_on": "2026-10-02",
-  "new_links": {},
-  "new_on": "2026-10-01"
+  "changed_on": "2026-10-06",
+  "new_links": {
+   "https://jobs.ashbyhq.com/98cd1a00-2706-4aa8-ab72-38a7b8c9c20c/5bcd9f95-a7e9-4dc6-9d2b-8a87d684dbe4": "GTM Business Applications DirectorCorp Info Systems United States - Boston · Hybrid",
+   "https://jobs.ashbyhq.com/98cd1a00-2706-4aa8-ab72-38a7b8c9c20c/5f62de4c-0536-4072-9a16-a995832cee45": "Senior Manager, Revenue AccountingFinance United States - Remote",
+   "https://jobs.ashbyhq.com/98cd1a00-2706-4aa8-ab72-38a7b8c9c20c/96b70a9a-0f0a-4129-8611-5420b1233bde": "Channel Manager United Kingdom - London · On-site"
+  },
+  "new_on": "2026-10-06"
  },
  "https://atlassian.com/company/careers": {
   "company": "Atlassian",
   "region": "UK",
-  "hash": "b9c9fdb437302487fa168573055d30b0974a7cb5",
+  "hash": "9cd899e50f5c5cfdafecc1aa49ffedc9a874222c",
   "postings": {
    "https://atlassian.com/company/careers/all-jobs": "Browse open roles",
    "https://atlassian.com/company/careers/engineering/ai": "Discover more",
@@ -331,9 +361,9 @@
    "https://atlassian.com/company/careers/all-jobs?team=Engineering&location=&search=": "Browse all engineering roles"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
-  "changed_on": "2026-10-03",
+  "changed_on": "2026-10-06",
   "new_links": {},
   "new_on": "2026-10-02"
  },
@@ -347,7 +377,7 @@
    "https://careers.bupa.co.uk/our-roles": "Job Areas"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -380,7 +410,7 @@
    "https://wd3.myworkdaysite.com/en-US/recruiting/hcahealthcare/hcacareers/jobAlerts": "Job alerts"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -389,7 +419,7 @@
  "https://jobs.siemens-healthineers.com": {
   "company": "Siemens Healthineers",
   "region": "UK",
-  "hash": "77bb78a3eb9967f5a7dcaba47af8d5c79186f96d",
+  "hash": "b81e43355dab988440d2e5894dcd4a431e5fa3d6",
   "postings": {
    "https://jobs.siemens-healthineers.com/search-results": "Search results",
    "https://www.siemens-healthineers.com/perspectives/career-with-purpose": "Alejandra's story",
@@ -401,16 +431,16 @@
    "https://careers.siemens-healthineers.com/global/en/emailpersonalinfo": "Personal Information"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
-  "changed_on": "2026-10-05",
+  "changed_on": "2026-10-06",
   "new_links": {},
   "new_on": "2026-09-29"
  },
  "https://careers.castoredc.com/vacancies/": {
   "company": "Castor",
   "region": "NL",
-  "hash": "8b2e8c729f77e6effd43c451a950f4669dcf1857",
+  "hash": "0a416d9595f46da95cad9a4b18a5ad60b75cb076",
   "postings": {
    "https://careers.castoredc.com/webinars/patient-voice-regulatory-uncertainty-webinar/": "When clinical data alone leaves gaps, PROs close them. Learn how.",
    "https://careers.castoredc.com/why-castor/": "See how Castor compares to others",
@@ -443,16 +473,16 @@
    "https://careers.castoredc.com/wp-content/uploads/2026/08/Castor-Assessment-of-GDPR-and-HIPAA-Compliance-v2_0.pdf": "GDPR & HIPAA Compliance"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
-  "changed_on": "2026-10-02",
+  "changed_on": "2026-10-06",
   "new_links": {},
   "new_on": null
  },
  "https://job-boards.eu.greenhouse.io/openup": {
   "company": "OpenUp",
   "region": "NL",
-  "hash": "26a16a94f95ffcb792f706d6da11daaa7eb1bb93",
+  "hash": "f1037fb6c15b5b327d56df23b7622abf9ad71938",
   "postings": {
    "https://job-boards.eu.greenhouse.io/managers-leaders/": "ManagersHandle the conversations nobody trained them for",
    "https://job-boards.eu.greenhouse.io/hr-organisations/": "HR duty of care",
@@ -503,9 +533,9 @@
    "https://job-boards.eu.greenhouse.io/psychologist-support/": "Speak with a psychologist"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
-  "changed_on": "2026-10-05",
+  "changed_on": "2026-10-06",
   "new_links": {},
   "new_on": "2026-09-29"
  },
@@ -520,7 +550,7 @@
    "https://careers.danone.com/benelux/en/legal-notice.html": "Legal Notice"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -529,22 +559,22 @@
  "https://explore.jobs.netflix.net/careers": {
   "company": "Netflix",
   "region": "NL",
-  "hash": "72de806134b369e75c89ead44ea3d25ddb5ecb1b",
+  "hash": "670748da281994cc207f45d0e8624296c5791461",
   "postings": {
    "https://apply.netflixhouse.com/careers": "Netflix House",
    "https://jobs.netflix.com/dnssi": "Do Not Sell Or Share My Personal Information"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
-  "changed_on": "2026-10-05",
+  "changed_on": "2026-10-06",
   "new_links": {},
   "new_on": null
  },
  "https://optiver.com/join-us/jobs/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "ef40b36cc6abc037cba39ef88c19e330081224de",
+  "hash": "55418534a373bc5054c2411947d2cf6c5891c9c6",
   "postings": {
    "https://optiver.com/join-us/jobs/trading/amsterdam/career-kickstarter-trading-2027/": "Career Kickstarter - Trading 2027",
    "https://optiver.com/join-us/jobs/trading/new-york/ai-lab-research/": "AI Lab - Research",
@@ -564,9 +594,9 @@
    "https://optiver.com/join-us/jobs/trading/taipei/options-trade-supervisor-night-session/": "Options Trade Supervisor - Night Session"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
-  "changed_on": "2026-10-05",
+  "changed_on": "2026-10-06",
   "new_links": {},
   "new_on": "2026-10-01"
  },
@@ -585,12 +615,10 @@
    "https://www.teamtailor.com/?utm_campaign=poweredby&utm_content=jobs.sendcloud.com&utm_medium=referral&utm_source=career-site": "Career site by Teamtailor"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
   "changed_on": "2026-10-05",
-  "new_links": {
-   "https://jobs.sendcloud.com/jobs/8291721-customer-support-consultant-benelux": "Customer Support Consultant - Benelux Customer Support · Eindhoven HQ · Hybrid"
-  },
+  "new_links": {},
   "new_on": "2026-10-05"
  },
  "https://tomtom.com/careers/joboverview/": {
@@ -603,7 +631,7 @@
    "https://tomtom.com/careers/diversity-and-inclusion/": "Diversity and inclusion"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -612,7 +640,7 @@
  "https://careers.wolterskluwer.com/en": {
   "company": "Wolters Kluwer",
   "region": "NL",
-  "hash": "a637ffb1e86ca961bfa7cc2fb089f0672d1a77d0",
+  "hash": "fc92381cbe2fd9063b6f01d03ce23564c1828ec6",
   "postings": {
    "https://www.wolterskluwer.cn/careers": "Simplified Chinese",
    "https://careers.wolterskluwer.com/en/technology": "Find Out More",
@@ -629,9 +657,9 @@
    "https://wk.wd3.myworkdayjobs.com/External": "See All Jobs"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
-  "changed_on": "2026-10-01",
+  "changed_on": "2026-10-06",
   "new_links": {},
   "new_on": "2026-09-29"
  },
@@ -653,7 +681,7 @@
    "https://careers.ey.com/ey/job/Den-Haag-Manager-Global-Mobility-Den-Haag-2596-CZ/1442879633/": "Manager Global Mobility - Den HaagTax,Den Haag,36 uurProfessionalVaste baanProfessionalPermanent job"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
   "changed_on": "2026-10-02",
   "new_links": {},
@@ -667,7 +695,7 @@
    "https://www.vintura.com/consultant-jobs/": "Working at vintura"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -679,7 +707,7 @@
   "hash": "f1a79ffc00df9d20a5a491c80a9f1b212ef57788",
   "postings": {},
   "readable": false,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -691,7 +719,7 @@
   "hash": "0a088b612f606fbf913f11f920d5ff53fd3b6c77",
   "postings": {},
   "readable": false,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -703,7 +731,7 @@
   "hash": "5853c0697ec80ec8fa3372c51a735a2ab3a4c9ab",
   "postings": {},
   "readable": false,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -715,7 +743,7 @@
   "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
   "postings": {},
   "readable": false,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -741,7 +769,7 @@
    "https://ownmycareer.com/bupa/": "Free Resources"
   },
   "readable": true,
-  "checked": "2026-10-05T12:20:29+00:00",
+  "checked": "2026-10-06T12:04:16+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
