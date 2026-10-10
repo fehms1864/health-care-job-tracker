@@ -7,7 +7,7 @@
    "https://huma.us/careers/": "Let’s Build a Sustainable Future Together"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -26,7 +26,7 @@
    "https://lifeworks.wd3.myworkdayjobs.com/en-US/External": "View open positions"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -44,7 +44,7 @@
    "https://www.teamtailor.com/?utm_campaign=poweredby&utm_content=careers.elder.org&utm_medium=referral&utm_source=career-site": "Career site by Teamtailor"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": "2026-09-30",
   "new_links": {},
@@ -56,7 +56,7 @@
   "hash": "afa5ae7428d4da63f5b1b3e3c098c8c7ded699f2",
   "postings": {},
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -71,7 +71,7 @@
    "https://www.zs.com/fraudulent-job-postings-fake-companies-and-scams": "Fraud Warning"
   },
   "readable": false,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -96,7 +96,7 @@
    "https://lek.com/careers/life-lek-blog": "Imagine your future at L.E.K."
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": "2026-10-01",
   "new_links": {},
@@ -127,7 +127,7 @@
    "https://careers-phastar.icims.com/case-studies-menu": "Case Studies"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -136,7 +136,7 @@
  "https://apply.deloitte.co.uk/UKCareers/": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "06368b2a064bf3d1a1f8591206476c657b7cb6ac",
+  "hash": "b2ee416abfcdd83c7be29dc0f1c01bafb5614cc8",
   "postings": {
    "https://www.deloitte.com/uk/en/careers.html": "Why join Deloitte?",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -160,9 +160,9 @@
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Insurance-Legal-Entity-Structuring-Strategy-Risk-Transactions-Advisory/23790": "Assistant Director, Insurance Legal Entity Structuring, Strategy Risk & Transactions Advisory"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
-  "changed_on": "2026-10-09",
+  "changed_on": "2026-10-10",
   "new_links": {},
   "new_on": "2026-10-08"
  },
@@ -172,7 +172,7 @@
   "hash": "95893c9fc23a65435bf2c51ccbb01c00273a3560",
   "postings": {},
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": "2026-10-04",
   "new_links": {},
@@ -181,10 +181,10 @@
  "https://jobs.pwc.co.uk/experienced/uk/en/search-results": {
   "company": "PwC",
   "region": "UK",
-  "hash": "32998461edb5c45d837cfa70a7bd96dbe5b94366",
+  "hash": "4048acac9014bf857bbe1ed087e83292975f3996",
   "postings": {},
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": "2026-10-10",
   "new_links": {},
@@ -193,12 +193,12 @@
  "https://careers.kainos.com": {
   "company": "Kainos",
   "region": "UK",
-  "hash": "2e5280f13e2f0e2887724c105d66a1f555789f0b",
+  "hash": "aef343efeac6a5244d1017b513bc76cbb7ddf5de",
   "postings": {
    "https://careers.kainos.com/search-results": "Search results"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": "2026-10-10",
   "new_links": {},
@@ -207,7 +207,7 @@
  "https://revolut.com/careers/": {
   "company": "Revolut",
   "region": "UK",
-  "hash": "f0e10226af410d6f0e5989b0ede3d79cff06cadf",
+  "hash": "6a8144fed73c1a166e75a708d534b73cae53500c",
   "postings": {
    "https://revolut.com/careers/team/business-development/": "Business Development0 open positions",
    "https://revolut.com/careers/team/credit/": "Credit20 open positions",
@@ -216,7 +216,7 @@
    "https://revolut.com/blog/post/revolut-career-journeys-5-minutes-with-boon-pek/": "Talent programmes · PeopleRevolut Career Journeys: 5 minutes with Head of Engineering, Boon Pek21 April 2026"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": "2026-10-10",
   "new_links": {},
@@ -234,7 +234,7 @@
    "https://www.salesforce.com/company/careers/jobs/?pagesize=20&_ga=2.27075837.1782687594.1785901784-1914052223.1784325799&_gac=1.184307412.1785539892.CjwKCAjwj7HTBhBiEiwA8s35OumbOLgDWRtqSH2gbA99C5q93wyBJRLO6CoYX948YtWkGxtODSBNyhoCrOQQAvD_BwE&country=United+Kingdom&page=1": "Apply today"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": "2026-10-01",
   "new_links": {},
@@ -277,7 +277,7 @@
    "https://careers.servicenow.com/jobs/744000154608719/staff-software-engineer/": "Staff Software Engineer"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": "2026-10-10",
   "new_links": {
@@ -312,7 +312,7 @@
    "https://jobs.ashbyhq.com/98cd1a00-2706-4aa8-ab72-38a7b8c9c20c/62b7431d-586c-4c8f-b0f2-28e1ee81400c": "Staff Product ManagerProduct Switzerland - Zurich · On-site"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": "2026-10-08",
   "new_links": {},
@@ -341,7 +341,7 @@
    "https://atlassian.com/company/careers/all-jobs?team=Engineering&location=&search=": "Browse all engineering roles"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": "2026-10-06",
   "new_links": {},
@@ -357,7 +357,7 @@
    "https://careers.bupa.co.uk/our-roles": "Job Areas"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": "2026-10-09",
   "new_links": {},
@@ -390,7 +390,7 @@
    "https://wd3.myworkdaysite.com/en-US/recruiting/hcahealthcare/hcacareers/jobAlerts": "Job alerts"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -399,7 +399,7 @@
  "https://jobs.siemens-healthineers.com": {
   "company": "Siemens Healthineers",
   "region": "UK",
-  "hash": "3cd4cb74d80426a3ac8fff69414732ef143e39d0",
+  "hash": "5bce774fdb0db5220c9cc3063fce625f235022c8",
   "postings": {
    "https://jobs.siemens-healthineers.com/search-results": "Search results",
    "https://www.siemens-healthineers.com/perspectives/career-with-purpose": "Alejandra's story",
@@ -411,7 +411,7 @@
    "https://careers.siemens-healthineers.com/global/en/emailpersonalinfo": "Personal Information"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": "2026-10-10",
   "new_links": {},
@@ -453,7 +453,7 @@
    "https://careers.castoredc.com/wp-content/uploads/2026/08/Castor-Assessment-of-GDPR-and-HIPAA-Compliance-v2_0.pdf": "GDPR & HIPAA Compliance"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": "2026-10-08",
   "new_links": {},
@@ -513,7 +513,7 @@
    "https://job-boards.eu.greenhouse.io/psychologist-support/": "Speak with a psychologist"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": "2026-10-09",
   "new_links": {},
@@ -530,7 +530,7 @@
    "https://careers.danone.com/benelux/en/legal-notice.html": "Legal Notice"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -539,13 +539,13 @@
  "https://explore.jobs.netflix.net/careers": {
   "company": "Netflix",
   "region": "NL",
-  "hash": "edb95ed6201bf72cfee284c69273b08015ff8ab1",
+  "hash": "dbaa8224e24022b4dbaabfec7fd8e095bb30d2d2",
   "postings": {
    "https://apply.netflixhouse.com/careers": "Netflix House",
    "https://jobs.netflix.com/dnssi": "Do Not Sell Or Share My Personal Information"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": "2026-10-10",
   "new_links": {},
@@ -574,7 +574,7 @@
    "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/new-york/graduate-quantitative-researcher-phd-2027-start/": "Graduate Quantitative Researcher, PhD (2027 Start)"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": "2026-10-09",
   "new_links": {},
@@ -595,7 +595,7 @@
    "https://www.teamtailor.com/?utm_campaign=poweredby&utm_content=jobs.sendcloud.com&utm_medium=referral&utm_source=career-site": "Career site by Teamtailor"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": "2026-10-10",
   "new_links": {},
@@ -611,7 +611,7 @@
    "https://tomtom.com/careers/diversity-and-inclusion/": "Diversity and inclusion"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": "2026-10-06",
   "new_links": {},
@@ -637,7 +637,7 @@
    "https://wk.wd3.myworkdayjobs.com/External": "See All Jobs"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": "2026-10-07",
   "new_links": {},
@@ -661,7 +661,7 @@
    "https://careers.ey.com/ey/job/Hoboken-Strategy-Execution-Lead-NJ-07030/1444827633/": "Strategy Execution LeadCore Business Services,ProfessionalVaste baanProfessionalPermanent job"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": "2026-10-08",
   "new_links": {},
@@ -675,7 +675,7 @@
    "https://www.vintura.com/consultant-jobs/": "Working at vintura"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -687,7 +687,7 @@
   "hash": "f1a79ffc00df9d20a5a491c80a9f1b212ef57788",
   "postings": {},
   "readable": false,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -699,7 +699,7 @@
   "hash": "0a088b612f606fbf913f11f920d5ff53fd3b6c77",
   "postings": {},
   "readable": false,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -711,7 +711,7 @@
   "hash": "5853c0697ec80ec8fa3372c51a735a2ab3a4c9ab",
   "postings": {},
   "readable": false,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -723,8 +723,8 @@
   "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
   "postings": {},
   "readable": false,
-  "checked": "2026-10-10T11:13:14+00:00",
-  "error": "HTTPError: 520 Server Error: Unknown for url: https://careers-m42.icims.com/jobs/search?pr=0&in_iframe=1",
+  "checked": "2026-10-10T17:28:15+00:00",
+  "error": null,
   "changed_on": null,
   "new_links": {},
   "new_on": null
@@ -749,7 +749,7 @@
    "https://ownmycareer.com/bupa/": "Free Resources"
   },
   "readable": true,
-  "checked": "2026-10-10T11:13:14+00:00",
+  "checked": "2026-10-10T17:28:15+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T11:13:14+00:00",
+ "generated_at": "2026-10-10T17:28:15+00:00",
  "baseline_date": "2026-09-27",
  "rules_version": 4,
  "jobs": [
@@ -6769,14 +6769,14 @@
    "lang_checked": true
   },
   {
-   "id": "81c39b525e545a",
+   "id": "e6a2d181965e1e",
    "company": "Intercom",
    "region": "UK",
    "title": "Staff AI Product Manager",
    "location": "Dublin, Ireland Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/intercom/jobs/7377200",
-   "posted": "2025-11-20T08:26:34-05:00",
-   "posted_date": "2025-11-20",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/7464291",
+   "posted": "2025-12-12T04:36:29-05:00",
+   "posted_date": "2025-12-12",
    "posted_approx": false,
    "first_seen": "2026-09-27",
    "score": 20,
@@ -6789,14 +6789,14 @@
    "lang_checked": true
   },
   {
-   "id": "e6a2d181965e1e",
+   "id": "81c39b525e545a",
    "company": "Intercom",
    "region": "UK",
    "title": "Staff AI Product Manager",
    "location": "Dublin, Ireland Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/intercom/jobs/7464291",
-   "posted": "2025-12-12T04:36:29-05:00",
-   "posted_date": "2025-12-12",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/7377200",
+   "posted": "2025-11-20T08:26:34-05:00",
+   "posted_date": "2025-11-20",
    "posted_approx": false,
    "first_seen": "2026-09-27",
    "score": 20,
@@ -8304,13 +8304,13 @@
    "lang_checked": true
   },
   {
-   "id": "5c9923fc2a4c97",
+   "id": "94cb7bc472850f",
    "company": "SumUp",
    "region": "UK",
    "title": "Workday Specialist",
    "location": "Barcelona Barcelona, Barcelona, Spain / Berlin Berlin, Germany / London London, England, United Kingdom / Mexico - Remote Mexico City, Mexico City, Mexico / War",
-   "url": "https://sumup.com/careers/positions/8547633002?gh_jid=8547633002",
-   "posted": "2026-05-13T10:38:36-04:00",
+   "url": "https://sumup.com/careers/positions/8547634002?gh_jid=8547634002",
+   "posted": "2026-05-13T10:39:15-04:00",
    "posted_date": "2026-05-13",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -8322,13 +8322,13 @@
    "lang_checked": true
   },
   {
-   "id": "94cb7bc472850f",
+   "id": "5c9923fc2a4c97",
    "company": "SumUp",
    "region": "UK",
    "title": "Workday Specialist",
    "location": "Barcelona Barcelona, Barcelona, Spain / Berlin Berlin, Germany / London London, England, United Kingdom / Mexico - Remote Mexico City, Mexico City, Mexico / War",
-   "url": "https://sumup.com/careers/positions/8547634002?gh_jid=8547634002",
-   "posted": "2026-05-13T10:39:15-04:00",
+   "url": "https://sumup.com/careers/positions/8547633002?gh_jid=8547633002",
+   "posted": "2026-05-13T10:38:36-04:00",
    "posted_date": "2026-05-13",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -8632,13 +8632,13 @@
    "lang_checked": true
   },
   {
-   "id": "fddc3e59949d98",
+   "id": "46f817c03b29f9",
    "company": "Datadog",
    "region": "UK",
    "title": "Global Safety & Security Manager",
-   "location": "Sydney, Australia / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
-   "url": "https://careers.datadoghq.com/detail/8224963/?gh_jid=8224963",
-   "posted": "2026-09-23T22:03:12-04:00",
+   "location": "Singapore, Singapore / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
+   "url": "https://careers.datadoghq.com/detail/8223272/?gh_jid=8223272",
+   "posted": "2026-09-23T21:51:51-04:00",
    "posted_date": "2026-09-23",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -8649,13 +8649,13 @@
    "lang_checked": true
   },
   {
-   "id": "46f817c03b29f9",
+   "id": "fddc3e59949d98",
    "company": "Datadog",
    "region": "UK",
    "title": "Global Safety & Security Manager",
-   "location": "Singapore, Singapore / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
-   "url": "https://careers.datadoghq.com/detail/8223272/?gh_jid=8223272",
-   "posted": "2026-09-23T21:51:51-04:00",
+   "location": "Sydney, Australia / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
+   "url": "https://careers.datadoghq.com/detail/8224963/?gh_jid=8224963",
+   "posted": "2026-09-23T22:03:12-04:00",
    "posted_date": "2026-09-23",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -9623,21 +9623,6 @@
    "lang_checked": true
   },
   {
-   "id": "cc79a4f82bba3e",
-   "company": "Datadog",
-   "region": "UK",
-   "title": "Principal GSI Partner Manager - Accenture (EMEA)",
-   "location": "United Kingdom, Remote / Amsterdam Amsterdam, Noord-Holland, Netherlands / London London, Greater London, England, United Kingdom / Paris Paris, Paris, France /",
-   "url": "https://careers.datadoghq.com/detail/8203733/?gh_jid=8203733",
-   "posted": "2026-09-18T05:55:33-04:00",
-   "posted_date": "2026-09-18",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 2,
-   "hits": [],
-   "lang_checked": true
-  },
-  {
    "id": "a8be7cd2eb02f7",
    "company": "Datadog",
    "region": "UK",
@@ -9646,6 +9631,21 @@
    "url": "https://careers.datadoghq.com/detail/8219989/?gh_jid=8219989",
    "posted": "2026-09-21T04:54:47-04:00",
    "posted_date": "2026-09-21",
+   "posted_approx": false,
+   "first_seen": "2026-09-27",
+   "score": 2,
+   "hits": [],
+   "lang_checked": true
+  },
+  {
+   "id": "cc79a4f82bba3e",
+   "company": "Datadog",
+   "region": "UK",
+   "title": "Principal GSI Partner Manager - Accenture (EMEA)",
+   "location": "United Kingdom, Remote / Amsterdam Amsterdam, Noord-Holland, Netherlands / London London, Greater London, England, United Kingdom / Paris Paris, Paris, France /",
+   "url": "https://careers.datadoghq.com/detail/8203733/?gh_jid=8203733",
+   "posted": "2026-09-18T05:55:33-04:00",
+   "posted_date": "2026-09-18",
    "posted_approx": false,
    "first_seen": "2026-09-27",
    "score": 2,
@@ -10100,7 +10100,7 @@
    "url": "https://apply.deloitte.co.uk/UKCareers/",
    "kind": "page",
    "readable": true,
-   "changed_on": "2026-10-09",
+   "changed_on": "2026-10-10",
    "new_links": [],
    "new_on": "2026-10-08",
    "error": null
@@ -10910,7 +10910,7 @@
    "changed_on": null,
    "new_links": [],
    "new_on": null,
-   "error": "HTTPError: 520 Server Error: Unknown for url: https://careers-m42.icims.com/jobs/search?pr=0&in_iframe=1"
+   "error": null
   },
   {
    "company": "PureHealth",
@@ -11004,7 +11004,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 238,
+   "total": 239,
    "in_region": 70,
    "kept": 26
   },
@@ -11024,8 +11024,8 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 77,
-   "in_region": 77,
+   "total": 78,
+   "in_region": 78,
    "kept": 25
   },
   {
@@ -11054,7 +11054,7 @@
    ],
    "source": "eightfold",
    "error": null,
-   "total": 611,
+   "total": 608,
    "in_region": 0,
    "kept": 0
   },
@@ -11164,7 +11164,7 @@
    ],
    "source": "smartrecruiters",
    "error": null,
-   "total": 471,
+   "total": 470,
    "in_region": 293,
    "kept": 5
   },
@@ -11820,7 +11820,7 @@
   "companies": 215,
   "feeds": 82,
   "jobs": 541,
-  "new_today": 1,
+  "new_today": 0,
   "pages": 35
  }
 }
