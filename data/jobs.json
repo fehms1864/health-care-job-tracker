@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T11:26:52+00:00",
+ "generated_at": "2026-10-11T17:47:27+00:00",
  "baseline_date": "2026-09-27",
  "rules_version": 4,
  "jobs": [
@@ -8374,23 +8374,6 @@
    "lang_checked": true
   },
   {
-   "id": "72f9c37d8578ff",
-   "company": "Adyen",
-   "region": "NL",
-   "title": "Brand Enablement Manager",
-   "location": "Amsterdam Amsterdam",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8090506",
-   "posted": "2026-07-28T03:49:11-04:00",
-   "posted_date": "2026-07-28",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 10,
-   "hits": [
-    "operations"
-   ],
-   "lang_checked": true
-  },
-  {
    "id": "a70640205e23e3",
    "company": "Adyen",
    "region": "NL",
@@ -10299,7 +10282,7 @@
    "url": "https://careers.servicenow.com/jobs/",
    "kind": "page",
    "readable": true,
-   "changed_on": "2026-10-10",
+   "changed_on": "2026-10-11",
    "new_links": [],
    "new_on": "2026-10-10",
    "error": null
@@ -10690,7 +10673,7 @@
    "url": "https://careers.servicenow.com/jobs/",
    "kind": "page",
    "readable": true,
-   "changed_on": "2026-10-10",
+   "changed_on": "2026-10-11",
    "new_links": [],
    "new_on": "2026-10-10",
    "error": null
@@ -10994,9 +10977,9 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 239,
-   "in_region": 71,
-   "kept": 26
+   "total": 237,
+   "in_region": 69,
+   "kept": 25
   },
   {
    "companies": [
@@ -11024,7 +11007,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 48,
+   "total": 46,
    "in_region": 5,
    "kept": 1
   },
@@ -11185,7 +11168,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 886,
+   "total": 892,
    "in_region": 88,
    "kept": 7
   },
@@ -11205,7 +11188,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 199,
+   "total": 200,
    "in_region": 134,
    "kept": 30
   },
@@ -11508,8 +11491,8 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 120,
-   "in_region": 41,
+   "total": 121,
+   "in_region": 42,
    "kept": 19
   },
   {
@@ -11558,7 +11541,7 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 95,
+   "total": 94,
    "in_region": 0,
    "kept": 0
   },
@@ -11681,7 +11664,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 729,
+   "total": 728,
    "in_region": 60,
    "kept": 20
   },
@@ -11809,7 +11792,7 @@
  "counts": {
   "companies": 215,
   "feeds": 82,
-  "jobs": 541,
+  "jobs": 540,
   "new_today": 0,
   "pages": 35
  }
