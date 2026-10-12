@@ -1,38 +1,57 @@
 [
  {
-  "id": "c59b6b422e5905",
-  "company": "AstraZeneca",
+  "id": "fdd31c116063d8",
+  "company": "Zendesk",
   "region": "UK",
-  "title": "Business Operations Lead",
-  "location": "UK - London",
-  "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/Business-Operations-Lead_R-261595",
+  "title": "Implementation Services Consultant with French or German",
+  "location": "2 Locations",
+  "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Dublin-Ireland/Implementation-Services-Consultant-with-French-or-German_R35598-1",
   "posted": "Today",
   "posted_date": "2026-10-12",
   "posted_approx": false,
   "first_seen": "2026-10-12",
-  "score": 49,
+  "score": 42,
   "hits": [
-   "strategy",
-   "operations",
-   "implementation",
-   "transformation"
+   "consultant",
+   "consulting",
+   "implementation"
   ],
   "lang_checked": true
  },
  {
-  "id": "fb4e234d85be3d",
-  "company": "AstraZeneca",
+  "id": "b0de1775f0daa4",
+  "company": "Accurx",
   "region": "UK",
-  "title": "Data Operations Manager - OBEX",
-  "location": "UK - London",
-  "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/Data-Operations-Manager---OBEX_R-261656",
-  "posted": "Today",
+  "title": "Customer Success Lead",
+  "location": "London (Shoreditch) / United Kingdom",
+  "url": "https://jobs.ashbyhq.com/accurx/809cf3dc-e24d-4199-b6d7-115cccde7362",
+  "posted": "2026-10-12T14:42:15.703+00:00",
   "posted_date": "2026-10-12",
   "posted_approx": false,
   "first_seen": "2026-10-12",
-  "score": 47,
+  "score": 31,
   "hits": [
    "healthcare",
+   "patient",
+   "mental health",
+   "nhs"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "ec0c8f8f5b4539",
+  "company": "Baringa",
+  "region": "UK",
+  "title": "Senior HR Advisor",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/5003613101",
+  "posted": "2026-10-12T10:58:57-04:00",
+  "posted_date": "2026-10-12",
+  "posted_approx": false,
+  "first_seen": "2026-10-12",
+  "score": 23,
+  "hits": [
+   "strategy",
    "operations",
    "consulting",
    "transformation"
@@ -40,395 +59,141 @@
   "lang_checked": true
  },
  {
-  "id": "7e592894753993",
-  "company": "Philips UK",
+  "id": "309b67f9a47e30",
+  "company": "Starling Bank",
   "region": "UK",
-  "title": "Customer Program Manager",
-  "location": "United Kingdom - Remote Based",
-  "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-Kingdom---Remote-Based/Customer-Program-Manager_582235-1",
-  "posted": "Today",
+  "title": "Customer Service Team Lead - Overnight",
+  "location": "Cardiff, Wales, United Kingdom",
+  "url": "https://apply.workable.com/starling-bank/j/8F601C3D6E/",
+  "posted": "2026-10-12T00:00:00.000Z",
   "posted_date": "2026-10-12",
   "posted_approx": false,
   "first_seen": "2026-10-12",
-  "score": 30,
+  "score": 18,
   "hits": [
-   "healthcare",
-   "implementation",
-   "program manager"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "a80dc710872f30",
-  "company": "AstraZeneca",
-  "region": "UK",
-  "title": "Launch Excellence PMO - IBEX",
-  "location": "UK - London",
-  "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/Launch-Excellence-PMO---IBEX_R-261648",
-  "posted": "Today",
-  "posted_date": "2026-10-12",
-  "posted_approx": false,
-  "first_seen": "2026-10-12",
-  "score": 29,
-  "hits": [
-   "patient",
-   "patient journey",
-   "strategy",
-   "operations"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "c17a6f762cea52",
-  "company": "IQVIA",
-  "region": "UK",
-  "title": "Study Start Up Specialist - UK IQVIA Biotech",
-  "location": "2 Locations",
-  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Study-Start-Up-Specialist---UK-IQVIA-Biotech_R1571744",
-  "posted": "Today",
-  "posted_date": "2026-10-12",
-  "posted_approx": false,
-  "first_seen": "2026-10-12",
-  "score": 24,
-  "hits": [
-   "healthcare",
-   "patient",
-   "population health"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "7ace6a1a252d0e",
-  "company": "IQVIA",
-  "region": "UK",
-  "title": "Analyst",
-  "location": "London, United Kingdom",
-  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Analyst_R1570008",
-  "posted": "Today",
-  "posted_date": "2026-10-12",
-  "posted_approx": false,
-  "first_seen": "2026-10-12",
-  "score": 23,
-  "hits": [
-   "healthcare",
-   "patient",
-   "population health",
-   "consulting"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "6269ec2751b28a",
-  "company": "IQVIA",
-  "region": "UK",
-  "title": "Analyst",
-  "location": "London, United Kingdom",
-  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Analyst_R1570012",
-  "posted": "Today",
-  "posted_date": "2026-10-12",
-  "posted_approx": false,
-  "first_seen": "2026-10-12",
-  "score": 23,
-  "hits": [
-   "healthcare",
-   "patient",
-   "population health",
-   "consulting"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "bbf940dfd125d4",
-  "company": "IQVIA",
-  "region": "UK",
-  "title": "Analyst",
-  "location": "London, United Kingdom",
-  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Analyst_R1570016",
-  "posted": "Today",
-  "posted_date": "2026-10-12",
-  "posted_approx": false,
-  "first_seen": "2026-10-12",
-  "score": 23,
-  "hits": [
-   "healthcare",
-   "patient",
-   "population health",
-   "consulting"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "af046ff209fc94",
-  "company": "IQVIA",
-  "region": "UK",
-  "title": "Data Acquisition Expert - EDC (Homebased UK/South Africa)",
-  "location": "6 Locations",
-  "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Data-Acquisition-Expert---EDC--Homebased-UK-South-Africa-_R1555659-1",
-  "posted": "Today",
-  "posted_date": "2026-10-12",
-  "posted_approx": false,
-  "first_seen": "2026-10-12",
-  "score": 23,
-  "hits": [
-   "healthcare",
-   "patient",
-   "population health",
-   "implementation"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "33aa3ce3763571",
-  "company": "Philips",
-  "region": "NL",
-  "title": "Marketing Communications Manager - IGT Systems",
-  "location": "Best",
-  "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Marketing-Communications-Manager---IGT-Systems_591564-2",
-  "posted": "Today",
-  "posted_date": "2026-10-12",
-  "posted_approx": false,
-  "first_seen": "2026-10-12",
-  "score": 23,
-  "hits": [
-   "healthcare",
-   "medtech",
-   "strategy",
-   "implementation"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "3004d869ada426",
-  "company": "AstraZeneca",
-  "region": "UK",
-  "title": "Business Excellence Manager - OBEX",
-  "location": "UK - London",
-  "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/Business-Excellence-Manager---OBEX_R-261662",
-  "posted": "Today",
-  "posted_date": "2026-10-12",
-  "posted_approx": false,
-  "first_seen": "2026-10-12",
-  "score": 23,
-  "hits": [
-   "healthcare",
-   "patient",
-   "strategy",
-   "implementation"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "138930d2237179",
-  "company": "AstraZeneca",
-  "region": "UK",
-  "title": "Marketing & Digital Excellence Partner - IBEX",
-  "location": "UK - London",
-  "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/Marketing---Digital-Excellence-Partner---IBEX_R-261645",
-  "posted": "Today",
-  "posted_date": "2026-10-12",
-  "posted_approx": false,
-  "first_seen": "2026-10-12",
-  "score": 23,
-  "hits": [
-   "healthcare",
-   "strategy",
-   "operations",
-   "implementation"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "18b20eceff5aa4",
-  "company": "Accurx",
-  "region": "UK",
-  "title": "Senior Communications & PR Lead (12-month FTC)",
-  "location": "London (Shoreditch) / United Kingdom",
-  "url": "https://jobs.ashbyhq.com/accurx/6b58c067-54b0-4546-a993-a681b06a4131",
-  "posted": "2026-10-12T10:35:18.449+00:00",
-  "posted_date": "2026-10-12",
-  "posted_approx": false,
-  "first_seen": "2026-10-12",
-  "score": 22,
-  "hits": [
-   "healthcare",
    "mental health",
-   "nhs",
-   "strategy"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "02437d373ada16",
-  "company": "AstraZeneca",
-  "region": "UK",
-  "title": "Commercial Effectiveness Manager - OBEX",
-  "location": "UK - London",
-  "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/Commercial-Effectiveness-Manager---OBEX_R-261659",
-  "posted": "Today",
-  "posted_date": "2026-10-12",
-  "posted_approx": false,
-  "first_seen": "2026-10-12",
-  "score": 22,
-  "hits": [
-   "strategy",
    "operations",
-   "transformation",
-   "change management"
+   "operations manager"
   ],
   "lang_checked": true
  },
  {
-  "id": "73d1c1397dd98c",
-  "company": "Version 1",
+  "id": "ec33cc02d1eb9b",
+  "company": "Unmind",
   "region": "UK",
-  "title": "Product Manager",
-  "location": "London, Birmingham, Manchester, Newcastle upon Tyne, Edinburgh, Belfast, gb",
-  "url": "https://jobs.smartrecruiters.com/version1/744000154964419",
-  "posted": "2026-10-12T09:16:23.758Z",
+  "title": "Senior Talent Partner",
+  "location": "London, HQ / United Kingdom",
+  "url": "https://jobs.ashbyhq.com/unmind/f18d138e-d903-4d9a-a635-19ec2d2880b2",
+  "posted": "2026-10-12T14:39:06.765+00:00",
   "posted_date": "2026-10-12",
   "posted_approx": false,
   "first_seen": "2026-10-12",
-  "score": 20,
+  "score": 17,
   "hits": [
-   "healthcare",
-   "transformation",
-   "product manager"
+   "mental health",
+   "nhs"
   ],
   "lang_checked": true
  },
  {
-  "id": "13e5b99af70817",
-  "company": "ING",
-  "region": "NL",
-  "title": "ATC Consultant",
-  "location": "HBP (Amsterdam - Haarlerbergpark)",
-  "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/HBP-Amsterdam---Haarlerbergpark/ATC-Consultant_REQ-10122057-2",
-  "posted": "Today",
-  "posted_date": "2026-10-12",
-  "posted_approx": false,
-  "first_seen": "2026-10-12",
-  "score": 16,
-  "hits": [
-   "consultant",
-   "implementation"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "29ba34615a87e4",
-  "company": "Version 1",
+  "id": "8ca68831178809",
+  "company": "Intercom",
   "region": "UK",
-  "title": "Senior Delivery Manager",
-  "location": "London, Birmingham, Manchester, Newcastle upon Tyne, Edinburgh, Belfast,, England, gb",
-  "url": "https://jobs.smartrecruiters.com/version1/744000155011396",
-  "posted": "2026-10-12T12:58:38.881Z",
+  "title": "SeniorProduct Manager (Service Agent Team)",
+  "location": "Dublin, Ireland Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/intercom/jobs/8264267",
+  "posted": "2026-10-12T11:57:46-04:00",
   "posted_date": "2026-10-12",
   "posted_approx": false,
   "first_seen": "2026-10-12",
   "score": 14,
   "hits": [
+   "strategy",
    "transformation"
   ],
   "lang_checked": true
  },
  {
-  "id": "48e890a1f2c72a",
+  "id": "44fa862d5b7f26",
   "company": "AstraZeneca",
   "region": "UK",
-  "title": "IT Analyst - IBEX",
-  "location": "UK - London",
-  "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/IT-Analyst---IBEX_R-261650",
+  "title": "Process Leader - 6 Month Fixed Term Contract",
+  "location": "UK - Macclesfield",
+  "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---Macclesfield/Process-Leader_R-261672",
   "posted": "Today",
   "posted_date": "2026-10-12",
   "posted_approx": false,
   "first_seen": "2026-10-12",
   "score": 10,
   "hits": [
-   "patient"
+   "operations"
   ],
   "lang_checked": true
  },
  {
-  "id": "10b42793435227",
+  "id": "a0f38513b634e5",
   "company": "Adyen",
   "region": "NL",
-  "title": "Manager, Salesforce Integration",
-  "location": "Amsterdam Amsterdam",
-  "url": "https://job-boards.greenhouse.io/adyen/jobs/8273487",
-  "posted": "2026-10-12T03:18:50-04:00",
-  "posted_date": "2026-10-12",
-  "posted_approx": false,
-  "first_seen": "2026-10-12",
-  "score": 10,
-  "hits": [
-   "strategy",
-   "implementation"
-  ],
-  "lang_checked": true
- },
- {
-  "id": "a6274e674916db",
-  "company": "Philips Middle East",
-  "region": "ME",
-  "title": "General Service Support - Graduate",
-  "location": "Riyadh",
-  "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Riyadh/General-Service-Support---Graduate_589479",
-  "posted": "Today",
+  "title": "Senior Payments Partnerships Manager - Visa",
+  "location": "Amsterdam; London / Amsterdam Amsterdam",
+  "url": "https://job-boards.greenhouse.io/adyen/jobs/8273989",
+  "posted": "2026-10-12T11:25:15-04:00",
   "posted_date": "2026-10-12",
   "posted_approx": false,
   "first_seen": "2026-10-12",
   "score": 9,
   "hits": [
-   "healthcare",
    "strategy"
   ],
   "lang_checked": true
  },
  {
-  "id": "f2a47a556d5701",
-  "company": "AstraZeneca",
+  "id": "3a8fb33c478708",
+  "company": "Deliveroo",
   "region": "UK",
-  "title": "AI Activation Specialist",
-  "location": "UK - London",
-  "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/AI-Activation-Specialist_R-261627-1",
+  "title": "Compensation Partner",
+  "location": "London, England / London, United Kingdom - Deliveroo",
+  "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8273941",
+  "posted": "2026-10-12T11:01:52-04:00",
+  "posted_date": "2026-10-12",
+  "posted_approx": false,
+  "first_seen": "2026-10-12",
+  "score": 8,
+  "hits": [
+   "consulting"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "c615a912070a86",
+  "company": "Adyen",
+  "region": "NL",
+  "title": "Team Lead - Record to Report",
+  "location": "Amsterdam Amsterdam",
+  "url": "https://job-boards.greenhouse.io/adyen/jobs/8225781",
+  "posted": "2026-10-12T11:12:18-04:00",
+  "posted_date": "2026-10-12",
+  "posted_approx": false,
+  "first_seen": "2026-10-12",
+  "score": 8,
+  "hits": [
+   "strategy"
+  ],
+  "lang_checked": true
+ },
+ {
+  "id": "16a058d84fc604",
+  "company": "ING",
+  "region": "NL",
+  "title": "Customer Journey Expert - Growth & Marketing Advisory Products",
+  "location": "ACT (Amsterdam - Acanthus)",
+  "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/ACT-Amsterdam---Acanthus/Customer-Journey-Expert---Growth---Marketing-Advisory-Products_REQ-10121906-1",
   "posted": "Today",
   "posted_date": "2026-10-12",
   "posted_approx": false,
   "first_seen": "2026-10-12",
   "score": 8,
   "hits": [],
-  "lang_checked": true
- },
- {
-  "id": "a0710b617f64a9",
-  "company": "Philips",
-  "region": "NL",
-  "title": "",
-  "location": "",
-  "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
-  "posted": null,
-  "posted_date": "2026-10-12",
-  "posted_approx": true,
-  "first_seen": "2026-10-12",
-  "score": 3,
-  "hits": [],
-  "lang_checked": true
- },
- {
-  "id": "0b323c8e8a329d",
-  "company": "ING",
-  "region": "NL",
-  "title": "ING's Early Career Event",
-  "location": "CDR (Amsterdam - Cedar)",
-  "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/CDR-Amsterdam---Cedar/ING-s-Early-Career-Event_REQ-10123121",
-  "posted": "Today",
-  "posted_date": "2026-10-12",
-  "posted_approx": false,
-  "first_seen": "2026-10-12",
-  "score": 3,
-  "hits": [
-   "strategy"
-  ],
   "lang_checked": true
  }
 ]
