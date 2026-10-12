@@ -1,8 +1,440 @@
 {
- "generated_at": "2026-10-11T17:47:27+00:00",
+ "generated_at": "2026-10-12T13:14:04+00:00",
  "baseline_date": "2026-09-27",
  "rules_version": 4,
  "jobs": [
+  {
+   "id": "c59b6b422e5905",
+   "company": "AstraZeneca",
+   "region": "UK",
+   "title": "Business Operations Lead",
+   "location": "UK - London",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/Business-Operations-Lead_R-261595",
+   "posted": "Today",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-12",
+   "score": 49,
+   "hits": [
+    "strategy",
+    "operations",
+    "implementation",
+    "transformation"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "fb4e234d85be3d",
+   "company": "AstraZeneca",
+   "region": "UK",
+   "title": "Data Operations Manager - OBEX",
+   "location": "UK - London",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/Data-Operations-Manager---OBEX_R-261656",
+   "posted": "Today",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-12",
+   "score": 47,
+   "hits": [
+    "healthcare",
+    "operations",
+    "consulting",
+    "transformation"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "7e592894753993",
+   "company": "Philips UK",
+   "region": "UK",
+   "title": "Customer Program Manager",
+   "location": "United Kingdom - Remote Based",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-Kingdom---Remote-Based/Customer-Program-Manager_582235-1",
+   "posted": "Today",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-12",
+   "score": 30,
+   "hits": [
+    "healthcare",
+    "implementation",
+    "program manager"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "a80dc710872f30",
+   "company": "AstraZeneca",
+   "region": "UK",
+   "title": "Launch Excellence PMO - IBEX",
+   "location": "UK - London",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/Launch-Excellence-PMO---IBEX_R-261648",
+   "posted": "Today",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-12",
+   "score": 29,
+   "hits": [
+    "patient",
+    "patient journey",
+    "strategy",
+    "operations"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "c17a6f762cea52",
+   "company": "IQVIA",
+   "region": "UK",
+   "title": "Study Start Up Specialist - UK IQVIA Biotech",
+   "location": "2 Locations",
+   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Study-Start-Up-Specialist---UK-IQVIA-Biotech_R1571744",
+   "posted": "Today",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-12",
+   "score": 24,
+   "hits": [
+    "healthcare",
+    "patient",
+    "population health"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "7ace6a1a252d0e",
+   "company": "IQVIA",
+   "region": "UK",
+   "title": "Analyst",
+   "location": "London, United Kingdom",
+   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Analyst_R1570008",
+   "posted": "Today",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-12",
+   "score": 23,
+   "hits": [
+    "healthcare",
+    "patient",
+    "population health",
+    "consulting"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "6269ec2751b28a",
+   "company": "IQVIA",
+   "region": "UK",
+   "title": "Analyst",
+   "location": "London, United Kingdom",
+   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Analyst_R1570012",
+   "posted": "Today",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-12",
+   "score": 23,
+   "hits": [
+    "healthcare",
+    "patient",
+    "population health",
+    "consulting"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "bbf940dfd125d4",
+   "company": "IQVIA",
+   "region": "UK",
+   "title": "Analyst",
+   "location": "London, United Kingdom",
+   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Analyst_R1570016",
+   "posted": "Today",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-12",
+   "score": 23,
+   "hits": [
+    "healthcare",
+    "patient",
+    "population health",
+    "consulting"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "af046ff209fc94",
+   "company": "IQVIA",
+   "region": "UK",
+   "title": "Data Acquisition Expert - EDC (Homebased UK/South Africa)",
+   "location": "6 Locations",
+   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Data-Acquisition-Expert---EDC--Homebased-UK-South-Africa-_R1555659-1",
+   "posted": "Today",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-12",
+   "score": 23,
+   "hits": [
+    "healthcare",
+    "patient",
+    "population health",
+    "implementation"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "33aa3ce3763571",
+   "company": "Philips",
+   "region": "NL",
+   "title": "Marketing Communications Manager - IGT Systems",
+   "location": "Best",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Marketing-Communications-Manager---IGT-Systems_591564-2",
+   "posted": "Today",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-12",
+   "score": 23,
+   "hits": [
+    "healthcare",
+    "medtech",
+    "strategy",
+    "implementation"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "3004d869ada426",
+   "company": "AstraZeneca",
+   "region": "UK",
+   "title": "Business Excellence Manager - OBEX",
+   "location": "UK - London",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/Business-Excellence-Manager---OBEX_R-261662",
+   "posted": "Today",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-12",
+   "score": 23,
+   "hits": [
+    "healthcare",
+    "patient",
+    "strategy",
+    "implementation"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "138930d2237179",
+   "company": "AstraZeneca",
+   "region": "UK",
+   "title": "Marketing & Digital Excellence Partner - IBEX",
+   "location": "UK - London",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/Marketing---Digital-Excellence-Partner---IBEX_R-261645",
+   "posted": "Today",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-12",
+   "score": 23,
+   "hits": [
+    "healthcare",
+    "strategy",
+    "operations",
+    "implementation"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "18b20eceff5aa4",
+   "company": "Accurx",
+   "region": "UK",
+   "title": "Senior Communications & PR Lead (12-month FTC)",
+   "location": "London (Shoreditch) / United Kingdom",
+   "url": "https://jobs.ashbyhq.com/accurx/6b58c067-54b0-4546-a993-a681b06a4131",
+   "posted": "2026-10-12T10:35:18.449+00:00",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-12",
+   "score": 22,
+   "hits": [
+    "healthcare",
+    "mental health",
+    "nhs",
+    "strategy"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "02437d373ada16",
+   "company": "AstraZeneca",
+   "region": "UK",
+   "title": "Commercial Effectiveness Manager - OBEX",
+   "location": "UK - London",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/Commercial-Effectiveness-Manager---OBEX_R-261659",
+   "posted": "Today",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-12",
+   "score": 22,
+   "hits": [
+    "strategy",
+    "operations",
+    "transformation",
+    "change management"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "73d1c1397dd98c",
+   "company": "Version 1",
+   "region": "UK",
+   "title": "Product Manager",
+   "location": "London, Birmingham, Manchester, Newcastle upon Tyne, Edinburgh, Belfast, gb",
+   "url": "https://jobs.smartrecruiters.com/version1/744000154964419",
+   "posted": "2026-10-12T09:16:23.758Z",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-12",
+   "score": 20,
+   "hits": [
+    "healthcare",
+    "transformation",
+    "product manager"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "13e5b99af70817",
+   "company": "ING",
+   "region": "NL",
+   "title": "ATC Consultant",
+   "location": "HBP (Amsterdam - Haarlerbergpark)",
+   "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/HBP-Amsterdam---Haarlerbergpark/ATC-Consultant_REQ-10122057-2",
+   "posted": "Today",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-12",
+   "score": 16,
+   "hits": [
+    "consultant",
+    "implementation"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "29ba34615a87e4",
+   "company": "Version 1",
+   "region": "UK",
+   "title": "Senior Delivery Manager",
+   "location": "London, Birmingham, Manchester, Newcastle upon Tyne, Edinburgh, Belfast,, England, gb",
+   "url": "https://jobs.smartrecruiters.com/version1/744000155011396",
+   "posted": "2026-10-12T12:58:38.881Z",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-12",
+   "score": 14,
+   "hits": [
+    "transformation"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "48e890a1f2c72a",
+   "company": "AstraZeneca",
+   "region": "UK",
+   "title": "IT Analyst - IBEX",
+   "location": "UK - London",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/IT-Analyst---IBEX_R-261650",
+   "posted": "Today",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-12",
+   "score": 10,
+   "hits": [
+    "patient"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "10b42793435227",
+   "company": "Adyen",
+   "region": "NL",
+   "title": "Manager, Salesforce Integration",
+   "location": "Amsterdam Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8273487",
+   "posted": "2026-10-12T03:18:50-04:00",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-12",
+   "score": 10,
+   "hits": [
+    "strategy",
+    "implementation"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "a6274e674916db",
+   "company": "Philips Middle East",
+   "region": "ME",
+   "title": "General Service Support - Graduate",
+   "location": "Riyadh",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Riyadh/General-Service-Support---Graduate_589479",
+   "posted": "Today",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-12",
+   "score": 9,
+   "hits": [
+    "healthcare",
+    "strategy"
+   ],
+   "lang_checked": true
+  },
+  {
+   "id": "f2a47a556d5701",
+   "company": "AstraZeneca",
+   "region": "UK",
+   "title": "AI Activation Specialist",
+   "location": "UK - London",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/AI-Activation-Specialist_R-261627-1",
+   "posted": "Today",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-12",
+   "score": 8,
+   "hits": [],
+   "lang_checked": true
+  },
+  {
+   "id": "a0710b617f64a9",
+   "company": "Philips",
+   "region": "NL",
+   "title": "",
+   "location": "",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
+   "posted": null,
+   "posted_date": "2026-10-12",
+   "posted_approx": true,
+   "first_seen": "2026-10-12",
+   "score": 3,
+   "hits": [],
+   "lang_checked": true
+  },
+  {
+   "id": "0b323c8e8a329d",
+   "company": "ING",
+   "region": "NL",
+   "title": "ING's Early Career Event",
+   "location": "CDR (Amsterdam - Cedar)",
+   "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/CDR-Amsterdam---Cedar/ING-s-Early-Career-Event_REQ-10123121",
+   "posted": "Today",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-12",
+   "score": 3,
+   "hits": [
+    "strategy"
+   ],
+   "lang_checked": true
+  },
   {
    "id": "d80c3573689355",
    "company": "Stripe",
@@ -47,7 +479,7 @@
    "title": "Senior Global Medical Affairs Lead CVRM",
    "location": "US - Cambridge Kendall SQ - MA",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Senior-Global-Medical-Affairs-Lead-CVRM_R-258678",
-   "posted": "2 Days Ago",
+   "posted": "3 Days Ago",
    "posted_date": "2026-10-09",
    "posted_approx": false,
    "first_seen": "2026-10-09",
@@ -67,7 +499,7 @@
    "title": "Operations Coordinator (Fri - Sun Night Shift)",
    "location": "UK - Macclesfield",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---Macclesfield/Operations-Coordinator--Fri---Sun-Night-Shift-_R-261557",
-   "posted": "2 Days Ago",
+   "posted": "3 Days Ago",
    "posted_date": "2026-10-09",
    "posted_approx": false,
    "first_seen": "2026-10-09",
@@ -84,7 +516,7 @@
    "title": "Operations Coordinator (Mon - Thurs Night Shift)",
    "location": "UK - Macclesfield",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---Macclesfield/Operations-Coordinator--Mon---Thurs-Night-Shift-_R-261555",
-   "posted": "2 Days Ago",
+   "posted": "3 Days Ago",
    "posted_date": "2026-10-09",
    "posted_approx": false,
    "first_seen": "2026-10-09",
@@ -101,7 +533,7 @@
    "title": "Business Analyst - Digital Assets",
    "location": "CDR (Amsterdam - Cedar)",
    "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/CDR-Amsterdam---Cedar/Business-Analyst---Digital-Assets_REQ-10121327",
-   "posted": "2 Days Ago",
+   "posted": "3 Days Ago",
    "posted_date": "2026-10-09",
    "posted_approx": false,
    "first_seen": "2026-10-09",
@@ -180,7 +612,7 @@
    "title": "Supply Chain Associate",
    "location": "UK - London",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/Supply-Chain-Associate_R-261548",
-   "posted": "2 Days Ago",
+   "posted": "3 Days Ago",
    "posted_date": "2026-10-09",
    "posted_approx": false,
    "first_seen": "2026-10-09",
@@ -235,7 +667,7 @@
    "title": "Associate Production Manager - 12 Month Secondment/Fixed Term Contract",
    "location": "UK - Macclesfield",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---Macclesfield/Associate-Production-Manager---12-Month-Secondment-Fixed-Term-Contract_R-261542-1",
-   "posted": "2 Days Ago",
+   "posted": "3 Days Ago",
    "posted_date": "2026-10-09",
    "posted_approx": false,
    "first_seen": "2026-10-09",
@@ -440,7 +872,7 @@
    "title": "Clinical Monitoring Analyst (Cluepoints) - Remote",
    "location": "9 Locations",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Clinical-Monitoring-Analyst--Cluepoints----Remote_R1513972-1",
-   "posted": "3 Days Ago",
+   "posted": "4 Days Ago",
    "posted_date": "2026-10-08",
    "posted_approx": false,
    "first_seen": "2026-10-08",
@@ -477,7 +909,7 @@
    "id": "c301924d5f27a0",
    "company": "Deliveroo",
    "region": "UK",
-   "title": "Senior Technical Programme Manager",
+   "title": "Senior Technical Programme Manager - Money",
    "location": "London, United Kingdom - Deliveroo",
    "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206515",
    "posted": "2026-10-06T08:21:24-04:00",
@@ -500,7 +932,7 @@
    "title": "Senior/ Medical Writer",
    "location": "7 Locations",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Athens-Greece/Senior--Medical-Writer_R1573206",
-   "posted": "3 Days Ago",
+   "posted": "4 Days Ago",
    "posted_date": "2026-10-08",
    "posted_approx": false,
    "first_seen": "2026-10-08",
@@ -615,7 +1047,7 @@
    "title": "Product Owner Global Equity Listed Products (FMGT)",
    "location": "TRC (Amsterdam - Treasury Center)",
    "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/TRC-Amsterdam---Treasury-Center/Product-Owner-Global-Equity-Listed-Products--FMGT-_REQ-10114191-3",
-   "posted": "3 Days Ago",
+   "posted": "4 Days Ago",
    "posted_date": "2026-10-08",
    "posted_approx": false,
    "first_seen": "2026-10-08",
@@ -640,26 +1072,6 @@
    "score": 11,
    "hits": [
     "onboarding"
-   ],
-   "lang_checked": true
-  },
-  {
-   "id": "1f780fd7a35f9b",
-   "company": "Monzo",
-   "region": "UK",
-   "title": "Senior Strategy and Operations Manager",
-   "location": "Cardiff, London or Remote (UK)",
-   "url": "https://job-boards.greenhouse.io/monzo/jobs/8105912",
-   "posted": "2026-10-07T10:01:17-04:00",
-   "posted_date": "2026-10-07",
-   "posted_approx": false,
-   "first_seen": "2026-10-07",
-   "score": 61,
-   "hits": [
-    "strategy",
-    "operations",
-    "operations manager",
-    "strategy and operations"
    ],
    "lang_checked": true
   },
@@ -690,7 +1102,7 @@
    "title": "Marketing Lead, Strategy & Campaigns - 12-months Secondment/Fixed-term Opportunity",
    "location": "UK - London",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/Marketing-Lead--Strategy---Campaigns---12-months-Secondment-Fixed-term-Opportunity_R-261344",
-   "posted": "4 Days Ago",
+   "posted": "5 Days Ago",
    "posted_date": "2026-10-07",
    "posted_approx": false,
    "first_seen": "2026-10-07",
@@ -709,7 +1121,7 @@
    "title": "Senior Global Medical Affairs Lead, Cardiovascular & Renal (CVRM)",
    "location": "2 Locations",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Senior-Global-Medical-Affairs-Lead--Cardiovascular---Renal--CVRM-_R-261303",
-   "posted": "5 Days Ago",
+   "posted": "6 Days Ago",
    "posted_date": "2026-10-06",
    "posted_approx": false,
    "first_seen": "2026-10-07",
@@ -749,7 +1161,7 @@
    "title": "Brand Manager, Customer Engagement",
    "location": "UK - London",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/Brand-Manager--Customer-Engagement_R-261354",
-   "posted": "4 Days Ago",
+   "posted": "5 Days Ago",
    "posted_date": "2026-10-07",
    "posted_approx": false,
    "first_seen": "2026-10-07",
@@ -769,7 +1181,7 @@
    "title": "Principal AI Success Strategist, Customer Success",
    "location": "London, United Kingdom",
    "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/London-United-Kingdom/Principal-AI-Success-Strategist--Customer-Success_R35257-1",
-   "posted": "4 Days Ago",
+   "posted": "5 Days Ago",
    "posted_date": "2026-10-07",
    "posted_approx": false,
    "first_seen": "2026-10-07",
@@ -805,7 +1217,7 @@
    "title": "External Communications Manager",
    "location": "UK - London",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/External-Communications-Manager_R-261339-1",
-   "posted": "4 Days Ago",
+   "posted": "5 Days Ago",
    "posted_date": "2026-10-07",
    "posted_approx": false,
    "first_seen": "2026-10-07",
@@ -859,7 +1271,7 @@
    "title": "Marketing Lead, Customer Engagement",
    "location": "UK - London",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/Marketing-Lead--Customer-Engagement_R-261349",
-   "posted": "4 Days Ago",
+   "posted": "5 Days Ago",
    "posted_date": "2026-10-07",
    "posted_approx": false,
    "first_seen": "2026-10-07",
@@ -878,7 +1290,7 @@
    "title": "AI Success Strategist - German speaking",
    "location": "3 Locations",
    "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Berlin-Germany/AI-Success-Strategist_R35606",
-   "posted": "4 Days Ago",
+   "posted": "5 Days Ago",
    "posted_date": "2026-10-07",
    "posted_approx": false,
    "first_seen": "2026-10-07",
@@ -966,7 +1378,7 @@
    "title": "Senior Red Team Operator",
    "location": "HBP (Amsterdam - Haarlerbergpark)",
    "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/HBP-Amsterdam---Haarlerbergpark/Senior-Red-Team-Operator_REQ-10121935-1",
-   "posted": "4 Days Ago",
+   "posted": "5 Days Ago",
    "posted_date": "2026-10-07",
    "posted_approx": false,
    "first_seen": "2026-10-07",
@@ -1072,7 +1484,7 @@
    "title": "Senior Global HR Strategy & Workforce Planning Consultant",
    "location": "CDR (Amsterdam - Cedar)",
    "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/CDR-Amsterdam---Cedar/Senior-Global-HR-Strategy---Workforce-Planning-Consultant_REQ-10121386-3",
-   "posted": "6 Days Ago",
+   "posted": "7 Days Ago",
    "posted_date": "2026-10-05",
    "posted_approx": false,
    "first_seen": "2026-10-06",
@@ -1092,7 +1504,7 @@
    "title": "Senior Clinical Supply Chain Manager",
    "location": "11 Locations",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Senior-Clinical-Supply-Chain-Manager_R1572753",
-   "posted": "5 Days Ago",
+   "posted": "6 Days Ago",
    "posted_date": "2026-10-06",
    "posted_approx": false,
    "first_seen": "2026-10-06",
@@ -1112,7 +1524,7 @@
    "title": "Clinical Trial Manager",
    "location": "6 Locations",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Clinical-Operations-Lead_R1566767",
-   "posted": "6 Days Ago",
+   "posted": "7 Days Ago",
    "posted_date": "2026-10-05",
    "posted_approx": false,
    "first_seen": "2026-10-06",
@@ -1132,7 +1544,7 @@
    "title": "Agentic automation & AI Consultant",
    "location": "HBP (Amsterdam - Haarlerbergpark)",
    "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/HBP-Amsterdam---Haarlerbergpark/Agentic-automation---AI-Consultant_REQ-10117976-2",
-   "posted": "6 Days Ago",
+   "posted": "7 Days Ago",
    "posted_date": "2026-10-05",
    "posted_approx": false,
    "first_seen": "2026-10-06",
@@ -1192,7 +1604,7 @@
    "title": "Associate Principal, Health Economics, Health Technology Assessment",
    "location": "10 Locations",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Milan-Italy-ITALY01-40/Associate-Principal--Health-Economics--Health-Technology-Assessment_R1559297",
-   "posted": "5 Days Ago",
+   "posted": "6 Days Ago",
    "posted_date": "2026-10-06",
    "posted_approx": false,
    "first_seen": "2026-10-06",
@@ -1212,7 +1624,7 @@
    "title": "Senior Clinical Trial Manager - IQVIA Biotech",
    "location": "12 Locations",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Centurion-South-Africa/Clinical-Trial-Manager---IQVIA-Biotech_R1557393",
-   "posted": "5 Days Ago",
+   "posted": "6 Days Ago",
    "posted_date": "2026-10-06",
    "posted_approx": false,
    "first_seen": "2026-10-06",
@@ -1232,7 +1644,7 @@
    "title": "Global Clinical Program Lead, Immunology",
    "location": "US - Cambridge Kendall SQ - MA",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Global-Clinical-Program-Lead--Immunology_R-261174",
-   "posted": "6 Days Ago",
+   "posted": "7 Days Ago",
    "posted_date": "2026-10-05",
    "posted_approx": false,
    "first_seen": "2026-10-06",
@@ -1269,7 +1681,7 @@
    "title": "Senior HR Business Partner",
    "location": "London, United Kingdom",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Senior-HR-Business-Partner_R1570093",
-   "posted": "5 Days Ago",
+   "posted": "6 Days Ago",
    "posted_date": "2026-10-06",
    "posted_approx": false,
    "first_seen": "2026-10-06",
@@ -1328,7 +1740,7 @@
    "title": "Documentation Manager",
    "location": "UK - Macclesfield",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---Macclesfield/Documentation-Manager_R-258236-1",
-   "posted": "4 Days Ago",
+   "posted": "5 Days Ago",
    "posted_date": "2026-10-06",
    "posted_approx": false,
    "first_seen": "2026-10-06",
@@ -1386,7 +1798,7 @@
    "title": "Oncology Account Specialist (Gyn/GU) –Allentown/Princeton",
    "location": "3 Locations",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Allentown---PA/Oncology-Account-Specialist--Gyn-GU---Allentown-PA_R-259679",
-   "posted": "6 Days Ago",
+   "posted": "7 Days Ago",
    "posted_date": "2026-10-05",
    "posted_approx": false,
    "first_seen": "2026-10-06",
@@ -1547,7 +1959,7 @@
    "title": "Model Validator IRRBB & ICLAAP",
    "location": "CDR (Amsterdam - Cedar)",
    "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/CDR-Amsterdam---Cedar/Model-Validator-IRRBB---ICLAAP_REQ-10119777",
-   "posted": "5 Days Ago",
+   "posted": "6 Days Ago",
    "posted_date": "2026-10-06",
    "posted_approx": false,
    "first_seen": "2026-10-06",
@@ -1650,7 +2062,7 @@
    "title": "Senior Technical Specialist - Stem Cell",
    "location": "Cambridge, United Kingdom",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Cambridge-United-Kingdom/Senior-Technical-Specialist---Stem-Cell_R1572394",
-   "posted": "6 Days Ago",
+   "posted": "7 Days Ago",
    "posted_date": "2026-10-05",
    "posted_approx": false,
    "first_seen": "2026-10-05",
@@ -1670,7 +2082,7 @@
    "title": "Clinical Research Associate",
    "location": "Field-UK",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Field-UK/Clinical-Research-Associate_R-260619-1",
-   "posted": "6 Days Ago",
+   "posted": "7 Days Ago",
    "posted_date": "2026-10-05",
    "posted_approx": false,
    "first_seen": "2026-10-05",
@@ -1705,7 +2117,7 @@
    "title": "Chapter Lead - Data Integration and exchange",
    "location": "HBP (Amsterdam - Haarlerbergpark)",
    "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/HBP-Amsterdam---Haarlerbergpark/Chapter-Lead---Data-Integration-and-exchange_REQ-10121890-2",
-   "posted": "6 Days Ago",
+   "posted": "7 Days Ago",
    "posted_date": "2026-10-05",
    "posted_approx": false,
    "first_seen": "2026-10-05",
@@ -1723,7 +2135,7 @@
    "title": "Sourcing and Category Expert Marketing, Media and Insurance",
    "location": "CDR (Amsterdam - Cedar)",
    "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/CDR-Amsterdam---Cedar/Sourcing-and-Category-Expert-Marketing--Media-and-Insurance_REQ-10121921-2",
-   "posted": "6 Days Ago",
+   "posted": "7 Days Ago",
    "posted_date": "2026-10-05",
    "posted_approx": false,
    "first_seen": "2026-10-05",
@@ -1757,7 +2169,7 @@
    "title": "Clinical Consultant – Radiology Informatics (PACS)",
    "location": "United Kingdom - Remote Based",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-Kingdom---Remote-Based/Clinical-Consultant---Radiology-Informatics--PACS-_582076-1",
-   "posted": "8 Days Ago",
+   "posted": "9 Days Ago",
    "posted_date": "2026-10-03",
    "posted_approx": false,
    "first_seen": "2026-10-04",
@@ -1777,7 +2189,7 @@
    "title": "Senior Consultant - Primary Market Research (Healthcare)",
    "location": "New Cairo, Egypt",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/New-Cairo-Egypt/Senior-Consultant---Primary-Market-Research_R1568109",
-   "posted": "5 Days Ago",
+   "posted": "6 Days Ago",
    "posted_date": "2026-10-04",
    "posted_approx": false,
    "first_seen": "2026-10-04",
@@ -1797,7 +2209,7 @@
    "title": "Consultant - Primary Market Research",
    "location": "New Cairo, Egypt",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/New-Cairo-Egypt/Consultant---Primary-Market-Research_R1568124",
-   "posted": "7 Days Ago",
+   "posted": "8 Days Ago",
    "posted_date": "2026-10-04",
    "posted_approx": false,
    "first_seen": "2026-10-04",
@@ -1857,7 +2269,7 @@
    "title": "Medical Evidence Delivery Manager",
    "location": "Australia – New South Wales",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Australia--New-South-Wales/Medical-Evidence-Delivery-Manager_R-260743-1",
-   "posted": "9 Days Ago",
+   "posted": "10 Days Ago",
    "posted_date": "2026-10-02",
    "posted_approx": false,
    "first_seen": "2026-10-02",
@@ -1870,32 +2282,13 @@
    "lang_checked": true
   },
   {
-   "id": "28822ecd5ecdaf",
-   "company": "IQVIA",
-   "region": "UK",
-   "title": "Regional Specialist",
-   "location": "Reading, Berkshire, United Kingdom",
-   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Regional-Specialist_R1535946",
-   "posted": "9 Days Ago",
-   "posted_date": "2026-10-02",
-   "posted_approx": false,
-   "first_seen": "2026-10-02",
-   "score": 25,
-   "hits": [
-    "healthcare",
-    "patient",
-    "population health"
-   ],
-   "lang_checked": true
-  },
-  {
    "id": "93fe2b85d5f370",
    "company": "IQVIA",
    "region": "UK",
    "title": "CRA 2 - Single Sponsor Dedicated",
    "location": "4 Locations",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/CRA-2---Single-Sponsor-Dedicated_R1527512",
-   "posted": "9 Days Ago",
+   "posted": "10 Days Ago",
    "posted_date": "2026-10-02",
    "posted_approx": false,
    "first_seen": "2026-10-02",
@@ -1915,7 +2308,7 @@
    "title": "Sr. CRA 1 - Single Sponsor Dedicated",
    "location": "Reading, Berkshire, United Kingdom",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Sr-CRA-1---Single-Sponsor-Dedicated_R1524547",
-   "posted": "9 Days Ago",
+   "posted": "10 Days Ago",
    "posted_date": "2026-10-02",
    "posted_approx": false,
    "first_seen": "2026-10-02",
@@ -2052,7 +2445,7 @@
    "title": "Global Product Lead - Vaccines",
    "location": "2 Locations",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Global-Product-Lead---Vaccines_R-261100",
-   "posted": "9 Days Ago",
+   "posted": "10 Days Ago",
    "posted_date": "2026-10-02",
    "posted_approx": false,
    "first_seen": "2026-10-02",
@@ -2308,7 +2701,7 @@
    "title": "Clinical Project Manager",
    "location": "Reading, Berkshire, United Kingdom",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Clinical-Project-Manager_R1571842",
-   "posted": "11 Days Ago",
+   "posted": "12 Days Ago",
    "posted_date": "2026-09-30",
    "posted_approx": false,
    "first_seen": "2026-10-01",
@@ -2367,7 +2760,7 @@
    "title": "Medical Affairs Lead - Neurology",
    "location": "UK - London",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/Medical-Affairs-Lead---Neurology_R-260986-1",
-   "posted": "10 Days Ago",
+   "posted": "11 Days Ago",
    "posted_date": "2026-10-01",
    "posted_approx": false,
    "first_seen": "2026-10-01",
@@ -2387,7 +2780,7 @@
    "title": "German Speaking Senior Engagement Manager",
    "location": "2 Locations",
    "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/London-United-Kingdom/German-Speaking-Senior-Engagement-Manager_R35505",
-   "posted": "10 Days Ago",
+   "posted": "11 Days Ago",
    "posted_date": "2026-10-01",
    "posted_approx": false,
    "first_seen": "2026-10-01",
@@ -2426,7 +2819,7 @@
    "title": "Handy Person/Caretaker/Facilities Assistant",
    "location": "Manchester, United Kingdom",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Manchester-United-Kingdom/Facilities-Assistant_R1571971",
-   "posted": "5 Days Ago",
+   "posted": "6 Days Ago",
    "posted_date": "2026-10-01",
    "posted_approx": false,
    "first_seen": "2026-10-01",
@@ -2446,7 +2839,7 @@
    "title": "Supplier Services Analyst",
    "location": "London, United Kingdom",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Supplier-Services-Analyst_R1564298-1",
-   "posted": "10 Days Ago",
+   "posted": "11 Days Ago",
    "posted_date": "2026-10-01",
    "posted_approx": false,
    "first_seen": "2026-10-01",
@@ -2566,26 +2959,6 @@
    "lang_checked": true
   },
   {
-   "id": "fbc901964e55e8",
-   "company": "IQVIA",
-   "region": "UK",
-   "title": "Senior Consultant - Healthcare Consulting",
-   "location": "London, United Kingdom",
-   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Senior-Consultant---Healthcare-Consulting_R1567623-1",
-   "posted": "11 Days Ago",
-   "posted_date": "2026-09-30",
-   "posted_approx": false,
-   "first_seen": "2026-09-30",
-   "score": 59,
-   "hits": [
-    "healthcare",
-    "patient",
-    "population health",
-    "consultant"
-   ],
-   "lang_checked": true
-  },
-  {
    "id": "63050ccd573092",
    "company": "Stripe",
    "region": "UK",
@@ -2612,7 +2985,7 @@
    "title": "Experienced Clinical Research Associate",
    "location": "2 Locations",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Experienced-Clinical-Research-Associate_R1563087-1",
-   "posted": "11 Days Ago",
+   "posted": "12 Days Ago",
    "posted_date": "2026-09-30",
    "posted_approx": false,
    "first_seen": "2026-09-30",
@@ -2652,7 +3025,7 @@
    "title": "Medical Advisor - Alexion",
    "location": "UK - London",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/Medical-Advisor---Alexion_R-260938",
-   "posted": "11 Days Ago",
+   "posted": "12 Days Ago",
    "posted_date": "2026-09-30",
    "posted_approx": false,
    "first_seen": "2026-09-30",
@@ -2709,7 +3082,7 @@
    "title": "Nonclinical Document Specialist",
    "location": "UK - Cambridge",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---Cambridge/Nonclinical-Document-Specialist-_R-260908-1",
-   "posted": "11 Days Ago",
+   "posted": "12 Days Ago",
    "posted_date": "2026-09-30",
    "posted_approx": false,
    "first_seen": "2026-09-30",
@@ -2931,7 +3304,7 @@
    "title": "Clinical Research Associate, South West England",
    "location": "2 Locations",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bath-United-Kingdom/Clinical-Research-Associate--South-West-England_R1550620",
-   "posted": "12 Days Ago",
+   "posted": "13 Days Ago",
    "posted_date": "2026-09-29",
    "posted_approx": false,
    "first_seen": "2026-09-29",
@@ -2951,7 +3324,7 @@
    "title": "Clinical Supply Chain Manager",
    "location": "9 Locations",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Clinical-Supply-Chain-Manager_R1570986",
-   "posted": "12 Days Ago",
+   "posted": "13 Days Ago",
    "posted_date": "2026-09-29",
    "posted_approx": false,
    "first_seen": "2026-09-29",
@@ -2991,7 +3364,7 @@
    "title": "Associate Research Leader - Stem Cells",
    "location": "Cambridge, United Kingdom",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Cambridge-United-Kingdom/Associate-Research-Leader---Stem-Cells_R1571530",
-   "posted": "12 Days Ago",
+   "posted": "13 Days Ago",
    "posted_date": "2026-09-29",
    "posted_approx": false,
    "first_seen": "2026-09-29",
@@ -3031,7 +3404,7 @@
    "title": "Lead Generation Agent",
    "location": "Reading, Berkshire, United Kingdom",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Lead-Generation-Agent_R1571559",
-   "posted": "12 Days Ago",
+   "posted": "13 Days Ago",
    "posted_date": "2026-09-29",
    "posted_approx": false,
    "first_seen": "2026-09-29",
@@ -3109,7 +3482,7 @@
    "title": "Sourcing Project Manager Global Technology",
    "location": "CDR (Amsterdam - Cedar)",
    "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/CDR-Amsterdam---Cedar/Sourcing-Project-Manager-Global-Technology_REQ-10108380-2",
-   "posted": "12 Days Ago",
+   "posted": "13 Days Ago",
    "posted_date": "2026-09-29",
    "posted_approx": false,
    "first_seen": "2026-09-29",
@@ -3186,7 +3559,7 @@
    "title": "Category Sourcing Manager Ocean Freight",
    "location": "Eindhoven",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Category-Sourcing-Manager-Ocean-Freight--all-genders-_589416",
-   "posted": "4 Days Ago",
+   "posted": "5 Days Ago",
    "posted_date": "2026-09-29",
    "posted_approx": false,
    "first_seen": "2026-09-29",
@@ -3204,7 +3577,7 @@
    "title": "Growth Marketing & Acquisition Manager Worry-Free Parenting",
    "location": "Farnborough",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Farnborough/Growth-Product-Manager-Digital-_566817",
-   "posted": "13 Days Ago",
+   "posted": "14 Days Ago",
    "posted_date": "2026-09-28",
    "posted_approx": false,
    "first_seen": "2026-09-29",
@@ -3240,7 +3613,7 @@
    "title": "Utilities Technical Operator",
    "location": "UK - Macclesfield",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---Macclesfield/Utilities-Technical-Operator_R-260689",
-   "posted": "13 Days Ago",
+   "posted": "14 Days Ago",
    "posted_date": "2026-09-28",
    "posted_approx": false,
    "first_seen": "2026-09-29",
@@ -3328,7 +3701,7 @@
    "title": "Maintenance Lead",
    "location": "UK - Macclesfield",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---Macclesfield/Maintenance-Lead_R-260708",
-   "posted": "13 Days Ago",
+   "posted": "14 Days Ago",
    "posted_date": "2026-09-28",
    "posted_approx": false,
    "first_seen": "2026-09-29",
@@ -3343,7 +3716,7 @@
    "title": "Associate Principal / Principal, Clinical Outcome Assessment (COA) Strategy Consulting",
    "location": "10 Locations",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Associate-Principal---Principal--Clinical-Outcome-Assessment--COA--Strategy-Consulting_R1537016-1",
-   "posted": "13 Days Ago",
+   "posted": "14 Days Ago",
    "posted_date": "2026-09-28",
    "posted_approx": false,
    "first_seen": "2026-09-28",
@@ -3414,26 +3787,6 @@
    "lang_checked": true
   },
   {
-   "id": "0f340ca9d80af9",
-   "company": "IQVIA",
-   "region": "UK",
-   "title": "Patient & Site Engagement Operations Manager - Sponsor Dedicated (m/w/d)",
-   "location": "4 Locations",
-   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Patient---Site-Engagement-Opeations-Specialist---Sponsor-Dedicated--m-w-d-_R1527743",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-08-30",
-   "posted_approx": true,
-   "first_seen": "2026-09-27",
-   "score": 59,
-   "hits": [
-    "healthcare",
-    "health care",
-    "patient",
-    "population health"
-   ],
-   "lang_checked": true
-  },
-  {
    "id": "ebd2577becf88e",
    "company": "Carnall Farrar",
    "region": "UK",
@@ -3460,7 +3813,7 @@
    "title": "Medical Strategy Lead, Oncology-Clinical Development (Centre of Excellence)",
    "location": "16 Locations",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Medical-Strategy-Lead--Oncology--Home-Based-_R1550377",
-   "posted": "3 Days Ago",
+   "posted": "4 Days Ago",
    "posted_date": "2026-08-30",
    "posted_approx": true,
    "first_seen": "2026-09-27",
@@ -3500,7 +3853,7 @@
    "title": "Implementation Clinical Consulting Lead for North Europe",
    "location": "United Kingdom - Remote Based",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-Kingdom---Remote-Based/Implementation-Clinical-Consulting-Lead-for-North-Europe_577810-1",
-   "posted": "30 Days Ago",
+   "posted": "30+ Days Ago",
    "posted_date": "2026-09-11",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -3700,7 +4053,7 @@
    "title": "Senior Clinical Product Manager MR-RT",
    "location": "Best",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Senior-Clinical-Product-Manager-MR-RT_587971-1",
-   "posted": "5 Days Ago",
+   "posted": "6 Days Ago",
    "posted_date": "2026-09-07",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -3720,7 +4073,7 @@
    "title": "Implementation Clinical Lead - Central and Eastern Europe",
    "location": "Netherlands - Remote Based",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Netherlands---Remote-Based/Implementation-Clinical-Lead---Central-and-Eastern-Europe_587911-1",
-   "posted": "24 Days Ago",
+   "posted": "25 Days Ago",
    "posted_date": "2026-09-17",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -3888,25 +4241,6 @@
     "mental health",
     "operations",
     "operations manager"
-   ],
-   "lang_checked": true
-  },
-  {
-   "id": "e12e355e22aa3f",
-   "company": "Version 1",
-   "region": "UK",
-   "title": "Change Management Consultant",
-   "location": "London, Birmingham, Manchester, Newcastle upon Tyne, Edinburgh, Belfast, gb",
-   "url": "https://jobs.smartrecruiters.com/version1/744000145319550",
-   "posted": "2026-08-24T16:15:37.567Z",
-   "posted_date": "2026-08-24",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 36,
-   "hits": [
-    "consultant",
-    "transformation",
-    "change management"
    ],
    "lang_checked": true
   },
@@ -4195,7 +4529,7 @@
    "title": "Clinical Independent Rater - Romanian Speaker",
    "location": "17 Locations",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bucuresti-Romania/Clinical-Independent-Rater---Romanian-Speaker_R1570412",
-   "posted": "18 Days Ago",
+   "posted": "19 Days Ago",
    "posted_date": "2026-09-23",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -4255,7 +4589,7 @@
    "title": "(Senior) Clinical Trial Lead (m/w/d)",
    "location": "3 Locations",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Frankfurt-Hesse-Germany/XMLNAME--Senior--Clinical-Trial-Lead--m-w-d-_R1571062",
-   "posted": "16 Days Ago",
+   "posted": "Today",
    "posted_date": "2026-09-25",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -4264,26 +4598,6 @@
     "clinical",
     "strategy",
     "operations",
-    "implementation"
-   ],
-   "lang_checked": true
-  },
-  {
-   "id": "cf1553cc04982a",
-   "company": "IQVIA NL",
-   "region": "NL",
-   "title": "(Senior) Clinical Trial Lead (m/w/d)",
-   "location": "3 Locations",
-   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Frankfurt-Hesse-Germany/Clinical-Trial-Lead--m-w-d-_R1568770-1",
-   "posted": "23 Days Ago",
-   "posted_date": "2026-09-18",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 32,
-   "hits": [
-    "clinical",
-    "patient",
-    "strategy",
     "implementation"
    ],
    "lang_checked": true
@@ -4355,7 +4669,7 @@
    "title": "AI Services Technical Consultant",
    "location": "London, United Kingdom",
    "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/London-United-Kingdom/AI-Services-Consultant_R35463-1",
-   "posted": "24 Days Ago",
+   "posted": "25 Days Ago",
    "posted_date": "2026-09-17",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -4413,7 +4727,7 @@
    "title": "Principal Medical Writer - FSP",
    "location": "7 Locations",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Principal-Medical-Writer---FSP_R1571038",
-   "posted": "16 Days Ago",
+   "posted": "17 Days Ago",
    "posted_date": "2026-09-25",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -4433,7 +4747,7 @@
    "title": "Principal, Health Economics, Health Technology Assessment (Nordics)",
    "location": "6 Locations",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Copenhagen-Denmark/Principal--Health-Economics--Health-Technology-Assessment--Nordics-_R1568937",
-   "posted": "26 Days Ago",
+   "posted": "27 Days Ago",
    "posted_date": "2026-09-15",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -4453,7 +4767,7 @@
    "title": "Business Analyst",
    "location": "Bournemouth, United Kingdom",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bournemouth-United-Kingdom/Product-Owner_R1543086-2",
-   "posted": "30 Days Ago",
+   "posted": "30+ Days Ago",
    "posted_date": "2026-09-11",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -4591,7 +4905,7 @@
    "title": "Medical Affairs Lead - GU/GYN",
    "location": "UK - London",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/Medical-Affairs-Lead---GU-GYN_R-260354",
-   "posted": "5 Days Ago",
+   "posted": "6 Days Ago",
    "posted_date": "2026-09-23",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -4708,7 +5022,7 @@
    "title": "Product Manager IGT-S",
    "location": "Best",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Product-Manager-IGT-S_589569",
-   "posted": "17 Days Ago",
+   "posted": "18 Days Ago",
    "posted_date": "2026-09-24",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -4728,7 +5042,7 @@
    "title": "Program and Project Manager Physical Security and IT",
    "location": "CDR (Amsterdam - Cedar)",
    "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/CDR-Amsterdam---Cedar/Program-and-Project-Manager-Physical-Security-and-IT_REQ-10116134",
-   "posted": "3 Days Ago",
+   "posted": "4 Days Ago",
    "posted_date": "2026-09-14",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -4768,7 +5082,7 @@
    "title": "Associate Technical Specialist - Sample Management",
    "location": "Cambridge, United Kingdom",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Cambridge-United-Kingdom/Associate-Technical-Specialist---Sample-Management_R1570424",
-   "posted": "18 Days Ago",
+   "posted": "19 Days Ago",
    "posted_date": "2026-09-23",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -4983,7 +5297,7 @@
    "title": "Global Clinical Program Lead, Immunology",
    "location": "US - Cambridge Kendall SQ - MA",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Global-Clinical-Program-Lead--Immunology_R-260220",
-   "posted": "22 Days Ago",
+   "posted": "23 Days Ago",
    "posted_date": "2026-09-19",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -5022,7 +5336,7 @@
    "title": "Associate Manager - Biochem",
    "location": "Livingston, West Lothian, United Kingdom",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Livingston-West-Lothian-United-Kingdom/Associate-Manager---1-x-Immunology-and-1-x-Biochem_R1539272",
-   "posted": "5 Days Ago",
+   "posted": "6 Days Ago",
    "posted_date": "2026-09-11",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -5042,7 +5356,7 @@
    "title": "Associate Manager, COA Product Management",
    "location": "3 Locations",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Paris-France/Associate-Manager--COA-Product-Management_R1544571",
-   "posted": "20 Days Ago",
+   "posted": "21 Days Ago",
    "posted_date": "2026-09-21",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -5062,7 +5376,7 @@
    "title": "Associate Manager - Immunology",
    "location": "Livingston, West Lothian, United Kingdom",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Livingston-West-Lothian-United-Kingdom/Associate-Manager---Immunology_R1568553-1",
-   "posted": "30 Days Ago",
+   "posted": "30+ Days Ago",
    "posted_date": "2026-09-11",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -5219,7 +5533,7 @@
    "title": "Global Clinical Program Lead",
    "location": "UK - Cambridge",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---Cambridge/Global-Clinical-Program-Lead_R-260624-1",
-   "posted": "9 Days Ago",
+   "posted": "10 Days Ago",
    "posted_date": "2026-09-25",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -5316,7 +5630,7 @@
    "title": "SPS Diagnostic Imaging (DI) Operations Leader",
    "location": "Best",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/SPS-Diagnostic-Imaging--DI--Operations-Leader--all-genders-_589107-2",
-   "posted": "11 Days Ago",
+   "posted": "12 Days Ago",
    "posted_date": "2026-09-02",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -5352,7 +5666,7 @@
    "title": "Senior Technical Specialist - DMTA Sample Management",
    "location": "Cambridge, United Kingdom",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Cambridge-United-Kingdom/Senior-Technical-Specialist---DMTA-Sample-Management_R1570429",
-   "posted": "18 Days Ago",
+   "posted": "19 Days Ago",
    "posted_date": "2026-09-23",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -5606,7 +5920,7 @@
    "title": "Site Activation Manager, Sponsor Facing",
    "location": "6 Locations",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Site-Activation-Manager--Sponsor-Facing_R1567508",
-   "posted": "11 Days Ago",
+   "posted": "12 Days Ago",
    "posted_date": "2026-09-25",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -5626,7 +5940,7 @@
    "title": "Commercial Excellence Lead - Brand Outsourcing and HCP Engagement",
    "location": "Reading, Berkshire, United Kingdom",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Commercial-Excellence-Lead---Brand-Outsourcing-and-HCP-Engagement_R1559424",
-   "posted": "12 Days Ago",
+   "posted": "13 Days Ago",
    "posted_date": "2026-09-25",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -5646,7 +5960,7 @@
    "title": "IQVIA Biotech - Global Site Activation, Senior Manager, Legal Council",
    "location": "6 Locations",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/IQVIA-Biotech---Global-Site-Activation--Senior-Manager--Legal-Council_R1570183",
-   "posted": "18 Days Ago",
+   "posted": "19 Days Ago",
    "posted_date": "2026-09-23",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -5665,7 +5979,7 @@
    "title": "CloudOps Lead",
    "location": "London, United Kingdom",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/CloudOps-Lead_R1567350",
-   "posted": "19 Days Ago",
+   "posted": "20 Days Ago",
    "posted_date": "2026-09-22",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -5685,7 +5999,7 @@
    "title": "Regional Business Manager",
    "location": "3 Locations",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Regional-Business-Manager_R1568897",
-   "posted": "26 Days Ago",
+   "posted": "27 Days Ago",
    "posted_date": "2026-09-15",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -5705,7 +6019,7 @@
    "title": "Dermatology Nurses - Remote UK",
    "location": "London, United Kingdom",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Dermatology-Nurses---Remote-UK_R1568690",
-   "posted": "27 Days Ago",
+   "posted": "28 Days Ago",
    "posted_date": "2026-09-14",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -5958,7 +6272,7 @@
    "title": "Contract Negotiator - FSP - Netherlands",
    "location": "Amsterdam, Netherlands",
    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Amsterdam-Netherlands/Contract-Negotiator---FSP---Netherlands_R1568566",
-   "posted": "27 Days Ago",
+   "posted": "28 Days Ago",
    "posted_date": "2026-09-14",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -6056,7 +6370,7 @@
    "title": "Supply Chain Improvement Manager (SPS) all genders",
    "location": "Best",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Supply-Chain-Improvement-Manager-SPS_579141-1",
-   "posted": "25 Days Ago",
+   "posted": "26 Days Ago",
    "posted_date": "2026-09-16",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -6347,7 +6661,7 @@
    "title": "Customer Project Manager",
    "location": "Cairo",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cairo/Customer-Project-Manager_585112",
-   "posted": "25 Days Ago",
+   "posted": "26 Days Ago",
    "posted_date": "2026-09-16",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -6398,26 +6712,6 @@
    "lang_checked": true
   },
   {
-   "id": "beba5d345ed0fc",
-   "company": "Accurx",
-   "region": "UK",
-   "title": "Senior Product Marketing Lead",
-   "location": "London (Shoreditch) / United Kingdom",
-   "url": "https://jobs.ashbyhq.com/accurx/d42c5911-5e86-40bf-8868-c8bc47f6132f",
-   "posted": "2026-07-22T13:11:52.408+00:00",
-   "posted_date": "2026-07-22",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 21,
-   "hits": [
-    "healthcare",
-    "patient",
-    "nhs",
-    "strategy"
-   ],
-   "lang_checked": true
-  },
-  {
    "id": "1d67249114a1d6",
    "company": "GoCardless",
    "region": "UK",
@@ -6433,44 +6727,6 @@
     "operations",
     "implementation",
     "customer success"
-   ],
-   "lang_checked": true
-  },
-  {
-   "id": "1e66a049adeeab",
-   "company": "GoCardless",
-   "region": "UK",
-   "title": "Customer Success Manager I, UK & ireland",
-   "location": "Leeds, UK",
-   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8191347",
-   "posted": "2026-09-11T05:01:52-04:00",
-   "posted_date": "2026-09-11",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 21,
-   "hits": [
-    "operations",
-    "implementation",
-    "customer success"
-   ],
-   "lang_checked": true
-  },
-  {
-   "id": "6630953c5a8fd2",
-   "company": "Philips",
-   "region": "NL",
-   "title": "Digitalization of Innovation Lead",
-   "location": "Best",
-   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Digitalization-of-Innovation-Lead_588580-2",
-   "posted": "24 Days Ago",
-   "posted_date": "2026-09-17",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 21,
-   "hits": [
-    "healthcare",
-    "strategy",
-    "transformation"
    ],
    "lang_checked": true
   },
@@ -6652,24 +6908,6 @@
     "healthcare",
     "transformation",
     "business analyst"
-   ],
-   "lang_checked": true
-  },
-  {
-   "id": "9e7a373cf4ef61",
-   "company": "Version 1",
-   "region": "UK",
-   "title": "Microsoft .NET Consultant",
-   "location": "Belfast, Northern Ireland, gb",
-   "url": "https://jobs.smartrecruiters.com/version1/744000107482005",
-   "posted": "2026-02-05T09:57:23.251Z",
-   "posted_date": "2026-02-05",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 20,
-   "hits": [
-    "healthcare",
-    "consultant"
    ],
    "lang_checked": true
   },
@@ -7260,13 +7498,13 @@
    "lang_checked": true
   },
   {
-   "id": "34115999fb7a88",
+   "id": "2c79f6ba2bad5c",
    "company": "Adyen",
    "region": "NL",
    "title": "Manager, Platform Offering Strategy",
    "location": "Amsterdam Amsterdam / New York New York",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/7760238",
-   "posted": "2026-06-16T12:25:41-04:00",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8010419",
+   "posted": "2026-06-16T12:29:00-04:00",
    "posted_date": "2026-06-16",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -7278,13 +7516,13 @@
    "lang_checked": true
   },
   {
-   "id": "2c79f6ba2bad5c",
+   "id": "34115999fb7a88",
    "company": "Adyen",
    "region": "NL",
    "title": "Manager, Platform Offering Strategy",
    "location": "Amsterdam Amsterdam / New York New York",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8010419",
-   "posted": "2026-06-16T12:29:00-04:00",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/7760238",
+   "posted": "2026-06-16T12:25:41-04:00",
    "posted_date": "2026-06-16",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -7599,7 +7837,7 @@
    "title": "AI Success Strategist",
    "location": "London, United Kingdom",
    "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/London-United-Kingdom/AI-Customer-Success-Strategist_R35473-1",
-   "posted": "24 Days Ago",
+   "posted": "25 Days Ago",
    "posted_date": "2026-09-17",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -8346,7 +8584,7 @@
    "title": "Sr. Manager, PR & AI Discovery",
    "location": "Amsterdam",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Sr-Manager--PR---AI-Discovery_587868-1",
-   "posted": "18 Days Ago",
+   "posted": "19 Days Ago",
    "posted_date": "2026-09-23",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -8814,6 +9052,23 @@
    "lang_checked": true
   },
   {
+   "id": "41f91dfda38544",
+   "company": "Adyen",
+   "region": "NL",
+   "title": "Senior Content Writer, Global",
+   "location": "Amsterdam Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/7992449",
+   "posted": "2026-06-10T10:28:15-04:00",
+   "posted_date": "2026-06-10",
+   "posted_approx": false,
+   "first_seen": "2026-09-27",
+   "score": 8,
+   "hits": [
+    "strategy"
+   ],
+   "lang_checked": true
+  },
+  {
    "id": "fed512f3d2015a",
    "company": "Backbase",
    "region": "NL",
@@ -8945,21 +9200,6 @@
    "hits": [
     "strategy"
    ],
-   "lang_checked": true
-  },
-  {
-   "id": "454c9bbc553f69",
-   "company": "Monzo",
-   "region": "UK",
-   "title": "Martech Specialist, AI Deployment",
-   "location": "London",
-   "url": "https://job-boards.greenhouse.io/monzo/jobs/8195225",
-   "posted": "2026-09-11T09:44:51-04:00",
-   "posted_date": "2026-09-11",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 6,
-   "hits": [],
    "lang_checked": true
   },
   {
@@ -9574,23 +9814,6 @@
    "lang_checked": true
   },
   {
-   "id": "41f91dfda38544",
-   "company": "Adyen",
-   "region": "NL",
-   "title": "Senior Content Writer, Global",
-   "location": "Amsterdam Amsterdam",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/7992449",
-   "posted": "2026-06-10T10:28:15-04:00",
-   "posted_date": "2026-06-10",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 3,
-   "hits": [
-    "strategy"
-   ],
-   "lang_checked": true
-  },
-  {
    "id": "b1c990931cca1a",
    "company": "Monzo",
    "region": "UK",
@@ -9636,13 +9859,13 @@
    "lang_checked": true
   },
   {
-   "id": "5436cb72ceda73",
+   "id": "ceeaa0cf8c6de2",
    "company": "Datadog",
    "region": "UK",
    "title": "Senior Partner Manager - Channels (Security)",
-   "location": "Singapore, Singapore / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
-   "url": "https://careers.datadoghq.com/detail/8164588/?gh_jid=8164588",
-   "posted": "2026-09-04T06:56:37-04:00",
+   "location": "Sydney, Australia / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
+   "url": "https://careers.datadoghq.com/detail/8166231/?gh_jid=8166231",
+   "posted": "2026-09-04T06:56:39-04:00",
    "posted_date": "2026-09-04",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -9651,13 +9874,13 @@
    "lang_checked": true
   },
   {
-   "id": "ceeaa0cf8c6de2",
+   "id": "5436cb72ceda73",
    "company": "Datadog",
    "region": "UK",
    "title": "Senior Partner Manager - Channels (Security)",
-   "location": "Sydney, Australia / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
-   "url": "https://careers.datadoghq.com/detail/8166231/?gh_jid=8166231",
-   "posted": "2026-09-04T06:56:39-04:00",
+   "location": "Singapore, Singapore / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
+   "url": "https://careers.datadoghq.com/detail/8164588/?gh_jid=8164588",
+   "posted": "2026-09-04T06:56:37-04:00",
    "posted_date": "2026-09-04",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -10083,7 +10306,7 @@
    "url": "https://apply.deloitte.co.uk/UKCareers/",
    "kind": "page",
    "readable": true,
-   "changed_on": "2026-10-10",
+   "changed_on": "2026-10-12",
    "new_links": [],
    "new_on": "2026-10-08",
    "error": null
@@ -10126,7 +10349,7 @@
    "url": "https://jobs.pwc.co.uk/experienced/uk/en/search-results",
    "kind": "page",
    "readable": true,
-   "changed_on": "2026-10-11",
+   "changed_on": "2026-10-12",
    "new_links": [],
    "new_on": null,
    "error": null
@@ -10200,7 +10423,7 @@
    "url": "https://careers.kainos.com",
    "kind": "page",
    "readable": true,
-   "changed_on": "2026-10-11",
+   "changed_on": "2026-10-12",
    "new_links": [],
    "new_on": null,
    "error": null
@@ -10260,7 +10483,7 @@
    "url": "https://revolut.com/careers/",
    "kind": "page",
    "readable": true,
-   "changed_on": "2026-10-11",
+   "changed_on": "2026-10-12",
    "new_links": [],
    "new_on": "2026-10-09",
    "error": null
@@ -10282,9 +10505,18 @@
    "url": "https://careers.servicenow.com/jobs/",
    "kind": "page",
    "readable": true,
-   "changed_on": "2026-10-11",
-   "new_links": [],
-   "new_on": "2026-10-10",
+   "changed_on": "2026-10-12",
+   "new_links": [
+    {
+     "title": "Advisory Solution Consultant - Risk",
+     "url": "https://careers.servicenow.com/jobs/744000154948875/advisory-solution-consultant-risk/"
+    },
+    {
+     "title": "Advisory Solution Consultant",
+     "url": "https://careers.servicenow.com/jobs/744000154921069/advisory-solution-consultant/"
+    }
+   ],
+   "new_on": "2026-10-12",
    "error": null
   },
   {
@@ -10477,7 +10709,7 @@
    "url": "https://jobs.siemens-healthineers.com",
    "kind": "page",
    "readable": true,
-   "changed_on": "2026-10-11",
+   "changed_on": "2026-10-12",
    "new_links": [],
    "new_on": "2026-09-29",
    "error": null
@@ -10506,9 +10738,14 @@
    "url": "https://job-boards.eu.greenhouse.io/openup",
    "kind": "page",
    "readable": true,
-   "changed_on": "2026-10-09",
-   "new_links": [],
-   "new_on": "2026-09-29",
+   "changed_on": "2026-10-12",
+   "new_links": [
+    {
+     "title": "AI well-being coachTalk it through, make sense of it and find the right support",
+     "url": "https://job-boards.eu.greenhouse.io/ai-wellbeing-coach/"
+    }
+   ],
+   "new_on": "2026-10-12",
    "error": null
   },
   {
@@ -10633,7 +10870,7 @@
    "url": "https://explore.jobs.netflix.net/careers",
    "kind": "page",
    "readable": true,
-   "changed_on": "2026-10-11",
+   "changed_on": "2026-10-12",
    "new_links": [],
    "new_on": null,
    "error": null
@@ -10644,7 +10881,7 @@
    "url": "https://optiver.com/join-us/jobs/",
    "kind": "page",
    "readable": true,
-   "changed_on": "2026-10-09",
+   "changed_on": "2026-10-12",
    "new_links": [],
    "new_on": "2026-10-09",
    "error": null
@@ -10662,7 +10899,7 @@
    "url": "https://sendcloud.com/jobs/",
    "kind": "page",
    "readable": true,
-   "changed_on": "2026-10-10",
+   "changed_on": "2026-10-12",
    "new_links": [],
    "new_on": "2026-10-09",
    "error": null
@@ -10673,9 +10910,18 @@
    "url": "https://careers.servicenow.com/jobs/",
    "kind": "page",
    "readable": true,
-   "changed_on": "2026-10-11",
-   "new_links": [],
-   "new_on": "2026-10-10",
+   "changed_on": "2026-10-12",
+   "new_links": [
+    {
+     "title": "Advisory Solution Consultant - Risk",
+     "url": "https://careers.servicenow.com/jobs/744000154948875/advisory-solution-consultant-risk/"
+    },
+    {
+     "title": "Advisory Solution Consultant",
+     "url": "https://careers.servicenow.com/jobs/744000154921069/advisory-solution-consultant/"
+    }
+   ],
+   "new_on": "2026-10-12",
    "error": null
   },
   {
@@ -10713,9 +10959,14 @@
    "url": "https://komwerkenbijey.nl/vacatures",
    "kind": "page",
    "readable": true,
-   "changed_on": "2026-10-08",
-   "new_links": [],
-   "new_on": "2026-10-08",
+   "changed_on": "2026-10-12",
+   "new_links": [
+    {
+     "title": "Global Service Lines (GIFT) - Associate DirectorCore Business Services,ProfessionalVaste baanProfessionalPermanent job",
+     "url": "https://careers.ey.com/ey/job/London-Global-Service-Lines-%28GIFT%29-Associate-Director-SE1-2AF/1444312133/"
+    }
+   ],
+   "new_on": "2026-10-12",
    "error": null
   },
   {
@@ -10977,9 +11228,9 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 237,
-   "in_region": 69,
-   "kept": 25
+   "total": 236,
+   "in_region": 71,
+   "kept": 26
   },
   {
    "companies": [
@@ -10987,7 +11238,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 645,
+   "total": 646,
    "in_region": 56,
    "kept": 12
   },
@@ -10997,9 +11248,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 78,
-   "in_region": 78,
-   "kept": 25
+   "total": 84,
+   "in_region": 84,
+   "kept": 33
   },
   {
    "companies": [
@@ -11007,7 +11258,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 46,
+   "total": 64,
    "in_region": 5,
    "kept": 1
   },
@@ -11017,8 +11268,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 94,
-   "in_region": 36,
+   "total": 95,
+   "in_region": 35,
    "kept": 24
   },
   {
@@ -11027,7 +11278,7 @@
    ],
    "source": "eightfold",
    "error": null,
-   "total": 602,
+   "total": 609,
    "in_region": 0,
    "kept": 0
   },
@@ -11057,7 +11308,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 72,
+   "total": 69,
    "in_region": 2,
    "kept": 0
   },
@@ -11137,8 +11388,8 @@
    ],
    "source": "smartrecruiters",
    "error": null,
-   "total": 470,
-   "in_region": 293,
+   "total": 466,
+   "in_region": 290,
    "kept": 5
   },
   {
@@ -11168,8 +11419,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 892,
-   "in_region": 88,
+   "total": 891,
+   "in_region": 87,
    "kept": 7
   },
   {
@@ -11178,7 +11429,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 435,
+   "total": 434,
    "in_region": 42,
    "kept": 15
   },
@@ -11189,7 +11440,7 @@
    "source": "greenhouse",
    "error": null,
    "total": 200,
-   "in_region": 134,
+   "in_region": 135,
    "kept": 30
   },
   {
@@ -11228,8 +11479,8 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 82,
-   "in_region": 82,
+   "total": 80,
+   "in_region": 80,
    "kept": 19
   },
   {
@@ -11238,7 +11489,7 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 61,
+   "total": 59,
    "in_region": 0,
    "kept": 0
   },
@@ -11248,7 +11499,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 150,
+   "total": 151,
    "in_region": 19,
    "kept": 5
   },
@@ -11279,9 +11530,9 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 31,
-   "in_region": 16,
-   "kept": 2
+   "total": 29,
+   "in_region": 14,
+   "kept": 1
   },
   {
    "companies": [
@@ -11309,9 +11560,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 48,
-   "in_region": 48,
-   "kept": 14
+   "total": 46,
+   "in_region": 46,
+   "kept": 16
   },
   {
    "companies": [
@@ -11323,7 +11574,7 @@
    "error": null,
    "total": 301,
    "in_region": 301,
-   "kept": 74
+   "kept": 75
   },
   {
    "companies": [
@@ -11351,8 +11602,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 106,
-   "in_region": 52,
+   "total": 104,
+   "in_region": 51,
    "kept": 9
   },
   {
@@ -11431,7 +11682,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 37,
+   "total": 36,
    "in_region": 6,
    "kept": 4
   },
@@ -11461,7 +11712,7 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 46,
+   "total": 47,
    "in_region": 17,
    "kept": 6
   },
@@ -11471,9 +11722,9 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 68,
-   "in_region": 54,
-   "kept": 12
+   "total": 66,
+   "in_region": 52,
+   "kept": 10
   },
   {
    "companies": [
@@ -11491,7 +11742,7 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 121,
+   "total": 124,
    "in_region": 42,
    "kept": 19
   },
@@ -11531,7 +11782,7 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 815,
+   "total": 811,
    "in_region": 34,
    "kept": 8
   },
@@ -11541,7 +11792,7 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 94,
+   "total": 91,
    "in_region": 0,
    "kept": 0
   },
@@ -11574,9 +11825,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 58,
-   "in_region": 58,
-   "kept": 14
+   "total": 59,
+   "in_region": 59,
+   "kept": 17
   },
   {
    "companies": [
@@ -11594,8 +11845,8 @@
    ],
    "source": "lever",
    "error": null,
-   "total": 141,
-   "in_region": 34,
+   "total": 139,
+   "in_region": 33,
    "kept": 12
   },
   {
@@ -11654,8 +11905,8 @@
    ],
    "source": "workable",
    "error": null,
-   "total": 45,
-   "in_region": 43,
+   "total": 46,
+   "in_region": 44,
    "kept": 11
   },
   {
@@ -11664,7 +11915,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 728,
+   "total": 726,
    "in_region": 60,
    "kept": 20
   },
@@ -11674,8 +11925,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 347,
-   "in_region": 88,
+   "total": 345,
+   "in_region": 92,
    "kept": 5
   },
   {
@@ -11694,8 +11945,8 @@
    ],
    "source": "smartrecruiters",
    "error": null,
-   "total": 521,
-   "in_region": 30,
+   "total": 517,
+   "in_region": 29,
    "kept": 2
   },
   {
@@ -11704,7 +11955,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 37,
+   "total": 36,
    "in_region": 7,
    "kept": 3
   },
@@ -11744,8 +11995,8 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 2,
-   "in_region": 2,
+   "total": 1,
+   "in_region": 1,
    "kept": 0
   },
   {
@@ -11754,7 +12005,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 306,
+   "total": 307,
    "in_region": 16,
    "kept": 2
   },
@@ -11764,8 +12015,8 @@
    ],
    "source": "smartrecruiters",
    "error": null,
-   "total": 171,
-   "in_region": 97,
+   "total": 166,
+   "in_region": 95,
    "kept": 36
   },
   {
@@ -11792,8 +12043,8 @@
  "counts": {
   "companies": 215,
   "feeds": 82,
-  "jobs": 540,
-  "new_today": 0,
+  "jobs": 552,
+  "new_today": 23,
   "pages": 35
  }
 }
