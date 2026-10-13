@@ -1,46 +1,4 @@
 {
- "https://careers-phastar.icims.com/jobs/search?ss=1&in_iframe=1": {
-  "company": "PHASTAR",
-  "region": "UK",
-  "hash": "f0536ff4210d1acf2029c4a845112208092c1fd6",
-  "postings": {
-   "https://uscareers-phastar.icims.com/jobs/intro": "Vacancies - USA",
-   "https://careers-phastar.icims.com/jobs/intro?in_iframe=1": "Welcome page",
-   "https://careers-phastar.icims.com/jobs/login?loginOnly=1&redirect=search&in_iframe=1&hashed=-625919384": "Log back in!",
-   "https://careers-phastar.icims.com/jobs/2485/senior-statistical-programmer/job?in_iframe=1": "Job Title Senior Statistical Programmer",
-   "https://careers-phastar.icims.com/jobs/2473/senior-principal-statistician-%28rwe%29/job?in_iframe=1": "Job Title Senior/Principal Statistician (RWE)",
-   "https://careers-phastar.icims.com/jobs/2472/senior-clinical-data-coordinator-i/job?in_iframe=1": "Job Title Senior Clinical Data Coordinator I",
-   "https://careers-phastar.icims.com/jobs/2471/principal-programmer/job?in_iframe=1": "Job Title Principal Programmer",
-   "https://careers-phastar.icims.com/jobs/2469/principal-programmer/job?in_iframe=1": "Job Title Principal Programmer",
-   "https://careers-phastar.icims.com/jobs/2464/principal-programmer/job?in_iframe=1": "Job Title Principal Programmer",
-   "https://careers-phastar.icims.com/jobs/2461/senior-programmer-i-ii/job?in_iframe=1": "Job Title Senior Programmer I/II",
-   "https://careers-phastar.icims.com/jobs/2458/principal-statistician/job?in_iframe=1": "Job Title Principal Statistician",
-   "https://careers-phastar.icims.com/jobs/2457/principal-programmer/job?in_iframe=1": "Job Title Principal Programmer",
-   "https://careers-phastar.icims.com/jobs/2454/senior-programmer/job?in_iframe=1": "Job Title Senior Programmer",
-   "https://careers-phastar.icims.com/jobs/2453/senior-statistician/job?in_iframe=1": "Job Title Senior Statistician",
-   "https://careers-phastar.icims.com/jobs/2449/principal-programmer/job?in_iframe=1": "Job Title Principal Programmer",
-   "https://careers-phastar.icims.com/jobs/2448/senior-data-scientist/job?in_iframe=1": "Job Title Senior Data Scientist",
-   "https://careers-phastar.icims.com/jobs/2446/principal-programmer/job?in_iframe=1": "Job Title Principal Programmer",
-   "https://careers-phastar.icims.com/jobs/2444/junior-data-operations-programmer/job?in_iframe=1": "Job Title Junior Data Operations Programmer",
-   "https://careers-phastar.icims.com/jobs/2442/senior--principal-statistician/job?in_iframe=1": "Job Title Senior/ Principal Statistician",
-   "https://careers-phastar.icims.com/jobs/2439/senior-statistician/job?in_iframe=1": "Job Title Senior Statistician",
-   "https://careers-phastar.icims.com/jobs/2438/principal-statistician/job?in_iframe=1": "Job Title Principal Statistician",
-   "https://careers-phastar.icims.com/jobs/2433/principal-programmer/job?in_iframe=1": "Job Title Principal Programmer",
-   "https://careers-phastar.icims.com/jobs/2432/senior-data-operations-programmer/job?in_iframe=1": "Job Title Senior Data Operations Programmer",
-   "https://careers-phastar.icims.com/jobs/search?pr=0&in_iframe=1": "First page of results First",
-   "https://careers-phastar.icims.com/jobs/search?pr=&in_iframe=1": "Previous page of results",
-   "https://careers-phastar.icims.com/jobs/search?pr=0&in_iframe=1&schemaId=&o=": "Page 1 of 2 , Current Page",
-   "https://careers-phastar.icims.com/jobs/search?pr=1&in_iframe=1&schemaId=&o=": "Page 2 of 2",
-   "https://careers-phastar.icims.com/jobs/search?pr=1&in_iframe=1": "Next page of results"
-  },
-  "readable": true,
-  "method": "structured data on job pages",
-  "checked": "2026-10-13T07:05:56+00:00",
-  "error": null,
-  "changed_on": null,
-  "new_links": {},
-  "new_on": null
- },
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
@@ -68,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-13T07:05:56+00:00",
+  "checked": "2026-10-13T07:17:05+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -77,7 +35,7 @@
  "https://careers.cognizant.com/global-en/jobs/": {
   "company": "Cognizant NL",
   "region": "NL",
-  "hash": "8f49628bf2b387794c6b9f5c48babdad1813b601",
+  "hash": "1ed9450916a5d762ccf5bd7c2586d4b84611e9aa",
   "postings": {
    "https://careers.cognizant.com/global-en/jobs/saved-jobs/": "Saved Jobs 0",
    "https://careers.cognizant.com/global-en/jobs/00069144518/mendix-developers/": "Mendix Developers",
@@ -92,16 +50,16 @@
   },
   "readable": true,
   "method": null,
-  "checked": "2026-10-13T07:05:56+00:00",
+  "checked": "2026-10-13T07:17:05+00:00",
   "error": null,
-  "changed_on": null,
+  "changed_on": "2026-10-13",
   "new_links": {},
   "new_on": null
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "507612a605341a0de09636a947bb3380e322b15f",
+  "hash": "a0c78ab3e2ac47c35c85702a96024ac4687f6536",
   "postings": {
    "https://wise.jobs/job/senior-product-manager-mitigation-platform-in-budapest-jid-3991": "Senior Product Manager - Mitigation Platform",
    "https://wise.jobs/job/fincrime-operations-team-lead-aml-investigations-in-kuala-lumpur-jid-3574": "FinCrime Operations Team Lead - AML Investigations",
@@ -118,9 +76,9 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-13T07:05:56+00:00",
+  "checked": "2026-10-13T07:17:05+00:00",
   "error": null,
-  "changed_on": null,
+  "changed_on": "2026-10-13",
   "new_links": {},
   "new_on": null
  },
@@ -148,20 +106,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-13T07:05:56+00:00",
-  "error": null,
-  "changed_on": null,
-  "new_links": {},
-  "new_on": null
- },
- "https://jobs.hub71.com/companies/takalam-online-counseling-2": {
-  "company": "Takalam",
-  "region": "ME",
-  "hash": "65759ccc577f4c46c923bfeabf15e802cba8b738",
-  "postings": {},
-  "readable": true,
-  "method": null,
-  "checked": "2026-10-13T07:05:56+00:00",
+  "checked": "2026-10-13T07:17:05+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -177,7 +122,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-13T07:05:56+00:00",
+  "checked": "2026-10-13T07:17:05+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {
@@ -185,5 +130,18 @@
    "https://careers.shezlong.com/vacancy/375769ac-095f-46b8-ae0b-b05ef924eb05": "View Details"
   },
   "new_on": "2026-10-13"
+ },
+ "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
+  "company": "Bupa Arabia",
+  "region": "ME",
+  "hash": "ff7c46dda9413987cbecb18eacbcdc3911ae5285",
+  "postings": {},
+  "readable": true,
+  "method": null,
+  "checked": "2026-10-13T07:17:05+00:00",
+  "error": null,
+  "changed_on": null,
+  "new_links": {},
+  "new_on": null
  }
 }
