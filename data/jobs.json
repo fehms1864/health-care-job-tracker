@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T07:17:05+00:00",
+ "generated_at": "2026-10-13T07:21:39+00:00",
  "baseline_date": "2026-09-27",
  "rules_version": 5,
  "sources": {
@@ -39,7 +39,6 @@
   "Holland Mountain": "{\"token\": \"hollandmountain\", \"type\": \"bamboohr\"}",
   "PwC": "{\"site\": \"CRM_Experienced_Careers_Site\", \"tenant\": \"pwc\", \"type\": \"workday\", \"wd\": \"wd3\"}",
   "BCG": "{\"host\": \"careers.bcg.com\", \"path\": \"global/en\", \"ref\": \"BCG1US\", \"type\": \"phenom\"}",
-  "Cognizant": "{\"render\": true, \"type\": \"page\", \"url\": \"https://careers.cognizant.com/global-en/jobs/\"}",
   "Kainos": "{\"site\": \"Kainos\", \"tenant\": \"kainos\", \"type\": \"workday\", \"wd\": \"wd3\"}",
   "Publicis": "{\"host\": \"careers.publicisgroupe.com\", \"type\": \"jibe\"}",
   "Synechron Platform Consulting": "{\"token\": \"synechron\", \"type\": \"smartrecruiters\"}",
@@ -136,7 +135,6 @@
   "EY Nederland": "{\"host\": \"careers.ey.com\", \"path\": \"ey\", \"type\": \"rmk_html\"}",
   "Schuberg Philis": "{\"token\": \"schubergphilis\", \"type\": \"greenhouse\"}",
   "Accenture NL": "{\"site\": \"AccentureCareers\", \"tenant\": \"accenture\", \"type\": \"workday\", \"wd\": \"wd103\"}",
-  "Cognizant NL": "{\"render\": true, \"type\": \"page\", \"url\": \"https://careers.cognizant.com/global-en/jobs/\"}",
   "Deloitte NL": "{\"token\": \"deloittenl\", \"type\": \"smartrecruiters\"}",
   "KPMG NL": "{\"token\": \"kpmgnl\", \"type\": \"smartrecruiters\"}",
   "PwC NL": "{\"site\": \"CRM_Experienced_Careers_Site\", \"tenant\": \"pwc\", \"type\": \"workday\", \"wd\": \"wd3\"}",
@@ -150,7 +148,7 @@
   "Vezeeta": "{\"host\": \"vezeetacareers.zenats.com\", \"slug\": \"2041-vezeeta\", \"type\": \"zenats\"}",
   "Altibbi": "{\"host\": \"altibbi.zenats.com\", \"slug\": \"1980-al-tibbi\", \"type\": \"zenats\"}",
   "M42": "{\"default_region\": true, \"host\": \"careers.m42.ae\", \"type\": \"jibe\"}",
-  "Bupa Arabia": "{\"assume_region\": true, \"default_region\": true, \"link_pattern\": \"/en/saudi-arabia/jobs/[^/?#]+-\\\\d+/?$\", \"type\": \"page\", \"url\": \"https://careers.bupa.com.sa/en/saudi-arabia/jobs/\"}",
+  "Bupa Arabia": "{\"assume_region\": true, \"default_region\": true, \"link_pattern\": \"/en/saudi-arabia/jobs/[^/?#]+-\\\\d+/?$\", \"render\": true, \"type\": \"page\", \"url\": \"https://careers.bupa.com.sa/en/saudi-arabia/jobs/\"}",
   "GE HealthCare Middle East": "{\"site\": \"GEHC_ExternalSite\", \"tenant\": \"gehc\", \"type\": \"workday\", \"wd\": \"wd5\"}",
   "Philips Middle East": "{\"site\": \"jobs-and-careers\", \"tenant\": \"philips\", \"type\": \"workday\", \"wd\": \"wd3\"}",
   "Siemens Healthineers Middle East": "{\"host\": \"careers.siemens-healthineers.com\", \"path\": \"global/en\", \"ref\": \"SHDSHWUS\", \"type\": \"phenom\"}",
@@ -5015,6 +5013,30 @@
     "patient",
     "consultant",
     "quality improvement"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "49178fb6cbdf93",
+   "company": "Bupa Arabia",
+   "region": "ME",
+   "title": "Consultant - Ear, Nose & Throat (ENT)",
+   "location": "Riyadh, Riyadh, Saudi Arabia",
+   "url": "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-ear-nose-throat-ent-1100085191/",
+   "posted": "2026-10-12",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 32,
+   "hits": [
+    "healthcare",
+    "patient",
+    "telemedicine",
+    "patient experience"
    ],
    "lang": null,
    "visa": null,
@@ -14286,6 +14308,27 @@
    "baseline": true
   },
   {
+   "id": "4abe2352a692dc",
+   "company": "Shezlong",
+   "region": "ME",
+   "title": "Provider Success Specialist",
+   "location": "",
+   "url": "https://careers.shezlong.com/vacancy/41f94ee7-8b98-4748-ab40-e920172a99f8",
+   "posted": null,
+   "posted_date": "2026-10-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 22,
+   "hits": [
+    "mental health"
+   ],
+   "lang": "Arabic",
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "c61d1d16f6366a",
    "company": "Accenture NL",
    "region": "NL",
@@ -22525,27 +22568,6 @@
    "baseline": true
   },
   {
-   "id": "4abe2352a692dc",
-   "company": "Shezlong",
-   "region": "ME",
-   "title": "View Details",
-   "location": "",
-   "url": "https://careers.shezlong.com/vacancy/41f94ee7-8b98-4748-ab40-e920172a99f8",
-   "posted": null,
-   "posted_date": "2026-10-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 16,
-   "hits": [
-    "mental health"
-   ],
-   "lang": "Arabic",
-   "visa": null,
-   "details": false,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "0430100b87c4de",
    "company": "Accenture",
    "region": "UK",
@@ -25308,6 +25330,25 @@
    "baseline": true
   },
   {
+   "id": "6e556c0c6052df",
+   "company": "Bupa Arabia",
+   "region": "ME",
+   "title": "Senior Associate - Licensing & Government Relations",
+   "location": "Jeddah, Jeddah, Saudi Arabia",
+   "url": "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-licensing-government-relations-1100085752/",
+   "posted": "2026-10-08",
+   "posted_date": "2026-10-08",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 13,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "a3404926495eb3",
    "company": "Accenture NL",
    "region": "NL",
@@ -26924,7 +26965,7 @@
    "id": "02a84697674826",
    "company": "Shezlong",
    "region": "ME",
-   "title": "View Details",
+   "title": "Chat Support Agent",
    "location": "",
    "url": "https://careers.shezlong.com/vacancy/375769ac-095f-46b8-ae0b-b05ef924eb05",
    "posted": null,
@@ -32675,6 +32716,46 @@
    "baseline": true
   },
   {
+   "id": "6cea76aa938a72",
+   "company": "Bupa Arabia",
+   "region": "ME",
+   "title": "COOP - Growth Marketing",
+   "location": "Jeddah, Jeddah, Saudi Arabia",
+   "url": "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-growth-marketing-1100091103/",
+   "posted": "2026-10-07",
+   "posted_date": "2026-10-07",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 4,
+   "hits": [
+    "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "884a0fde242e6f",
+   "company": "IQVIA",
+   "region": "UK",
+   "title": "",
+   "location": "",
+   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA",
+   "posted": null,
+   "posted_date": "2026-10-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "959e377e8a77b6",
    "company": "Microsoft",
    "region": "UK",
@@ -32850,25 +32931,6 @@
    "details": true,
    "lang_checked": true,
    "baseline": true
-  },
-  {
-   "id": "884a0fde242e6f",
-   "company": "ICON",
-   "region": "UK",
-   "title": "",
-   "location": "",
-   "url": "https://icon.wd3.myworkdayjobs.com/broadbean_external",
-   "posted": null,
-   "posted_date": "2026-10-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 3,
-   "hits": [],
-   "lang": null,
-   "visa": null,
-   "details": false,
-   "lang_checked": true,
-   "baseline": false
   },
   {
    "id": "30bb017990e25a",
@@ -45641,13 +45703,9 @@
    "company": "Cognizant",
    "region": "UK",
    "url": "https://careers.cognizant.com/global-en/jobs/",
-   "kind": "page",
-   "readable": true,
-   "changed_on": "2026-10-13",
-   "new_links": [],
-   "new_on": null,
-   "error": null,
-   "alert": false
+   "kind": "link",
+   "note": "",
+   "alert": true
   },
   {
    "company": "Delta Capita Consulting",
@@ -45901,13 +45959,9 @@
    "company": "Cognizant NL",
    "region": "NL",
    "url": "https://careers.cognizant.com/global-en/jobs/",
-   "kind": "page",
-   "readable": true,
-   "changed_on": "2026-10-13",
-   "new_links": [],
-   "new_on": null,
-   "error": null,
-   "alert": false
+   "kind": "link",
+   "note": "",
+   "alert": true
   },
   {
    "company": "McKinsey NL",
@@ -45996,18 +46050,6 @@
    "kind": "link",
    "note": "",
    "alert": true
-  },
-  {
-   "company": "Bupa Arabia",
-   "region": "ME",
-   "url": "https://careers.bupa.com.sa/en/saudi-arabia/jobs/",
-   "kind": "page",
-   "readable": true,
-   "changed_on": null,
-   "new_links": [],
-   "new_on": null,
-   "error": null,
-   "alert": false
   },
   {
    "company": "Daman",
@@ -46174,7 +46216,7 @@
    ],
    "source": "eightfold",
    "error": null,
-   "total": 615,
+   "total": 618,
    "in_region": 0,
    "kept": 0
   },
@@ -46234,10 +46276,10 @@
    ],
    "source": "page",
    "error": null,
-   "total": 0,
-   "in_region": 0,
-   "kept": 0,
-   "method": null
+   "total": 10,
+   "in_region": 10,
+   "kept": 3,
+   "method": "structured data on job pages"
   },
   {
    "companies": [
@@ -46298,28 +46340,6 @@
    "total": 17,
    "in_region": 16,
    "kept": 3
-  },
-  {
-   "companies": [
-    "Cognizant"
-   ],
-   "source": "page",
-   "error": null,
-   "total": 0,
-   "in_region": 0,
-   "kept": 0,
-   "method": null
-  },
-  {
-   "companies": [
-    "Cognizant NL"
-   ],
-   "source": "page",
-   "error": null,
-   "total": 0,
-   "in_region": 0,
-   "kept": 0,
-   "method": null
   },
   {
    "companies": [
@@ -46388,7 +46408,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 205,
+   "total": 204,
    "in_region": 139,
    "kept": 30
   },
@@ -46582,9 +46602,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 114,
-   "in_region": 114,
-   "kept": 76
+   "total": 113,
+   "in_region": 113,
+   "kept": 75
   },
   {
    "companies": [
@@ -46604,9 +46624,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 302,
-   "in_region": 302,
-   "kept": 77
+   "total": 303,
+   "in_region": 303,
+   "kept": 78
   },
   {
    "companies": [
@@ -47406,14 +47426,14 @@
  "counts": {
   "companies": 215,
   "feeds": 126,
-  "jobs": 2012,
-  "new_today": 5,
-  "pages": 7
+  "jobs": 2015,
+  "new_today": 0,
+  "pages": 5
  },
  "coverage": {
   "feed": 148,
-  "careers_page": 4,
-  "page_watch": 3,
-  "by_hand": 60
+  "careers_page": 5,
+  "page_watch": 0,
+  "by_hand": 62
  }
 }

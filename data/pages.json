@@ -26,40 +26,16 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-13T07:17:05+00:00",
+  "checked": "2026-10-13T07:21:39+00:00",
   "error": null,
   "changed_on": null,
-  "new_links": {},
-  "new_on": null
- },
- "https://careers.cognizant.com/global-en/jobs/": {
-  "company": "Cognizant NL",
-  "region": "NL",
-  "hash": "1ed9450916a5d762ccf5bd7c2586d4b84611e9aa",
-  "postings": {
-   "https://careers.cognizant.com/global-en/jobs/saved-jobs/": "Saved Jobs 0",
-   "https://careers.cognizant.com/global-en/jobs/00069144518/mendix-developers/": "Mendix Developers",
-   "https://careers.cognizant.com/global-en/jobs/00070747681/java-full-stack-developer/": "Java Full stack developer",
-   "https://careers.cognizant.com/global-en/jobs/00070964931/it-infrastructure-engineer/": "IT Infrastructure Engineer",
-   "https://careers.cognizant.com/global-en/jobs/00069898991/spe-hr-operations/": "SPE-HR Operations",
-   "https://careers.cognizant.com/global-en/jobs/00070965991/senior-consultant-full-stack/": "Senior Consultant - Full Stack",
-   "https://careers.cognizant.com/global-en/jobs/00070651841/project-manager-with-as400-applications/": "Project Manager with AS/400 Applications",
-   "https://careers.cognizant.com/global-en/jobs/00070516397/service-owner-it-infrastructure-managed-services/": "Service Owner – IT Infrastructure Managed Services",
-   "https://careers.cognizant.com/global-en/jobs/00070473022/genai-test-automation-leadarchitect-pc-insurance/": "GenAI Test Automation Lead/Architect - P&C Insurance",
-   "https://careers.cognizant.com/global-en/jobs/00070676522/customer-service-representative/": "Customer Service Representative"
-  },
-  "readable": true,
-  "method": null,
-  "checked": "2026-10-13T07:17:05+00:00",
-  "error": null,
-  "changed_on": "2026-10-13",
   "new_links": {},
   "new_on": null
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "a0c78ab3e2ac47c35c85702a96024ac4687f6536",
+  "hash": "5e78cebfc14f92349a5c633582b870a63d54a960",
   "postings": {
    "https://wise.jobs/job/senior-product-manager-mitigation-platform-in-budapest-jid-3991": "Senior Product Manager - Mitigation Platform",
    "https://wise.jobs/job/fincrime-operations-team-lead-aml-investigations-in-kuala-lumpur-jid-3574": "FinCrime Operations Team Lead - AML Investigations",
@@ -76,7 +52,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-13T07:17:05+00:00",
+  "checked": "2026-10-13T07:21:39+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -106,7 +82,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-13T07:17:05+00:00",
+  "checked": "2026-10-13T07:21:39+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -122,7 +98,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-13T07:17:05+00:00",
+  "checked": "2026-10-13T07:21:39+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {
@@ -134,14 +110,29 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "ff7c46dda9413987cbecb18eacbcdc3911ae5285",
-  "postings": {},
+  "hash": "100d70c6242c3da242d91e8a75f0384739153604",
+  "postings": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-ear-nose-throat-ent-1100085191/": "Consultant - Ear, Nose & Throat (ENT)",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-fwa-data-science-1100088892/": "Manager - FWA Data Science",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-fwa-ai-engineer-1100088889/": "Manager - FWA AI Engineer",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-designer-1100091207/": "Coop – Designer",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-licensing-government-relations-1100085752/": "Senior Associate - Licensing & Government Relations",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/technician-audiology-1100091161/": "Technician - Audiology",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-growth-marketing-1100091103/": "COOP - Growth Marketing",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/technician-cardiology-1100091092/": "Technician- Cardiology",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/technician-cast-1100091091/": "Technician - Cast"
+  },
   "readable": true,
-  "method": null,
-  "checked": "2026-10-13T07:17:05+00:00",
+  "method": "structured data on job pages",
+  "checked": "2026-10-13T07:21:39+00:00",
   "error": null,
-  "changed_on": null,
-  "new_links": {},
-  "new_on": null
+  "changed_on": "2026-10-13",
+  "new_links": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-ear-nose-throat-ent-1100085191/": "Consultant - Ear, Nose & Throat (ENT)",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-licensing-government-relations-1100085752/": "Senior Associate - Licensing & Government Relations",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-growth-marketing-1100091103/": "COOP - Growth Marketing"
+  },
+  "new_on": "2026-10-13"
  }
 }
