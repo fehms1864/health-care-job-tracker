@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-13T07:21:39+00:00",
+  "checked": "2026-10-13T07:26:33+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -35,7 +35,7 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "5e78cebfc14f92349a5c633582b870a63d54a960",
+  "hash": "b601e23ff91a8ab138847ddffcc84345fbb189a9",
   "postings": {
    "https://wise.jobs/job/senior-product-manager-mitigation-platform-in-budapest-jid-3991": "Senior Product Manager - Mitigation Platform",
    "https://wise.jobs/job/fincrime-operations-team-lead-aml-investigations-in-kuala-lumpur-jid-3574": "FinCrime Operations Team Lead - AML Investigations",
@@ -52,7 +52,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-13T07:21:39+00:00",
+  "checked": "2026-10-13T07:26:33+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -82,7 +82,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-13T07:21:39+00:00",
+  "checked": "2026-10-13T07:26:33+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -98,7 +98,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-13T07:21:39+00:00",
+  "checked": "2026-10-13T07:26:33+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {
@@ -125,7 +125,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-13T07:21:39+00:00",
+  "checked": "2026-10-13T07:26:33+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {

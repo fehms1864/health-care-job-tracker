@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-13T07:21:39+00:00",
+ "generated_at": "2026-10-13T07:26:33+00:00",
  "baseline_date": "2026-09-27",
- "rules_version": 5,
+ "rules_version": 6,
  "sources": {
   "Accurx": "{\"token\": \"accurx\", \"type\": \"ashby\"}",
   "Cera Care": "{\"token\": \"ceracare\", \"type\": \"smartrecruiters\"}",
@@ -2547,30 +2547,6 @@
    "baseline": true
   },
   {
-   "id": "578afd52f7fb15",
-   "company": "Janssen",
-   "region": "UK",
-   "title": "Field Reimbursement Manager, Dermatology - (Harrisburg, PA) - Patient Engagement & Customer Solution (PECS)",
-   "location": "3 Locations",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Harrisburg-Pennsylvania-United-States/Field-Reimbursement-Manager--Dermatology----Harrisburg--PA----Patient-Engagement---Customer-Solution--PECS-_R-102019-1",
-   "posted": "11 Days Ago",
-   "posted_date": "2026-10-02",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 35,
-   "hits": [
-    "healthcare",
-    "patient",
-    "medtech",
-    "patient experience"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "38b2a9ce4dbef1",
    "company": "Medtronic NL",
    "region": "NL",
@@ -2634,30 +2610,6 @@
     "healthcare",
     "patient",
     "implementation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "48d4d4d8bcbcf7",
-   "company": "Parexel",
-   "region": "UK",
-   "title": "Clinical Paediatric Site Engagement Specialist (Migraines) - UK or Belgium (Home-based) - FSP",
-   "location": "2 Locations",
-   "url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/United-Kingdom-London-Gridiron-Remote/Clinical-Paediatric-Site-Engagement-Specialist--Migraines----UK-or-Belgium--Home-based----FSP_R0000046634",
-   "posted": "7 Days Ago",
-   "posted_date": "2026-10-06",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 35,
-   "hits": [
-    "clinical",
-    "patient",
-    "strategy",
-    "operations"
    ],
    "lang": null,
    "visa": null,
@@ -4988,54 +4940,6 @@
     "healthcare",
     "patient",
     "hospital",
-    "patient experience"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "12ca0adffd5509",
-   "company": "M42",
-   "region": "ME",
-   "title": "Consultant, Pediatric Neurology",
-   "location": "",
-   "url": "https://careers.m42.ae/jobs/6904?lang=en-us",
-   "posted": "2026-08-25T05:41:00+0000",
-   "posted_date": "2026-08-25",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 32,
-   "hits": [
-    "healthcare",
-    "patient",
-    "consultant",
-    "quality improvement"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "49178fb6cbdf93",
-   "company": "Bupa Arabia",
-   "region": "ME",
-   "title": "Consultant - Ear, Nose & Throat (ENT)",
-   "location": "Riyadh, Riyadh, Saudi Arabia",
-   "url": "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-ear-nose-throat-ent-1100085191/",
-   "posted": "2026-10-12",
-   "posted_date": "2026-10-12",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 32,
-   "hits": [
-    "healthcare",
-    "patient",
-    "telemedicine",
     "patient experience"
    ],
    "lang": null,
@@ -7679,30 +7583,6 @@
    "baseline": true
   },
   {
-   "id": "11b4ff5a012091",
-   "company": "M42",
-   "region": "ME",
-   "title": "Consultant, Pediatric Ophthalmology",
-   "location": "",
-   "url": "https://careers.m42.ae/jobs/7052?lang=en-us",
-   "posted": "2026-09-21T08:03:00+0000",
-   "posted_date": "2026-09-21",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 28,
-   "hits": [
-    "healthcare",
-    "patient",
-    "hospital",
-    "consultant"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "efced1eb9546a4",
    "company": "Accenture",
    "region": "UK",
@@ -9436,30 +9316,6 @@
    "baseline": true
   },
   {
-   "id": "ed519642c02598",
-   "company": "Parexel",
-   "region": "UK",
-   "title": "Pediatric Site Engagement Specialist - FSP",
-   "location": "2 Locations",
-   "url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/United-Kingdom-Harrow-Remote/Pediatric-Site-Engagement-Specialist---FSP_R0000046637",
-   "posted": "6 Days Ago",
-   "posted_date": "2026-10-07",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 25,
-   "hits": [
-    "healthcare",
-    "patient",
-    "strategy",
-    "operations"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "3a0aed2c6ea539",
    "company": "Accenture NL",
    "region": "NL",
@@ -11180,30 +11036,6 @@
    "baseline": true
   },
   {
-   "id": "d3d35358c1d4bc",
-   "company": "HCA Healthcare UK",
-   "region": "UK",
-   "title": "Kitchen Porter",
-   "location": "London, United Kingdom",
-   "url": "https://www.hcahealthcare.co.uk/careers/vacancy/0051938",
-   "posted": "2026-10-08",
-   "posted_date": "2026-10-08",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 23,
-   "hits": [
-    "healthcare",
-    "health care",
-    "patient",
-    "hospital"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "7ee5ac300d3627",
    "company": "HCA Healthcare UK",
    "region": "UK",
@@ -11596,29 +11428,6 @@
    "hits": [
     "healthcare",
     "patient",
-    "operations"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "789fbaede16612",
-   "company": "ICON",
-   "region": "UK",
-   "title": "Senior Supervising Radiologist",
-   "location": "3 Locations",
-   "url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/US-Blue-Bell-ICON/Senior-Supervising-Radiologist_JR158306",
-   "posted": "26 Days Ago",
-   "posted_date": "2026-09-17",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 23,
-   "hits": [
-    "healthcare",
-    "strategy",
     "operations"
    ],
    "lang": null,
@@ -14268,30 +14077,6 @@
    "url": "https://careers.m42.ae/jobs/7054?lang=en-us",
    "posted": "2026-09-21T10:39:00+0000",
    "posted_date": "2026-09-21",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 22,
-   "hits": [
-    "healthcare",
-    "patient",
-    "hospital",
-    "quality improvement"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "fc418ec35bb336",
-   "company": "M42",
-   "region": "ME",
-   "title": "Specialist Radiology",
-   "location": "",
-   "url": "https://careers.m42.ae/jobs/6994?lang=en-us",
-   "posted": "2026-09-11T07:25:00+0000",
-   "posted_date": "2026-09-11",
    "posted_approx": false,
    "first_seen": "2026-10-13",
    "score": 22,
@@ -17575,30 +17360,6 @@
    "baseline": true
   },
   {
-   "id": "e0ca5f465c6f2b",
-   "company": "M42",
-   "region": "ME",
-   "title": "Electro-Neurodiagnostics Technologist",
-   "location": "",
-   "url": "https://careers.m42.ae/jobs/7078?lang=en-us",
-   "posted": "2026-10-02T06:06:00+0000",
-   "posted_date": "2026-10-02",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 20,
-   "hits": [
-    "healthcare",
-    "patient",
-    "hospital",
-    "quality improvement"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "1e3f13aea7066f",
    "company": "M42",
    "region": "ME",
@@ -19763,28 +19524,6 @@
    "baseline": true
   },
   {
-   "id": "369a05bde5af83",
-   "company": "Siemens Healthineers",
-   "region": "UK",
-   "title": "Quality Release Officer (FTC)",
-   "location": "Llanberis, Caernarfon, UK / United Kingdom",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100709/Quality-Release-Officer-FTC",
-   "posted": "2026-10-07T00:00:00.000+0000",
-   "posted_date": "2026-10-07",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 18,
-   "hits": [
-    "healthcare",
-    "change management"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "d4fea8cc8f4c65",
    "company": "Siemens Healthineers",
    "region": "UK",
@@ -19808,6 +19547,28 @@
    "baseline": true
   },
   {
+   "id": "369a05bde5af83",
+   "company": "Siemens Healthineers",
+   "region": "UK",
+   "title": "Quality Release Officer (FTC)",
+   "location": "Llanberis, Caernarfon, UK / United Kingdom",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100709/Quality-Release-Officer-FTC",
+   "posted": "2026-10-07T00:00:00.000+0000",
+   "posted_date": "2026-10-07",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 18,
+   "hits": [
+    "healthcare",
+    "change management"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "4f46ef5e2b0aa6",
    "company": "TomTom",
    "region": "NL",
@@ -19822,52 +19583,6 @@
    "hits": [
     "project manager",
     "change management"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "316243dee40698",
-   "company": "M42",
-   "region": "ME",
-   "title": "Specialist Internal medicine",
-   "location": "",
-   "url": "https://careers.m42.ae/jobs/7214?lang=en-us",
-   "posted": "2026-10-08T08:44:00+0000",
-   "posted_date": "2026-10-08",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 18,
-   "hits": [
-    "healthcare",
-    "patient",
-    "quality improvement"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "bfa19112be08f6",
-   "company": "M42",
-   "region": "ME",
-   "title": "Specialist, Pediatric Endocrinologist",
-   "location": "",
-   "url": "https://careers.m42.ae/jobs/6890?lang=en-us",
-   "posted": "2026-08-21T06:36:00+0000",
-   "posted_date": "2026-08-21",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 18,
-   "hits": [
-    "healthcare",
-    "patient",
-    "hospital"
    ],
    "lang": null,
    "visa": null,
@@ -20345,28 +20060,6 @@
    "hits": [
     "operations",
     "consultant"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "73f75245f4b7ca",
-   "company": "M42",
-   "region": "ME",
-   "title": "General Practitioner - Family Medicine",
-   "location": "",
-   "url": "https://careers.m42.ae/jobs/7168?lang=en-us",
-   "posted": "2026-10-05T06:03:00+0000",
-   "posted_date": "2026-10-05",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 17,
-   "hits": [
-    "healthcare",
-    "patient"
    ],
    "lang": null,
    "visa": null,
@@ -22144,6 +21837,28 @@
    "score": 16,
    "hits": [
     "workflow"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "d3d35358c1d4bc",
+   "company": "HCA Healthcare UK",
+   "region": "UK",
+   "title": "Kitchen Porter",
+   "location": "London, United Kingdom",
+   "url": "https://www.hcahealthcare.co.uk/careers/vacancy/0051938",
+   "posted": "2026-10-08",
+   "posted_date": "2026-10-08",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 16,
+   "hits": [
+    "healthcare",
+    "hospital"
    ],
    "lang": null,
    "visa": null,
@@ -30821,28 +30536,6 @@
    "baseline": true
   },
   {
-   "id": "38bb7dfd173a52",
-   "company": "Strategy& Middle East",
-   "region": "ME",
-   "title": "KSA co-op - KSA nationals - January 2027 intake",
-   "location": "Saudi Arabia",
-   "url": "https://www.strategyand.pwc.com/m1/en/careers.html?gh_jid=4951159101",
-   "posted": "2026-08-27T03:52:21-04:00",
-   "posted_date": "2026-08-27",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 7,
-   "hits": [
-    "strategy",
-    "consulting"
-   ],
-   "lang": "Arabic",
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "e00efd808d9b37",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
@@ -32714,46 +32407,6 @@
    "details": false,
    "lang_checked": true,
    "baseline": true
-  },
-  {
-   "id": "6cea76aa938a72",
-   "company": "Bupa Arabia",
-   "region": "ME",
-   "title": "COOP - Growth Marketing",
-   "location": "Jeddah, Jeddah, Saudi Arabia",
-   "url": "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-growth-marketing-1100091103/",
-   "posted": "2026-10-07",
-   "posted_date": "2026-10-07",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 4,
-   "hits": [
-    "implementation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "884a0fde242e6f",
-   "company": "IQVIA",
-   "region": "UK",
-   "title": "",
-   "location": "",
-   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA",
-   "posted": null,
-   "posted_date": "2026-10-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 3,
-   "hits": [],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
   },
   {
    "id": "959e377e8a77b6",
@@ -36139,30 +35792,6 @@
    "baseline": false
   },
   {
-   "id": "49410c063045d1",
-   "company": "Philips UK",
-   "region": "UK",
-   "title": "Clinical Consultant – Radiology Informatics (PACS)",
-   "location": "United Kingdom - Remote Based",
-   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-Kingdom---Remote-Based/Clinical-Consultant---Radiology-Informatics--PACS-_582076-1",
-   "posted": "10 Days Ago",
-   "posted_date": "2026-10-03",
-   "posted_approx": false,
-   "first_seen": "2026-10-04",
-   "score": 45,
-   "hits": [
-    "healthcare",
-    "clinical",
-    "mental health",
-    "consultant"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "4fde9228cb8849",
    "company": "IQVIA Middle East & Africa",
    "region": "ME",
@@ -38625,30 +38254,6 @@
    "baseline": false
   },
   {
-   "id": "90fde0614157ac",
-   "company": "IQVIA",
-   "region": "UK",
-   "title": "Consultant Cardiologist",
-   "location": "5 Locations",
-   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Liverpool-England-United-Kingdom/Consultant-Cardiologist_R1520090",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-08-30",
-   "posted_approx": true,
-   "first_seen": "2026-09-27",
-   "score": 35,
-   "hits": [
-    "healthcare",
-    "patient",
-    "population health",
-    "consultant"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "6f75a92be11eec",
    "company": "IQVIA NL",
    "region": "NL",
@@ -40539,30 +40144,6 @@
    "baseline": false
   },
   {
-   "id": "123391c2285219",
-   "company": "Neko Health",
-   "region": "UK",
-   "title": "General Practitioner",
-   "location": "London / United Kingdom",
-   "url": "https://jobs.ashbyhq.com/neko-health/08f34afa-a607-47a5-b04f-95a173daa945",
-   "posted": "2026-01-14T16:02:46.233+00:00",
-   "posted_date": "2026-01-14",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 23,
-   "hits": [
-    "healthcare",
-    "patient",
-    "care coordination",
-    "quality improvement"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "1b6f3ba5924c33",
    "company": "IQVIA",
    "region": "UK",
@@ -40677,29 +40258,6 @@
    ],
    "lang": null,
    "visa": "no",
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "f97e28a6bbae7a",
-   "company": "IQVIA",
-   "region": "UK",
-   "title": "Dermatology Nurses - Remote UK",
-   "location": "London, United Kingdom",
-   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Dermatology-Nurses---Remote-UK_R1568690",
-   "posted": "29 Days Ago",
-   "posted_date": "2026-09-14",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 23,
-   "hits": [
-    "healthcare",
-    "patient",
-    "population health"
-   ],
-   "lang": null,
-   "visa": null,
    "details": true,
    "lang_checked": true,
    "baseline": false
@@ -46216,7 +45774,7 @@
    ],
    "source": "eightfold",
    "error": null,
-   "total": 618,
+   "total": 617,
    "in_region": 0,
    "kept": 0
   },
@@ -46278,7 +45836,7 @@
    "error": null,
    "total": 10,
    "in_region": 10,
-   "kept": 3,
+   "kept": 1,
    "method": "structured data on job pages"
   },
   {
@@ -46604,7 +46162,7 @@
    "error": null,
    "total": 113,
    "in_region": 113,
-   "kept": 75
+   "kept": 74
   },
   {
    "companies": [
@@ -46624,9 +46182,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 303,
-   "in_region": 303,
-   "kept": 78
+   "total": 301,
+   "in_region": 301,
+   "kept": 75
   },
   {
    "companies": [
@@ -46668,7 +46226,7 @@
    "error": null,
    "total": 166,
    "in_region": 166,
-   "kept": 59
+   "kept": 58
   },
   {
    "companies": [
@@ -46746,9 +46304,9 @@
    ],
    "source": "jibe",
    "error": null,
-   "total": 93,
-   "in_region": 93,
-   "kept": 42
+   "total": 92,
+   "in_region": 92,
+   "kept": 35
   },
   {
    "companies": [
@@ -46860,7 +46418,7 @@
    "error": null,
    "total": 125,
    "in_region": 43,
-   "kept": 19
+   "kept": 18
   },
   {
    "companies": [
@@ -46982,7 +46540,7 @@
    "error": null,
    "total": 33,
    "in_region": 33,
-   "kept": 19
+   "kept": 17
   },
   {
    "companies": [
@@ -47004,7 +46562,7 @@
    "error": null,
    "total": 57,
    "in_region": 57,
-   "kept": 16
+   "kept": 15
   },
   {
    "companies": [
@@ -47189,7 +46747,7 @@
    "error": null,
    "total": 18,
    "in_region": 18,
-   "kept": 13
+   "kept": 12
   },
   {
    "companies": [
@@ -47426,7 +46984,7 @@
  "counts": {
   "companies": 215,
   "feeds": 126,
-  "jobs": 2015,
+  "jobs": 1996,
   "new_today": 0,
   "pages": 5
  },
