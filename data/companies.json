@@ -64,10 +64,7 @@
   "region": "UK",
   "category": "UK — Health-tech & digital health",
   "core": true,
-  "source": {
-   "type": "page",
-   "url": "https://huma.us/careers/current-openings/"
-  },
+  "source": null,
   "careers_url": "https://huma.us/careers/current-openings/",
   "note": "careers page — huma.us/careers/current-openings/"
  },
@@ -125,10 +122,12 @@
   "category": "UK — Health-tech & digital health",
   "core": true,
   "source": {
-   "type": "page",
-   "url": "https://telushealth.com/en-us/careers"
+   "type": "workday",
+   "tenant": "lifeworks",
+   "wd": "wd3",
+   "site": "External"
   },
-  "careers_url": "https://telushealth.com/en-us/careers",
+  "careers_url": "https://lifeworks.wd3.myworkdayjobs.com/External",
   "note": "telushealth.com/en-us/careers (weak)"
  },
  {
@@ -148,9 +147,12 @@
   "region": "UK",
   "category": "UK — Health-tech & digital health",
   "core": true,
-  "source": null,
-  "careers_url": null,
-  "note": "WRONG COMPANY — re-resolve"
+  "source": {
+   "type": "teamtailor",
+   "base": "https://jobs.zavamed.careers"
+  },
+  "careers_url": "https://jobs.zavamed.careers/jobs",
+  "note": ""
  },
  {
   "name": "Birdie",
@@ -182,7 +184,7 @@
   "category": "UK — Health-tech & digital health",
   "core": false,
   "source": null,
-  "careers_url": null,
+  "careers_url": "https://www.congenica.com/careers",
   "note": "congenica.com/careers/application/"
  },
  {
@@ -192,7 +194,7 @@
   "core": false,
   "source": null,
   "careers_url": null,
-  "note": "unresolved — no public board found"
+  "note": ""
  },
  {
   "name": "Doctify",
@@ -212,10 +214,10 @@
   "category": "UK — Health-tech & digital health",
   "core": false,
   "source": {
-   "type": "page",
-   "url": "https://careers.elder.org"
+   "type": "teamtailor",
+   "base": "https://careers.elder.org"
   },
-  "careers_url": "https://careers.elder.org",
+  "careers_url": "https://careers.elder.org/jobs",
   "note": "careers.elder.org"
  },
  {
@@ -236,8 +238,8 @@
   "category": "UK — Health-tech & digital health",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved — no public board found"
+  "careers_url": "https://optellum.com/careers",
+  "note": ""
  },
  {
   "name": "Oviva",
@@ -245,10 +247,10 @@
   "category": "UK — Health-tech & digital health",
   "core": false,
   "source": {
-   "type": "page",
-   "url": "https://oviva.com/global/en/career/"
+   "type": "ashby",
+   "token": "oviva"
   },
-  "careers_url": "https://oviva.com/global/en/career/",
+  "careers_url": "https://jobs.ashbyhq.com/oviva",
   "note": "oviva.com/global/en/career/"
  },
  {
@@ -282,7 +284,7 @@
   "core": false,
   "source": null,
   "careers_url": null,
-  "note": "WRONG COMPANY (US) — re-resolve, try secondnature.io"
+  "note": ""
  },
  {
   "name": "Skin Analytics",
@@ -302,7 +304,7 @@
   "category": "UK — Health-tech & digital health",
   "core": false,
   "source": null,
-  "careers_url": null,
+  "careers_url": "https://thriva.co/careers",
   "note": "charliehr:thrivalimited"
  },
  {
@@ -361,8 +363,8 @@
   "category": "UK — Healthcare & life-sciences consulting",
   "core": true,
   "source": {
-   "type": "page",
-   "url": "https://jobs.zs.com/jobs"
+   "type": "jibe",
+   "host": "jobs.zs.com"
   },
   "careers_url": "https://jobs.zs.com/jobs",
   "note": "jobs.zs.com/jobs"
@@ -373,7 +375,7 @@
   "category": "UK — Healthcare & life-sciences consulting",
   "core": false,
   "source": null,
-  "careers_url": null,
+  "careers_url": "https://attain.co.uk/careers-at-attain/",
   "note": "attain.co.uk/people-careers/ + HSJ Jobs"
  },
  {
@@ -406,20 +408,18 @@
   "category": "UK — Healthcare & life-sciences consulting",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved — nothing indexed"
+  "careers_url": "https://www.envisionpharmagroup.com/careers/",
+  "note": ""
  },
  {
   "name": "L.E.K. Consulting",
   "region": "UK",
   "category": "UK — Healthcare & life-sciences consulting",
   "core": false,
-  "source": {
-   "type": "page",
-   "url": "https://lek.com/careers/apply"
-  },
-  "careers_url": "https://lek.com/careers/apply",
-  "note": "lek.com/careers/apply"
+  "source": null,
+  "careers_url": "https://www.lek.com/careers/apply",
+  "note": "lek.com/careers/apply",
+  "alert": true
  },
  {
   "name": "OPEN Health",
@@ -440,9 +440,10 @@
   "core": false,
   "source": {
    "type": "page",
-   "url": "https://careers-phastar.icims.com"
+   "url": "https://careers-phastar.icims.com/jobs/search?ss=1&in_iframe=1",
+   "render": true
   },
-  "careers_url": "https://careers-phastar.icims.com",
+  "careers_url": "https://careers-phastar.icims.com/jobs/search?ss=1&in_iframe=1",
   "note": "iCIMS — careers-phastar.icims.com"
  },
  {
@@ -450,9 +451,14 @@
   "region": "UK",
   "category": "UK — Consulting & implementation at scale",
   "core": true,
-  "source": null,
-  "careers_url": null,
-  "note": "WRONG/ABANDONED BOARD — re-resolve"
+  "source": {
+   "type": "workday",
+   "tenant": "accenture",
+   "wd": "wd103",
+   "site": "AccentureCareers"
+  },
+  "careers_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers",
+  "note": ""
  },
  {
   "name": "Deloitte",
@@ -461,9 +467,9 @@
   "core": true,
   "source": {
    "type": "page",
-   "url": "https://apply.deloitte.co.uk/UKCareers/"
+   "url": "https://apply.deloitte.co.uk/UKCareers/SearchJobs"
   },
-  "careers_url": "https://apply.deloitte.co.uk/UKCareers/",
+  "careers_url": "https://apply.deloitte.co.uk/UKCareers/SearchJobs",
   "note": "apply.deloitte.co.uk/UKCareers/"
  },
  {
@@ -471,18 +477,27 @@
   "region": "UK",
   "category": "UK — Consulting & implementation at scale",
   "core": true,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "rmk_html",
+   "host": "careers.ey.com",
+   "path": "ey"
+  },
+  "careers_url": "https://careers.ey.com/ey/search/",
+  "note": ""
  },
  {
   "name": "Fractal Analytics",
   "region": "UK",
   "category": "UK — Consulting & implementation at scale",
   "core": true,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved — nothing indexed"
+  "source": {
+   "type": "workday",
+   "tenant": "fractal",
+   "wd": "wd1",
+   "site": "Careers"
+  },
+  "careers_url": "https://fractal.wd1.myworkdayjobs.com/Careers",
+  "note": ""
  },
  {
   "name": "Holland Mountain",
@@ -490,10 +505,10 @@
   "category": "UK — Consulting & implementation at scale",
   "core": true,
   "source": {
-   "type": "page",
-   "url": "https://hollandmountain.com/careers/"
+   "type": "bamboohr",
+   "token": "hollandmountain"
   },
-  "careers_url": "https://hollandmountain.com/careers/",
+  "careers_url": "https://hollandmountain.bamboohr.com/careers",
   "note": "hollandmountain.com/careers/"
  },
  {
@@ -502,8 +517,9 @@
   "category": "UK — Consulting & implementation at scale",
   "core": true,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved — nothing usable indexed"
+  "careers_url": "https://kpmg.com/uk/en/careers.html",
+  "note": "",
+  "alert": true
  },
  {
   "name": "PwC",
@@ -511,10 +527,12 @@
   "category": "UK — Consulting & implementation at scale",
   "core": true,
   "source": {
-   "type": "page",
-   "url": "https://jobs.pwc.co.uk/experienced/uk/en/search-results"
+   "type": "workday",
+   "tenant": "pwc",
+   "wd": "wd3",
+   "site": "Global_Experienced_Careers"
   },
-  "careers_url": "https://jobs.pwc.co.uk/experienced/uk/en/search-results",
+  "careers_url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers",
   "note": "jobs.pwc.co.uk/experienced/uk/en/search-results"
  },
  {
@@ -523,17 +541,23 @@
   "category": "UK — Consulting & implementation at scale",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "careers_url": "https://www.bain.com/careers/find-a-role/",
+  "note": "",
+  "alert": true
  },
  {
   "name": "BCG",
   "region": "UK",
   "category": "UK — Consulting & implementation at scale",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "phenom",
+   "host": "careers.bcg.com",
+   "ref": "BCG1US",
+   "path": "global/en"
+  },
+  "careers_url": "https://careers.bcg.com/global/en/search-results",
+  "note": ""
  },
  {
   "name": "BJSS",
@@ -541,8 +565,8 @@
   "category": "UK — Consulting & implementation at scale",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved — nothing indexed"
+  "careers_url": "https://www.cgi.com/uk/en-gb/careers",
+  "note": ""
  },
  {
   "name": "Capgemini",
@@ -550,17 +574,21 @@
   "category": "UK — Consulting & implementation at scale",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "careers_url": "https://www.capgemini.com/gb-en/careers/",
+  "note": "",
+  "alert": true
  },
  {
   "name": "Cognizant",
   "region": "UK",
   "category": "UK — Consulting & implementation at scale",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "page",
+   "url": "https://careers.cognizant.com/global-en/jobs/"
+  },
+  "careers_url": "https://careers.cognizant.com/global-en/jobs/",
+  "note": ""
  },
  {
   "name": "Delta Capita Consulting",
@@ -568,8 +596,8 @@
   "category": "UK — Consulting & implementation at scale",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved — nothing indexed"
+  "careers_url": "https://www.deltacapita.com/",
+  "note": ""
  },
  {
   "name": "Flagship Advisory Partners",
@@ -578,7 +606,7 @@
   "core": false,
   "source": null,
   "careers_url": null,
-  "note": "unresolved"
+  "note": ""
  },
  {
   "name": "IBM",
@@ -586,8 +614,9 @@
   "category": "UK — Consulting & implementation at scale",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "careers_url": "https://www.ibm.com/careers/search",
+  "note": "",
+  "alert": true
  },
  {
   "name": "Infosys",
@@ -595,8 +624,9 @@
   "category": "UK — Consulting & implementation at scale",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "careers_url": "https://career.infosys.com/joblist",
+  "note": "",
+  "alert": true
  },
  {
   "name": "Kainos",
@@ -604,10 +634,12 @@
   "category": "UK — Consulting & implementation at scale",
   "core": false,
   "source": {
-   "type": "page",
-   "url": "https://careers.kainos.com"
+   "type": "workday",
+   "tenant": "kainos",
+   "wd": "wd3",
+   "site": "Kainos"
   },
-  "careers_url": "https://careers.kainos.com",
+  "careers_url": "https://kainos.wd3.myworkdayjobs.com/Kainos",
   "note": "careers.kainos.com"
  },
  {
@@ -616,17 +648,21 @@
   "category": "UK — Consulting & implementation at scale",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "careers_url": "https://www.mckinsey.com/careers/search-jobs",
+  "note": "",
+  "alert": true
  },
  {
   "name": "Publicis",
   "region": "UK",
   "category": "UK — Consulting & implementation at scale",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "jibe",
+   "host": "careers.publicisgroupe.com"
+  },
+  "careers_url": "https://careers.publicisgroupe.com/jobs",
+  "note": ""
  },
  {
   "name": "Slalom",
@@ -634,8 +670,9 @@
   "category": "UK — Consulting & implementation at scale",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "careers_url": "https://www.slalom.com/careers",
+  "note": "",
+  "alert": true
  },
  {
   "name": "Sopra Steria",
@@ -643,8 +680,9 @@
   "category": "UK — Consulting & implementation at scale",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "careers_url": "https://www.soprasteria.co.uk/careers",
+  "note": "",
+  "alert": true
  },
  {
   "name": "Synechron Platform Consulting",
@@ -699,9 +737,12 @@
   "region": "UK",
   "category": "UK — Consulting & implementation at scale",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "sf_rmk",
+   "host": "careers.wipro.com"
+  },
+  "careers_url": "https://careers.wipro.com/search/",
+  "note": ""
  },
  {
   "name": "Google",
@@ -709,17 +750,22 @@
   "category": "UK — Tech & SaaS with heavy ops / customer success functions",
   "core": true,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "careers_url": "https://www.google.com/about/careers/applications/jobs/results?location=United%20Kingdom",
+  "note": "",
+  "alert": true
  },
  {
   "name": "Microsoft",
   "region": "UK",
   "category": "UK — Tech & SaaS with heavy ops / customer success functions",
   "core": true,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "pcsx",
+   "host": "apply.careers.microsoft.com",
+   "domain": "microsoft.com"
+  },
+  "careers_url": "https://apply.careers.microsoft.com/careers",
+  "note": ""
  },
  {
   "name": "Monzo",
@@ -762,12 +808,10 @@
   "region": "UK",
   "category": "UK — Tech & SaaS with heavy ops / customer success functions",
   "core": true,
-  "source": {
-   "type": "page",
-   "url": "https://revolut.com/careers/"
-  },
-  "careers_url": "https://revolut.com/careers/",
-  "note": "bespoke — revolut.com/careers/"
+  "source": null,
+  "careers_url": "https://www.revolut.com/careers/",
+  "note": "bespoke — revolut.com/careers/",
+  "alert": true
  },
  {
   "name": "Salesforce",
@@ -775,10 +819,12 @@
   "category": "UK — Tech & SaaS with heavy ops / customer success functions",
   "core": true,
   "source": {
-   "type": "page",
-   "url": "https://salesforce.com/company/careers/locations/emea/uk/"
+   "type": "workday",
+   "tenant": "salesforce",
+   "wd": "wd12",
+   "site": "External_Career_Site"
   },
-  "careers_url": "https://salesforce.com/company/careers/locations/emea/uk/",
+  "careers_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site",
   "note": "salesforce.com/company/careers/locations/emea/uk/"
  },
  {
@@ -787,8 +833,8 @@
   "category": "UK — Tech & SaaS with heavy ops / customer success functions",
   "core": true,
   "source": {
-   "type": "page",
-   "url": "https://careers.servicenow.com/jobs/"
+   "type": "smartrecruiters",
+   "token": "ServiceNow"
   },
   "careers_url": "https://careers.servicenow.com/jobs/",
   "note": "careers.servicenow.com/jobs/"
@@ -799,8 +845,8 @@
   "category": "UK — Tech & SaaS with heavy ops / customer success functions",
   "core": true,
   "source": {
-   "type": "page",
-   "url": "https://snyk.io/careers/all-jobs/"
+   "type": "ashby",
+   "token": "snyk"
   },
   "careers_url": "https://snyk.io/careers/all-jobs/",
   "note": "snyk.io/careers/all-jobs/"
@@ -836,9 +882,11 @@
   "region": "UK",
   "category": "UK — Tech & SaaS with heavy ops / customer success functions",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "amazon"
+  },
+  "careers_url": "https://www.amazon.jobs/",
+  "note": ""
  },
  {
   "name": "Anthropic",
@@ -858,10 +906,9 @@
   "category": "UK — Tech & SaaS with heavy ops / customer success functions",
   "core": false,
   "source": {
-   "type": "page",
-   "url": "https://atlassian.com/company/careers"
+   "type": "atlassian"
   },
-  "careers_url": "https://atlassian.com/company/careers",
+  "careers_url": "https://www.atlassian.com/company/careers/all-jobs",
   "note": "atlassian.com/company/careers"
  },
  {
@@ -881,8 +928,11 @@
   "region": "UK",
   "category": "UK — Tech & SaaS with heavy ops / customer success functions",
   "core": false,
-  "source": null,
-  "careers_url": null,
+  "source": {
+   "type": "ashby",
+   "token": "cleo-2"
+  },
+  "careers_url": "https://jobs.ashbyhq.com/cleo-2",
   "note": "job-boards.greenhouse.io/cleoai (board API 404)"
  },
  {
@@ -890,9 +940,14 @@
   "region": "UK",
   "category": "UK — Tech & SaaS with heavy ops / customer success functions",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved — nothing indexed"
+  "source": {
+   "type": "workday",
+   "tenant": "darktrace",
+   "wd": "wd3",
+   "site": "DarktaceExternal"
+  },
+  "careers_url": "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal",
+  "note": ""
  },
  {
   "name": "Databricks",
@@ -972,8 +1027,9 @@
   "category": "UK — Tech & SaaS with heavy ops / customer success functions",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved — only sub-boards indexed"
+  "careers_url": "https://www.hubspot.com/careers/jobs",
+  "note": "",
+  "alert": true
  },
  {
   "name": "Improbable",
@@ -1089,8 +1145,8 @@
   "category": "UK — Tech & SaaS with heavy ops / customer success functions",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "SANDBOX BOARD — re-resolve"
+  "careers_url": "https://www.personio.com/about-personio/careers/",
+  "note": ""
  },
  {
   "name": "Pigment",
@@ -1110,8 +1166,8 @@
   "category": "UK — Tech & SaaS with heavy ops / customer success functions",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "HTTP 404, confirmed twice — re-resolve"
+  "careers_url": "https://retool.com/careers",
+  "note": ""
  },
  {
   "name": "Starling Bank",
@@ -1166,8 +1222,12 @@
   "region": "UK",
   "category": "UK — Tech & SaaS with heavy ops / customer success functions",
   "core": false,
-  "source": null,
-  "careers_url": null,
+  "source": {
+   "type": "page",
+   "url": "https://wise.jobs/jobs",
+   "render": true
+  },
+  "careers_url": "https://wise.jobs/jobs",
   "note": "own careers site — no public feed found"
  },
  {
@@ -1175,21 +1235,24 @@
   "region": "UK",
   "category": "UK — Tech & SaaS with heavy ops / customer success functions",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "workday",
+   "tenant": "workday",
+   "wd": "wd5",
+   "site": "Workday"
+  },
+  "careers_url": "https://workday.wd5.myworkdayjobs.com/Workday",
+  "note": ""
  },
  {
   "name": "Bupa",
   "region": "UK",
   "category": "UK — Healthcare providers, pharma & CRO",
   "core": true,
-  "source": {
-   "type": "page",
-   "url": "https://careers.bupa.co.uk/search-jobs"
-  },
+  "source": null,
   "careers_url": "https://careers.bupa.co.uk/search-jobs",
-  "note": "careers.bupa.co.uk/search-jobs"
+  "note": "careers.bupa.co.uk/search-jobs",
+  "alert": true
  },
  {
   "name": "HCA Healthcare UK",
@@ -1197,10 +1260,9 @@
   "category": "UK — Healthcare providers, pharma & CRO",
   "core": true,
   "source": {
-   "type": "page",
-   "url": "https://hcahealthcare.co.uk/careers/search-and-apply"
+   "type": "yext_hca"
   },
-  "careers_url": "https://hcahealthcare.co.uk/careers/search-and-apply",
+  "careers_url": "https://www.hcahealthcare.co.uk/careers/search-and-apply",
   "note": "hcahealthcare.co.uk/careers/search-and-apply"
  },
  {
@@ -1222,9 +1284,14 @@
   "region": "UK",
   "category": "UK — Healthcare providers, pharma & CRO",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "workday",
+   "tenant": "abbott",
+   "wd": "wd5",
+   "site": "abbottcareers"
+  },
+  "careers_url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers",
+  "note": ""
  },
  {
   "name": "AstraZeneca",
@@ -1246,8 +1313,8 @@
   "category": "UK — Healthcare providers, pharma & CRO",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "careers_url": "https://careers.circlehealthgroup.co.uk/",
+  "note": ""
  },
  {
   "name": "CliniSys",
@@ -1255,8 +1322,8 @@
   "category": "UK — Healthcare providers, pharma & CRO",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "careers_url": "https://www.clinisys.com/uk/en/careers/",
+  "note": ""
  },
  {
   "name": "Fujifilm UK",
@@ -1265,61 +1332,91 @@
   "core": false,
   "source": null,
   "careers_url": null,
-  "note": "unresolved"
+  "note": ""
  },
  {
   "name": "GSK",
   "region": "UK",
   "category": "UK — Healthcare providers, pharma & CRO",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "workday",
+   "tenant": "gsk",
+   "wd": "wd5",
+   "site": "GSKCareers"
+  },
+  "careers_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers",
+  "note": ""
  },
  {
   "name": "ICON",
   "region": "UK",
   "category": "UK — Healthcare providers, pharma & CRO",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "workday",
+   "tenant": "icon",
+   "wd": "wd3",
+   "site": "broadbean_external"
+  },
+  "careers_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external",
+  "note": ""
  },
  {
   "name": "Janssen",
   "region": "UK",
   "category": "UK — Healthcare providers, pharma & CRO",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "workday",
+   "tenant": "jj",
+   "wd": "wd5",
+   "site": "JJ"
+  },
+  "careers_url": "https://jj.wd5.myworkdayjobs.com/JJ",
+  "note": ""
  },
  {
   "name": "Johnson & Johnson",
   "region": "UK",
   "category": "UK — Healthcare providers, pharma & CRO",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "workday",
+   "tenant": "jj",
+   "wd": "wd5",
+   "site": "JJ"
+  },
+  "careers_url": "https://jj.wd5.myworkdayjobs.com/JJ",
+  "note": ""
  },
  {
   "name": "Medtronic",
   "region": "UK",
   "category": "UK — Healthcare providers, pharma & CRO",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved — nothing usable indexed"
+  "source": {
+   "type": "workday",
+   "tenant": "medtronic",
+   "wd": "wd1",
+   "site": "MedtronicCareers"
+  },
+  "careers_url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers",
+  "note": ""
  },
  {
   "name": "Novartis",
   "region": "UK",
   "category": "UK — Healthcare providers, pharma & CRO",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "workday",
+   "tenant": "novartis",
+   "wd": "wd3",
+   "site": "Novartis_Careers"
+  },
+  "careers_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers",
+  "note": ""
  },
  {
   "name": "Nuffield Health",
@@ -1327,17 +1424,22 @@
   "category": "UK — Healthcare providers, pharma & CRO",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "careers_url": "https://www.nuffieldhealth.com/careers",
+  "note": ""
  },
  {
   "name": "Parexel",
   "region": "UK",
   "category": "UK — Healthcare providers, pharma & CRO",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "workday",
+   "tenant": "parexel",
+   "wd": "wd1",
+   "site": "Parexel_External_Careers"
+  },
+  "careers_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers",
+  "note": ""
  },
  {
   "name": "Siemens Healthineers",
@@ -1345,10 +1447,12 @@
   "category": "UK — Healthcare providers, pharma & CRO",
   "core": false,
   "source": {
-   "type": "page",
-   "url": "https://jobs.siemens-healthineers.com"
+   "type": "phenom",
+   "host": "careers.siemens-healthineers.com",
+   "ref": "SHDSHWUS",
+   "path": "global/en"
   },
-  "careers_url": "https://jobs.siemens-healthineers.com",
+  "careers_url": "https://careers.siemens-healthineers.com/global/en",
   "note": "jobs.siemens-healthineers.com"
  },
  {
@@ -1357,18 +1461,15 @@
   "category": "UK — Healthcare providers, pharma & CRO",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "careers_url": "https://www.spirehealthcare.com/careers/",
+  "note": ""
  },
  {
   "name": "Castor",
   "region": "NL",
   "category": "Netherlands — health & life sciences",
   "core": true,
-  "source": {
-   "type": "page",
-   "url": "https://careers.castoredc.com/vacancies/"
-  },
+  "source": null,
   "careers_url": "https://careers.castoredc.com/vacancies/",
   "note": "careers.castoredc.com/vacancies/"
  },
@@ -1402,10 +1503,10 @@
   "category": "Netherlands — health & life sciences",
   "core": true,
   "source": {
-   "type": "page",
-   "url": "https://job-boards.eu.greenhouse.io/openup"
+   "type": "greenhouse",
+   "token": "openup"
   },
-  "careers_url": "https://job-boards.eu.greenhouse.io/openup",
+  "careers_url": "https://openup.com/job-board/",
   "note": "host robots-blocked"
  },
  {
@@ -1438,9 +1539,14 @@
   "region": "NL",
   "category": "Netherlands — health & life sciences",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "workday",
+   "tenant": "abbott",
+   "wd": "wd5",
+   "site": "abbottcareers"
+  },
+  "careers_url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers",
+  "note": ""
  },
  {
   "name": "Aidence",
@@ -1448,8 +1554,8 @@
   "category": "Netherlands — health & life sciences",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved — nothing indexed"
+  "careers_url": "https://deephealth.com/careers/",
+  "note": ""
  },
  {
   "name": "AniCura",
@@ -1457,19 +1563,16 @@
   "category": "Netherlands — health & life sciences",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "careers_url": "https://www.anicura.nl/",
+  "note": ""
  },
  {
   "name": "Danone / Nutricia",
   "region": "NL",
   "category": "Netherlands — health & life sciences",
   "core": false,
-  "source": {
-   "type": "page",
-   "url": "https://careers.danone.com/benelux/en/"
-  },
-  "careers_url": "https://careers.danone.com/benelux/en/",
+  "source": null,
+  "careers_url": "https://careers.danone.com/benelux/en.html",
   "note": "careers.danone.com/benelux/en/"
  },
  {
@@ -1479,7 +1582,7 @@
   "core": false,
   "source": null,
   "careers_url": null,
-  "note": "unresolved"
+  "note": ""
  },
  {
   "name": "IQVIA NL",
@@ -1500,18 +1603,28 @@
   "region": "NL",
   "category": "Netherlands — health & life sciences",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "workday",
+   "tenant": "jj",
+   "wd": "wd5",
+   "site": "JJ"
+  },
+  "careers_url": "https://jj.wd5.myworkdayjobs.com/JJ",
+  "note": ""
  },
  {
   "name": "Medtronic NL",
   "region": "NL",
   "category": "Netherlands — health & life sciences",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "workday",
+   "tenant": "medtronic",
+   "wd": "wd1",
+   "site": "MedtronicCareers"
+  },
+  "careers_url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers",
+  "note": ""
  },
  {
   "name": "Philips",
@@ -1532,17 +1645,27 @@
   "region": "NL",
   "category": "Netherlands — health & life sciences",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "workday",
+   "tenant": "roche",
+   "wd": "wd3",
+   "site": "roche-ext"
+  },
+  "careers_url": "https://roche.wd3.myworkdayjobs.com/roche-ext",
+  "note": ""
  },
  {
   "name": "Siemens Healthineers NL",
   "region": "NL",
   "category": "Netherlands — health & life sciences",
   "core": false,
-  "source": null,
-  "careers_url": null,
+  "source": {
+   "type": "phenom",
+   "host": "careers.siemens-healthineers.com",
+   "ref": "SHDSHWUS",
+   "path": "global/en"
+  },
+  "careers_url": "https://careers.siemens-healthineers.com/global/en",
   "note": "same global board as UK"
  },
  {
@@ -1574,9 +1697,11 @@
   "region": "NL",
   "category": "Netherlands — tech & scale-ups",
   "core": true,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "amazon"
+  },
+  "careers_url": "https://www.amazon.jobs/",
+  "note": ""
  },
  {
   "name": "Backbase",
@@ -1608,17 +1733,22 @@
   "category": "Netherlands — tech & scale-ups",
   "core": true,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "careers_url": "https://www.google.com/about/careers/applications/jobs/results?location=Netherlands",
+  "note": "",
+  "alert": true
  },
  {
   "name": "Microsoft NL",
   "region": "NL",
   "category": "Netherlands — tech & scale-ups",
   "core": true,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "pcsx",
+   "host": "apply.careers.microsoft.com",
+   "domain": "microsoft.com"
+  },
+  "careers_url": "https://apply.careers.microsoft.com/careers",
+  "note": ""
  },
  {
   "name": "Mollie",
@@ -1649,9 +1779,11 @@
   "region": "NL",
   "category": "Netherlands — tech & scale-ups",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "amazon"
+  },
+  "careers_url": "https://www.amazon.jobs/",
+  "note": ""
  },
  {
   "name": "Bloomreach",
@@ -1743,8 +1875,8 @@
   "category": "Netherlands — tech & scale-ups",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "DEMO BOARD — re-resolve"
+  "careers_url": "https://www.framer.com/careers/",
+  "note": ""
  },
  {
   "name": "ING",
@@ -1766,8 +1898,8 @@
   "category": "Netherlands — tech & scale-ups",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "WRONG COMPANY — re-resolve"
+  "careers_url": "https://bird.com/careers",
+  "note": ""
  },
  {
   "name": "Mews",
@@ -1787,8 +1919,8 @@
   "category": "Netherlands — tech & scale-ups",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved — nothing indexed"
+  "careers_url": "https://www.nedap.com/en/careers",
+  "note": ""
  },
  {
   "name": "Netflix",
@@ -1796,8 +1928,9 @@
   "category": "Netherlands — tech & scale-ups",
   "core": false,
   "source": {
-   "type": "page",
-   "url": "https://explore.jobs.netflix.net/careers"
+   "type": "eightfold",
+   "host": "explore.jobs.netflix.net",
+   "domain": "netflix.com"
   },
   "careers_url": "https://explore.jobs.netflix.net/careers",
   "note": "explore.jobs.netflix.net/careers"
@@ -1809,9 +1942,9 @@
   "core": false,
   "source": {
    "type": "page",
-   "url": "https://optiver.com/join-us/jobs/"
+   "url": "https://optiver.com/working-at-optiver/career-opportunities/"
   },
-  "careers_url": "https://optiver.com/join-us/jobs/",
+  "careers_url": "https://optiver.com/working-at-optiver/career-opportunities/",
   "note": "optiver.com/join-us/jobs/"
  },
  {
@@ -1832,8 +1965,8 @@
   "category": "Netherlands — tech & scale-ups",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "careers_url": "https://www.personio.com/about-personio/careers/",
+  "note": ""
  },
  {
   "name": "Picnic",
@@ -1853,10 +1986,10 @@
   "category": "Netherlands — tech & scale-ups",
   "core": false,
   "source": {
-   "type": "page",
-   "url": "https://sendcloud.com/jobs/"
+   "type": "teamtailor",
+   "base": "https://jobs.sendcloud.com"
   },
-  "careers_url": "https://sendcloud.com/jobs/",
+  "careers_url": "https://jobs.sendcloud.com/jobs",
   "note": "sendcloud.com/jobs/"
  },
  {
@@ -1865,8 +1998,8 @@
   "category": "Netherlands — tech & scale-ups",
   "core": false,
   "source": {
-   "type": "page",
-   "url": "https://careers.servicenow.com/jobs/"
+   "type": "smartrecruiters",
+   "token": "ServiceNow"
   },
   "careers_url": "https://careers.servicenow.com/jobs/",
   "note": "careers.servicenow.com/jobs/"
@@ -1877,10 +2010,9 @@
   "category": "Netherlands — tech & scale-ups",
   "core": false,
   "source": {
-   "type": "page",
-   "url": "https://tomtom.com/careers/joboverview/"
+   "type": "tomtom"
   },
-  "careers_url": "https://tomtom.com/careers/joboverview/",
+  "careers_url": "https://www.tomtom.com/careers/joboverview/",
   "note": "tomtom.com/careers/joboverview/"
  },
  {
@@ -1889,8 +2021,8 @@
   "category": "Netherlands — tech & scale-ups",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved — nothing indexed"
+  "careers_url": "https://www.topicus.nl/",
+  "note": ""
  },
  {
   "name": "Wolters Kluwer",
@@ -1898,10 +2030,12 @@
   "category": "Netherlands — tech & scale-ups",
   "core": false,
   "source": {
-   "type": "page",
-   "url": "https://careers.wolterskluwer.com/en"
+   "type": "workday",
+   "tenant": "wk",
+   "wd": "wd3",
+   "site": "External"
   },
-  "careers_url": "https://careers.wolterskluwer.com/en",
+  "careers_url": "https://wk.wd3.myworkdayjobs.com/External",
   "note": "careers.wolterskluwer.com/en"
  },
  {
@@ -1910,10 +2044,11 @@
   "category": "Netherlands — consulting",
   "core": true,
   "source": {
-   "type": "page",
-   "url": "https://komwerkenbijey.nl/vacatures"
+   "type": "rmk_html",
+   "host": "careers.ey.com",
+   "path": "ey"
   },
-  "careers_url": "https://komwerkenbijey.nl/vacatures",
+  "careers_url": "https://careers.ey.com/ey/search/",
   "note": "komwerkenbijey.nl/vacatures"
  },
  {
@@ -1933,11 +2068,8 @@
   "region": "NL",
   "category": "Netherlands — consulting",
   "core": true,
-  "source": {
-   "type": "page",
-   "url": "https://vintura.com/consultant-jobs/"
-  },
-  "careers_url": "https://vintura.com/consultant-jobs/",
+  "source": null,
+  "careers_url": "https://www.vintura.com/consultant-jobs/",
   "note": "vintura.com/consultant-jobs/"
  },
  {
@@ -1945,9 +2077,14 @@
   "region": "NL",
   "category": "Netherlands — consulting",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "workday",
+   "tenant": "accenture",
+   "wd": "wd103",
+   "site": "AccentureCareers"
+  },
+  "careers_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers",
+  "note": ""
  },
  {
   "name": "Capgemini NL",
@@ -1955,17 +2092,21 @@
   "category": "Netherlands — consulting",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "careers_url": "https://www.capgemini.com/nl-nl/careers/",
+  "note": "",
+  "alert": true
  },
  {
   "name": "Cognizant NL",
   "region": "NL",
   "category": "Netherlands — consulting",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "page",
+   "url": "https://careers.cognizant.com/global-en/jobs/"
+  },
+  "careers_url": "https://careers.cognizant.com/global-en/jobs/",
+  "note": ""
  },
  {
   "name": "Deloitte NL",
@@ -1997,35 +2138,49 @@
   "category": "Netherlands — consulting",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "careers_url": "https://www.mckinsey.com/careers/search-jobs",
+  "note": "",
+  "alert": true
  },
  {
   "name": "PwC NL",
   "region": "NL",
   "category": "Netherlands — consulting",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "unresolved"
+  "source": {
+   "type": "workday",
+   "tenant": "pwc",
+   "wd": "wd3",
+   "site": "Global_Experienced_Careers"
+  },
+  "careers_url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers",
+  "note": ""
  },
  {
   "name": "Xebia",
   "region": "NL",
   "category": "Netherlands — consulting",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "DEMO BOARD — re-resolve"
+  "source": {
+   "type": "recruitee",
+   "token": "xebiacareers"
+  },
+  "careers_url": "https://xebiacareers.recruitee.com/",
+  "note": ""
  },
  {
   "name": "Takalam",
   "region": "ME",
   "category": "Middle East",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "no public board found yet — discovery probe"
+  "source": {
+   "type": "page",
+   "url": "https://jobs.hub71.com/companies/takalam-online-counseling-2",
+   "render": true,
+   "assume_region": true
+  },
+  "careers_url": "https://jobs.hub71.com/companies/takalam-online-counseling-2",
+  "note": ""
  },
  {
   "name": "Labayh",
@@ -2033,8 +2188,8 @@
   "category": "Middle East",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "no public board found yet — discovery probe"
+  "careers_url": "https://labayh.net/en/",
+  "note": ""
  },
  {
   "name": "Shezlong",
@@ -2043,7 +2198,9 @@
   "core": false,
   "source": {
    "type": "page",
-   "url": "https://careers.shezlong.com/"
+   "url": "https://careers.shezlong.com/",
+   "render": true,
+   "assume_region": true
   },
   "careers_url": "https://careers.shezlong.com/",
   "note": ""
@@ -2054,8 +2211,8 @@
   "category": "Middle East",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "no public board found yet — discovery probe"
+  "careers_url": "https://www.lighthousearabia.com/about-us/join-our-team",
+  "note": ""
  },
  {
   "name": "Nabta Health",
@@ -2063,7 +2220,7 @@
   "category": "Middle East",
   "core": false,
   "source": null,
-  "careers_url": null,
+  "careers_url": "https://nabtahealth.com/careers/",
   "note": ""
  },
  {
@@ -2071,9 +2228,12 @@
   "region": "ME",
   "category": "Middle East",
   "core": false,
-  "source": null,
-  "careers_url": null,
-  "note": "no public board found yet — discovery probe"
+  "source": {
+   "type": "teamtailor",
+   "base": "https://careers.mumzworld.com"
+  },
+  "careers_url": "https://careers.mumzworld.com/jobs",
+  "note": ""
  },
  {
   "name": "Organon Middle East",
@@ -2134,8 +2294,9 @@
   "category": "Middle East",
   "core": false,
   "source": {
-   "type": "page",
-   "url": "https://vezeetacareers.zenats.com/en/careers_page"
+   "type": "zenats",
+   "host": "vezeetacareers.zenats.com",
+   "slug": "2041-vezeeta"
   },
   "careers_url": "https://vezeetacareers.zenats.com/en/careers_page",
   "note": ""
@@ -2146,10 +2307,11 @@
   "category": "Middle East",
   "core": false,
   "source": {
-   "type": "page",
-   "url": "https://altibbi.zenats.com/"
+   "type": "zenats",
+   "host": "altibbi.zenats.com",
+   "slug": "1980-al-tibbi"
   },
-  "careers_url": "https://altibbi.zenats.com/",
+  "careers_url": "https://altibbi.zenats.com/en/careers_page",
   "note": ""
  },
  {
@@ -2158,8 +2320,8 @@
   "category": "Middle East",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "no public board found yet — discovery probe"
+  "careers_url": "https://company.cura.healthcare/en/careers/",
+  "note": ""
  },
  {
   "name": "Sanar",
@@ -2168,7 +2330,7 @@
   "core": false,
   "source": null,
   "careers_url": null,
-  "note": "no public board found yet — discovery probe"
+  "note": ""
  },
  {
   "name": "Health at Home",
@@ -2177,7 +2339,7 @@
   "core": false,
   "source": null,
   "careers_url": null,
-  "note": "no public board found yet — discovery probe"
+  "note": ""
  },
  {
   "name": "Wellx",
@@ -2203,8 +2365,8 @@
   "category": "Middle East",
   "core": false,
   "source": {
-   "type": "page",
-   "url": "https://careers-m42.icims.com/jobs/search?pr=0&in_iframe=1"
+   "type": "jibe",
+   "host": "careers.m42.ae"
   },
   "careers_url": "https://careers.m42.ae/jobs",
   "note": ""
@@ -2216,7 +2378,8 @@
   "core": false,
   "source": null,
   "careers_url": "https://yourpurehealth.com/careers/",
-  "note": ""
+  "note": "",
+  "alert": true
  },
  {
   "name": "Bupa Arabia",
@@ -2224,10 +2387,13 @@
   "category": "Middle East",
   "core": false,
   "source": {
-   "type": "page",
-   "url": "https://careers.bupa.com.sa/en/saudi-arabia/jobs/"
+   "type": "bayt",
+   "host": "careers.bupa.com.sa",
+   "token": "7GXUHW",
+   "query": "jb_loc_list=sa,0,0",
+   "body": "jobs-jobcountry-saudi-arabia"
   },
-  "careers_url": "https://careers.bupa.com.sa/",
+  "careers_url": "https://careers.bupa.com.sa/en/saudi-arabia/jobs/",
   "note": ""
  },
  {
@@ -2236,8 +2402,9 @@
   "category": "Middle East",
   "core": false,
   "source": null,
-  "careers_url": null,
-  "note": "PureHealth group company — also check PureHealth careers"
+  "careers_url": "https://yourpurehealth.com/careers/",
+  "note": "PureHealth group company — also check PureHealth careers",
+  "alert": true
  },
  {
   "name": "GE HealthCare Middle East",
@@ -2272,8 +2439,13 @@
   "region": "ME",
   "category": "Middle East",
   "core": false,
-  "source": null,
-  "careers_url": "https://jobs.siemens-healthineers.com/",
+  "source": {
+   "type": "phenom",
+   "host": "careers.siemens-healthineers.com",
+   "ref": "SHDSHWUS",
+   "path": "global/en"
+  },
+  "careers_url": "https://careers.siemens-healthineers.com/global/en",
   "note": ""
  },
  {
@@ -2283,14 +2455,18 @@
   "core": false,
   "source": null,
   "careers_url": "https://www.mckinsey.com/careers/search-jobs",
-  "note": ""
+  "note": "",
+  "alert": true
  },
  {
   "name": "Strategy& Middle East",
   "region": "ME",
   "category": "Middle East",
   "core": false,
-  "source": null,
+  "source": {
+   "type": "greenhouse",
+   "token": "strategyandmiddleeast"
+  },
   "careers_url": "https://www.strategyand.pwc.com/m1/en/careers.html",
   "note": ""
  },
@@ -2299,8 +2475,13 @@
   "region": "ME",
   "category": "Middle East",
   "core": false,
-  "source": null,
-  "careers_url": "https://careers.bcg.com/",
+  "source": {
+   "type": "phenom",
+   "host": "careers.bcg.com",
+   "ref": "BCG1US",
+   "path": "global/en"
+  },
+  "careers_url": "https://careers.bcg.com/global/en/search-results",
   "note": ""
  },
  {
@@ -2310,7 +2491,8 @@
   "core": false,
   "source": null,
   "careers_url": "https://www.kearney.com/careers",
-  "note": ""
+  "note": "",
+  "alert": true
  },
  {
   "name": "L.E.K. Consulting Middle East",
@@ -2319,15 +2501,20 @@
   "core": false,
   "source": null,
   "careers_url": "https://www.lek.com/careers",
-  "note": ""
+  "note": "",
+  "alert": true
  },
  {
   "name": "EY-Parthenon Middle East",
   "region": "ME",
   "category": "Middle East",
   "core": false,
-  "source": null,
-  "careers_url": "https://careers.ey.com/",
+  "source": {
+   "type": "rmk_html",
+   "host": "careers.ey.com",
+   "path": "ey"
+  },
+  "careers_url": "https://careers.ey.com/ey/search/",
   "note": ""
  },
  {

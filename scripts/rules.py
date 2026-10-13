@@ -2,7 +2,7 @@
 import re
 
 # Bump this whenever you change the rules below, so every job is re-checked and re-scored.
-RULES_VERSION = 4
+RULES_VERSION = 5
 
 # ---------- Locations ----------
 UK_WORDS = ['united kingdom', 'england', 'scotland', 'wales', 'northern ireland', 'great britain', 'london',
@@ -89,42 +89,95 @@ def excluded_by_title(title):
 
 
 # ---------- Language requirement ----------
-LANG = re.compile(r'\b(dutch|nederlands|nederlandse|flemish|arabic|arab speaker|arabic[- ]speaking|'
-                  r'dutch[- ]speaking|عربي|العربية)\b', re.I)
+# Dutch and French requirements remove a role. Arabic requirements only tag it (the site hides those by
+# default, with a switch to show them), since some Gulf roles are still worth seeing.
+LANG = re.compile(r'\b(dutch|nederlands|nederlandse|flemish|vlaams|french|français|francais|francophone|'
+                  r'french[- ]speaking|dutch[- ]speaking|arabic|arab speaker|arabic[- ]speaking)\b|عربي|العربية', re.I)
 OPTIONAL = re.compile(r'\b(plus|bonus|advantage|advantageous|nice[- ]to[- ]have|nice to haves|preferred|'
                       r'preferable|desirable|desired|beneficial|a benefit|ideally|not required|not necessary|'
                       r'not essential|not a requirement|no need|optional|would be great|helpful|welcome|'
                       r'is an asset|asset|or willing to learn|willingness to learn|learn dutch|dutch lessons|'
-                      r'dutch classes|language course)\b', re.I)
+                      r'dutch classes|language course|french lessons|learn french)\b', re.I)
 CUE = re.compile(r'\b(fluent|fluency|native|mother tongue|speak|speaks|speaking|spoken|written|verbal|language|'
                  r'languages|proficient|proficiency|bilingual|command of|business[- ]level|c1|c2|b2|required|'
                  r'requirement|must|mandatory|essential)\b', re.I)
 DUTCH_TEXT = re.compile(r'\b(wij|jij|je|jouw|ons|onze|het|een|voor|met|zijn|werkzaamheden|vacature|functie|'
                         r'ervaring|kennis|solliciteer|wat ga je doen|wie ben jij|wat bieden wij)\b', re.I)
+FRENCH_TEXT = re.compile(r'\b(nous|vous|votre|vos|avec|pour|une|les|des|du|est|dans|sur|poste|expérience|'
+                         r'compétences|rejoindre|candidature|profil|recherché|recherchons|équipe|missions?|'
+                         r'au sein|vos missions|qui sommes-nous)\b', re.I)
 ENGLISH_TEXT = re.compile(r'\b(the|and|you|your|with|we|our|for|will|experience|team|role)\b', re.I)
-ARABIC_CHARS = re.compile(r'[؀-ۿ]')
+ARABIC_CHARS = re.compile(r'[\u0600-\u06FF]')
+
+
+def _lang_name(s):
+    s = s.lower()
+    if 'arab' in s or 'عرب' in s:
+        return 'Arabic'
+    if re.search(r'fren|fran', s):
+        return 'French'
+    return 'Dutch'
 
 
 def language_block(title, text):
-    """Return 'Dutch required' / 'Arabic required' when the posting needs it, else None."""
+    """Return e.g. 'Dutch required' / 'French required' / 'Arabic required' when the posting needs
+    that language, else None. Callers drop Dutch/French and only tag Arabic."""
     t = f'{title or ""}\n{text or ""}'
-    # posting written in Dutch or Arabic -> effectively required
     words = max(1, len(t.split()))
-    nl, en = len(DUTCH_TEXT.findall(t)), len(ENGLISH_TEXT.findall(t))
+    en = len(ENGLISH_TEXT.findall(t))
+    nl, fr = len(DUTCH_TEXT.findall(t)), len(FRENCH_TEXT.findall(t))
     if words > 40 and nl > en and nl / words > 0.04:
         return 'Dutch required (posting in Dutch)'
+    if words > 40 and fr > en and fr / words > 0.05:
+        return 'French required (posting in French)'
     if len(ARABIC_CHARS.findall(t)) > 0.3 * len(t.replace(' ', '')) and len(t) > 60:
         return 'Arabic required (posting in Arabic)'
-    if LANG.search(title or '') or re.search(r'\((nl)\)', title or '', re.I):
-        return ('Dutch' if re.search('dutch|nl', title, re.I) else 'Arabic') + ' required (title)'
-    # look at the words around each mention of Dutch / Arabic
-    for m in LANG.finditer(t):
+    m = LANG.search(title or '')
+    if m:
+        return _lang_name(m.group(0)) + ' required (title)'
+    if re.search(r'\((nl)\)', title or '', re.I):
+        return 'Dutch required (title)'
+    for m in LANG.finditer(t):  # look at the words around each mention of a language
         window = t[max(0, m.start() - 90): m.end() + 90]
         if OPTIONAL.search(window):
             continue
         if CUE.search(window):
-            lang = 'Arabic' if re.search(r'arab|عرب', m.group(0), re.I) else 'Dutch'
-            return f'{lang} required'
+            return f'{_lang_name(m.group(0))} required'
+    return None
+
+
+def language_drops(reason):
+    return bool(reason) and not reason.startswith('Arabic')
+
+
+# ---------- Visa sponsorship ----------
+NO_VISA = re.compile(
+    r'no (visa )?sponsorship|not (be )?(able|in a position) to (offer|provide|support) (any )?(visa |work permit )?sponsorship'
+    r'|unable to (offer |provide |support )?(visa )?sponsor|(cannot|can\'t|can not|will not|won\'t|do not|don\'t|does not|'
+    r'doesn\'t|are not able to|is not able to) (currently )?(offer |provide |support )?(any )?(visa |work permit )?sponsor'
+    r'|sponsorship (is |will )?not (be )?(available|offered|possible|provided|supported)'
+    r'|without (the need for |requiring )?(current or future |future )?(visa |work permit )?sponsorship'
+    r'|must (already )?(have|hold|possess) (the |a |an )?(full |existing |valid |current |permanent |unrestricted )*right to work'
+    r'|(require|requires|need|needs) (the |a |an )?(full |existing |valid |current )*right to work'
+    r'|(existing|valid|current|full) right to work (in the (uk|united kingdom|netherlands))? ?(is )?(required|essential)'
+    r'|eligible to work in the (uk|united kingdom|netherlands|eu) without', re.I)
+YES_VISA = re.compile(
+    r'visa sponsorship (is |may be |can be )?(available|offered|provided|possible|considered)'
+    r'|sponsorship (is |may be |can be )?(available|offered|provided|possible|considered)'
+    r'|we (can |do |will |are able to |are happy to )?sponsor\b|we sponsor visas|we do sponsor'
+    r'|(able|happy|willing|open) to (offer |provide )?(visa )?sponsor|offer(s|ing)? (visa |work permit )?sponsorship'
+    r'|provide (visa |work permit )?sponsorship|visa support|relocation (and|&) (visa|immigration) support'
+    r'|(highly skilled migrant|kennismigrant|skilled worker visa) (sponsorship|support|available)', re.I)
+
+
+def visa_flag(text):
+    """'no' when the posting rules out sponsorship / needs existing right to work,
+    'yes' when it says sponsorship is available, else None."""
+    t = text or ''
+    if NO_VISA.search(t):
+        return 'no'
+    if YES_VISA.search(t):
+        return 'yes'
     return None
 
 

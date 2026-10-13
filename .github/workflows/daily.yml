@@ -20,13 +20,13 @@ concurrency:
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 75
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: pip install requests
+      - run: pip install requests playwright && python -m playwright install --with-deps chromium
       - name: Check every company's job board
         run: python scripts/fetch_jobs.py
       - name: Save results

@@ -105,6 +105,18 @@ def parse_posted(p):
     m = re.match(r'(\d{4}-\d{2}-\d{2})', s)
     if m:
         return m.group(1), False
+    m = re.match(r'(\d{1,2})/(\d{1,2})/(\d{2,4})$', s)  # US style 4/24/26 (SuccessFactors)
+    if m:
+        y = int(m.group(3)) + (2000 if len(m.group(3)) == 2 else 0)
+        try:
+            return dt.date(y, int(m.group(1)), int(m.group(2))).isoformat(), False
+        except ValueError:
+            pass
+    try:
+        from email.utils import parsedate_to_datetime
+        return parsedate_to_datetime(s).date().isoformat(), False
+    except Exception:
+        pass
     low = s.lower()
     today = dt.date.today()
     if 'today' in low or 'just' in low or 'hour' in low:
@@ -307,6 +319,31 @@ def workday(tenant, wd, site, regions):
     return out
 
 
+AMAZON_CC = {'UK': ['GBR'], 'NL': ['NLD'], 'ME': ['ARE', 'SAU', 'EGY', 'QAT', 'BHR', 'KWT', 'JOR']}
+
+
+def amazon(regions):
+    """amazon.jobs search JSON (unofficial, used by their own search page)."""
+    out = []
+    for region in regions:
+        for cc in AMAZON_CC.get(region, []):
+            offset = 0
+            while offset < 1500:
+                d = get(f'https://www.amazon.jobs/en/search.json?offset={offset}&result_limit=100&sort=recent'
+                        f'&normalized_country_code%5B%5D={cc}').json()
+                js = d.get('jobs') or []
+                for j in js:
+                    desc = '\n'.join(text_of(j.get(k) or '') for k in
+                                     ('description', 'basic_qualifications', 'preferred_qualifications'))
+                    out.append(job(j.get('title'), j.get('normalized_location') or j.get('location'),
+                                   'https://www.amazon.jobs' + (j.get('job_path') or ''), j.get('id_icims') or j.get('id'),
+                                   desc, j.get('posted_date'), region))
+                offset += 100
+                if len(js) < 100 or offset >= (d.get('hits') or 0):
+                    break
+    return out
+
+
 def eightfold(host, domain, regions):
     out, seen = [], set()
 
@@ -414,6 +451,14 @@ def fetch_source(src, regions):
         return workday(src['tenant'], src['wd'], src['site'], regions)
     if t == 'eightfold':
         return eightfold(src['host'], src['domain'], regions)
+    if t == 'teamtailor':
+        import pages
+        return pages.teamtailor(src['base'])
+    if t == 'amazon':
+        return amazon(regions)
+    import adapters
+    if t in adapters.TYPES:
+        return adapters.fetch(src, regions)
     raise ValueError('unknown source ' + t)
 
 
@@ -442,12 +487,36 @@ def main():
     with ThreadPoolExecutor(max_workers=10) as ex:
         results = list(ex.map(run_group, groups.values()))
 
+    # careers pages: read roles from structured data / job links
+    import pages
+    page_cache = read_json('page_cache.json', {})
+    page_info = {}
+    for c in companies:
+        src = c.get('source') or {}
+        if src.get('type') != 'page':
+            continue
+        g = {'src': src, 'companies': [c], 'regions': {c['region']}}
+        try:
+            raw, info = pages.page_jobs(c, src, page_cache)
+            page_info[src['url']] = (info, None)
+            results.append((g, raw, None))
+        except Exception as e:
+            err = f'{type(e).__name__}: {str(e)[:140]}'
+            page_info[src['url']] = (None, err)
+            results.append((g, [], err))
+    pages.close()
+    # forget cached job pages not seen for 30 days
+    cutoff = (dt.date.today() - dt.timedelta(days=30)).isoformat()
+    page_cache = {u: v for u, v in page_cache.items() if v.get('seen', TODAY) >= cutoff}
+
     kept, status, detail_jobs = [], [], []
     for g, raw, err in results:
         regions = g['regions']
         names = [c['name'] for c in g['companies']]
         stat = {'companies': names, 'source': g['src']['type'], 'error': err, 'total': len(raw), 'in_region': 0,
                 'kept': 0}
+        if g['src']['type'] == 'page' and page_info.get(g['src']['url'], (None,))[0]:
+            stat['method'] = page_info[g['src']['url']][0].get('method')
         for j in raw:
             found = {j['region']} if j['region'] else rules.regions_in(j['location'])
             hit = found & regions
@@ -485,9 +554,13 @@ def main():
         reuse = j.get('_reuse')
         if reuse:
             s, hits = reuse['score'], reuse.get('hits', [])
+            lang, visa = reuse.get('lang'), reuse.get('visa')
         else:
-            if rules.language_block(j['title'], j['desc']):
-                continue
+            why = rules.language_block(j['title'], j['desc'])
+            if rules.language_drops(why):
+                continue  # Dutch or French required
+            lang = 'Arabic' if why else None
+            visa = rules.visa_flag(j['desc'])
             s, hits = rules.score(j['title'], j['desc'], j['category'])
         old = prev_jobs.get(j['id'])
         j['_stat']['kept'] += 1
@@ -500,62 +573,97 @@ def main():
         kept.append({'id': j['id'], 'company': j['company'], 'region': j['region'], 'title': j['title'],
                      'location': j['location'][:160], 'url': j['url'], 'posted': j['posted'], 'posted_date': pdate, 'posted_approx': approx,
                      'first_seen': old['first_seen'] if old else TODAY, 'score': s, 'hits': hits,
+                     'lang': lang, 'visa': visa, 'details': (bool(j['desc']) or bool(reuse)) and not j.get('_linkonly'),
                      'lang_checked': True})
 
+    # a source that failed this run keeps its previous roles, so they don't vanish and then come back as "new"
+    failed = {n for st in status if st['error'] for n in st['companies']}
+    have = {j['id'] for j in kept}
+    for j in prev.get('jobs', []):
+        if j['company'] in failed and j['id'] not in have:
+            kept.append({**j, 'stale': True})
+
     kept.sort(key=lambda x: (x['first_seen'], x['score']), reverse=True)
+    src_prev_all = prev.get('sources')
+    for j in kept:  # roles found on a company's first read are its baseline, not new postings
+        old = prev_jobs.get(j['id'])
+        if old:
+            j['baseline'] = old.get('baseline', False)
+        else:
+            c = next((c for c in companies if c['name'] == j['company']), None)
+            if src_prev_all:
+                j['baseline'] = bool(c and src_prev_all.get(c['name']) != source_key(c.get('source')))
+            else:
+                j['baseline'] = j['company'] not in {x['company'] for x in prev.get('jobs', [])}
 
     # careers pages without a feed
     pages_out = {}
     page_cos = [c for c in companies if (c.get('source') or {}).get('type') == 'page']
 
-    def run_page(c):
+    for c in page_cos:
         url = c['source']['url']
-        try:
-            return c, page_watch(url, prev_pages.get(url)), None
-        except Exception as e:
-            return c, None, f'{type(e).__name__}: {str(e)[:120]}'
+        old = prev_pages.get(url) or {}
+        res, err = page_info.get(url, (None, 'not checked'))
+        if err:
+            pages_out[url] = {**old, 'company': c['name'], 'error': err, 'checked': NOW}
+            continue
+        old_links = set((old.get('postings') or {}).keys())
+        new_links = {u: t for u, t in res['postings'].items()
+                     if old.get('hash') and u not in old_links and not rules.excluded_by_title(t)}
+        changed = bool(old.get('hash')) and old.get('hash') != res['hash']
+        pages_out[url] = {'company': c['name'], 'region': c['region'], 'hash': res['hash'],
+                          'postings': res['postings'], 'readable': res['chars'] > 400, 'method': res.get('method'),
+                          'checked': NOW, 'error': None,
+                          'changed_on': TODAY if changed else old.get('changed_on'),
+                          'new_links': new_links if new_links else (old.get('new_links') if old.get('new_on') == TODAY else {}),
+                          'new_on': TODAY if new_links else old.get('new_on')}
 
-    with ThreadPoolExecutor(max_workers=8) as ex:
-        for c, res, err in ex.map(run_page, page_cos):
-            url = c['source']['url']
-            old = prev_pages.get(url) or {}
-            if err:
-                pages_out[url] = {**old, 'company': c['name'], 'error': err, 'checked': NOW}
-                continue
-            old_links = set((old.get('postings') or {}).keys())
-            new_links = {u: t for u, t in res['postings'].items()
-                         if old.get('hash') and u not in old_links and not rules.excluded_by_title(t)}
-            changed = bool(old.get('hash')) and old.get('hash') != res['hash']
-            pages_out[url] = {'company': c['name'], 'region': c['region'], 'hash': res['hash'],
-                              'postings': res['postings'], 'readable': res['chars'] > 400,
-                              'checked': NOW, 'error': None,
-                              'changed_on': TODAY if changed else old.get('changed_on'),
-                              'new_links': new_links if new_links else (old.get('new_links') if old.get('new_on') == TODAY else {}),
-                              'new_on': TODAY if new_links else old.get('new_on')}
-
-    manual = []
+    manual, coverage = [], {'feed': 0, 'careers_page': 0, 'page_watch': 0, 'by_hand': 0}
+    feed_err = {n for st in status if st['error'] for n in st['companies']}
     for c in companies:
         s = c.get('source') or {}
         if s.get('type') == 'page':
             p = pages_out.get(s['url'], {})
+            if p.get('method') and not p.get('error'):
+                coverage['careers_page'] += 1
+                continue  # roles are read from the page, so it's tracked like a feed
+            coverage['page_watch'] += 1
             manual.append({'company': c['name'], 'region': c['region'], 'url': c.get('careers_url') or s['url'],
                            'kind': 'page', 'readable': p.get('readable'), 'changed_on': p.get('changed_on'),
                            'new_links': [{'title': t, 'url': u} for u, t in (p.get('new_links') or {}).items()],
-                           'new_on': p.get('new_on'), 'error': p.get('error')})
-        elif not s:
+                           'new_on': p.get('new_on'), 'error': p.get('error'), 'alert': c.get('alert', False)})
+        elif s:
+            coverage['feed'] += 1
+            if c['name'] in feed_err:
+                manual.append({'company': c['name'], 'region': c['region'],
+                               'url': c.get('careers_url') or '', 'kind': 'feed_error', 'alert': False})
+        else:
+            coverage['by_hand'] += 1
             q = quote(f'"{c["name"]}"')
             manual.append({'company': c['name'], 'region': c['region'],
                            'url': c.get('careers_url') or f'https://www.linkedin.com/jobs/search/?keywords={q}',
-                           'kind': 'link' if c.get('careers_url') else 'linkedin', 'note': c.get('note', '')})
+                           'kind': 'link' if c.get('careers_url') else 'linkedin', 'note': c.get('note', ''),
+                           'alert': c.get('alert', False)})
 
     # only roles that weren't there on the previous check, so the second daily run doesn't repeat the first
-    new_today = [j for j in kept if j['id'] not in prev_jobs and TODAY != baseline]
-    out = {'generated_at': NOW, 'baseline_date': baseline, 'rules_version': rules.RULES_VERSION, 'jobs': kept, 'manual': manual,
+    # a company whose source changed since the last run is on its first read: its open roles are a baseline,
+    # not "new" (otherwise adding a company would email every role it already had open)
+    src_now = {c['name']: source_key(c['source']) for c in companies if c.get('source')}
+    src_prev = prev.get('sources') or {}
+    if src_prev:
+        settled = {n for n, k in src_now.items() if src_prev.get(n) == k}
+    else:  # first run that records sources: companies that already had roles last time count as settled
+        settled = {j['company'] for j in prev.get('jobs', [])} & set(src_now)
+    new_today = [j for j in kept if j['id'] not in prev_jobs and TODAY != baseline and j['company'] in settled
+                 and not j.get('stale')]
+    out = {'generated_at': NOW, 'baseline_date': baseline, 'rules_version': rules.RULES_VERSION, 'sources': src_now, 'jobs': kept, 'manual': manual,
            'status': sorted(status, key=lambda s: (s['error'] is None, s['companies'][0])),
            'counts': {'companies': len(companies), 'feeds': len(groups), 'jobs': len(kept),
-                      'new_today': len(new_today), 'pages': len(page_cos)}}
+                      'new_today': len(new_today), 'pages': len(page_cos)}, 'coverage': coverage}
     with open(os.path.join(DATA, 'jobs.json'), 'w') as f:
         json.dump(out, f, indent=1, ensure_ascii=False)
+    with open(os.path.join(DATA, 'page_cache.json'), 'w') as f:
+        json.dump(page_cache, f, indent=0, ensure_ascii=False)
     with open(os.path.join(DATA, 'pages.json'), 'w') as f:
         json.dump(pages_out, f, indent=1, ensure_ascii=False)
     with open(os.path.join(DATA, 'new_today.json'), 'w') as f:

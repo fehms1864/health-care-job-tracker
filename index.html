@@ -64,6 +64,10 @@
   .pill{font-family:var(--mono);font-size:.62rem;padding:2px 7px;border-radius:3px;background:rgba(43,36,24,.08);color:#4a4030;letter-spacing:.02em}
   .pill.fit{background:rgba(91,154,135,.22);color:#2f6555}
   .pill.score{background:rgba(232,163,61,.25);color:#7a5410}
+  .pill.novisa{background:rgba(193,68,60,.18);color:#8a2a23;font-weight:700}
+  .pill.yesvisa{background:rgba(91,154,135,.3);color:#24574a;font-weight:700}
+  .pill.lang{background:rgba(43,36,24,.14);color:#4a4030}
+  .pill.thin{background:transparent;border:1px dashed #b9ab88;color:#6b5f45}
   .ticket-why{font-size:.83rem;color:#4a4030}
   .ticket-div{position:relative;height:0;border-top:2px dashed #c9bd9c}
   .ticket-div::before,.ticket-div::after{content:'';position:absolute;top:-9px;width:18px;height:18px;border-radius:50%;background:var(--ink)}
@@ -142,7 +146,7 @@
   <div class="stats">
     <div class="stat"><b id="st-new">–</b><span>New since last visit</span></div>
     <div class="stat"><b id="st-jobs">–</b><span>Open matching roles</span></div>
-    <div class="stat"><b id="st-cos">–</b><span>Companies watched</span></div>
+    <div class="stat"><b id="st-cos">–</b><span>Companies with roles read automatically</span></div>
     <div class="stat"><b id="st-when">–</b><span>Last checked</span></div>
   </div>
   <div class="btn-row">
@@ -163,6 +167,8 @@
   <div class="filters">
     <button class="chip" id="c-new" onclick="toggle('newOnly')">New this week</button>
     <button class="chip" id="c-fit" onclick="toggle('fitOnly')">Best fit only</button>
+    <button class="chip" id="c-visa" onclick="toggle('hideNoVisa')">Hide “no sponsorship”</button>
+    <button class="chip" id="c-ar" onclick="toggle('showArabic')">Show Arabic-required</button>
     <div class="sep"></div>
     <select id="sort" onchange="setSort(this.value)" aria-label="Sort">
       <option value="match">Sort: best match</option>
@@ -181,9 +187,18 @@
     <div class="section-title">Check by hand</div>
     <div class="section-meta" id="m-manual">—</div>
   </div>
-  <p class="section-note">These companies don't publish a job feed the daily check can read. Where the careers page can be read, it's still checked twice a day, and a company is <span style="color:var(--amber)">highlighted</span> when its page changes or new job links appear. The rest link straight to their careers page or a LinkedIn search.</p>
+  <p class="section-note">Roles at these companies can't be read automatically yet, so each one links straight to its careers page. Where the page can still be watched, a company is <span style="color:var(--amber)">highlighted</span> when its page changes or new job links appear.</p>
   <div class="filters" id="f-manual"></div>
   <div id="manual"></div>
+</section>
+
+<section>
+  <div class="section-head">
+    <div class="section-title">Set up email alerts</div>
+    <div class="section-meta" id="m-alerts">—</div>
+  </div>
+  <p class="section-note">These large employers run their own job systems, which block automated checks. The reliable way to catch their roles is the job alert on each careers site. Open the link, search for terms like <em>strategy</em>, <em>operations</em> or <em>healthcare</em> in the right country, and save the search as an email alert. A Gmail filter that labels these alerts keeps them in one folder.</p>
+  <div id="alerts"></div>
 </section>
 
 <section>
@@ -214,7 +229,10 @@
       <ul class="rules">
         <li><b>Where:</b> UK and Netherlands roles at the UK/NL watchlist companies; Middle East roles (UAE, Saudi Arabia, Qatar, Bahrain, Kuwait, Oman, Egypt, Jordan, Lebanon) at the Middle East companies.</li>
         <li><b>Removed by title:</b> engineering and technical roles, analytics and data roles, finance roles, clinical practitioner roles, Director/VP/Head-of level, internships, and clearly unrelated roles like sales reps or recruiters.</li>
-        <li><b>Removed by language:</b> the posting is written in Dutch or Arabic, or says Dutch or Arabic is required. Roles where it's only "a plus" stay in.</li>
+        <li><b>Removed by language:</b> the posting is written in Dutch or French, or says Dutch or French is required. Roles where it's only "a plus" stay in.</li>
+        <li><b>Arabic:</b> roles that need Arabic are kept but tagged, and hidden unless you turn on “Show Arabic-required”.</li>
+        <li><b>Visa sponsorship:</b> roles that say there's no sponsorship, or that you must already have the right to work, get a red <em>no sponsorship</em> tag. Roles that say sponsorship is available get a green tag. Most postings say neither, so always check.</li>
+        <li><b>Title only:</b> a few small companies only list job titles. Those roles are tagged <em>title only</em> because the language and visa checks couldn't run on them.</li>
         <li><b>Ranking:</b> each role is scored on healthcare, strategy, operations, implementation and consulting words in the title and description. Title matches count double. "Best fit" means a score of 25 or more.</li>
       </ul>
       <div class="health" id="health"></div>
@@ -223,7 +241,7 @@
 </section>
 
 <footer>
-  Job data comes from each employer's own job board and is refreshed once a day. Everything you type on this page stays on this device. Listings can be removed, mislabelled or missing, so always confirm the role, the language requirement and visa sponsorship directly with the employer.
+  Job data comes from each employer's own job board or careers page and is refreshed twice a day. Everything you type on this page stays on this device. Listings can be removed, mislabelled or missing, so always confirm the role, the language requirement and visa sponsorship directly with the employer.
 </footer>
 
 </div>
@@ -234,7 +252,7 @@ const REGION_NAME = {UK:'United Kingdom', NL:'Netherlands', ME:'Middle East'};
 const K = {tracker:'rc_tracker', seen:'rc_seen2', visit:'rc_visit', ui:'rc_ui'};
 let data = {jobs:[], manual:[], status:[], counts:{}};
 let tracker = [], seen = new Set(), prevVisitSeen = new Set();
-let ui = {region:'all', newOnly:false, fitOnly:true, mregion:'all', sort:'match'}, shown = PAGE;
+let ui = {region:'all', newOnly:false, fitOnly:true, hideNoVisa:false, showArabic:false, mregion:'all', sort:'match'}, shown = PAGE;
 const postedDate = j => j.posted_date || j.first_seen;
 function fmtDate(d){
   const x = new Date(d + 'T12:00:00Z');
@@ -269,8 +287,8 @@ function ago(iso){
   return Math.round(h / 24) + 'd ago';
 }
 function daysSince(d){ return (Date.now() - new Date(d + 'T00:00:00Z')) / 864e5; }
-const isNewWeek = j => j.first_seen !== data.baseline_date && daysSince(j.first_seen) < 7;
-const isUnseen = j => !prevVisitSeen.has(j.id) && j.first_seen !== data.baseline_date;
+const isNewWeek = j => !j.baseline && j.first_seen !== data.baseline_date && daysSince(j.first_seen) < 7;
+const isUnseen = j => !j.baseline && !prevVisitSeen.has(j.id) && j.first_seen !== data.baseline_date;
 
 /* ---------- jobs ---------- */
 function toggle(k){ ui[k] = !ui[k]; save(K.ui, ui); shown = PAGE; render(); }
@@ -283,6 +301,8 @@ function filtered(){
     if(ui.region !== 'all' && j.region !== ui.region) return false;
     if(ui.newOnly && !isNewWeek(j)) return false;
     if(ui.fitOnly && j.score < FIT) return false;
+    if(ui.hideNoVisa && j.visa === 'no') return false;
+    if(!ui.showArabic && j.lang === 'Arabic') return false;
     if(co && j.company !== co) return false;
     if(q && !(j.title + ' ' + j.company + ' ' + j.location).toLowerCase().includes(q)) return false;
     return true;
@@ -300,6 +320,8 @@ function render(){
     `<button class="chip ${ui.region===r?'on':''}" onclick="setRegion('${r}')">${r==='all'?'All':REGION_NAME[r]}<span class="n">${counts[r]}</span></button>`).join('');
   document.getElementById('c-new').classList.toggle('on', ui.newOnly);
   document.getElementById('c-fit').classList.toggle('on', ui.fitOnly);
+  document.getElementById('c-visa').classList.toggle('on', ui.hideNoVisa);
+  document.getElementById('c-ar').classList.toggle('on', ui.showArabic);
 
   const list = filtered();
   const grid = document.getElementById('tickets');
@@ -317,6 +339,10 @@ function render(){
             <span class="pill">${j.region}</span>
             ${j.score >= FIT ? '<span class="pill fit">best fit</span>' : ''}
             <span class="pill score">match ${j.score}</span>
+            ${j.visa === 'no' ? '<span class="pill novisa">no sponsorship</span>' : ''}
+            ${j.visa === 'yes' ? '<span class="pill yesvisa">sponsors visas</span>' : ''}
+            ${j.lang === 'Arabic' ? '<span class="pill lang">Arabic required</span>' : ''}
+            ${j.details === false ? '<span class="pill thin" title="Only the job title could be read">title only</span>' : ''}
           </div>
           ${j.hits && j.hits.length ? `<div class="ticket-why">Matched on ${esc(j.hits.join(', '))}.</div>` : ''}
         </div>
@@ -339,7 +365,7 @@ function render(){
 /* ---------- manual list ---------- */
 function setMRegion(r){ ui.mregion = r; save(K.ui, ui); renderManual(); }
 function renderManual(){
-  const m = data.manual || [];
+  const m = (data.manual || []).filter(x => !x.alert);
   document.getElementById('f-manual').innerHTML = ['all','UK','NL','ME'].map(r =>
     `<button class="chip ${ui.mregion===r?'on':''}" onclick="setMRegion('${r}')">${r==='all'?'All':REGION_NAME[r]}<span class="n">${r==='all'?m.length:m.filter(x=>x.region===r).length}</span></button>`).join('');
   const flagged = x => (x.new_on && daysSince(x.new_on) < 7) || (x.changed_on && daysSince(x.changed_on) < 3);
@@ -353,6 +379,7 @@ function renderManual(){
       else if(x.changed_on && daysSince(x.changed_on) < 3){ d = `page changed ${x.changed_on}`; hot = true; }
       else if(x.kind === 'page') d = x.error ? 'page could not be read, check by hand' : (x.readable ? 'page watched, no change yet' : 'page loads by script, check by hand');
       else if(x.kind === 'linkedin') d = 'LinkedIn search';
+      else if(x.kind === 'feed_error') d = 'job feed failed on the last check, check by hand';
       else d = 'careers page';
       const links = hot && x.new_links && x.new_links.length
         ? '<ul>' + x.new_links.slice(0,4).map(l => `<li>${esc(l.title)}</li>`).join('') + '</ul>' : '';
@@ -363,15 +390,27 @@ function renderManual(){
   document.getElementById('m-manual').textContent = `${m.filter(flagged).length} flagged · ${m.length} companies`;
 }
 
+function renderAlerts(){
+  const a = (data.manual || []).filter(x => x.alert).sort((p,q) => p.company.localeCompare(q.company));
+  document.getElementById('alerts').innerHTML = a.length ? ['UK','NL','ME'].map(r => {
+    const rows = a.filter(x => x.region === r);
+    if(!rows.length) return '';
+    return `<div class="region-h">${REGION_NAME[r]}</div><div class="manual">` + rows.map(x =>
+      `<a class="mco" href="${safeUrl(x.url)}" target="_blank" rel="noopener"><div class="mco-t">${esc(x.company)} ↗</div><div class="mco-d">careers site · set up a job alert</div></a>`).join('') + '</div>';
+  }).join('') : '<div class="note">None.</div>';
+  document.getElementById('m-alerts').textContent = `${a.length} companies`;
+}
+
 /* ---------- health ---------- */
 function renderHealth(){
   const st = data.status || [];
   const bad = st.filter(s => s.error);
   document.getElementById('health').innerHTML =
-    `<p>${st.length - bad.length} of ${st.length} job feeds answered on the last check (${esc(data.generated_at || '')}).</p>` +
+    (data.coverage ? `<p>Coverage: ${data.coverage.feed} companies read from job boards, ${data.coverage.careers_page} read from their careers pages, ${data.coverage.page_watch} page-watch only, ${data.coverage.by_hand} by hand or by email alert.</p>` : '') +
+    `<p>${st.length - bad.length} of ${st.length} job sources answered on the last check (${esc(data.generated_at || '')}).</p>` +
     (bad.length ? '<div>' + bad.map(s => `<div class="bad">✕ ${esc(s.companies.join(', '))}: ${esc(s.error)}</div>`).join('') + '</div>' : '') +
     '<div style="margin-top:8px">' + st.filter(s => !s.error).map(s =>
-      `<div>✓ ${esc(s.companies.join(', '))}: ${s.total} roles, ${s.in_region} in region, ${s.kept} kept</div>`).join('') + '</div>';
+      `<div>✓ ${esc(s.companies.join(', '))}: ${s.total} roles, ${s.in_region} in region, ${s.kept} kept${s.method ? ' (' + esc(s.method) + ')' : ''}</div>`).join('') + '</div>';
 }
 
 /* ---------- tracker ---------- */
@@ -446,14 +485,15 @@ fetch('data/jobs.json', {cache:'no-cache'})
     const unseen = data.jobs.filter(isUnseen).length;
     document.getElementById('st-new').textContent = unseen;
     document.getElementById('st-jobs').textContent = data.jobs.length;
-    document.getElementById('st-cos').textContent = (data.counts && data.counts.companies) || '–';
+    const cv = data.coverage, total = (data.counts && data.counts.companies) || 0;
+    document.getElementById('st-cos').textContent = cv ? `${cv.feed + cv.careers_page} / ${total}` : (total || '–');
     document.getElementById('st-when').textContent = ago(data.generated_at);
     const errs = (data.status || []).filter(s => s.error).length;
     document.getElementById('b-jobs').innerHTML = errs
       ? `<div class="banner err">${errs} job feed${errs>1?'s':''} didn't answer on the last check. See feed health at the bottom of the page.</div>` : '';
     const cos = [...new Set(data.jobs.map(j => j.company))].sort();
     document.getElementById('co').innerHTML = '<option value="">All companies</option>' + cos.map(c => `<option>${esc(c)}</option>`).join('');
-    render(); renderManual(); renderHealth();
+    render(); renderManual(); renderAlerts(); renderHealth();
     data.jobs.forEach(j => seen.add(j.id));
     save(K.seen, [...seen].slice(-3000));
   })

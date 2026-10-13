@@ -16,6 +16,12 @@ if new:
         lines.append(f'### {names[region]} ({len(rows)})')
         for j in rows:
             fit = ' ⭐' if j['score'] >= 25 else ''
+            if j.get('visa') == 'no':
+                fit += ' · 🚫 no sponsorship'
+            elif j.get('visa') == 'yes':
+                fit += ' · ✅ sponsors visas'
+            if j.get('lang') == 'Arabic':
+                fit += ' · Arabic required'
             lines.append(f"- **[{j['title']}]({j['url']})**: {j['company']}, {j['location']} · match {j['score']}{fit}")
         lines.append('')
     site = os.environ.get('SITE_URL', '')
