@@ -1,0 +1,29 @@
+name: Probe careers sites (diagnostic)
+
+on:
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: ['data/probe_input.json', 'scripts/probe.py']
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests playwright && python -m playwright install --with-deps chromium
+      - run: python scripts/probe.py
+      - run: |
+          git config user.name "job-tracker-bot"
+          git config user.email "job-tracker-bot@users.noreply.github.com"
+          git add data/probe_report.json
+          git diff --cached --quiet || git commit -m "Careers-site probe report"
+          git pull --rebase --autostash origin main || true
+          git push

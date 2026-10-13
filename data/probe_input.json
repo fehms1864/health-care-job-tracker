@@ -1,0 +1,911 @@
+[
+ {
+  "name": "Huma Therapeutics",
+  "urls": [
+   "https://huma.us/careers/current-openings/"
+  ],
+  "try": [
+   {
+    "type": "ashby",
+    "token": "huma"
+   },
+   {
+    "type": "greenhouse",
+    "token": "huma"
+   },
+   {
+    "type": "lever",
+    "token": "huma"
+   }
+  ]
+ },
+ {
+  "name": "Telus Health",
+  "urls": [
+   "https://telushealth.com/en-us/careers"
+  ],
+  "try": [
+   {
+    "type": "workday",
+    "tenant": "telushealth",
+    "wd": "wd3",
+    "site": "TelusHealth"
+   },
+   {
+    "type": "workday",
+    "tenant": "telus",
+    "wd": "wd3",
+    "site": "TELUSHealth"
+   }
+  ]
+ },
+ {
+  "name": "Zava",
+  "urls": [
+   "https://careers.zavamed.com/jobs"
+  ]
+ },
+ {
+  "name": "Congenica",
+  "urls": [
+   "https://www.congenica.com/careers/"
+  ]
+ },
+ {
+  "name": "Cydar",
+  "urls": [
+   "https://www.cydarmedical.com/careers"
+  ]
+ },
+ {
+  "name": "Elder",
+  "urls": [
+   "https://careers.elder.org"
+  ]
+ },
+ {
+  "name": "Optellum",
+  "urls": [
+   "https://optellum.com/careers"
+  ]
+ },
+ {
+  "name": "Oviva",
+  "urls": [
+   "https://oviva.com/global/en/career/"
+  ]
+ },
+ {
+  "name": "Second Nature",
+  "urls": [
+   "https://www.secondnature.io/careers"
+  ]
+ },
+ {
+  "name": "Thriva",
+  "urls": [
+   "https://thrivalimited.charliehr.com/jobs",
+   "https://thriva.co/careers"
+  ]
+ },
+ {
+  "name": "ZS Associates",
+  "urls": [
+   "https://jobs.zs.com/jobs"
+  ]
+ },
+ {
+  "name": "Attain",
+  "urls": [
+   "https://www.attain.co.uk/careers/"
+  ]
+ },
+ {
+  "name": "Envision Pharma",
+  "urls": [
+   "https://www.envisionpharmagroup.com/careers"
+  ]
+ },
+ {
+  "name": "L.E.K. Consulting",
+  "urls": [
+   "https://www.lek.com/careers/apply"
+  ]
+ },
+ {
+  "name": "PHASTAR",
+  "urls": [
+   "https://careers-phastar.icims.com/jobs/search?pr=0&in_iframe=1"
+  ]
+ },
+ {
+  "name": "Accenture",
+  "urls": [
+   "https://www.accenture.com/gb-en/careers/jobsearch?jk=&sb=1&vw=0&is_rj=0&pg=1"
+  ]
+ },
+ {
+  "name": "Deloitte",
+  "urls": [
+   "https://apply.deloitte.co.uk/UKCareers/SearchJobs"
+  ]
+ },
+ {
+  "name": "EY",
+  "urls": [
+   "https://careers.ey.com/ey/search/?createNewAlert=false&q=&locationsearch=United+Kingdom"
+  ]
+ },
+ {
+  "name": "Fractal Analytics",
+  "urls": [
+   "https://fractal.ai/careers/"
+  ],
+  "try": [
+   {
+    "type": "lever",
+    "token": "fractal"
+   }
+  ]
+ },
+ {
+  "name": "Holland Mountain",
+  "urls": [
+   "https://hollandmountain.com/careers/"
+  ]
+ },
+ {
+  "name": "KPMG",
+  "urls": [
+   "https://www.kpmgcareers.co.uk/experienced-hire/search-jobs/"
+  ]
+ },
+ {
+  "name": "PwC",
+  "urls": [
+   "https://jobs.pwc.co.uk/experienced/uk/en/search-results"
+  ],
+  "try": [
+   {
+    "type": "workday",
+    "tenant": "pwc",
+    "wd": "wd3",
+    "site": "Global_Experienced_Careers"
+   }
+  ]
+ },
+ {
+  "name": "Bain",
+  "urls": [
+   "https://www.bain.com/careers/find-a-role/"
+  ]
+ },
+ {
+  "name": "BCG",
+  "urls": [
+   "https://careers.bcg.com/global/en/search-results"
+  ]
+ },
+ {
+  "name": "BJSS",
+  "urls": [
+   "https://www.bjss.com/careers"
+  ]
+ },
+ {
+  "name": "Capgemini",
+  "urls": [
+   "https://www.capgemini.com/gb-en/careers/join-capgemini/job-search/"
+  ]
+ },
+ {
+  "name": "Cognizant",
+  "urls": [
+   "https://careers.cognizant.com/global-en/jobs/"
+  ]
+ },
+ {
+  "name": "Delta Capita Consulting",
+  "urls": [
+   "https://www.deltacapita.com/careers"
+  ]
+ },
+ {
+  "name": "Flagship Advisory Partners",
+  "urls": [
+   "https://www.flagshipadvisorypartners.com/careers"
+  ]
+ },
+ {
+  "name": "IBM",
+  "urls": [
+   "https://www.ibm.com/careers/search?field_keyword_05[0]=United%20Kingdom"
+  ]
+ },
+ {
+  "name": "Infosys",
+  "urls": [
+   "https://career.infosys.com/joblist"
+  ]
+ },
+ {
+  "name": "Kainos",
+  "urls": [
+   "https://careers.kainos.com/gb/en/search-results"
+  ],
+  "try": [
+   {
+    "type": "workday",
+    "tenant": "kainos",
+    "wd": "wd3",
+    "site": "Kainos"
+   }
+  ]
+ },
+ {
+  "name": "McKinsey",
+  "urls": [
+   "https://www.mckinsey.com/careers/search-jobs?countries=United%20Kingdom"
+  ]
+ },
+ {
+  "name": "Publicis",
+  "urls": [
+   "https://careers.publicisgroupe.com/jobs?location=United%20Kingdom"
+  ],
+  "try": [
+   {
+    "type": "workday",
+    "tenant": "publicis",
+    "wd": "wd3",
+    "site": "Publicis_Groupe_Careers"
+   }
+  ]
+ },
+ {
+  "name": "Slalom",
+  "urls": [
+   "https://www.slalom.com/us/en/careers/jobs"
+  ]
+ },
+ {
+  "name": "Sopra Steria",
+  "urls": [
+   "https://www.soprasteria.co.uk/careers/job-search"
+  ]
+ },
+ {
+  "name": "Wipro",
+  "urls": [
+   "https://careers.wipro.com/search/?q=&locationsearch=United%20Kingdom"
+  ]
+ },
+ {
+  "name": "Google",
+  "urls": [
+   "https://www.google.com/about/careers/applications/jobs/results?location=United%20Kingdom"
+  ]
+ },
+ {
+  "name": "Microsoft",
+  "urls": [
+   "https://jobs.careers.microsoft.com/global/en/search?lc=United%20Kingdom"
+  ],
+  "try": [
+   {
+    "type": "eightfold",
+    "host": "apply.careers.microsoft.com",
+    "domain": "microsoft.com"
+   }
+  ]
+ },
+ {
+  "name": "Revolut",
+  "urls": [
+   "https://www.revolut.com/careers/"
+  ]
+ },
+ {
+  "name": "Salesforce",
+  "urls": [
+   "https://careers.salesforce.com/en/jobs/?country=United+Kingdom"
+  ],
+  "try": [
+   {
+    "type": "workday",
+    "tenant": "salesforce",
+    "wd": "wd12",
+    "site": "External_Career_Site"
+   }
+  ]
+ },
+ {
+  "name": "ServiceNow",
+  "urls": [
+   "https://careers.servicenow.com/jobs/"
+  ],
+  "try": [
+   {
+    "type": "smartrecruiters",
+    "token": "ServiceNow"
+   }
+  ]
+ },
+ {
+  "name": "Snyk",
+  "urls": [
+   "https://snyk.io/careers/all-jobs/"
+  ],
+  "try": [
+   {
+    "type": "ashby",
+    "token": "snyk"
+   },
+   {
+    "type": "greenhouse",
+    "token": "snyk"
+   }
+  ]
+ },
+ {
+  "name": "Amazon / AWS (UK)",
+  "urls": [
+   "https://www.amazon.jobs/en/search?base_query=&loc_query=United+Kingdom"
+  ]
+ },
+ {
+  "name": "Atlassian",
+  "urls": [
+   "https://www.atlassian.com/company/careers/all-jobs"
+  ]
+ },
+ {
+  "name": "Cleo AI",
+  "urls": [
+   "https://web.meetcleo.com/careers"
+  ],
+  "try": [
+   {
+    "type": "ashby",
+    "token": "cleo"
+   },
+   {
+    "type": "ashby",
+    "token": "cleoai"
+   },
+   {
+    "type": "greenhouse",
+    "token": "cleoai"
+   }
+  ]
+ },
+ {
+  "name": "Darktrace",
+  "urls": [
+   "https://darktrace.com/careers"
+  ],
+  "try": [
+   {
+    "type": "workday",
+    "tenant": "darktrace",
+    "wd": "wd3",
+    "site": "Darktrace"
+   }
+  ]
+ },
+ {
+  "name": "HubSpot",
+  "urls": [
+   "https://www.hubspot.com/careers/jobs"
+  ],
+  "try": [
+   {
+    "type": "greenhouse",
+    "token": "hubspotjobs"
+   }
+  ]
+ },
+ {
+  "name": "Personio",
+  "urls": [
+   "https://www.personio.com/about-personio/careers/"
+  ],
+  "try": [
+   {
+    "type": "greenhouse",
+    "token": "personio"
+   },
+   {
+    "type": "ashby",
+    "token": "personio"
+   }
+  ]
+ },
+ {
+  "name": "Retool",
+  "urls": [
+   "https://retool.com/careers"
+  ],
+  "try": [
+   {
+    "type": "ashby",
+    "token": "retool"
+   },
+   {
+    "type": "greenhouse",
+    "token": "retool"
+   }
+  ]
+ },
+ {
+  "name": "Wise",
+  "urls": [
+   "https://wise.jobs/jobs"
+  ]
+ },
+ {
+  "name": "Workday",
+  "try": [
+   {
+    "type": "workday",
+    "tenant": "workday",
+    "wd": "wd5",
+    "site": "Workday"
+   }
+  ]
+ },
+ {
+  "name": "Bupa",
+  "urls": [
+   "https://careers.bupa.co.uk/search-jobs"
+  ]
+ },
+ {
+  "name": "HCA Healthcare UK",
+  "urls": [
+   "https://www.hcahealthcare.co.uk/careers/search-and-apply"
+  ]
+ },
+ {
+  "name": "Abbott",
+  "try": [
+   {
+    "type": "workday",
+    "tenant": "abbott",
+    "wd": "wd5",
+    "site": "abbottcareers"
+   }
+  ],
+  "urls": [
+   "https://www.jobs.abbott/us/en"
+  ]
+ },
+ {
+  "name": "Circle Health Group",
+  "urls": [
+   "https://careers.circlehealthgroup.co.uk/"
+  ]
+ },
+ {
+  "name": "CliniSys",
+  "urls": [
+   "https://www.clinisys.com/careers"
+  ],
+  "try": [
+   {
+    "type": "workday",
+    "tenant": "clinisys",
+    "wd": "wd3",
+    "site": "Clinisys"
+   }
+  ]
+ },
+ {
+  "name": "Fujifilm",
+  "urls": [
+   "https://www.fujifilm.com/uk/en/about/careers"
+  ],
+  "try": [
+   {
+    "type": "workday",
+    "tenant": "fujifilm",
+    "wd": "wd3",
+    "site": "FUJIFILM_Healthcare_Careers"
+   },
+   {
+    "type": "workday",
+    "tenant": "fujifilm",
+    "wd": "wd1",
+    "site": "Fujifilm_Careers"
+   }
+  ]
+ },
+ {
+  "name": "GSK",
+  "try": [
+   {
+    "type": "workday",
+    "tenant": "gsk",
+    "wd": "wd5",
+    "site": "GSKCareers"
+   }
+  ],
+  "urls": [
+   "https://jobs.gsk.com/en-gb/jobs"
+  ]
+ },
+ {
+  "name": "ICON",
+  "try": [
+   {
+    "type": "workday",
+    "tenant": "icon",
+    "wd": "wd3",
+    "site": "broadbean_external"
+   }
+  ],
+  "urls": [
+   "https://careers.iconplc.com/jobs"
+  ]
+ },
+ {
+  "name": "Johnson & Johnson",
+  "try": [
+   {
+    "type": "workday",
+    "tenant": "jj",
+    "wd": "wd5",
+    "site": "JJ"
+   }
+  ],
+  "urls": [
+   "https://www.careers.jnj.com/en/jobs/"
+  ]
+ },
+ {
+  "name": "Medtronic",
+  "try": [
+   {
+    "type": "workday",
+    "tenant": "medtronic",
+    "wd": "wd1",
+    "site": "MedtronicCareers"
+   }
+  ]
+ },
+ {
+  "name": "Novartis",
+  "try": [
+   {
+    "type": "workday",
+    "tenant": "novartis",
+    "wd": "wd3",
+    "site": "Novartis_Careers"
+   }
+  ]
+ },
+ {
+  "name": "Nuffield Health",
+  "urls": [
+   "https://careers.nuffieldhealth.com/jobs"
+  ]
+ },
+ {
+  "name": "Parexel",
+  "urls": [
+   "https://jobs.parexel.com/en/search-jobs"
+  ],
+  "try": [
+   {
+    "type": "workday",
+    "tenant": "parexel",
+    "wd": "wd1",
+    "site": "Parexel_External_Careers"
+   }
+  ]
+ },
+ {
+  "name": "Siemens Healthineers",
+  "urls": [
+   "https://jobs.siemens-healthineers.com/careers?location=United%20Kingdom"
+  ],
+  "try": [
+   {
+    "type": "eightfold",
+    "host": "jobs.siemens-healthineers.com",
+    "domain": "siemens-healthineers.com"
+   }
+  ]
+ },
+ {
+  "name": "Spire Healthcare",
+  "urls": [
+   "https://careers.spirehealthcare.com/jobs"
+  ]
+ },
+ {
+  "name": "Castor",
+  "urls": [
+   "https://careers.castoredc.com/vacancies/"
+  ]
+ },
+ {
+  "name": "OpenUp",
+  "urls": [
+   "https://job-boards.eu.greenhouse.io/openup"
+  ]
+ },
+ {
+  "name": "Aidence",
+  "urls": [
+   "https://www.aidence.com/careers/"
+  ]
+ },
+ {
+  "name": "AniCura",
+  "urls": [
+   "https://www.anicura.nl/werken-bij-anicura/vacatures/"
+  ]
+ },
+ {
+  "name": "Danone",
+  "urls": [
+   "https://careers.danone.com/benelux/en/"
+  ],
+  "try": [
+   {
+    "type": "workday",
+    "tenant": "danone",
+    "wd": "wd3",
+    "site": "Danone"
+   }
+  ]
+ },
+ {
+  "name": "Roche",
+  "try": [
+   {
+    "type": "workday",
+    "tenant": "roche",
+    "wd": "wd3",
+    "site": "roche-ext"
+   }
+  ],
+  "urls": [
+   "https://careers.roche.com/global/en/search-results"
+  ]
+ },
+ {
+  "name": "Framer",
+  "urls": [
+   "https://www.framer.com/careers/"
+  ],
+  "try": [
+   {
+    "type": "ashby",
+    "token": "framer"
+   }
+  ]
+ },
+ {
+  "name": "Bird",
+  "urls": [
+   "https://bird.com/careers"
+  ],
+  "try": [
+   {
+    "type": "ashby",
+    "token": "bird"
+   },
+   {
+    "type": "ashby",
+    "token": "messagebird"
+   },
+   {
+    "type": "greenhouse",
+    "token": "messagebird"
+   }
+  ]
+ },
+ {
+  "name": "Nedap",
+  "urls": [
+   "https://nedap.com/careers/"
+  ]
+ },
+ {
+  "name": "Netflix",
+  "try": [
+   {
+    "type": "eightfold",
+    "host": "explore.jobs.netflix.net",
+    "domain": "netflix.com"
+   }
+  ]
+ },
+ {
+  "name": "Optiver",
+  "urls": [
+   "https://optiver.com/working-at-optiver/career-opportunities/"
+  ],
+  "try": [
+   {
+    "type": "greenhouse",
+    "token": "optiver"
+   }
+  ]
+ },
+ {
+  "name": "SendCloud",
+  "urls": [
+   "https://www.sendcloud.com/jobs/"
+  ]
+ },
+ {
+  "name": "TomTom",
+  "urls": [
+   "https://www.tomtom.com/careers/joboverview/"
+  ],
+  "try": [
+   {
+    "type": "workday",
+    "tenant": "tomtom",
+    "wd": "wd3",
+    "site": "TomTom"
+   }
+  ]
+ },
+ {
+  "name": "Topicus",
+  "urls": [
+   "https://werkenbij.topicus.nl/vacatures"
+  ]
+ },
+ {
+  "name": "Wolters Kluwer",
+  "urls": [
+   "https://careers.wolterskluwer.com/en/jobs"
+  ],
+  "try": [
+   {
+    "type": "workday",
+    "tenant": "wk",
+    "wd": "wd3",
+    "site": "External"
+   }
+  ]
+ },
+ {
+  "name": "EY Nederland",
+  "urls": [
+   "https://www.komwerkenbijey.nl/vacatures"
+  ]
+ },
+ {
+  "name": "Vintura",
+  "urls": [
+   "https://www.vintura.com/consultant-jobs/"
+  ]
+ },
+ {
+  "name": "PwC NL",
+  "urls": [
+   "https://www.werkenbijpwc.nl/vacatures"
+  ]
+ },
+ {
+  "name": "Xebia",
+  "urls": [
+   "https://xebia.com/careers/"
+  ],
+  "try": [
+   {
+    "type": "ashby",
+    "token": "xebia"
+   }
+  ]
+ },
+ {
+  "name": "Takalam",
+  "urls": [
+   "https://jobs.hub71.com/companies/takalam-online-counseling-2"
+  ]
+ },
+ {
+  "name": "Labayh",
+  "urls": [
+   "https://labayh.net/en/"
+  ]
+ },
+ {
+  "name": "The LightHouse Arabia",
+  "urls": [
+   "https://www.lighthousearabia.com/about-us/join-our-team"
+  ]
+ },
+ {
+  "name": "Mumzworld",
+  "urls": [
+   "https://careers.mumzworld.com/jobs"
+  ]
+ },
+ {
+  "name": "Cura",
+  "urls": [
+   "https://company.cura.healthcare/en/careers/"
+  ]
+ },
+ {
+  "name": "Health at Home",
+  "urls": [
+   "https://healthathome.care/careers/"
+  ]
+ },
+ {
+  "name": "Wellx",
+  "urls": [
+   "https://jobs.dfdf.vc/jobs/wellx"
+  ]
+ },
+ {
+  "name": "Lean Business Services",
+  "urls": [
+   "https://careers.lean.sa/jobs"
+  ]
+ },
+ {
+  "name": "M42",
+  "urls": [
+   "https://careers-m42.icims.com/jobs/search?pr=0&in_iframe=1",
+   "https://careers.m42.ae/jobs"
+  ]
+ },
+ {
+  "name": "PureHealth",
+  "urls": [
+   "https://yourpurehealth.com/careers/"
+  ]
+ },
+ {
+  "name": "Bupa Arabia",
+  "urls": [
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/"
+  ]
+ },
+ {
+  "name": "Shezlong",
+  "urls": [
+   "https://careers.shezlong.com/"
+  ]
+ },
+ {
+  "name": "Vezeeta",
+  "urls": [
+   "https://vezeetacareers.zenats.com/en/careers_page"
+  ]
+ },
+ {
+  "name": "Altibbi",
+  "urls": [
+   "https://altibbi.zenats.com/"
+  ]
+ },
+ {
+  "name": "Nabta Health",
+  "urls": [
+   "https://nabtahealth.com/careers/"
+  ]
+ },
+ {
+  "name": "Strategy&",
+  "urls": [
+   "https://www.strategyand.pwc.com/m1/en/careers.html"
+  ]
+ },
+ {
+  "name": "Kearney",
+  "urls": [
+   "https://www.kearney.com/careers/job-search"
+  ]
+ }
+]
