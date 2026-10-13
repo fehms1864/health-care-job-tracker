@@ -2,17 +2,16 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "3ba370a2057e28e30e044842094af3b555742a50",
+  "hash": "1bba53d8a24ead41443f47d1dce59eabd29e607e",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Junior-Delivery-Manager-Defence-and-Security/25120": "Agile Junior Delivery Manager, Defence and Security",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-and-Data-AI-Governance-Lead-Manager-Financial-Services-Strategy-Governance-and-Architecture/24374": "AI and Data - AI Governance Lead, Manager – Financial Services, Strategy Governance and Architecture",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-and-Data-Architect-Strategy-Governance-Architecture-AI-Data/24375": "AI and Data Architect, Strategy, Governance & Architecture, AI & Data",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Application-Architect-Senior-Manager-AI-and-Cloud-Engineering/25331": "AI Application Architect, Senior Manager, AI and Cloud Engineering",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Engineer-Manager-Digital-Innovation/25207": "AI Engineer, Manager, Digital Innovation",
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Governance-Lead-Manager-Financial-Services/24374": "AI Governance Lead, Manager, Financial Services",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Analyst-Client-and-Engagement-Set-up/25303": "Analyst, Client and Engagement Set-up",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Architect-Manager-Senior-Manager-Commerce-Deloitte-Digital/24737": "Architect, Manager - Senior Manager, Commerce - Deloitte Digital",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Energy-and-Infrastructure-Planner/25104": "Assistant Director- Energy and Infrastructure Planner",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Nuclear-Advisory-Infrastructure-and-Capital-Programmes-Strategy-Risk-and-Transactions-Advisory/24431": "Assistant Director, Nuclear Advisory, Infrastructure and Capital Programmes: Strategy, Risk and Transactions Advisory",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Banking-Strategy-Strategy-Business-Design/24025": "Assistant Director, Banking Strategy, Strategy & Business Design",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Business-Services-M-A-Lead-Advisory/24513": "Assistant Director, Business Services, M&A Lead Advisory",
@@ -22,22 +21,23 @@
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Equity-Capital-Markets-Finance-and-Transaction-Management-Office-EFT-M-A/24259": "Assistant Director, Equity Capital Markets, Finance, and Transaction Management Office (EFT), M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-M-A/24358": "Assistant Director, Financial Due Diligence - Financial Services, M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-Manchester/25282": "Assistant Director, Financial Due Diligence, Financial Services, Manchester",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Insurance-Legal-Entity-Structuring-Strategy-Risk-Transactions-Advisory/23790": "Assistant Director, Insurance Legal Entity Structuring, Strategy Risk & Transactions Advisory"
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Insurance-Legal-Entity-Structuring-Strategy-Risk-Transactions-Advisory/23790": "Assistant Director, Insurance Legal Entity Structuring, Strategy Risk & Transactions Advisory",
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Integration-and-Separation-Services/24356": "Assistant Director, Integration and Separation Services"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-13T07:26:33+00:00",
+  "checked": "2026-10-13T12:45:54+00:00",
   "error": null,
-  "changed_on": null,
+  "changed_on": "2026-10-13",
   "new_links": {},
   "new_on": null
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "b601e23ff91a8ab138847ddffcc84345fbb189a9",
+  "hash": "8eb4d126874fe82a8f6c8eed49fe334fc946da62",
   "postings": {
-   "https://wise.jobs/job/senior-product-manager-mitigation-platform-in-budapest-jid-3991": "Senior Product Manager - Mitigation Platform",
+   "https://wise.jobs/job/senior-software-engineer-risk-intelligence-platform-in-tallinn-jid-4173": "Senior Software Engineer - Risk Intelligence Platform",
    "https://wise.jobs/job/fincrime-operations-team-lead-aml-investigations-in-kuala-lumpur-jid-3574": "FinCrime Operations Team Lead - AML Investigations",
    "https://wise.jobs/job/fincrime-operations-team-lead-sanctions-in-kuala-lumpur-jid-4308": "FinCrime Operations Team Lead - Sanctions",
    "https://wise.jobs/job/senior-solutions-engineer-in-austin-jid-3899": "Senior Solutions Engineer",
@@ -47,12 +47,11 @@
    "https://wise.jobs/job/senior-database-engineer-i-in-london-jid-4218": "Senior Database Engineer I",
    "https://wise.jobs/job/director-of-business-operations-north-america-in-austin-jid-4163": "Director of Business Operations - North America",
    "https://wise.jobs/job/senior-b2b-crm-manager-in-singapore-jid-4284": "Senior B2B CRM Manager",
-   "https://wise.jobs/job/kyc-operations-senior-analyst-deactivations-in-budapest-jid-4306": "KYC Operations Senior Analyst - Deactivations",
-   "https://wise.jobs/job/head-of-technical-accounting-in-london-jid-2399": "Head of Technical Accounting"
+   "https://wise.jobs/job/kyc-operations-senior-analyst-deactivations-in-budapest-jid-4306": "KYC Operations Senior Analyst - Deactivations"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-13T07:26:33+00:00",
+  "checked": "2026-10-13T12:45:54+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -82,7 +81,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-13T07:26:33+00:00",
+  "checked": "2026-10-13T12:45:54+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -98,7 +97,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-13T07:26:33+00:00",
+  "checked": "2026-10-13T12:45:54+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {
@@ -110,7 +109,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "100d70c6242c3da242d91e8a75f0384739153604",
+  "hash": "735895a3566796c298c653303d2a2b0d7789e118",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-ear-nose-throat-ent-1100085191/": "Consultant - Ear, Nose & Throat (ENT)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
@@ -125,7 +124,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-13T07:26:33+00:00",
+  "checked": "2026-10-13T12:45:54+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {

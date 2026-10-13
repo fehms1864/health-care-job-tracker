@@ -870,5 +870,35 @@
 "url": null
 },
 "seen": "2026-10-13"
+},
+"https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Governance-Lead-Manager-Financial-Services/24374": {
+"ld": {
+"title": "AI Governance Lead, Manager, Financial Services",
+"location": "",
+"posted": "2026-09-28",
+"desc": "",
+"url": null
+},
+"seen": "2026-10-13"
+},
+"https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Integration-and-Separation-Services/24356": {
+"ld": {
+"title": "Assistant Director, Integration and Separation Services",
+"location": "",
+"posted": "2026-09-16",
+"desc": "",
+"url": null
+},
+"seen": "2026-10-13"
+},
+"https://wise.jobs/job/senior-software-engineer-risk-intelligence-platform-in-tallinn-jid-4173": {
+"ld": {
+"title": "Senior Software Engineer - Risk Intelligence Platform",
+"location": "Tallinn",
+"posted": "2026-09-18T08:46:50+00:00",
+"desc": "Company Description\nWise is a global technology company, building the best way to move and manage the world’s money.\nMin fees. Max ease. Full speed.\nWhether people and businesses are sending money to another country, spending abroad, or making and receiving international payments, Wise is on a mission to make their lives easier and save them money.\nAs part of our team, you will be helping us create an entirely new network for the world's money.\nFor everyone, everywhere.\nMore about our mission and what we offer.\nJob Description\nWise moves billions every year for millions of people and businesses across multiple countries and currencies. At that scale, financial crime is constantly evolving — from scams and account takeovers to money laundering and mule networks. Staying ahead of these threats means our automated controls and machine learning models need high-quality, timely insights.\nThe Risk Intelligence Platform team, part of Risk Machine Learning, builds the tools and automation that help Wise's FinCrime teams develop and improve those models. Our work covers areas such as model experimentation, bias and fairness, automated training-set maintenance, and threshold analysis.\nOur main users are Data Scientists and Product Managers across Fraud Prevention, AML and Sanctions. We build the platform and tooling that removes repetitive Engineering work and enables these teams to focus on what matters most: identifying and preventing financial crime effectively at scale.\nAs part of the team, you'll work at the intersection of Backend Engineering, data and machine learning, solving complex Engineering problems that directly support Wise's FinCrime prevention capabilities.\nQualifications\nAs a Backend Engineer, your job will be to provide guidance for Wise's data engineering and machine learning community, taking ownership of difficult technical problems. \nMinimum requirements:\nTypically 5+ years of experience with Java (11+, 21+), although we care more about the depth and relevance of your experience than the number of years.\nFamiliarity with Python \nExperience with batch or stream processing (preferably Apache Spark and Flink/Kafka streams) \nFamiliarity with SQL and no-SQL (document) databases\nExperience with complex systems distributed across several microservices, Kafka, scattered data and ownership\nHands-on knowledge of system integration patterns\nA strong product mindset and passion for user experience, you prioritise work with the customers in mind and drive data-driven decisions to fix customer pain-points\nStrong problem-solving skills to help refine problem statements and figure out how to solve them with the available data and from first principles\nHigh level of ownership, including identifying impactful problems to solve, getting buy-in from stakeholders and implementing the solution end-to-end\nNice to have:\nML Engineering background, such as model training pipelines, automated label quality assurance, model experimentation frameworks\nData Engineering background, such as experience with large-scale data pipelines, feature engineering and serving infrastructure, familiarity with graph algorithms and/or embedding techniques, awareness of data governance practices\nExperience with Apache Iceberg and/or Trino\nWhat does success look like in this role?\nYou’ll have onboarded and found your place through understanding your team and tribe vision and how you can contribute\nYou’ll understand how our values can help you guide your work\nYou’ll understand the reasons behind problematic payments and customer difficulties and how to go about solving them\nUnderstand our customers and the impact our product makes in their lives \nYou'll be having a real world impact by building financial crime prevention systems which protect customers\nYou’ll help us scale-up and build a world class money transfer product by finding solutions to our technical challenges and opportunities\nAdditional Information\nWhat we offer you:\n💶Salary range: 5750 - 7083.33 EUR gross/monthly\n🚀 RSUs in a growing company\n💪 An annual self-development budget\n🌿 3 fully paid ‘me days’ per year to help you manage life\n🏝️ 6 weeks’ paid time off plus £1,000 in financial support after 4 years at Wise\nInterested? Find out more:\n👀 How we work – a practical guide\n❤️Our values\n💻 The Wise Tech Stack, 2025 edition\n📈 Our Engineering career map\nAnd also check out our Engineering blog\nFor everyone, everywhere. We're people building money without borders  — without judgement or prejudice, too. We believe teams are strongest when they are diverse, equitable and inclusive.\nWe're proud to have a truly international team, and we celebrate our differences.\nInclusive teams help us live our values and make sure every Wiser feels respected, empowered to contribute towards our mission and able to progress in their careers.\nIf you want to find out more about what it's like to work at Wise visit Wise.Jobs.\nKeep up to date with life at Wise by following us on LinkedIn and Instagram.",
+"url": "https://wise.jobs/job/senior-software-engineer-risk-intelligence-platform-in-tallinn-jid-4173"
+},
+"seen": "2026-10-13"
 }
 }
