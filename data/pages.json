@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "1bba53d8a24ead41443f47d1dce59eabd29e607e",
+  "hash": "abe057f680f809efb4aa057e45fb434bf8e9bcef",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Junior-Delivery-Manager-Defence-and-Security/25120": "Agile Junior Delivery Manager, Defence and Security",
@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-13T12:45:54+00:00",
+  "checked": "2026-10-13T19:32:28+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -35,27 +35,29 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "8eb4d126874fe82a8f6c8eed49fe334fc946da62",
+  "hash": "df7ba5be4d1f953b603b546086ff90cbe5b51a0a",
   "postings": {
-   "https://wise.jobs/job/senior-software-engineer-risk-intelligence-platform-in-tallinn-jid-4173": "Senior Software Engineer - Risk Intelligence Platform",
-   "https://wise.jobs/job/fincrime-operations-team-lead-aml-investigations-in-kuala-lumpur-jid-3574": "FinCrime Operations Team Lead - AML Investigations",
-   "https://wise.jobs/job/fincrime-operations-team-lead-sanctions-in-kuala-lumpur-jid-4308": "FinCrime Operations Team Lead - Sanctions",
-   "https://wise.jobs/job/senior-solutions-engineer-in-austin-jid-3899": "Senior Solutions Engineer",
-   "https://wise.jobs/job/presales-consultant-in-austin-jid-4184": "Presales Consultant",
-   "https://wise.jobs/job/commercial-director-south-asia-in-singapore-jid-4094": "Commercial Director - South Asia",
-   "https://wise.jobs/job/software-engineer-database-platform-in-london-jid-4307": "Software Engineer - Database Platform",
-   "https://wise.jobs/job/senior-database-engineer-i-in-london-jid-4218": "Senior Database Engineer I",
-   "https://wise.jobs/job/director-of-business-operations-north-america-in-austin-jid-4163": "Director of Business Operations - North America",
-   "https://wise.jobs/job/senior-b2b-crm-manager-in-singapore-jid-4284": "Senior B2B CRM Manager",
-   "https://wise.jobs/job/kyc-operations-senior-analyst-deactivations-in-budapest-jid-4306": "KYC Operations Senior Analyst - Deactivations"
+   "https://wise.jobs/job/senior-data-analyst-compliance-in-sao-paulo-jid-4023": "Senior Data Analyst - Compliance",
+   "https://wise.jobs/job/data-science-lead-dsl1-kyc-global-and-onboarding-in-london-jid-4221": "Data Science Lead (DSL1) - KYC Global & Onboarding",
+   "https://wise.jobs/job/senior-technical-product-manager-api-experience-and-security-in-london-jid-3969": "Senior Technical Product Manager - API Experience & Security",
+   "https://wise.jobs/job/senior-implementation-manager-treasury-safeguarding-in-london-jid-4317": "Senior Implementation Manager - Treasury Safeguarding",
+   "https://wise.jobs/job/head-of-business-operations-wise-platform-in-london-jid-3910": "Head of Business Operations - Wise Platform",
+   "https://wise.jobs/job/analytics-manager-risk-and-controls-in-london-jid-3847": "Analytics Manager - Risk & Controls",
+   "https://wise.jobs/job/senior-product-manager-mitigation-platform-in-budapest-jid-3991": "Senior Product Manager - Mitigation Platform",
+   "https://wise.jobs/job/senior-software-engineer-ii-kyc-experience-in-london-jid-4052": "Senior Software Engineer II - KYC Experience",
+   "https://wise.jobs/job/finance-senior-manager-in-london-jid-4313": "Finance Senior Manager",
+   "https://wise.jobs/job/senior-product-analytics-manager-online-platforms-in-london-jid-4234": "Senior Product Analytics Manager - Online Platforms",
+   "https://wise.jobs/job/senior-product-analytics-manager-al2-send-in-london-jid-4289": "Senior Product Analytics Manager (AL2), SEND"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-13T12:45:54+00:00",
+  "checked": "2026-10-13T19:32:28+00:00",
   "error": null,
   "changed_on": "2026-10-13",
-  "new_links": {},
-  "new_on": null
+  "new_links": {
+   "https://wise.jobs/job/senior-product-manager-mitigation-platform-in-budapest-jid-3991": "Senior Product Manager - Mitigation Platform"
+  },
+  "new_on": "2026-10-13"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
@@ -81,7 +83,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-13T12:45:54+00:00",
+  "checked": "2026-10-13T19:32:28+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -97,7 +99,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-13T12:45:54+00:00",
+  "checked": "2026-10-13T19:32:28+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {
@@ -109,7 +111,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "735895a3566796c298c653303d2a2b0d7789e118",
+  "hash": "8b121e7cc38b724a9ae4c2b4cb81abc60d770b7c",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-ear-nose-throat-ent-1100085191/": "Consultant - Ear, Nose & Throat (ENT)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
@@ -124,7 +126,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-13T12:45:54+00:00",
+  "checked": "2026-10-13T19:32:28+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {
