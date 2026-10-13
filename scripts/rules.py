@@ -2,7 +2,7 @@
 import re
 
 # Bump this whenever you change the rules below, so every job is re-checked and re-scored.
-RULES_VERSION = 5
+RULES_VERSION = 6
 
 # ---------- Locations ----------
 UK_WORDS = ['united kingdom', 'england', 'scotland', 'wales', 'northern ireland', 'great britain', 'london',
@@ -64,10 +64,15 @@ EXCLUDE = {
                  'midwife', 'surgeon', 'paramedic', 'physiotherapist', 'dietitian', 'gp', 'consultant psychiatrist',
                  'medical officer', 'care assistant', 'healthcare assistant', 'carer', 'support worker',
                  'phlebotomist', 'optometrist', 'veterinary', 'vet', 'clinician', 'lab technician',
+                 'ear, nose', 'ent', 'otolaryngology', 'cardiology', 'cardiologist', 'dermatology', 'dermatologist',
+                 'radiology', 'radiologist', 'paediatric', 'pediatric', 'paediatrician', 'pediatrician', 'oncologist',
+                 'anaesthetist', 'anesthesiologist', 'obstetric', 'gynaecology', 'gynecology', 'orthopaedic',
+                 'orthopedic', 'psychiatry', 'neurologist', 'urologist', 'endocrinologist', 'internal medicine',
+                 'family medicine', 'general practitioner', 'medical consultant', 'specialist doctor',
                  'laboratory', 'scientist', 'specialist registrar', 'resident'],
     'seniority': ['director', 'dir', 'directeur', 'vp', 'vice president', 'head of', 'chief', 'svp', 'evp', 'associate partner',
                   'managing director', 'cto', 'ceo', 'coo', 'general manager', 'country manager'],
-    'level': ['intern', 'internship', 'werkstudent', 'working student', 'stage', 'stagiair', 'apprentice',
+    'level': ['intern', 'internship', 'coop', 'co-op', 'werkstudent', 'working student', 'stage', 'stagiair', 'apprentice',
               'apprenticeship', 'graduate scheme', 'student'],
     'other': ['translator', 'translators', 'linguist', 'interpreter', 'freelance', 'sales', 'key account', 'account manager', 'business development', 'sales representative', 'account executive', 'sales executive', 'business development representative',
               'sdr', 'bdr', 'recruiter', 'talent acquisition', 'warehouse', 'driver', 'courier', 'chef', 'cook',
