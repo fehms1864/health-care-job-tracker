@@ -517,8 +517,11 @@ def main():
                 'kept': 0}
         if g['src']['type'] == 'page' and page_info.get(g['src']['url'], (None,))[0]:
             stat['method'] = page_info[g['src']['url']][0].get('method')
+        default_region = (g['src'].get('default_region') and len(g['companies']) == 1)
         for j in raw:
             found = {j['region']} if j['region'] else rules.regions_in(j['location'])
+            if not found and default_region:  # single-country employer that leaves locations blank
+                found = {g['companies'][0]['region']}
             hit = found & regions
             if not hit:
                 continue
@@ -528,6 +531,8 @@ def main():
                 continue
             region = sorted(hit)[0]
             company = next((c for c in g['companies'] if c['region'] == region), g['companies'][0])
+            if company.get('keep_if') and not re.search(company['keep_if'], f"{j['title']} {j['desc'] or ''}", re.I):
+                continue  # e.g. EY-Parthenon: only the Parthenon / strategy roles from EY's regional board
             j['company'], j['region'], j['category'] = company['name'], region, company.get('category', '')
             j['id'] = hashlib.sha1(f"{g['src']['type']}|{j['jid']}|{region}".encode()).hexdigest()[:14]
             j['_stat'] = stat

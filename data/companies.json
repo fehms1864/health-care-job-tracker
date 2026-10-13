@@ -438,12 +438,8 @@
   "region": "UK",
   "category": "UK — Healthcare & life-sciences consulting",
   "core": false,
-  "source": {
-   "type": "page",
-   "url": "https://careers-phastar.icims.com/jobs/search?ss=1&in_iframe=1",
-   "render": true
-  },
-  "careers_url": "https://careers-phastar.icims.com/jobs/search?ss=1&in_iframe=1",
+  "source": null,
+  "careers_url": "https://careers-phastar.icims.com/jobs/intro",
   "note": "iCIMS — careers-phastar.icims.com"
  },
  {
@@ -467,7 +463,8 @@
   "core": true,
   "source": {
    "type": "page",
-   "url": "https://apply.deloitte.co.uk/UKCareers/SearchJobs"
+   "url": "https://apply.deloitte.co.uk/UKCareers/SearchJobs",
+   "default_region": true
   },
   "careers_url": "https://apply.deloitte.co.uk/UKCareers/SearchJobs",
   "note": "apply.deloitte.co.uk/UKCareers/"
@@ -530,9 +527,9 @@
    "type": "workday",
    "tenant": "pwc",
    "wd": "wd3",
-   "site": "Global_Experienced_Careers"
+   "site": "CRM_Experienced_Careers_Site"
   },
-  "careers_url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers",
+  "careers_url": "https://jobs.pwc.co.uk/experienced/uk/en/search-results",
   "note": "jobs.pwc.co.uk/experienced/uk/en/search-results"
  },
  {
@@ -585,7 +582,8 @@
   "core": false,
   "source": {
    "type": "page",
-   "url": "https://careers.cognizant.com/global-en/jobs/"
+   "url": "https://careers.cognizant.com/global-en/jobs/",
+   "render": true
   },
   "careers_url": "https://careers.cognizant.com/global-en/jobs/",
   "note": ""
@@ -2103,7 +2101,8 @@
   "core": false,
   "source": {
    "type": "page",
-   "url": "https://careers.cognizant.com/global-en/jobs/"
+   "url": "https://careers.cognizant.com/global-en/jobs/",
+   "render": true
   },
   "careers_url": "https://careers.cognizant.com/global-en/jobs/",
   "note": ""
@@ -2151,9 +2150,9 @@
    "type": "workday",
    "tenant": "pwc",
    "wd": "wd3",
-   "site": "Global_Experienced_Careers"
+   "site": "CRM_Experienced_Careers_Site"
   },
-  "careers_url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers",
+  "careers_url": "https://pwc.wd3.myworkdayjobs.com/CRM_Experienced_Careers_Site",
   "note": ""
  },
  {
@@ -2173,12 +2172,7 @@
   "region": "ME",
   "category": "Middle East",
   "core": false,
-  "source": {
-   "type": "page",
-   "url": "https://jobs.hub71.com/companies/takalam-online-counseling-2",
-   "render": true,
-   "assume_region": true
-  },
+  "source": null,
   "careers_url": "https://jobs.hub71.com/companies/takalam-online-counseling-2",
   "note": ""
  },
@@ -2366,7 +2360,8 @@
   "core": false,
   "source": {
    "type": "jibe",
-   "host": "careers.m42.ae"
+   "host": "careers.m42.ae",
+   "default_region": true
   },
   "careers_url": "https://careers.m42.ae/jobs",
   "note": ""
@@ -2387,11 +2382,11 @@
   "category": "Middle East",
   "core": false,
   "source": {
-   "type": "bayt",
-   "host": "careers.bupa.com.sa",
-   "token": "7GXUHW",
-   "query": "jb_loc_list=sa,0,0",
-   "body": "jobs-jobcountry-saudi-arabia"
+   "type": "page",
+   "url": "https://careers.bupa.com.sa/en/saudi-arabia/jobs/",
+   "assume_region": true,
+   "default_region": true,
+   "link_pattern": "/en/saudi-arabia/jobs/[^/?#]+-\\d+/?$"
   },
   "careers_url": "https://careers.bupa.com.sa/en/saudi-arabia/jobs/",
   "note": ""
@@ -2515,7 +2510,8 @@
    "path": "ey"
   },
   "careers_url": "https://careers.ey.com/ey/search/",
-  "note": ""
+  "note": "",
+  "keep_if": "parthenon|strategy|transformation|transaction"
  },
  {
   "name": "IQVIA Middle East & Africa",

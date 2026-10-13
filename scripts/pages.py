@@ -196,7 +196,7 @@ def page_jobs(company, src, cache):
     for u, text in links.items():
         c = cache.get(u)
         if c is None:
-            if opened >= MAX_NEW_LINKS:
+            if opened >= (25 if render else MAX_NEW_LINKS):
                 continue
             opened += 1
             try:
@@ -205,16 +205,26 @@ def page_jobs(company, src, cache):
                 c = {'ld': ld[0] if ld else None}
                 if not ld:
                     c['text'] = fj.text_of(h2)[:3000]
+                    m = re.search(r'<h1[^>]*>(.*?)</h1>', h2, re.S | re.I)
+                    c['h1'] = fj.text_of(m.group(1))[:140] if m else ''
             except Exception as e:
                 c = {'ld': None, 'error': str(e)[:80]}
         c['seen'] = fj.TODAY
         cache[u] = c
         ld = c.get('ld')
         if ld and ld.get('title'):
-            jobs.append(fj.job(ld['title'], ld['location'], u, u, ld['desc'] or '', ld['posted']))
+            # many JobPosting blocks leave the location empty; the link often carries the city (/jobs/team/london/...)
+            loc = ld['location'] or ' '.join(re.split(r'[/_-]+', urlparse(u).path))
+            j = fj.job(ld['title'], loc, u, u, ld['desc'] or '', ld['posted'])
+            if not ld['location'] and src.get('default_region'):
+                j['region'] = company['region']
+            jobs.append(j)
         elif src.get('assume_region'):
             # small single-country company: trust the link text as the job title
-            j = fj.job(text.split(' - ')[0][:120], '', u, u, c.get('text') or '', None, region=company['region'])
+            title = text.split(' - ')[0][:120]
+            if re.match(r'^(view|see|read|more|apply|details|learn|open)\b', title, re.I) and c.get('h1'):
+                title = c['h1']
+            j = fj.job(title, '', u, u, c.get('text') or '', None, region=company['region'])
             j['_linkonly'] = True
             jobs.append(j)
     structured = sum(1 for u in links if (cache.get(u) or {}).get('ld'))
