@@ -154,6 +154,17 @@ def main():
     with ThreadPoolExecutor(8) as ex:
         for (name, _), r in zip(tries, ex.map(lambda x: try_source(x[1]), tries)):
             report.setdefault(name, {'tries': [], 'pages': []})['tries'].append(r)
+    for it in items:
+        for rq in it.get('raw', []):
+            try:
+                if rq.get('body') is not None:
+                    r = fj.S.post(rq['url'], json=rq['body'], timeout=30, headers=rq.get('headers', {}))
+                else:
+                    r = fj.S.get(rq['url'], timeout=30, headers=rq.get('headers', {}))
+                out = {'url': rq['url'], 'status': r.status_code, 'text': r.text[:rq.get('n', 2500)]}
+            except Exception as e:
+                out = {'url': rq['url'], 'error': str(e)[:200]}
+            report.setdefault(it['name'], {'tries': [], 'pages': []}).setdefault('raw', []).append(out)
     urls = [(it['name'], u) for it in items for u in it.get('urls', [])]
     if urls:
         from playwright.sync_api import sync_playwright
@@ -167,6 +178,8 @@ def main():
         print(f'## {name}')
         for t in r['tries']:
             print('  try', json.dumps(t['source']), '->', t.get('error') or f"{t['count']} jobs, {t['in_region']} in region {t['sample'][:2]}")
+        for rw in r.get('raw', []):
+            print('  raw', rw['url'][:90], '->', rw.get('error') or rw['status'], (rw.get('text') or '')[:200].replace('\n', ' '))
         for pg in r['pages']:
             print('  page', pg['url'], '->', pg.get('error') or
                   f"systems={pg.get('systems')} ldpage={pg.get('jsonld_on_page')} links={pg.get('job_links')} "
