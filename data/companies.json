@@ -580,13 +580,10 @@
   "region": "UK",
   "category": "UK — Consulting & implementation at scale",
   "core": false,
-  "source": {
-   "type": "page",
-   "url": "https://careers.cognizant.com/global-en/jobs/",
-   "render": true
-  },
+  "source": null,
   "careers_url": "https://careers.cognizant.com/global-en/jobs/",
-  "note": ""
+  "note": "",
+  "alert": true
  },
  {
   "name": "Delta Capita Consulting",
@@ -2099,13 +2096,10 @@
   "region": "NL",
   "category": "Netherlands — consulting",
   "core": false,
-  "source": {
-   "type": "page",
-   "url": "https://careers.cognizant.com/global-en/jobs/",
-   "render": true
-  },
+  "source": null,
   "careers_url": "https://careers.cognizant.com/global-en/jobs/",
-  "note": ""
+  "note": "",
+  "alert": true
  },
  {
   "name": "Deloitte NL",
@@ -2386,7 +2380,8 @@
    "url": "https://careers.bupa.com.sa/en/saudi-arabia/jobs/",
    "assume_region": true,
    "default_region": true,
-   "link_pattern": "/en/saudi-arabia/jobs/[^/?#]+-\\d+/?$"
+   "link_pattern": "/en/saudi-arabia/jobs/[^/?#]+-\\d+/?$",
+   "render": true
   },
   "careers_url": "https://careers.bupa.com.sa/en/saudi-arabia/jobs/",
   "note": ""

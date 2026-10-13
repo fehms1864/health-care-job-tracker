@@ -195,6 +195,8 @@ def page_jobs(company, src, cache):
     opened = 0
     for u, text in links.items():
         c = cache.get(u)
+        if c is not None and not c.get('ld') and 'h1' not in c and re.match(r'^(view|see|read|more|apply|details|learn|open)\b', text, re.I):
+            c = None  # cached before job-page headings were read; reopen once to get the real title
         if c is None:
             if opened >= (25 if render else MAX_NEW_LINKS):
                 continue
