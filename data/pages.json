@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "abe057f680f809efb4aa057e45fb434bf8e9bcef",
+  "hash": "07e80d481a1871e9b6fdc2b7bafb4eb3f9e08ca8",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Junior-Delivery-Manager-Defence-and-Security/25120": "Agile Junior Delivery Manager, Defence and Security",
@@ -26,38 +26,43 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-13T19:32:28+00:00",
+  "checked": "2026-10-14T10:18:06+00:00",
   "error": null,
-  "changed_on": "2026-10-13",
+  "changed_on": "2026-10-14",
   "new_links": {},
   "new_on": null
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "df7ba5be4d1f953b603b546086ff90cbe5b51a0a",
+  "hash": "42310d96d438a802db0bf06850afc49119b58620",
   "postings": {
-   "https://wise.jobs/job/senior-data-analyst-compliance-in-sao-paulo-jid-4023": "Senior Data Analyst - Compliance",
-   "https://wise.jobs/job/data-science-lead-dsl1-kyc-global-and-onboarding-in-london-jid-4221": "Data Science Lead (DSL1) - KYC Global & Onboarding",
-   "https://wise.jobs/job/senior-technical-product-manager-api-experience-and-security-in-london-jid-3969": "Senior Technical Product Manager - API Experience & Security",
-   "https://wise.jobs/job/senior-implementation-manager-treasury-safeguarding-in-london-jid-4317": "Senior Implementation Manager - Treasury Safeguarding",
-   "https://wise.jobs/job/head-of-business-operations-wise-platform-in-london-jid-3910": "Head of Business Operations - Wise Platform",
+   "https://wise.jobs/job/senior-network-engineer-in-hyderabad-jid-4051": "Senior Network Engineer",
    "https://wise.jobs/job/analytics-manager-risk-and-controls-in-london-jid-3847": "Analytics Manager - Risk & Controls",
-   "https://wise.jobs/job/senior-product-manager-mitigation-platform-in-budapest-jid-3991": "Senior Product Manager - Mitigation Platform",
-   "https://wise.jobs/job/senior-software-engineer-ii-kyc-experience-in-london-jid-4052": "Senior Software Engineer II - KYC Experience",
-   "https://wise.jobs/job/finance-senior-manager-in-london-jid-4313": "Finance Senior Manager",
-   "https://wise.jobs/job/senior-product-analytics-manager-online-platforms-in-london-jid-4234": "Senior Product Analytics Manager - Online Platforms",
-   "https://wise.jobs/job/senior-product-analytics-manager-al2-send-in-london-jid-4289": "Senior Product Analytics Manager (AL2), SEND"
+   "https://wise.jobs/job/kyc-operations-team-lead-deactivations-in-hyderabad-jid-3043": "KYC Operations Team Lead - Deactivations",
+   "https://wise.jobs/job/localisation-project-manager-in-tallinn-jid-4275": "Localisation Project Manager",
+   "https://wise.jobs/job/senior-staff-software-engineer-cards-api-team-in-singapore-jid-3988": "Senior/Staff Software Engineer - Cards API team",
+   "https://wise.jobs/job/senior-product-compliance-and-risk-manager-india-in-singapore-jid-4250": "Senior Product Compliance & Risk Manager - India",
+   "https://wise.jobs/job/senior-product-compliance-and-risk-manager-india-in-hyderabad-jid-1794": "Senior Product Compliance & Risk Manager - India",
+   "https://wise.jobs/job/partnerships-manager-apac-in-singapore-jid-3820": "Partnerships Manager APAC",
+   "https://wise.jobs/job/senior-software-engineer-ii-fx-markets-in-london-jid-4318": "Senior Software Engineer II - FX Markets",
+   "https://wise.jobs/job/europe-risk-and-controls-senior-software-engineer-ii-in-london-jid-4169": "Europe Risk And Controls Senior Software Engineer II",
+   "https://wise.jobs/job/talent-development-specialist-in-austin-jid-3933": "Talent Development Specialist",
+   "https://wise.jobs/job/senior-data-analyst-compliance-in-sao-paulo-jid-4023": "Senior Data Analyst - Compliance"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-13T19:32:28+00:00",
+  "checked": "2026-10-14T10:18:06+00:00",
   "error": null,
-  "changed_on": "2026-10-13",
+  "changed_on": "2026-10-14",
   "new_links": {
-   "https://wise.jobs/job/senior-product-manager-mitigation-platform-in-budapest-jid-3991": "Senior Product Manager - Mitigation Platform"
+   "https://wise.jobs/job/localisation-project-manager-in-tallinn-jid-4275": "Localisation Project Manager",
+   "https://wise.jobs/job/senior-product-compliance-and-risk-manager-india-in-singapore-jid-4250": "Senior Product Compliance & Risk Manager - India",
+   "https://wise.jobs/job/senior-product-compliance-and-risk-manager-india-in-hyderabad-jid-1794": "Senior Product Compliance & Risk Manager - India",
+   "https://wise.jobs/job/partnerships-manager-apac-in-singapore-jid-3820": "Partnerships Manager APAC",
+   "https://wise.jobs/job/talent-development-specialist-in-austin-jid-3933": "Talent Development Specialist"
   },
-  "new_on": "2026-10-13"
+  "new_on": "2026-10-14"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
@@ -83,7 +88,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-13T19:32:28+00:00",
+  "checked": "2026-10-14T10:18:06+00:00",
   "error": null,
   "changed_on": null,
   "new_links": {},
@@ -99,20 +104,19 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-13T19:32:28+00:00",
+  "checked": "2026-10-14T10:18:06+00:00",
   "error": null,
   "changed_on": "2026-10-13",
-  "new_links": {
-   "https://careers.shezlong.com/vacancy/41f94ee7-8b98-4748-ab40-e920172a99f8": "View Details",
-   "https://careers.shezlong.com/vacancy/375769ac-095f-46b8-ae0b-b05ef924eb05": "View Details"
-  },
+  "new_links": {},
   "new_on": "2026-10-13"
  },
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "8b121e7cc38b724a9ae4c2b4cb81abc60d770b7c",
+  "hash": "bb8e4ff1486cba4dd0e1d6568cf6dbb911d00985",
   "postings": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-design-innovation-1100088833/": "Coop - Design & Innovation",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-design-experience-1100088831/": "Coop - Design Experience",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-ear-nose-throat-ent-1100085191/": "Consultant - Ear, Nose & Throat (ENT)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-fwa-data-science-1100088892/": "Manager - FWA Data Science",
@@ -120,20 +124,14 @@
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-designer-1100091207/": "Coop – Designer",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-licensing-government-relations-1100085752/": "Senior Associate - Licensing & Government Relations",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/technician-audiology-1100091161/": "Technician - Audiology",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-growth-marketing-1100091103/": "COOP - Growth Marketing",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/technician-cardiology-1100091092/": "Technician- Cardiology",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/technician-cast-1100091091/": "Technician - Cast"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-growth-marketing-1100091103/": "COOP - Growth Marketing"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-13T19:32:28+00:00",
+  "checked": "2026-10-14T10:18:06+00:00",
   "error": null,
-  "changed_on": "2026-10-13",
-  "new_links": {
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-ear-nose-throat-ent-1100085191/": "Consultant - Ear, Nose & Throat (ENT)",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-licensing-government-relations-1100085752/": "Senior Associate - Licensing & Government Relations",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-growth-marketing-1100091103/": "COOP - Growth Marketing"
-  },
+  "changed_on": "2026-10-14",
+  "new_links": {},
   "new_on": "2026-10-13"
  }
 }
