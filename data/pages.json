@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "0c5a334c88b311511c39a01f403cf71b1b3e4ced",
+  "hash": "f0a7e4c242610ef127a1d791c23921ad4d4ab7e4",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Junior-Delivery-Manager-Defence-and-Security/25120": "Agile Junior Delivery Manager, Defence and Security",
@@ -26,47 +26,49 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-14T17:36:57+00:00",
+  "checked": "2026-10-15T10:01:01+00:00",
   "error": null,
-  "changed_on": "2026-10-14",
+  "changed_on": "2026-10-15",
   "new_links": {},
   "new_on": null
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "c1af3a9d97c5579c0cb5b4899f3f76f0b25078f4",
+  "hash": "81f39d22380a1c822d0dd01082a1d2c8fa99da99",
   "postings": {
-   "https://wise.jobs/job/senior-data-analyst-compliance-in-sao-paulo-jid-4023": "Senior Data Analyst - Compliance",
-   "https://wise.jobs/job/senior-business-crm-manager-americas-in-austin-jid-4261": "Senior Business CRM Manager - Americas",
-   "https://wise.jobs/job/pr-manager-latam-6-month-fixed-term-position-in-sao-paulo-jid-4320": "PR Manager, LatAm (6-month fixed-term position)",
-   "https://wise.jobs/job/analytics-manager-risk-and-controls-in-london-jid-3847": "Analytics Manager - Risk & Controls",
-   "https://wise.jobs/job/lead-product-analyst-fincrime-in-london-jid-4292": "Lead Product Analyst - FinCrime",
-   "https://wise.jobs/job/senior-data-engineer-ii-real-time-data-engineering-in-london-jid-2244": "Senior Data Engineer II - Real Time Data Engineering",
-   "https://wise.jobs/job/lead-data-scientist-receive-risk-in-london-jid-4220": "Lead Data Scientist - Receive Risk",
-   "https://wise.jobs/job/principal-executive-recruiter-in-london-jid-3877": "Principal Executive Recruiter",
-   "https://wise.jobs/job/fullstack-engineer-treasury-money-movement-in-tallinn-jid-3968": "Fullstack Engineer - Treasury Money Movement",
-   "https://wise.jobs/job/banking-operations-senior-product-specialist-in-tallinn-jid-4319": "Banking Operations Senior Product Specialist",
-   "https://wise.jobs/job/kyc-operations-senior-lead-deactivations-in-hyderabad-jid-4077": "KYC Operations Senior Lead - Deactivations",
-   "https://wise.jobs/job/senior-network-engineer-in-hyderabad-jid-4051": "Senior Network Engineer"
+   "https://wise.jobs/job/workforce-management-lead-in-hyderabad-jid-4326": "Workforce Management Lead",
+   "https://wise.jobs/job/senior-product-engineer-ii-in-london-jid-4325": "Senior Product Engineer II",
+   "https://wise.jobs/job/senior-product-engineer-partner-experience-in-london-jid-3781": "Senior Product Engineer - Partner Experience",
+   "https://wise.jobs/job/engineering-manager-in-london-jid-4324": "Engineering Manager",
+   "https://wise.jobs/job/engineering-lead-send-for-partners-in-london-jid-3751": "Engineering Lead - Send for Partners",
+   "https://wise.jobs/job/fincrime-operations-team-lead-screening-in-hyderabad-jid-4290": "FinCrime Operations Team Lead - Screening",
+   "https://wise.jobs/job/senior-software-developer-ii-wise-for-banks-in-london-jid-4171": "Senior Software Developer II - Wise for Banks",
+   "https://wise.jobs/job/senior-software-engineer-i-wise-for-enterprise-banks-in-london-jid-3184": "Senior Software Engineer I - Wise for Enterprise - Banks",
+   "https://wise.jobs/job/customer-support-specialist-in-hyderabad-jid-4138": "Customer Support Specialist",
+   "https://wise.jobs/job/head-of-sox-testing-in-hyderabad-jid-3767": "Head of SOX Testing",
+   "https://wise.jobs/job/regulatory-product-compliance-manager-in-austin-jid-4322": "Regulatory Product Compliance Manager",
+   "https://wise.jobs/job/financial-services-representative-assets-requires-finra-series-7-in-austin-jid-4065": "Financial Services Representative, Assets (Requires FINRA Series 7)"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-14T17:36:57+00:00",
+  "checked": "2026-10-15T10:01:01+00:00",
   "error": null,
-  "changed_on": "2026-10-14",
+  "changed_on": "2026-10-15",
   "new_links": {
-   "https://wise.jobs/job/senior-business-crm-manager-americas-in-austin-jid-4261": "Senior Business CRM Manager - Americas",
-   "https://wise.jobs/job/pr-manager-latam-6-month-fixed-term-position-in-sao-paulo-jid-4320": "PR Manager, LatAm (6-month fixed-term position)",
-   "https://wise.jobs/job/lead-product-analyst-fincrime-in-london-jid-4292": "Lead Product Analyst - FinCrime"
+   "https://wise.jobs/job/workforce-management-lead-in-hyderabad-jid-4326": "Workforce Management Lead",
+   "https://wise.jobs/job/fincrime-operations-team-lead-screening-in-hyderabad-jid-4290": "FinCrime Operations Team Lead - Screening",
+   "https://wise.jobs/job/customer-support-specialist-in-hyderabad-jid-4138": "Customer Support Specialist",
+   "https://wise.jobs/job/regulatory-product-compliance-manager-in-austin-jid-4322": "Regulatory Product Compliance Manager"
   },
-  "new_on": "2026-10-14"
+  "new_on": "2026-10-15"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "56b92fc9817542652db0f84e15eca98dd6871f96",
+  "hash": "4d8c341475f8df158a5cefda5b10e5c875cba272",
   "postings": {
+   "https://optiver.com/join-us/jobs/technology/chicago/category-manager-software/": "Category Manager, Software",
    "https://optiver.com/join-us/jobs/technology/new-york/software-engineer-agentic-sdlc/": "Software Engineer - Agentic SDLC",
    "https://optiver.com/join-us/jobs/trade-operations/sydney/middle-office-manager/": "Middle Office Manager",
    "https://optiver.com/join-us/jobs/technology/chicago/data-operations-engineer/": "Data Operations Engineer",
@@ -81,14 +83,13 @@
    "https://optiver.com/join-us/jobs/business-operations/london/global-mobility-manager/": "Global Mobility Manager",
    "https://optiver.com/join-us/jobs/technology/amsterdam/data-engineer-trading/": "Data Engineer - Trading",
    "https://optiver.com/join-us/jobs/business-operations/amsterdam/executive-assistant/": "Executive Assistant",
-   "https://optiver.com/join-us/jobs/risk-finance-and-legal/chicago/risk-analyst/": "Risk Analyst",
-   "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/new-york/graduate-quantitative-researcher-phd-2027-start/": "Graduate Quantitative Researcher, PhD (2027 Start)"
+   "https://optiver.com/join-us/jobs/risk-finance-and-legal/chicago/risk-analyst/": "Risk Analyst"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-14T17:36:57+00:00",
+  "checked": "2026-10-15T10:01:01+00:00",
   "error": null,
-  "changed_on": "2026-10-14",
+  "changed_on": "2026-10-15",
   "new_links": {},
   "new_on": null
  },
@@ -102,7 +103,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-14T17:36:57+00:00",
+  "checked": "2026-10-15T10:01:01+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -111,25 +112,28 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "f1323c7c37108ec37132e183516e36fa309eaa0a",
+  "hash": "dd1d89ae83c31c574d4cf03bba8b770f90ae8493",
   "postings": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-sme-capabilities-1100090166/": "Manager - SME Capabilities",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-registrar-internal-medicine-1100042306/": "Senior Registrar - Internal Medicine",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/medical-specialist-physiotherapy-home-health-care-1100090424/": "View Job Details",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-design-innovation-1100088833/": "Coop - Design & Innovation",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-design-experience-1100088831/": "Coop - Design Experience",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-ear-nose-throat-ent-1100085191/": "Consultant - Ear, Nose & Throat (ENT)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-fwa-data-science-1100088892/": "Manager - FWA Data Science",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-fwa-ai-engineer-1100088889/": "Manager - FWA AI Engineer",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-designer-1100091207/": "Coop – Designer",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-licensing-government-relations-1100085752/": "Senior Associate - Licensing & Government Relations",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/technician-audiology-1100091161/": "Technician - Audiology",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-growth-marketing-1100091103/": "COOP - Growth Marketing"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-designer-1100091207/": "Coop – Designer"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-14T17:36:57+00:00",
+  "checked": "2026-10-15T10:01:01+00:00",
   "error": null,
-  "changed_on": "2026-10-14",
-  "new_links": {},
-  "new_on": "2026-10-13"
+  "changed_on": "2026-10-15",
+  "new_links": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-sme-capabilities-1100090166/": "Manager - SME Capabilities",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/medical-specialist-physiotherapy-home-health-care-1100090424/": "View Job Details"
+  },
+  "new_on": "2026-10-15"
  }
 }
