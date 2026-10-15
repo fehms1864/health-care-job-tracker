@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T10:01:01+00:00",
+ "generated_at": "2026-10-15T17:21:46+00:00",
  "baseline_date": "2026-09-27",
  "rules_version": 6,
  "sources": {
@@ -159,6 +159,54 @@
  },
  "jobs": [
   {
+   "id": "7014f1177fcb7c",
+   "company": "Deliveroo",
+   "region": "UK",
+   "title": "Strategy & Operations Manager, Partnerships",
+   "location": "London, United Kingdom - Deliveroo",
+   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8236339",
+   "posted": "2026-10-15T07:31:11-04:00",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 69,
+   "hits": [
+    "strategy",
+    "operations",
+    "consulting",
+    "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "8d88c7e3192a83",
+   "company": "Siemens Healthineers",
+   "region": "UK",
+   "title": "Global Business Operations Manager",
+   "location": "Great Britain, UK / Camberley, UK / Barcelona, Spain / Lisbon, Portugal / Porto, Portugal / London, UK / United Kingdom",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100769/Global-Business-Operations-Manager",
+   "posted": "2026-10-15T00:00:00.000+0000",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 53,
+   "hits": [
+    "healthcare",
+    "operations",
+    "implementation",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "0b83e89b605625",
    "company": "Bupa Arabia",
    "region": "ME",
@@ -183,6 +231,102 @@
    "baseline": false
   },
   {
+   "id": "225f6d30b9a4eb",
+   "company": "Medtronic",
+   "region": "UK",
+   "title": "Senior Program Manager – (Medical Device System)",
+   "location": "London, London, United Kingdom",
+   "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/London-London-United-Kingdom/Senior-Program-Manager----Medical-Device-System-_R77581-2",
+   "posted": "Today",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 45,
+   "hits": [
+    "healthcare",
+    "medical",
+    "medical device",
+    "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "3f4f853d97067a",
+   "company": "Medtronic",
+   "region": "UK",
+   "title": "Senior Program Manager – (Medical Device System)",
+   "location": "London, London, United Kingdom",
+   "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/London-London-United-Kingdom/Senior-Program-Manager----Medical-Device-System-_R79244-1",
+   "posted": "Today",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 45,
+   "hits": [
+    "healthcare",
+    "medical",
+    "medical device",
+    "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "cae906bbaffe6b",
+   "company": "Janssen",
+   "region": "UK",
+   "title": "VELYS Clinical Trainer | J&J MedTech | Orthopaedics | North East London-Cambridge-St Albans",
+   "location": "2 Locations",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Hertfordshire-England-United-Kingdom/VELYS-Clinical-Trainer---J-J-MedTech---Orthopaedics---North-East-London-Cambridge-St-Albans_R-105371",
+   "posted": "Today",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 44,
+   "hits": [
+    "healthcare",
+    "clinical",
+    "patient",
+    "hospital"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "a6c13547b1a9f7",
+   "company": "Baringa",
+   "region": "UK",
+   "title": "Senior Consultant, Strategy & Transactions - Bioenergy",
+   "location": "London, United Kingdom",
+   "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/5007150101",
+   "posted": "2026-10-15T10:45:44-04:00",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 42,
+   "hits": [
+    "strategy",
+    "consultant",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "aa18de12dd6c73",
    "company": "Siemens Healthineers Middle East",
    "region": "ME",
@@ -198,30 +342,6 @@
     "healthcare",
     "operations",
     "operations manager"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "b9d10468f61a92",
-   "company": "Accenture NL",
-   "region": "NL",
-   "title": "Strategy Consultant - Corporate Strategy & Growth",
-   "location": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Strategy-Consultant---Corporate-Strategy---Growth_R00323101",
-   "posted": "Today",
-   "posted_date": "2026-10-15",
-   "posted_approx": false,
-   "first_seen": "2026-10-15",
-   "score": 36,
-   "hits": [
-    "strategy",
-    "operations",
-    "consultant",
-    "consulting"
    ],
    "lang": null,
    "visa": null,
@@ -326,6 +446,100 @@
    "baseline": false
   },
   {
+   "id": "937ab310b1775c",
+   "company": "PwC",
+   "region": "UK",
+   "title": "Capital Project & Transformation Leadership Senior Associate - Defence",
+   "location": "5 Locations",
+   "url": "https://pwc.wd3.myworkdayjobs.com/CRM_Experienced_Careers_Site/job/London/Capital-Project---Transformation-Leadership-Senior-Associate---Defence_753060WD",
+   "posted": "Today",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 32,
+   "hits": [
+    "healthcare",
+    "strategy",
+    "operations",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "172e20cc6b6f04",
+   "company": "Novartis",
+   "region": "UK",
+   "title": "Clinical Research Associate (Multiple Roles)",
+   "location": "Field Force (England / Wales)",
+   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Field-Force-England--Wales/Clinical-Research-Associate_REQ-10084138-2",
+   "posted": "Today",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 32,
+   "hits": [
+    "healthcare",
+    "clinical",
+    "patient"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "435684b0d2b2fd",
+   "company": "Accenture",
+   "region": "UK",
+   "title": "Applied AI Process Consultant",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Transformation---Process-Excellence-Consultant_R00343193",
+   "posted": "Yesterday",
+   "posted_date": "2026-10-14",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 31,
+   "hits": [
+    "operations",
+    "consultant",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "b42025488fbcb8",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "EY-Parthenon - Strategy and Execution-Value Creation-Industrials and Consumer-Sr. Assoc.-Consultant",
+   "location": "Dallas EY, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/Dallas-EY-Parthenon-Strategy-and-Execution-Value-Creation-Industrials-and-Consumer-Sr_-Assoc_-Consultant-TX-75219/1448175733/",
+   "posted": null,
+   "posted_date": "2026-10-15",
+   "posted_approx": true,
+   "first_seen": "2026-10-15",
+   "score": 30,
+   "hits": [
+    "strategy",
+    "consultant",
+    "consulting"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "6282a2597b117a",
    "company": "Atlassian",
    "region": "UK",
@@ -374,13 +588,81 @@
    "baseline": false
   },
   {
-   "id": "44a0e2b1df3f08",
-   "company": "ServiceNow",
+   "id": "1cea2f6b996722",
+   "company": "IQVIA",
    "region": "UK",
-   "title": "Senior Technical Customer Success Manager (Armis)",
-   "location": "London, GREATER LONDON, gb",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155717849",
-   "posted": "2026-10-15T09:58:33.523Z",
+   "title": "Project Coordinator, Project Services",
+   "location": "Livingston, West Lothian, United Kingdom",
+   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Livingston-West-Lothian-United-Kingdom/Project-Coordinator--Project-Services_R1546324",
+   "posted": "Today",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 29,
+   "hits": [
+    "healthcare",
+    "patient",
+    "population health"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "1f631917a9f608",
+   "company": "ICON",
+   "region": "UK",
+   "title": "Clinical Research Associate 1",
+   "location": "2 Locations",
+   "url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/UK-Reading/Clinical-Research-Associate-1_JR162248",
+   "posted": "Today",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 29,
+   "hits": [
+    "clinical",
+    "operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "d925cf0ebfe9ca",
+   "company": "Baringa",
+   "region": "UK",
+   "title": "Manager, Technical Advisory - Thermal Generation and Gas Network Expert",
+   "location": "London, United Kingdom",
+   "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/5007746101",
+   "posted": "2026-10-15T11:45:57-04:00",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 28,
+   "hits": [
+    "strategy",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "6c3e50bd33d33f",
+   "company": "PwC",
+   "region": "UK",
+   "title": "Capital Project & Transformation Leadership Manager - Defence",
+   "location": "5 Locations",
+   "url": "https://pwc.wd3.myworkdayjobs.com/CRM_Experienced_Careers_Site/job/London/Capital-Project---Transformation-Leadership-Manager---Defence_753284WD-1",
+   "posted": "Today",
    "posted_date": "2026-10-15",
    "posted_approx": false,
    "first_seen": "2026-10-15",
@@ -388,8 +670,8 @@
    "hits": [
     "healthcare",
     "strategy",
-    "implementation",
-    "customer success"
+    "operations",
+    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -417,6 +699,53 @@
    ],
    "lang": null,
    "visa": "yes",
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "777cc334688e1c",
+   "company": "Atlassian",
+   "region": "UK",
+   "title": "Principal Customer Success Manager, Public Sector UKI",
+   "location": "Remote - UK - Remote / London - United Kingdom -   London,  EC1V United Kingdom",
+   "url": "https://www.atlassian.com/company/careers/details/26042",
+   "posted": "2026-10-15 03:37 PM",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 28,
+   "hits": [
+    "healthcare",
+    "nhs",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "33810fdb4b1756",
+   "company": "ICON",
+   "region": "UK",
+   "title": "Senior Project Manager",
+   "location": "2 Locations",
+   "url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Netherlands-Utrecht-Zen/Senior-Project-Manager_JR162227",
+   "posted": "Today",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 28,
+   "hits": [
+    "healthcare",
+    "implementation",
+    "project manager"
+   ],
+   "lang": null,
+   "visa": null,
    "details": true,
    "lang_checked": true,
    "baseline": false
@@ -469,6 +798,30 @@
    "baseline": false
   },
   {
+   "id": "46ebdc74bde380",
+   "company": "IQVIA",
+   "region": "UK",
+   "title": "Records Management Associate",
+   "location": "Livingston, West Lothian, United Kingdom",
+   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Livingston-West-Lothian-United-Kingdom/Records-Management-Associate_R1574425",
+   "posted": "Today",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 27,
+   "hits": [
+    "healthcare",
+    "patient",
+    "population health",
+    "strategy"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "13b9fd2e363cc6",
    "company": "Accenture",
    "region": "UK",
@@ -493,6 +846,52 @@
    "baseline": false
   },
   {
+   "id": "615f38854ef658",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Manager - Insurance Technology Transformation, TC FS",
+   "location": "London, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/London-Manager-Insurance-Technology-Transformation%2C-TC-FS-E14-5EY/1447724033/",
+   "posted": null,
+   "posted_date": "2026-10-15",
+   "posted_approx": true,
+   "first_seen": "2026-10-15",
+   "score": 26,
+   "hits": [
+    "consulting",
+    "implementation",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "ec3ab95e7443f4",
+   "company": "ICON",
+   "region": "UK",
+   "title": "Senior Medical Data Reviewer",
+   "location": "5 Locations",
+   "url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/UK-Reading/Senior-Medical-Data-Reviewer_JR162407",
+   "posted": "Today",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 26,
+   "hits": [
+    "healthcare",
+    "patient",
+    "medical"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "d7ddc4d3684314",
    "company": "ICON",
    "region": "UK",
@@ -507,6 +906,171 @@
    "hits": [
     "clinical",
     "operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "97e8a6de9cfbb3",
+   "company": "Novartis",
+   "region": "UK",
+   "title": "Senior Clinical Pharmacology Trial Leader",
+   "location": "London (The Westworks)",
+   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/London-The-Westworks/Senior-Clinical-Pharmacology-Trial-Leader_REQ-10089564-2",
+   "posted": "Today",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 26,
+   "hits": [
+    "healthcare",
+    "clinical"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "9c07c68190a73e",
+   "company": "Janssen",
+   "region": "UK",
+   "title": "Therapy Specialist",
+   "location": "5 Locations",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/High-Wycombe-Buckinghamshire-United-Kingdom/Therapy-Specialist_R-093493",
+   "posted": "Today",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 25,
+   "hits": [
+    "healthcare",
+    "patient",
+    "medtech",
+    "patient journey"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "5402893e00eb59",
+   "company": "Accenture",
+   "region": "UK",
+   "title": "Enterprise Operating Model Strategy Manager",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Enterprise-Operating-Model-Strategy-Manager_R00364726",
+   "posted": "Today",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 23,
+   "hits": [
+    "strategy",
+    "operations",
+    "consulting"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "5059949a11f170",
+   "company": "HCA Healthcare UK",
+   "region": "UK",
+   "title": "Housekeeping Assistant",
+   "location": "Greater Manchester, United Kingdom",
+   "url": "https://www.hcahealthcare.co.uk/careers/vacancy/0054045",
+   "posted": "2026-10-15",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 23,
+   "hits": [
+    "healthcare",
+    "patient",
+    "hospital",
+    "patient experience"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "89b2167a3493d1",
+   "company": "Janssen",
+   "region": "UK",
+   "title": "Exp Anlst Reg Aff",
+   "location": "Leeds, West Yorkshire, United Kingdom",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Leeds-West-Yorkshire-United-Kingdom/Exp-Anlst-Reg-Aff_R-103458-1",
+   "posted": "Today",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 23,
+   "hits": [
+    "healthcare",
+    "medtech",
+    "operations",
+    "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "9fd71088d54ef1",
+   "company": "Janssen",
+   "region": "UK",
+   "title": "Service Manager Capital and VELYS",
+   "location": "Leeds, West Yorkshire, United Kingdom",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Leeds-West-Yorkshire-United-Kingdom/Service-Manager-Capital-and-VELYS_R-103461",
+   "posted": "Today",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 23,
+   "hits": [
+    "healthcare",
+    "patient",
+    "medtech",
+    "strategy"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "5240d5ff3c534a",
+   "company": "Janssen NL",
+   "region": "NL",
+   "title": "Transcend IM: Senior Manager, Logistics Network & Orchestration",
+   "location": "4 Locations",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Leiden-Netherlands/Transcend-IM--Senior-Manager--Logistics-Network---Orchestration_R-103572",
+   "posted": "Today",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 23,
+   "hits": [
+    "healthcare",
+    "patient",
+    "medtech",
+    "strategy"
    ],
    "lang": null,
    "visa": null,
@@ -539,6 +1103,30 @@
    "baseline": false
   },
   {
+   "id": "bd3d7955a9d9ef",
+   "company": "Janssen",
+   "region": "UK",
+   "title": "Technology Leader Surgery - Germany & UK",
+   "location": "2 Locations",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Norderstedt-Schleswig-Holstein-Germany/Technology-Leader-Surgery---Germany---UK_R-104955-1",
+   "posted": "Today",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 23,
+   "hits": [
+    "healthcare",
+    "patient",
+    "medtech",
+    "patient experience"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "8a6bc69c4e84c1",
    "company": "Medtronic NL",
    "region": "NL",
@@ -555,6 +1143,52 @@
     "strategy",
     "operations",
     "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "601ed22f5dd588",
+   "company": "Publicis",
+   "region": "UK",
+   "title": "Senior Project Manager",
+   "location": "London, United Kingdom / 2 Television Centre",
+   "url": "https://careers.publicisgroupe.com/jobs/176644?lang=en-us",
+   "posted": "2026-10-15T13:11:00+0000",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 22,
+   "hits": [
+    "strategy",
+    "transformation",
+    "project manager"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "092b5075116557",
+   "company": "Deliveroo",
+   "region": "UK",
+   "title": "Creative Project Manager",
+   "location": "London, United Kingdom - Deliveroo",
+   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8284751",
+   "posted": "2026-10-15T06:05:44-04:00",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 22,
+   "hits": [
+    "operations",
+    "project manager",
+    "process improvement"
    ],
    "lang": null,
    "visa": null,
@@ -587,7 +1221,7 @@
    "id": "6dde4eb23f9481",
    "company": "Baringa",
    "region": "UK",
-   "title": "Marketing Lead - Public Sector",
+   "title": "Marketing Lead - Government & Public Sector",
    "location": "London, United Kingdom",
    "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/4833236101",
    "posted": "2026-07-24T04:10:56-04:00",
@@ -599,6 +1233,77 @@
     "strategy",
     "consulting",
     "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "b43c88a42bf042",
+   "company": "Accenture",
+   "region": "UK",
+   "title": "GBS Operating Model Lead (Senior Manager)",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London-30-Fenchurch-Street/GBS-Operating-Model-Lead--Senior-Manager-_R00358932",
+   "posted": "Yesterday",
+   "posted_date": "2026-10-14",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 20,
+   "hits": [
+    "strategy",
+    "operations",
+    "consulting",
+    "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "fb1871d272315e",
+   "company": "PwC",
+   "region": "UK",
+   "title": "Technology, AI, Data and Third Parties Risk Assessment Manager",
+   "location": "3 Locations",
+   "url": "https://pwc.wd3.myworkdayjobs.com/CRM_Experienced_Careers_Site/job/Birmingham/Technology--AI--Data-and-Third-Parties-Risk-Assessment-Manager_766404WD",
+   "posted": "Today",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 20,
+   "hits": [
+    "operations",
+    "implementation",
+    "business operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "83a54795965676",
+   "company": "BCG Middle East",
+   "region": "ME",
+   "title": "Middle East HR Risk & Employee Relations COE Manager",
+   "location": "Dubai, Dubai, United Arab Emirates / Riyadh, Saudi Arabia / Doha, Qatar",
+   "url": "https://careers.bcg.com/global/en/job/59189/Middle-East-HR-Risk-Employee-Relations-COE-Manager",
+   "posted": "2026-10-14T00:00:00.000+0000",
+   "posted_date": "2026-10-14",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 20,
+   "hits": [
+    "strategy",
+    "operations",
+    "consulting",
+    "implementation"
    ],
    "lang": null,
    "visa": null,
@@ -621,6 +1326,28 @@
    "hits": [
     "strategy",
     "operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "d0c7835b4a40f9",
+   "company": "Amazon / AWS (UK)",
+   "region": "UK",
+   "title": "Senior Delivery Consultant - Migrations, Professional Services, UK NatSec, WWPS",
+   "location": "London, England, GBR",
+   "url": "https://www.amazon.jobs/en/jobs/10579131/senior-delivery-consultant-migrations-professional-services-uk-natsec-wwps",
+   "posted": "October 14, 2026",
+   "posted_date": "2026-10-15",
+   "posted_approx": true,
+   "first_seen": "2026-10-15",
+   "score": 20,
+   "hits": [
+    "consultant",
+    "implementation"
    ],
    "lang": null,
    "visa": null,
@@ -720,6 +1447,29 @@
    "baseline": false
   },
   {
+   "id": "6536f934d1e152",
+   "company": "Accenture",
+   "region": "UK",
+   "title": "Applied AI Process Senior Manager",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Transformation---Process-Excellence-Senior-Manager_R00344532",
+   "posted": "Yesterday",
+   "posted_date": "2026-10-14",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 18,
+   "hits": [
+    "consulting",
+    "transformation",
+    "process improvement"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "07810b7787c011",
    "company": "Publicis",
    "region": "UK",
@@ -743,21 +1493,89 @@
    "baseline": false
   },
   {
-   "id": "44bcfc310c673b",
-   "company": "Janssen NL",
-   "region": "NL",
-   "title": "Transcend GTO-QM, Commercial Quality",
-   "location": "5 Locations",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Transcend-GTO-QM--Commercial-Quality_R-090746-2",
-   "posted": "Yesterday",
-   "posted_date": "2026-10-14",
+   "id": "66c2492bc5fb8d",
+   "company": "Amazon / AWS (UK)",
+   "region": "UK",
+   "title": "Senior Engagement Manager, Professional Services, AWS Industries",
+   "location": "London, England, GBR",
+   "url": "https://www.amazon.jobs/en/jobs/10579930/senior-engagement-manager-professional-services-aws-industries",
+   "posted": "October 15, 2026",
+   "posted_date": "2026-10-15",
+   "posted_approx": true,
+   "first_seen": "2026-10-15",
+   "score": 18,
+   "hits": [
+    "operations",
+    "change management",
+    "engagement manager"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "c35fb605dd366d",
+   "company": "Trainline",
+   "region": "UK",
+   "title": "People Operations Advisor",
+   "location": "London / United Kingdom",
+   "url": "https://jobs.ashbyhq.com/trainline/bc0d648d-1792-4d20-9831-693373907710",
+   "posted": "2026-10-15T13:08:39.564+00:00",
+   "posted_date": "2026-10-15",
    "posted_approx": false,
    "first_seen": "2026-10-15",
    "score": 18,
    "hits": [
-    "healthcare",
-    "medtech",
+    "operations",
+    "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "4c19ec35dcc0d8",
+   "company": "Accenture",
+   "region": "UK",
+   "title": "Threat Monitoring Lead",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Threat-Monitoring-Lead_R00350678-1",
+   "posted": "Yesterday",
+   "posted_date": "2026-10-14",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 16,
+   "hits": [
     "strategy",
+    "operations",
+    "consulting",
+    "business operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "d382f8aeb8d025",
+   "company": "Accenture",
+   "region": "UK",
+   "title": "Planning, Performance and Insights (Senior Manager)",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Planning--Performance-and-Insights--Senior-Manager-_R00358937",
+   "posted": "Yesterday",
+   "posted_date": "2026-10-14",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 16,
+   "hits": [
+    "strategy",
+    "implementation",
     "transformation"
    ],
    "lang": null,
@@ -767,20 +1585,66 @@
    "baseline": false
   },
   {
-   "id": "4f46ef5e2b0aa6",
-   "company": "TomTom",
-   "region": "NL",
-   "title": "L&D and Talent Project Manager",
-   "location": "Amsterdam, The Netherlands",
-   "url": "https://www.tomtom.com/careers/jobdetails/e2dda03f-eba3-4295-b882-fe5a05810035/ld-and-talent-project-manager/",
-   "posted": null,
-   "posted_date": "2026-10-15",
-   "posted_approx": true,
+   "id": "9838835931dba7",
+   "company": "Accenture",
+   "region": "UK",
+   "title": "Applied AI Process Manager",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Transformation---Process-Excellence-Manager_R00343203",
+   "posted": "Yesterday",
+   "posted_date": "2026-10-14",
+   "posted_approx": false,
    "first_seen": "2026-10-15",
-   "score": 18,
+   "score": 16,
    "hits": [
-    "project manager",
-    "change management"
+    "strategy",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "bd75505230a966",
+   "company": "Publicis",
+   "region": "UK",
+   "title": "Senior Content Strategist (B2B)",
+   "location": "Chicago, Illinois; Atlanta, Georgia; Birmingham, Michigan; Miami, Florida / Wacker Drive",
+   "url": "https://careers.publicisgroupe.com/jobs/175391?lang=en-us",
+   "posted": "2026-10-12T20:28:00+0000",
+   "posted_date": "2026-10-12",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 16,
+   "hits": [
+    "strategy",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "3165226e6a40c1",
+   "company": "Deliveroo",
+   "region": "UK",
+   "title": "Senior Strategic Partnerships Manager, Deliveroo Express",
+   "location": "London, United Kingdom - Deliveroo",
+   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8205942",
+   "posted": "2026-10-15T11:39:39-04:00",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 16,
+   "hits": [
+    "strategy",
+    "operations"
    ],
    "lang": null,
    "visa": null,
@@ -812,6 +1676,71 @@
    "baseline": false
   },
   {
+   "id": "7c6c5d726afbe2",
+   "company": "Multiverse",
+   "region": "UK",
+   "title": "Workplace Manager",
+   "location": "London / UK",
+   "url": "https://jobs.ashbyhq.com/multiverse/4f768d54-8ed1-4eab-98a1-5dc77d645ad8",
+   "posted": "2026-10-15T12:34:41.201+00:00",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 14,
+   "hits": [
+    "operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "66963908b30f58",
+   "company": "Deliveroo",
+   "region": "UK",
+   "title": "External Affairs Associate",
+   "location": "London, United Kingdom - Deliveroo",
+   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8285406",
+   "posted": "2026-10-15T11:07:26-04:00",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 14,
+   "hits": [
+    "strategy",
+    "operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "1a17602812d8c1",
+   "company": "Amazon / AWS (UK)",
+   "region": "UK",
+   "title": "Construction Project Manager, EMEA Construction",
+   "location": "London, England, GBR",
+   "url": "https://www.amazon.jobs/en/jobs/10579745/construction-project-manager-emea-construction",
+   "posted": "October 15, 2026",
+   "posted_date": "2026-10-15",
+   "posted_approx": true,
+   "first_seen": "2026-10-15",
+   "score": 13,
+   "hits": [
+    "operations",
+    "project manager"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "be1712324dcbb3",
    "company": "GSK",
    "region": "UK",
@@ -826,6 +1755,74 @@
    "hits": [
     "strategy",
     "operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "2eb7045f5dc6d5",
+   "company": "Accenture",
+   "region": "UK",
+   "title": "Data Vis & AI Interaction Manager",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Data-Vis---AI-Interaction-Manager_R00306144",
+   "posted": "Yesterday",
+   "posted_date": "2026-10-14",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 12,
+   "hits": [
+    "strategy",
+    "operations",
+    "consulting"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "6a03398c71b3b6",
+   "company": "Publicis",
+   "region": "UK",
+   "title": "Programmatic Manager",
+   "location": "London, United Kingdom / 2 Television Centre",
+   "url": "https://careers.publicisgroupe.com/jobs/177057?lang=en-us",
+   "posted": "2026-10-15T11:33:00+0000",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 12,
+   "hits": [
+    "strategy",
+    "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "950b5b4811c025",
+   "company": "Wipro",
+   "region": "UK",
+   "title": "CRS Practice Specialist - UKI",
+   "location": "Greater London, GBR-LO, GBR / United Kingdom",
+   "url": "https://careers.wipro.com/job/CRS-Practice-Specialist-UKI/207463-en_US",
+   "posted": "10/15/26",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 12,
+   "hits": [
+    "operations",
+    "consulting",
+    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -883,7 +1880,7 @@
    "title": "FDA (Rust) Senior Associate",
    "location": "London",
    "url": "https://pwc.wd3.myworkdayjobs.com/CRM_Experienced_Careers_Site/job/London/FDA--Rust--Senior-Associate_767963WD",
-   "posted": "Yesterday",
+   "posted": "Today",
    "posted_date": "2026-10-14",
    "posted_approx": false,
    "first_seen": "2026-10-15",
@@ -919,6 +1916,27 @@
    "baseline": false
   },
   {
+   "id": "ca6a3be9259b8f",
+   "company": "Mumzworld",
+   "region": "ME",
+   "title": "E-Commerce Associate - Marketplace",
+   "location": "Riyadh / Saudi Arabia",
+   "url": "https://careers.mumzworld.com/jobs/8553625-e-commerce-associate-marketplace",
+   "posted": "Thu, 15 Oct 2026 18:56:20 +0400",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 10,
+   "hits": [
+    "operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "e7661fdaefe02a",
    "company": "EY Nederland",
    "region": "NL",
@@ -933,6 +1951,27 @@
    "hits": [
     "consulting",
     "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "8fc32e6716aa18",
+   "company": "Publicis",
+   "region": "UK",
+   "title": "Programmatic Manager",
+   "location": "London, United Kingdom / 2 Television Centre",
+   "url": "https://careers.publicisgroupe.com/jobs/176396?lang=en-us",
+   "posted": "2026-10-15T11:22:00+0000",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 8,
+   "hits": [
+    "strategy"
    ],
    "lang": null,
    "visa": null,
@@ -981,6 +2020,69 @@
    "baseline": false
   },
   {
+   "id": "88b2603adfd922",
+   "company": "Wise",
+   "region": "UK",
+   "title": "Senior Product Analyst (IC2), SEND",
+   "location": "London",
+   "url": "https://wise.jobs/job/senior-product-analyst-ic2-send-in-london-jid-4259",
+   "posted": "2026-10-15T10:02:58+00:00",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-15",
+   "score": 6,
+   "hits": [
+    "strategy"
+   ],
+   "lang": null,
+   "visa": "no",
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "8c6f2a54a3f59a",
+   "company": "Amazon / AWS (UK)",
+   "region": "UK",
+   "title": "APET Incident Imprv. Mgr. 12M FTC, EU Trust & Safety - Amazon Partner Escalations Team",
+   "location": "London, England, GBR",
+   "url": "https://www.amazon.jobs/en/jobs/10579840/apet-incident-imprv-mgr-12m-ftc-eu-trust-safety-amazon-partner-escalations-team",
+   "posted": "October 15, 2026",
+   "posted_date": "2026-10-15",
+   "posted_approx": true,
+   "first_seen": "2026-10-15",
+   "score": 5,
+   "hits": [
+    "operations"
+   ],
+   "lang": "Arabic",
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "38b0982173e9f4",
+   "company": "Amazon / AWS (UK)",
+   "region": "UK",
+   "title": "APET Incident Imprv. Mgr. 12m FTC, EU Trust & Safety - Amazon Partner Escalations Team",
+   "location": "London, England, GBR",
+   "url": "https://www.amazon.jobs/en/jobs/10579839/apet-incident-imprv-mgr-12m-ftc-eu-trust-safety-amazon-partner-escalations-team",
+   "posted": "October 15, 2026",
+   "posted_date": "2026-10-15",
+   "posted_approx": true,
+   "first_seen": "2026-10-15",
+   "score": 5,
+   "hits": [
+    "operations"
+   ],
+   "lang": "Arabic",
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "8afa4a91ca9500",
    "company": "Bupa Arabia",
    "region": "ME",
@@ -1001,11 +2103,11 @@
   },
   {
    "id": "884a0fde242e6f",
-   "company": "IQVIA",
+   "company": "Accenture",
    "region": "UK",
    "title": "",
    "location": "",
-   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers",
    "posted": null,
    "posted_date": "2026-10-15",
    "posted_approx": true,
@@ -1014,14 +2116,14 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
    "baseline": false
   },
   {
-   "id": "a0710b617f64a9",
-   "company": "Janssen NL",
-   "region": "NL",
+   "id": "884a0fde242e6f",
+   "company": "Janssen",
+   "region": "UK",
    "title": "",
    "location": "",
    "url": "https://jj.wd5.myworkdayjobs.com/JJ",
@@ -1033,26 +2135,26 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
    "baseline": false
   },
   {
-   "id": "a0710b617f64a9",
-   "company": "Accenture NL",
-   "region": "NL",
-   "title": "",
-   "location": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers",
-   "posted": null,
+   "id": "bbe4b6ef1e9ba8",
+   "company": "Amazon / AWS (UK)",
+   "region": "UK",
+   "title": "Design & Innovation Manager, Design & Innovation Team",
+   "location": "London, England, GBR",
+   "url": "https://www.amazon.jobs/en/jobs/10579676/design-innovation-manager-design-innovation-team",
+   "posted": "October 15, 2026",
    "posted_date": "2026-10-15",
    "posted_approx": true,
    "first_seen": "2026-10-15",
-   "score": 0,
+   "score": 2,
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
    "baseline": false
   },
@@ -1087,7 +2189,7 @@
    "title": "Change Transformation Consultant",
    "location": "",
    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London-30-Fenchurch-Street/Change-Transformation-Consultant_R00364368",
-   "posted": "Yesterday",
+   "posted": "Today",
    "posted_date": "2026-10-14",
    "posted_approx": false,
    "first_seen": "2026-10-14",
@@ -1348,7 +2450,7 @@
    "title": "Clinical Study Manager",
    "location": "6 Locations",
    "url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Spain-Madrid/Clinical-Study-Manager_JR162340",
-   "posted": "Yesterday",
+   "posted": "Today",
    "posted_date": "2026-10-14",
    "posted_approx": false,
    "first_seen": "2026-10-14",
@@ -1463,7 +2565,7 @@
    "title": "Patient Liaison Officer",
    "location": "London, United Kingdom",
    "url": "https://www.hcahealthcare.co.uk/careers/vacancy/0054493",
-   "posted": "2026-10-14",
+   "posted": "2026-10-15",
    "posted_date": "2026-10-14",
    "posted_approx": false,
    "first_seen": "2026-10-14",
@@ -2464,29 +3566,6 @@
    "baseline": false
   },
   {
-   "id": "d43920731e1e81",
-   "company": "Wipro",
-   "region": "UK",
-   "title": "LEAD ADMINISTRATOR L1(CONTRACT)",
-   "location": "London, GBR-37, GBR, SE1 9AX<br / > / United Kingdom",
-   "url": "https://careers.wipro.com/job/LEAD-ADMINISTRATOR-L1%28CONTRACT%29/195260-en_US",
-   "posted": "10/14/26",
-   "posted_date": "2026-10-14",
-   "posted_approx": false,
-   "first_seen": "2026-10-14",
-   "score": 9,
-   "hits": [
-    "operations",
-    "consulting",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "4950d1e60ff8d4",
    "company": "Accenture",
    "region": "UK",
@@ -3270,30 +4349,6 @@
    "baseline": true
   },
   {
-   "id": "ecccc377988f89",
-   "company": "Janssen",
-   "region": "UK",
-   "title": "VELYS Clinical Trainer | J&J MedTech | Orthopaedics | North East London-Cambridge-St Albans",
-   "location": "2 Locations",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Hertfordshire-England-United-Kingdom/VELYS-Clinical-Trainer---J-J-MedTech---Orthopaedics---North-East-London-Cambridge-St-Albans_R-102770-1",
-   "posted": "6 Days Ago",
-   "posted_date": "2026-10-09",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 44,
-   "hits": [
-    "healthcare",
-    "clinical",
-    "patient",
-    "hospital"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "78d7d5baba1981",
    "company": "Janssen",
    "region": "UK",
@@ -3334,30 +4389,6 @@
     "health care",
     "health",
     "strategy"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "4f2f32b1f32102",
-   "company": "Accenture",
-   "region": "UK",
-   "title": "Transformation Change Consultant",
-   "location": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Transformation-Change-Consultant_R00324637",
-   "posted": "2 Days Ago",
-   "posted_date": "2026-10-13",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 43,
-   "hits": [
-    "strategy",
-    "operations",
-    "consultant",
-    "consulting"
    ],
    "lang": null,
    "visa": null,
@@ -3452,30 +4483,6 @@
    "hits": [
     "strategy",
     "operations",
-    "consulting",
-    "implementation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "89e72efbcd6de8",
-   "company": "Wipro",
-   "region": "UK",
-   "title": "Implementation Consultant - Generalist (12 months contract, UK remote)",
-   "location": "Reading, GBR-RE, GBR / United Kingdom",
-   "url": "https://careers.wipro.com/job/Implementation-Consultant-Generalist-%2812-months-contract%2C-UK-remote%29/201495-en_US",
-   "posted": "9/22/26",
-   "posted_date": "2026-09-22",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 42,
-   "hits": [
-    "operations",
-    "consultant",
     "consulting",
     "implementation"
    ],
@@ -3755,7 +4762,7 @@
    "title": "HR Transformation Consultant",
    "location": "",
    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/HR-Transformation-Consultant_R00287677-1",
-   "posted": "17 Days Ago",
+   "posted": "Today",
    "posted_date": "2026-09-28",
    "posted_approx": false,
    "first_seen": "2026-10-13",
@@ -4558,6 +5565,30 @@
    "baseline": true
   },
   {
+   "id": "d46f6f6a43d0b8",
+   "company": "Accenture",
+   "region": "UK",
+   "title": "Talent Transformation Consultant",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Talent-Transformation-Consultant_R00325913",
+   "posted": "Today",
+   "posted_date": "2026-09-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 36,
+   "hits": [
+    "strategy",
+    "consultant",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "c5723f1dcfbfb7",
    "company": "Accenture",
    "region": "UK",
@@ -4574,30 +5605,6 @@
     "strategy",
     "operations",
     "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "d46f6f6a43d0b8",
-   "company": "Accenture",
-   "region": "UK",
-   "title": "Talent Transformation Consultant",
-   "location": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Talent-Transformation-Consultant_R00325913",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 36,
-   "hits": [
-    "strategy",
-    "consultant",
-    "consulting",
-    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -6053,6 +7060,30 @@
    "baseline": true
   },
   {
+   "id": "bbcffd4341d83e",
+   "company": "Accenture",
+   "region": "UK",
+   "title": "HR Transformation Senior Manager",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/HR-Transformation-Senior-Manager_R00343362",
+   "posted": "Today",
+   "posted_date": "2026-09-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 32,
+   "hits": [
+    "strategy",
+    "operations",
+    "consulting",
+    "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "c7e11809e7a0f7",
    "company": "Accenture",
    "region": "UK",
@@ -6236,30 +7267,6 @@
     "strategy",
     "operations",
     "consultant",
-    "implementation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "bbcffd4341d83e",
-   "company": "Accenture",
-   "region": "UK",
-   "title": "HR Transformation Senior Manager",
-   "location": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/HR-Transformation-Senior-Manager_R00343362",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 32,
-   "hits": [
-    "strategy",
-    "operations",
-    "consulting",
     "implementation"
    ],
    "lang": null,
@@ -7493,7 +8500,7 @@
    "title": "Transformation Change Manager",
    "location": "",
    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Transformation-Change-Manager_R00289968",
-   "posted": "30+ Days Ago",
+   "posted": "Today",
    "posted_date": "2026-09-13",
    "posted_approx": true,
    "first_seen": "2026-10-13",
@@ -7503,6 +8510,30 @@
     "operations",
     "consulting",
     "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "61840556f94940",
+   "company": "Accenture",
+   "region": "UK",
+   "title": "HR Transformation Manager",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/HR-Transformation-Manager_R00324633",
+   "posted": "Today",
+   "posted_date": "2026-09-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 31,
+   "hits": [
+    "strategy",
+    "operations",
+    "consulting",
+    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -7527,30 +8558,6 @@
     "operations",
     "consultant",
     "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "61840556f94940",
-   "company": "Accenture",
-   "region": "UK",
-   "title": "HR Transformation Manager",
-   "location": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/HR-Transformation-Manager_R00324633",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 31,
-   "hits": [
-    "strategy",
-    "operations",
-    "consulting",
-    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -8009,6 +9016,30 @@
    "baseline": true
   },
   {
+   "id": "32157eb84793af",
+   "company": "Accenture",
+   "region": "UK",
+   "title": "Learning & Workforce Reinvention - Management Consulting Manager",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Learning---Workforce-Reinvention---Management-Consulting-Manager_R00348362",
+   "posted": "Today",
+   "posted_date": "2026-09-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 30,
+   "hits": [
+    "strategy",
+    "consulting",
+    "implementation",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "636ee6fed90a1d",
    "company": "Accenture",
    "region": "UK",
@@ -8025,54 +9056,6 @@
     "operations",
     "consultant",
     "implementation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "dd6d57d7e51fa6",
-   "company": "Accenture",
-   "region": "UK",
-   "title": "Automotive Management Consultant",
-   "location": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Automotive-Management-Consultant_R00362436",
-   "posted": "9 Days Ago",
-   "posted_date": "2026-10-06",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 30,
-   "hits": [
-    "strategy",
-    "operations",
-    "consultant",
-    "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "32157eb84793af",
-   "company": "Accenture",
-   "region": "UK",
-   "title": "Learning & Workforce Reinvention - Management Consulting Manager",
-   "location": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Learning---Workforce-Reinvention---Management-Consulting-Manager_R00348362",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 30,
-   "hits": [
-    "strategy",
-    "consulting",
-    "implementation",
-    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -8177,6 +9160,29 @@
    "baseline": true
   },
   {
+   "id": "bdb496a02e0684",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Senior Consultant - AI Tech Transformation - TC - FS",
+   "location": "London, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/London-Senior-Consultant-AI-Tech-Transformation-TC-FS-E14-5EY/1436238233/",
+   "posted": null,
+   "posted_date": "2026-10-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 30,
+   "hits": [
+    "consultant",
+    "implementation",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "ef71b41cc59041",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
@@ -8217,29 +9223,6 @@
     "operations",
     "operational",
     "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "bdb496a02e0684",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "Senior Consultant - AI Tech Transformation - TC - FS",
-   "location": "London, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/London-Senior-Consultant-AI-Tech-Transformation-TC-FS-E14-5EY/1436238233/",
-   "posted": null,
-   "posted_date": "2026-10-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 30,
-   "hits": [
-    "consultant",
-    "implementation",
-    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -10427,53 +11410,6 @@
    "baseline": true
   },
   {
-   "id": "6e64c91722bea9",
-   "company": "Accenture",
-   "region": "UK",
-   "title": "Management Consultant - Utilities",
-   "location": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Management-Consultant---Utilities_R00354619",
-   "posted": "7 Days Ago",
-   "posted_date": "2026-10-08",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 26,
-   "hits": [
-    "strategy",
-    "operations",
-    "consultant",
-    "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "919a9564e31d4f",
-   "company": "Accenture",
-   "region": "UK",
-   "title": "Management Consulting Manager - Utilities",
-   "location": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Management-Consulting-Manager---Utilities_R00354581",
-   "posted": "8 Days Ago",
-   "posted_date": "2026-10-07",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 26,
-   "hits": [
-    "strategy",
-    "operations",
-    "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "ac64bdac86e84a",
    "company": "Accenture",
    "region": "UK",
@@ -11059,30 +11995,6 @@
    "baseline": true
   },
   {
-   "id": "1f70b1bf005719",
-   "company": "EY Nederland",
-   "region": "NL",
-   "title": "Senior Consultant Manufacturing Excellence",
-   "location": "Amsterdam, Netherlands",
-   "url": "https://careers.ey.com/ey/job/Amsterdam-Senior-Consultant-Manufacturing-Excellence-1083-HP/1444236933/",
-   "posted": null,
-   "posted_date": "2026-10-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 25,
-   "hits": [
-    "operations",
-    "consultant",
-    "implementation",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "db0f580cf362b0",
    "company": "EY Nederland",
    "region": "NL",
@@ -11097,6 +12009,30 @@
    "hits": [
     "strategy",
     "operations",
+    "implementation",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "1f70b1bf005719",
+   "company": "EY Nederland",
+   "region": "NL",
+   "title": "Senior Consultant Manufacturing Excellence",
+   "location": "Amsterdam, Netherlands",
+   "url": "https://careers.ey.com/ey/job/Amsterdam-Senior-Consultant-Manufacturing-Excellence-1083-HP/1444236933/",
+   "posted": null,
+   "posted_date": "2026-10-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 25,
+   "hits": [
+    "operations",
+    "consultant",
     "implementation",
     "transformation"
    ],
@@ -11280,7 +12216,7 @@
    "title": "Proposals Development Associate - All Levels",
    "location": "8 Locations",
    "url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Bulgaria-Sofia/Proposals-Development-Associate---All-Levels_JR162079",
-   "posted": "6 Days Ago",
+   "posted": "Today",
    "posted_date": "2026-10-09",
    "posted_approx": false,
    "first_seen": "2026-10-13",
@@ -11328,30 +12264,6 @@
    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Boston-Massachusetts-United-States-of-America/Executive-Oncology-Area-Business-Specialist--Hematology--New-England--East-Region----Johnson---Johnson-Innovative-Medicine_R-103908-1",
    "posted": "3 Days Ago",
    "posted_date": "2026-10-12",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 25,
-   "hits": [
-    "healthcare",
-    "patient",
-    "hospital",
-    "medtech"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "2f09c3f3830e78",
-   "company": "Janssen",
-   "region": "UK",
-   "title": "Product Specialist - Wound Closure, Western Sydney & Nepean",
-   "location": "North Ryde, New South Wales, Australia",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/North-Ryde-New-South-Wales-Australia/Product-Specialist---Wound-Closure--Western-Sydney---Nepean_R-100238",
-   "posted": "27 Days Ago",
-   "posted_date": "2026-09-18",
    "posted_approx": false,
    "first_seen": "2026-10-13",
    "score": 25,
@@ -11552,6 +12464,29 @@
    "baseline": true
   },
   {
+   "id": "c17f9b3109c377",
+   "company": "Accenture NL",
+   "region": "NL",
+   "title": "Consultant Grid Planning and Modelling - Dutch speaker",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Consultant-Grid-Planning-and-Modelling_R00340100",
+   "posted": "Today",
+   "posted_date": "2026-09-25",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 24,
+   "hits": [
+    "operations",
+    "consultant",
+    "consulting"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "7a3a864a85b4c8",
    "company": "Accenture NL",
    "region": "NL",
@@ -11576,29 +12511,6 @@
    "baseline": true
   },
   {
-   "id": "c17f9b3109c377",
-   "company": "Accenture NL",
-   "region": "NL",
-   "title": "Consultant Grid Planning and Modelling",
-   "location": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Consultant-Grid-Planning-and-Modelling_R00340100",
-   "posted": "20 Days Ago",
-   "posted_date": "2026-09-25",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 24,
-   "hits": [
-    "operations",
-    "consultant",
-    "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "ebca3f44d50b80",
    "company": "Accenture NL",
    "region": "NL",
@@ -11615,6 +12527,54 @@
     "operations",
     "consultant",
     "consulting"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "0626435c5fd891",
+   "company": "Accenture",
+   "region": "UK",
+   "title": "Core Supply Chain Manager/Associate Manager",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Core-Supply-Chain-Manager-Associate-Manager_R00362415",
+   "posted": "Today",
+   "posted_date": "2026-10-06",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 24,
+   "hits": [
+    "strategy",
+    "operations",
+    "consultant",
+    "consulting"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "f0af6050026cdf",
+   "company": "Accenture",
+   "region": "UK",
+   "title": "Talent Transformation Manager  - Security Clearance Required",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London-30-Fenchurch-Street/Talent-Transformation-Manager----Security-Clearance-Required_R00323104",
+   "posted": "Today",
+   "posted_date": "2026-09-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 24,
+   "hits": [
+    "strategy",
+    "operations",
+    "consulting",
+    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -11695,30 +12655,6 @@
    "baseline": true
   },
   {
-   "id": "0626435c5fd891",
-   "company": "Accenture",
-   "region": "UK",
-   "title": "Core Supply Chain Manager/Associate Manager",
-   "location": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Core-Supply-Chain-Manager-Associate-Manager_R00362415",
-   "posted": "9 Days Ago",
-   "posted_date": "2026-10-06",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 24,
-   "hits": [
-    "strategy",
-    "operations",
-    "consultant",
-    "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "e448b73a88319a",
    "company": "Accenture",
    "region": "UK",
@@ -11783,30 +12719,6 @@
     "operations",
     "consulting",
     "business analyst"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "f0af6050026cdf",
-   "company": "Accenture",
-   "region": "UK",
-   "title": "Talent Transformation Manager  - Security Clearance Required",
-   "location": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London-30-Fenchurch-Street/Talent-Transformation-Manager----Security-Clearance-Required_R00323104",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 24,
-   "hits": [
-    "strategy",
-    "operations",
-    "consulting",
-    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -14457,9 +15369,9 @@
    "id": "3a5e946376a7ed",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Business Transformation Senior - WAM, Wealth Management",
+   "title": "Business Transformation - WAM, Wealth Management Senior",
    "location": "New, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/New-York-Business-Transformation-Senior-WAM%2C-Wealth-Management-NY-10001-8604/1416893733/",
+   "url": "https://careers.ey.com/ey/job/New-York-Business-Transformation-WAM%2C-Wealth-Management-Senior-NY-10001-8604/1416893733/",
    "posted": null,
    "posted_date": "2026-10-13",
    "posted_approx": true,
@@ -16545,28 +17457,6 @@
    "baseline": false
   },
   {
-   "id": "669b375c712395",
-   "company": "Mumzworld",
-   "region": "ME",
-   "title": "Graduate Management Trainee – Operations",
-   "location": "Cairo / Egypt",
-   "url": "https://careers.mumzworld.com/jobs/8440636-graduate-management-trainee-operations",
-   "posted": "Wed, 23 Sep 2026 14:30:41 +0400",
-   "posted_date": "2026-09-23",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 21,
-   "hits": [
-    "operations",
-    "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "edc0d228c4e0f2",
    "company": "M42",
    "region": "ME",
@@ -17079,30 +17969,6 @@
     "strategy",
     "operations",
     "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "2365462c7c6550",
-   "company": "Accenture",
-   "region": "UK",
-   "title": "Supply Chain Innovation Manager",
-   "location": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Supply-Chain-Innovation-Manager_R00344044",
-   "posted": "13 Days Ago",
-   "posted_date": "2026-10-02",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 20,
-   "hits": [
-    "strategy",
-    "operations",
-    "consulting",
-    "implementation"
    ],
    "lang": null,
    "visa": null,
@@ -18208,30 +19074,6 @@
    "baseline": true
   },
   {
-   "id": "70d0ec940735f9",
-   "company": "Microsoft NL",
-   "region": "NL",
-   "title": "GTM Activation Manager - AI Business Solutions - DACH & Western Europe",
-   "location": "Netherlands, Multiple Locations, Multiple Locations / Ireland, Dublin, Dublin / Germany, Multiple Locations, Multiple Locations / Portugal, Multiple Locations, ",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557023825",
-   "posted": "2026-10-09T14:16:57+00:00",
-   "posted_date": "2026-10-09",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 20,
-   "hits": [
-    "strategy",
-    "operations",
-    "transformation",
-    "programme manager"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "8cdc5da2d5ce6e",
    "company": "Microsoft NL",
    "region": "NL",
@@ -18746,29 +19588,6 @@
    "score": 20,
    "hits": [
     "health"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "e2dc18758d9039",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Territory Manager, Structural Heart; Field Based Midlands",
-   "location": "United Kingdom >  Solihull : Remote",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Solihull--Remote/Territory-Manager--Structural-Heart--Field-Based-Midlands_31154483",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 20,
-   "hits": [
-    "healthcare",
-    "patient",
-    "strategy"
    ],
    "lang": null,
    "visa": null,
@@ -21307,28 +22126,6 @@
    "baseline": true
   },
   {
-   "id": "2adab5f0a23437",
-   "company": "Siemens Healthineers Middle East",
-   "region": "ME",
-   "title": "MEA Zone BPC Head- Diagnostics",
-   "location": "Dubai - United Arab Emirates",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100633/MEA-Zone-BPC-Head-Diagnostics",
-   "posted": "2026-10-07T11:50:15.768+0000",
-   "posted_date": "2026-10-07",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 18,
-   "hits": [
-    "healthcare",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "d4fea8cc8f4c65",
    "company": "Siemens Healthineers",
    "region": "UK",
@@ -21380,7 +22177,7 @@
    "title": "Digital Product Design Associate Manager",
    "location": "",
    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Digital-Product-Design-Associate-Manager_R00349521-1",
-   "posted": "3 Days Ago",
+   "posted": "Today",
    "posted_date": "2026-10-12",
    "posted_approx": false,
    "first_seen": "2026-10-13",
@@ -21527,30 +22324,6 @@
     "mental health",
     "operations",
     "implementation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "3df283ebaa4c4e",
-   "company": "PwC",
-   "region": "UK",
-   "title": "AI & Technology Strategist - Senior Manager",
-   "location": "London",
-   "url": "https://pwc.wd3.myworkdayjobs.com/CRM_Experienced_Careers_Site/job/London/AI---Technology-Strategist---Senior-Manager_767154WD-1",
-   "posted": "3 Days Ago",
-   "posted_date": "2026-10-12",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 17,
-   "hits": [
-    "strategy",
-    "operations",
-    "transformation",
-    "strategy and operations"
    ],
    "lang": null,
    "visa": null,
@@ -23735,27 +24508,6 @@
    "baseline": false
   },
   {
-   "id": "85451237f77419",
-   "company": "ICON",
-   "region": "UK",
-   "title": "Editorial Assistant",
-   "location": "UK, Reading",
-   "url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/UK-Reading/Editorial-Assistant_JR160882",
-   "posted": "22 Days Ago",
-   "posted_date": "2026-09-23",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 16,
-   "hits": [
-    "healthcare"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "5d8155591ef278",
    "company": "ICON",
    "region": "UK",
@@ -25162,28 +25914,6 @@
    "baseline": true
   },
   {
-   "id": "7ebb2e772effd6",
-   "company": "Microsoft",
-   "region": "UK",
-   "title": "Snr Solution Area Specialist - Consumer Goods",
-   "location": "United Kingdom, London, London",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557026557",
-   "posted": "2026-10-12T15:58:58+00:00",
-   "posted_date": "2026-10-12",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 14,
-   "hits": [
-    "strategy",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "8d26b309b6da6a",
    "company": "Salesforce",
    "region": "UK",
@@ -25444,27 +26174,6 @@
    "hits": [
     "strategy",
     "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "a76e3ca430e30b",
-   "company": "Amazon / AWS (UK)",
-   "region": "UK",
-   "title": "Coordinator, Audible Originals - 18-Month Contract",
-   "location": "London, England, GBR",
-   "url": "https://www.amazon.jobs/en/jobs/10499096/coordinator-audible-originals-18-month-contract",
-   "posted": "August 11, 2026",
-   "posted_date": "2026-10-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 14,
-   "hits": [
-    "operations"
    ],
    "lang": null,
    "visa": null,
@@ -26382,30 +27091,6 @@
    "baseline": true
   },
   {
-   "id": "9a38a11e90bc40",
-   "company": "Wipro",
-   "region": "UK",
-   "title": "ADMINISTRATOR L3(CONTRACT)",
-   "location": "London, GBR-37, GBR, SE1 9AX<br / > / United Kingdom",
-   "url": "https://careers.wipro.com/job/ADMINISTRATOR-L3%28CONTRACT%29/208360-en_US",
-   "posted": "10/8/26",
-   "posted_date": "2026-10-08",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 13,
-   "hits": [
-    "operations",
-    "consulting",
-    "implementation",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "7b53c5ef1a7092",
    "company": "Salesforce",
    "region": "UK",
@@ -26689,28 +27374,6 @@
     "strategy",
     "operations",
     "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "479ceaec436c93",
-   "company": "Accenture",
-   "region": "UK",
-   "title": "Litigation and Dispute Management Counsel",
-   "location": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Litigation-and-Dispute-Management-Counsel-Senior-Manager_R00363894-1",
-   "posted": "3 Days Ago",
-   "posted_date": "2026-10-12",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 12,
-   "hits": [
-    "strategy",
-    "operations"
    ],
    "lang": null,
    "visa": null,
@@ -31444,28 +32107,6 @@
    "baseline": true
   },
   {
-   "id": "d198d0e0755e9c",
-   "company": "Amazon / AWS (UK)",
-   "region": "UK",
-   "title": "Sr. Technical Trainer EMEA, eero",
-   "location": "London, England, GBR",
-   "url": "https://www.amazon.jobs/en/jobs/10449373/sr-technical-trainer-emea-eero",
-   "posted": "June 15, 2026",
-   "posted_date": "2026-10-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 8,
-   "hits": [
-    "strategy",
-    "implementation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "8989dd82982bd6",
    "company": "Amazon / AWS (UK)",
    "region": "UK",
@@ -34519,30 +35160,6 @@
    "baseline": false
   },
   {
-   "id": "af046ff209fc94",
-   "company": "IQVIA",
-   "region": "UK",
-   "title": "Data Acquisition Expert - EDC (Homebased UK/South Africa)",
-   "location": "6 Locations",
-   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Data-Acquisition-Expert---EDC--Homebased-UK-South-Africa-_R1555659-1",
-   "posted": "3 Days Ago",
-   "posted_date": "2026-10-12",
-   "posted_approx": false,
-   "first_seen": "2026-10-12",
-   "score": 23,
-   "hits": [
-    "healthcare",
-    "patient",
-    "population health",
-    "implementation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "ec0c8f8f5b4539",
    "company": "Baringa",
    "region": "UK",
@@ -34984,27 +35601,6 @@
    "baseline": false
   },
   {
-   "id": "d80c3573689355",
-   "company": "Stripe",
-   "region": "UK",
-   "title": "Manager, Technical Account Management",
-   "location": "Dublin / United Kingdom Locations",
-   "url": "https://stripe.com/jobs/search?gh_jid=7767222",
-   "posted": "2026-03-31T07:03:09-04:00",
-   "posted_date": "2026-03-31",
-   "posted_approx": false,
-   "first_seen": "2026-10-10",
-   "score": 8,
-   "hits": [
-    "strategy"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "d78ab72b5b6702",
    "company": "Multiverse",
    "region": "UK",
@@ -35434,30 +36030,6 @@
    "baseline": false
   },
   {
-   "id": "db9bc3755a8e33",
-   "company": "Starling Bank",
-   "region": "UK",
-   "title": "Senior Creative Operations Manager",
-   "location": "London, England, United Kingdom",
-   "url": "https://apply.workable.com/starling-bank/j/2D9C9DEB90/",
-   "posted": "2026-10-08T00:00:00.000Z",
-   "posted_date": "2026-10-08",
-   "posted_approx": false,
-   "first_seen": "2026-10-08",
-   "score": 42,
-   "hits": [
-    "mental health",
-    "strategy",
-    "operations",
-    "operations manager"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "e676495ed9be72",
    "company": "Baringa",
    "region": "UK",
@@ -35648,29 +36220,6 @@
    "baseline": false
   },
   {
-   "id": "02289a761b4663",
-   "company": "Version 1",
-   "region": "UK",
-   "title": "Senior User Researcher SC Cleared - Inside IR35 Contract",
-   "location": "London, Birmingham, Manchester, Newcastle upon Tyne, Edinburgh, Belfast, gb",
-   "url": "https://jobs.smartrecruiters.com/version1/744000154491939",
-   "posted": "2026-10-08T16:43:14.271Z",
-   "posted_date": "2026-10-08",
-   "posted_approx": false,
-   "first_seen": "2026-10-08",
-   "score": 16,
-   "hits": [
-    "strategy",
-    "consultant",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "ccbdf1159e7c88",
    "company": "Multiverse",
    "region": "UK",
@@ -35685,28 +36234,6 @@
    "hits": [
     "mental health",
     "strategy"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "e464208c598e37",
-   "company": "ING",
-   "region": "NL",
-   "title": "Product Owner Global Equity Listed Products (FMGT)",
-   "location": "TRC (Amsterdam - Treasury Center)",
-   "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/TRC-Amsterdam---Treasury-Center/Product-Owner-Global-Equity-Listed-Products--FMGT-_REQ-10114191-3",
-   "posted": "7 Days Ago",
-   "posted_date": "2026-10-08",
-   "posted_approx": false,
-   "first_seen": "2026-10-08",
-   "score": 14,
-   "hits": [
-    "strategy",
-    "operations"
    ],
    "lang": null,
    "visa": null,
@@ -37251,28 +37778,6 @@
    "baseline": false
   },
   {
-   "id": "5fd76ed3be8cf0",
-   "company": "Monzo",
-   "region": "UK",
-   "title": "Controls Product Senior Manager",
-   "location": "London; Remote (UK)",
-   "url": "https://job-boards.greenhouse.io/monzo/jobs/8245673",
-   "posted": "2026-10-02T04:42:49-04:00",
-   "posted_date": "2026-10-02",
-   "posted_approx": false,
-   "first_seen": "2026-10-02",
-   "score": 14,
-   "hits": [
-    "strategy",
-    "operations"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "9511229b57ad01",
    "company": "Databricks NL",
    "region": "NL",
@@ -37535,7 +38040,7 @@
    "id": "2c40bd5bbd10fb",
    "company": "Baringa",
    "region": "UK",
-   "title": "Personal Assistant - 12 month FTC",
+   "title": "Personal Assistant",
    "location": "London, United Kingdom",
    "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/4822552101",
    "posted": "2026-03-25T13:03:57-04:00",
@@ -38146,30 +38651,6 @@
    ],
    "lang": null,
    "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "a5a238592f4df1",
-   "company": "IQVIA",
-   "region": "UK",
-   "title": "Lead Generation Agent",
-   "location": "Reading, Berkshire, United Kingdom",
-   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Lead-Generation-Agent_R1571559",
-   "posted": "16 Days Ago",
-   "posted_date": "2026-09-29",
-   "posted_approx": false,
-   "first_seen": "2026-09-29",
-   "score": 23,
-   "hits": [
-    "healthcare",
-    "patient",
-    "nhs",
-    "population health"
-   ],
-   "lang": null,
-   "visa": "no",
    "details": true,
    "lang_checked": true,
    "baseline": false
@@ -39198,30 +39679,6 @@
     "operations",
     "consultant",
     "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "f5785e6f1dc9cd",
-   "company": "Baringa",
-   "region": "UK",
-   "title": "Senior Manager- Asset Management and Operations",
-   "location": "London, United Kingdom; Remote, United Kingdom",
-   "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/4932877101",
-   "posted": "2026-07-24T08:56:12-04:00",
-   "posted_date": "2026-07-24",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 35,
-   "hits": [
-    "strategy",
-    "operations",
-    "consulting",
-    "implementation"
    ],
    "lang": null,
    "visa": null,
@@ -40717,30 +41174,6 @@
    "baseline": false
   },
   {
-   "id": "42aa377764d8fe",
-   "company": "Version 1",
-   "region": "UK",
-   "title": "Service Delivery Manager - Dublin",
-   "location": "Dublin, England, ie",
-   "url": "https://jobs.smartrecruiters.com/version1/744000151558403",
-   "posted": "2026-09-24T08:37:04.759Z",
-   "posted_date": "2026-09-24",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 25,
-   "hits": [
-    "healthcare",
-    "operations",
-    "transformation",
-    "service delivery"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "db35d66216c83a",
    "company": "Version 1",
    "region": "UK",
@@ -41417,29 +41850,6 @@
     "operations",
     "consultant",
     "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "18656bd781078f",
-   "company": "Baringa",
-   "region": "UK",
-   "title": "Marketing Programme Lead (FTC)",
-   "location": "London, United Kingdom",
-   "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/4911608101",
-   "posted": "2026-06-30T04:04:33-04:00",
-   "posted_date": "2026-06-30",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 23,
-   "hits": [
-    "strategy",
-    "consulting",
-    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -43023,29 +43433,6 @@
    "baseline": false
   },
   {
-   "id": "0c91483b3268da",
-   "company": "Deliveroo",
-   "region": "UK",
-   "title": "Senior Manager, Commercial Enablement",
-   "location": "London, England / London, United Kingdom - Deliveroo",
-   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206007",
-   "posted": "2026-09-18T09:54:06-04:00",
-   "posted_date": "2026-09-18",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 16,
-   "hits": [
-    "strategy",
-    "operations",
-    "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "ff63066f307042",
    "company": "Deliveroo",
    "region": "UK",
@@ -44255,13 +44642,13 @@
    "baseline": false
   },
   {
-   "id": "fddc3e59949d98",
+   "id": "46f817c03b29f9",
    "company": "Datadog",
    "region": "UK",
    "title": "Global Safety & Security Manager",
-   "location": "Sydney, Australia / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
-   "url": "https://careers.datadoghq.com/detail/8224963/?gh_jid=8224963",
-   "posted": "2026-09-23T22:03:12-04:00",
+   "location": "Singapore, Singapore / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
+   "url": "https://careers.datadoghq.com/detail/8223272/?gh_jid=8223272",
+   "posted": "2026-09-23T21:51:51-04:00",
    "posted_date": "2026-09-23",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -44276,13 +44663,13 @@
    "baseline": false
   },
   {
-   "id": "46f817c03b29f9",
+   "id": "fddc3e59949d98",
    "company": "Datadog",
    "region": "UK",
    "title": "Global Safety & Security Manager",
-   "location": "Singapore, Singapore / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
-   "url": "https://careers.datadoghq.com/detail/8223272/?gh_jid=8223272",
-   "posted": "2026-09-23T21:51:51-04:00",
+   "location": "Sydney, Australia / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
+   "url": "https://careers.datadoghq.com/detail/8224963/?gh_jid=8224963",
+   "posted": "2026-09-23T22:03:12-04:00",
    "posted_date": "2026-09-23",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -45286,6 +45673,25 @@
    "baseline": false
   },
   {
+   "id": "a8be7cd2eb02f7",
+   "company": "Datadog",
+   "region": "UK",
+   "title": "Principal GSI Partner Manager - Accenture (EMEA)",
+   "location": "London, United Kingdom / Amsterdam Amsterdam, Noord-Holland, Netherlands / London London, Greater London, England, United Kingdom / Paris Paris, Paris, France /",
+   "url": "https://careers.datadoghq.com/detail/8219989/?gh_jid=8219989",
+   "posted": "2026-09-21T04:54:47-04:00",
+   "posted_date": "2026-09-21",
+   "posted_approx": false,
+   "first_seen": "2026-09-27",
+   "score": 2,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "cc79a4f82bba3e",
    "company": "Datadog",
    "region": "UK",
@@ -45305,14 +45711,14 @@
    "baseline": false
   },
   {
-   "id": "a8be7cd2eb02f7",
+   "id": "02fd40c71dbb50",
    "company": "Datadog",
    "region": "UK",
-   "title": "Principal GSI Partner Manager - Accenture (EMEA)",
-   "location": "London, United Kingdom / Amsterdam Amsterdam, Noord-Holland, Netherlands / London London, Greater London, England, United Kingdom / Paris Paris, Paris, France /",
-   "url": "https://careers.datadoghq.com/detail/8219989/?gh_jid=8219989",
-   "posted": "2026-09-21T04:54:47-04:00",
-   "posted_date": "2026-09-21",
+   "title": "Principal Partner Manager - Channels (UKI)",
+   "location": "London, United Kingdom / London London, Greater London, England, United Kingdom / Remote - UK United Kingdom",
+   "url": "https://careers.datadoghq.com/detail/8082007/?gh_jid=8082007",
+   "posted": "2026-07-28T07:49:19-04:00",
+   "posted_date": "2026-07-28",
    "posted_approx": false,
    "first_seen": "2026-09-27",
    "score": 2,
@@ -45351,25 +45757,6 @@
    "url": "https://careers.datadoghq.com/detail/8166231/?gh_jid=8166231",
    "posted": "2026-09-04T06:56:39-04:00",
    "posted_date": "2026-09-04",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 2,
-   "hits": [],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "02fd40c71dbb50",
-   "company": "Datadog",
-   "region": "UK",
-   "title": "Senior Partner Manager - Channels (UKI)",
-   "location": "London, United Kingdom / London London, Greater London, England, United Kingdom / Remote - UK United Kingdom",
-   "url": "https://careers.datadoghq.com/detail/8082007/?gh_jid=8082007",
-   "posted": "2026-07-28T07:49:19-04:00",
-   "posted_date": "2026-07-28",
    "posted_approx": false,
    "first_seen": "2026-09-27",
    "score": 2,
@@ -46191,9 +46578,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 118,
-   "in_region": 118,
-   "kept": 36
+   "total": 121,
+   "in_region": 121,
+   "kept": 35
   },
   {
    "companies": [
@@ -46202,9 +46589,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 447,
-   "in_region": 447,
-   "kept": 186
+   "total": 456,
+   "in_region": 456,
+   "kept": 187
   },
   {
    "companies": [
@@ -46222,8 +46609,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 236,
-   "in_region": 72,
+   "total": 237,
+   "in_region": 71,
    "kept": 28
   },
   {
@@ -46244,9 +46631,9 @@
    ],
    "source": "amazon",
    "error": null,
-   "total": 791,
-   "in_region": 791,
-   "kept": 304
+   "total": 807,
+   "in_region": 807,
+   "kept": 308
   },
   {
    "companies": [
@@ -46254,7 +46641,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 647,
+   "total": 649,
    "in_region": 59,
    "kept": 13
   },
@@ -46264,8 +46651,8 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 78,
-   "in_region": 78,
+   "total": 79,
+   "in_region": 79,
    "kept": 33
   },
   {
@@ -46274,9 +46661,9 @@
    ],
    "source": "atlassian",
    "error": null,
-   "total": 363,
+   "total": 358,
    "in_region": 67,
-   "kept": 15
+   "kept": 16
   },
   {
    "companies": [
@@ -46285,9 +46672,9 @@
    ],
    "source": "phenom",
    "error": null,
-   "total": 141,
-   "in_region": 141,
-   "kept": 67
+   "total": 143,
+   "in_region": 143,
+   "kept": 68
   },
   {
    "companies": [
@@ -46305,8 +46692,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 98,
-   "in_region": 41,
+   "total": 100,
+   "in_region": 43,
    "kept": 29
   },
   {
@@ -46315,7 +46702,7 @@
    ],
    "source": "eightfold",
    "error": null,
-   "total": 620,
+   "total": 627,
    "in_region": 0,
    "kept": 0
   },
@@ -46345,7 +46732,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 73,
+   "total": 74,
    "in_region": 4,
    "kept": 0
   },
@@ -46426,7 +46813,7 @@
    ],
    "source": "recruitee",
    "error": null,
-   "total": 6,
+   "total": 7,
    "in_region": 6,
    "kept": 5
   },
@@ -46446,8 +46833,8 @@
    ],
    "source": "smartrecruiters",
    "error": null,
-   "total": 463,
-   "in_region": 289,
+   "total": 466,
+   "in_region": 291,
    "kept": 6
   },
   {
@@ -46466,8 +46853,8 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 31,
-   "in_region": 31,
+   "total": 33,
+   "in_region": 33,
    "kept": 9
   },
   {
@@ -46487,7 +46874,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 894,
+   "total": 895,
    "in_region": 91,
    "kept": 8
   },
@@ -46497,7 +46884,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 435,
+   "total": 439,
    "in_region": 44,
    "kept": 15
   },
@@ -46507,9 +46894,9 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 217,
-   "in_region": 151,
-   "kept": 31
+   "total": 223,
+   "in_region": 158,
+   "kept": 34
   },
   {
    "companies": [
@@ -46517,8 +46904,8 @@
    ],
    "source": "page",
    "error": null,
-   "total": 19,
-   "in_region": 19,
+   "total": 18,
+   "in_region": 18,
    "kept": 3,
    "method": "structured data on job pages"
   },
@@ -46550,9 +46937,9 @@
    ],
    "source": "rmk_html",
    "error": null,
-   "total": 1254,
-   "in_region": 1254,
-   "kept": 112
+   "total": 1265,
+   "in_region": 1265,
+   "kept": 114
   },
   {
    "companies": [
@@ -46590,7 +46977,7 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 60,
+   "total": 63,
    "in_region": 0,
    "kept": 0
   },
@@ -46611,7 +46998,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 24,
+   "total": 22,
    "in_region": 14,
    "kept": 2
   },
@@ -46641,8 +47028,8 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 93,
-   "in_region": 93,
+   "total": 98,
+   "in_region": 98,
    "kept": 24
   },
   {
@@ -46651,8 +47038,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 31,
-   "in_region": 15,
+   "total": 32,
+   "in_region": 16,
    "kept": 0
   },
   {
@@ -46661,9 +47048,9 @@
    ],
    "source": "yext_hca",
    "error": null,
-   "total": 41,
-   "in_region": 41,
-   "kept": 33
+   "total": 42,
+   "in_region": 42,
+   "kept": 34
   },
   {
    "companies": [
@@ -46701,9 +47088,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 115,
-   "in_region": 115,
-   "kept": 80
+   "total": 116,
+   "in_region": 116,
+   "kept": 82
   },
   {
    "companies": [
@@ -46713,7 +47100,7 @@
    "error": null,
    "total": 50,
    "in_region": 50,
-   "kept": 16
+   "kept": 15
   },
   {
    "companies": [
@@ -46723,9 +47110,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 307,
-   "in_region": 307,
-   "kept": 82
+   "total": 308,
+   "in_region": 308,
+   "kept": 81
   },
   {
    "companies": [
@@ -46753,8 +47140,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 109,
-   "in_region": 53,
+   "total": 108,
+   "in_region": 52,
    "kept": 10
   },
   {
@@ -46765,9 +47152,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 177,
-   "in_region": 177,
-   "kept": 66
+   "total": 185,
+   "in_region": 185,
+   "kept": 69
   },
   {
    "companies": [
@@ -46785,8 +47172,8 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 88,
-   "in_region": 88,
+   "total": 92,
+   "in_region": 92,
    "kept": 47
   },
   {
@@ -46815,8 +47202,8 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 68,
-   "in_region": 62,
+   "total": 66,
+   "in_region": 61,
    "kept": 24
   },
   {
@@ -46866,9 +47253,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 81,
-   "in_region": 81,
-   "kept": 35
+   "total": 84,
+   "in_region": 84,
+   "kept": 37
   },
   {
    "companies": [
@@ -46898,8 +47285,8 @@
    "source": "pcsx",
    "error": null,
    "total": 107,
-   "in_region": 97,
-   "kept": 31
+   "in_region": 98,
+   "kept": 29
   },
   {
    "companies": [
@@ -46917,8 +47304,8 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 49,
-   "in_region": 17,
+   "total": 47,
+   "in_region": 16,
    "kept": 4
   },
   {
@@ -46927,9 +47314,9 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 68,
-   "in_region": 54,
-   "kept": 10
+   "total": 69,
+   "in_region": 55,
+   "kept": 9
   },
   {
    "companies": [
@@ -46937,9 +47324,9 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 27,
-   "in_region": 27,
-   "kept": 16
+   "total": 28,
+   "in_region": 28,
+   "kept": 17
   },
   {
    "companies": [
@@ -46957,7 +47344,7 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 129,
+   "total": 130,
    "in_region": 42,
    "kept": 18
   },
@@ -46967,8 +47354,8 @@
    ],
    "source": "eightfold",
    "error": null,
-   "total": 436,
-   "in_region": 2,
+   "total": 425,
+   "in_region": 3,
    "kept": 0
   },
   {
@@ -46977,9 +47364,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 27,
-   "in_region": 27,
-   "kept": 9
+   "total": 29,
+   "in_region": 29,
+   "kept": 11
   },
   {
    "companies": [
@@ -47017,7 +47404,7 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 804,
+   "total": 802,
    "in_region": 33,
    "kept": 8
   },
@@ -47048,7 +47435,7 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 99,
+   "total": 102,
    "in_region": 0,
    "kept": 0
   },
@@ -47058,7 +47445,7 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 36,
+   "total": 35,
    "in_region": 2,
    "kept": 0
   },
@@ -47069,8 +47456,8 @@
    ],
    "source": "lever",
    "error": null,
-   "total": 314,
-   "in_region": 43,
+   "total": 312,
+   "in_region": 42,
    "kept": 7
   },
   {
@@ -47121,8 +47508,8 @@
    ],
    "source": "lever",
    "error": null,
-   "total": 141,
-   "in_region": 33,
+   "total": 140,
+   "in_region": 32,
    "kept": 9
   },
   {
@@ -47141,9 +47528,9 @@
    ],
    "source": "jibe",
    "error": null,
-   "total": 3179,
-   "in_region": 260,
-   "kept": 111
+   "total": 3189,
+   "in_region": 264,
+   "kept": 115
   },
   {
    "companies": [
@@ -47152,9 +47539,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 356,
-   "in_region": 356,
-   "kept": 80
+   "total": 355,
+   "in_region": 355,
+   "kept": 82
   },
   {
    "companies": [
@@ -47172,7 +47559,7 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 1266,
+   "total": 1272,
    "in_region": 0,
    "kept": 0
   },
@@ -47182,8 +47569,8 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 94,
-   "in_region": 94,
+   "total": 95,
+   "in_region": 95,
    "kept": 22
   },
   {
@@ -47192,8 +47579,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 57,
-   "in_region": 56,
+   "total": 56,
+   "in_region": 55,
    "kept": 5
   },
   {
@@ -47213,9 +47600,9 @@
    ],
    "source": "smartrecruiters",
    "error": null,
-   "total": 674,
+   "total": 680,
    "in_region": 28,
-   "kept": 14
+   "kept": 13
   },
   {
    "companies": [
@@ -47236,8 +47623,8 @@
    ],
    "source": "phenom",
    "error": null,
-   "total": 35,
-   "in_region": 35,
+   "total": 36,
+   "in_region": 36,
    "kept": 17
   },
   {
@@ -47266,7 +47653,7 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 28,
+   "total": 27,
    "in_region": 3,
    "kept": 1
   },
@@ -47276,9 +47663,9 @@
    ],
    "source": "workable",
    "error": null,
-   "total": 49,
-   "in_region": 47,
-   "kept": 15
+   "total": 48,
+   "in_region": 46,
+   "kept": 14
   },
   {
    "companies": [
@@ -47296,9 +47683,9 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 727,
-   "in_region": 63,
-   "kept": 21
+   "total": 728,
+   "in_region": 61,
+   "kept": 20
   },
   {
    "companies": [
@@ -47306,8 +47693,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 333,
-   "in_region": 89,
+   "total": 332,
+   "in_region": 85,
    "kept": 5
   },
   {
@@ -47326,8 +47713,8 @@
    ],
    "source": "smartrecruiters",
    "error": null,
-   "total": 524,
-   "in_region": 29,
+   "total": 520,
+   "in_region": 28,
    "kept": 2
   },
   {
@@ -47346,7 +47733,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 42,
+   "total": 43,
    "in_region": 7,
    "kept": 3
   },
@@ -47356,9 +47743,9 @@
    ],
    "source": "tomtom",
    "error": null,
-   "total": 21,
+   "total": 17,
    "in_region": 8,
-   "kept": 2
+   "kept": 1
   },
   {
    "companies": [
@@ -47366,9 +47753,9 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 31,
-   "in_region": 31,
-   "kept": 6
+   "total": 33,
+   "in_region": 33,
+   "kept": 7
   },
   {
    "companies": [
@@ -47406,7 +47793,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 315,
+   "total": 316,
    "in_region": 17,
    "kept": 2
   },
@@ -47418,7 +47805,7 @@
    "error": null,
    "total": 164,
    "in_region": 95,
-   "kept": 36
+   "kept": 34
   },
   {
    "companies": [
@@ -47437,8 +47824,8 @@
    "source": "sf_rmk",
    "error": null,
    "total": 400,
-   "in_region": 50,
-   "kept": 19
+   "in_region": 49,
+   "kept": 17
   },
   {
    "companies": [
@@ -47446,9 +47833,9 @@
    ],
    "source": "page",
    "error": null,
-   "total": 12,
-   "in_region": 6,
-   "kept": 0,
+   "total": 11,
+   "in_region": 3,
+   "kept": 1,
    "method": "structured data on job pages"
   },
   {
@@ -47477,8 +47864,8 @@
    ],
    "source": "recruitee",
    "error": null,
-   "total": 47,
-   "in_region": 36,
+   "total": 48,
+   "in_region": 37,
    "kept": 4
   },
   {
@@ -47487,7 +47874,7 @@
    ],
    "source": "jibe",
    "error": null,
-   "total": 293,
+   "total": 289,
    "in_region": 13,
    "kept": 8
   },
@@ -47507,8 +47894,8 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 12,
-   "in_region": 12,
+   "total": 13,
+   "in_region": 13,
    "kept": 5
   },
   {
@@ -47525,8 +47912,8 @@
  "counts": {
   "companies": 215,
   "feeds": 126,
-  "jobs": 2021,
-  "new_today": 40,
+  "jobs": 2038,
+  "new_today": 53,
   "pages": 5
  },
  "coverage": {

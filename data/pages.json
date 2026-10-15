@@ -2,13 +2,13 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "f0a7e4c242610ef127a1d791c23921ad4d4ab7e4",
+  "hash": "4d06f38ed44baed8a8a29f223a160ce57ce4cd7f",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Junior-Delivery-Manager-Defence-and-Security/25120": "Agile Junior Delivery Manager, Defence and Security",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-and-Data-Architect-Strategy-Governance-Architecture-AI-Data/24375": "AI and Data Architect, Strategy, Governance & Architecture, AI & Data",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Application-Architect-Senior-Manager-AI-and-Cloud-Engineering/25331": "AI Application Architect, Senior Manager, AI and Cloud Engineering",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Engineer-Forensic-Financial-Crime-Technology-Advisory-and-Data-Analytics/25246": "AI Engineer, Forensic & Financial Crime Technology Advisory and Data Analytics",
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Engineer-Forensic-and-Financial-Crime-Technology-Advisory-and-Data-Analytics/25246": "AI Engineer, Forensic and Financial Crime Technology Advisory and Data Analytics",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Engineer-Manager-Digital-Innovation/25207": "AI Engineer, Manager, Digital Innovation",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Governance-Lead-Manager-Financial-Services/24374": "AI Governance Lead, Manager, Financial Services",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Analyst-Client-and-Engagement-Set-up/25303": "Analyst, Client and Engagement Set-up",
@@ -21,12 +21,11 @@
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Equity-Capital-Markets-Finance-and-Transaction-Management-Office-EFT-M-A/24941": "Assistant Director, Equity Capital Markets, Finance, and Transaction Management Office (EFT), M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Equity-Capital-Markets-Finance-and-Transaction-Management-Office-EFT-M-A/24259": "Assistant Director, Equity Capital Markets, Finance, and Transaction Management Office (EFT), M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-M-A/24358": "Assistant Director, Financial Due Diligence - Financial Services, M&A",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-Manchester/25282": "Assistant Director, Financial Due Diligence, Financial Services, Manchester",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Insurance-Legal-Entity-Structuring-Strategy-Risk-Transactions-Advisory/23790": "Assistant Director, Insurance Legal Entity Structuring, Strategy Risk & Transactions Advisory"
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-Manchester/25282": "Assistant Director, Financial Due Diligence, Financial Services, Manchester"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-15T10:01:01+00:00",
+  "checked": "2026-10-15T17:21:46+00:00",
   "error": null,
   "changed_on": "2026-10-15",
   "new_links": {},
@@ -35,31 +34,27 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "81f39d22380a1c822d0dd01082a1d2c8fa99da99",
+  "hash": "78db8c610abb4f49e5f0fe0bc3e747ae1c9d4d03",
   "postings": {
-   "https://wise.jobs/job/workforce-management-lead-in-hyderabad-jid-4326": "Workforce Management Lead",
-   "https://wise.jobs/job/senior-product-engineer-ii-in-london-jid-4325": "Senior Product Engineer II",
-   "https://wise.jobs/job/senior-product-engineer-partner-experience-in-london-jid-3781": "Senior Product Engineer - Partner Experience",
-   "https://wise.jobs/job/engineering-manager-in-london-jid-4324": "Engineering Manager",
-   "https://wise.jobs/job/engineering-lead-send-for-partners-in-london-jid-3751": "Engineering Lead - Send for Partners",
-   "https://wise.jobs/job/fincrime-operations-team-lead-screening-in-hyderabad-jid-4290": "FinCrime Operations Team Lead - Screening",
-   "https://wise.jobs/job/senior-software-developer-ii-wise-for-banks-in-london-jid-4171": "Senior Software Developer II - Wise for Banks",
-   "https://wise.jobs/job/senior-software-engineer-i-wise-for-enterprise-banks-in-london-jid-3184": "Senior Software Engineer I - Wise for Enterprise - Banks",
-   "https://wise.jobs/job/customer-support-specialist-in-hyderabad-jid-4138": "Customer Support Specialist",
-   "https://wise.jobs/job/head-of-sox-testing-in-hyderabad-jid-3767": "Head of SOX Testing",
-   "https://wise.jobs/job/regulatory-product-compliance-manager-in-austin-jid-4322": "Regulatory Product Compliance Manager",
-   "https://wise.jobs/job/financial-services-representative-assets-requires-finra-series-7-in-austin-jid-4065": "Financial Services Representative, Assets (Requires FINRA Series 7)"
+   "https://wise.jobs/job/fincrime-operations-analyst-aml-investigations-in-sao-paulo-jid-4333": "FinCrime Operations Analyst - AML Investigations",
+   "https://wise.jobs/job/tax-manager-in-austin-jid-4332": "Tax Manager",
+   "https://wise.jobs/job/data-science-lead-dsl1-in-london-jid-4330": "Data Science Lead – DSL1",
+   "https://wise.jobs/job/senior-software-engineer-ic3-backend-in-hyderabad-jid-4329": "Senior Software Engineer (IC3 - Backend)",
+   "https://wise.jobs/job/internal-audit-manager-safeguarding-cass-in-london-jid-3935": "Internal Audit Manager - Safeguarding/CASS",
+   "https://wise.jobs/job/procurement-operations-manager-in-budapest-jid-4017": "Procurement Operations Manager",
+   "https://wise.jobs/job/fincrime-investigator-aml-investigations-in-budapest-jid-4328": "FinCrime Investigator - AML Investigations",
+   "https://wise.jobs/job/senior-procurement-manager-professional-services-in-budapest-jid-4048": "Senior Procurement Manager - Professional Services",
+   "https://wise.jobs/job/fincrime-operations-team-lead-aml-investigations-in-budapest-jid-4327": "FinCrime Operations Team Lead - AML Investigations",
+   "https://wise.jobs/job/senior-product-analyst-ic2-send-in-london-jid-4259": "Senior Product Analyst (IC2), SEND",
+   "https://wise.jobs/job/workforce-management-lead-in-hyderabad-jid-4326": "Workforce Management Lead"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-15T10:01:01+00:00",
+  "checked": "2026-10-15T17:21:46+00:00",
   "error": null,
   "changed_on": "2026-10-15",
   "new_links": {
-   "https://wise.jobs/job/workforce-management-lead-in-hyderabad-jid-4326": "Workforce Management Lead",
-   "https://wise.jobs/job/fincrime-operations-team-lead-screening-in-hyderabad-jid-4290": "FinCrime Operations Team Lead - Screening",
-   "https://wise.jobs/job/customer-support-specialist-in-hyderabad-jid-4138": "Customer Support Specialist",
-   "https://wise.jobs/job/regulatory-product-compliance-manager-in-austin-jid-4322": "Regulatory Product Compliance Manager"
+   "https://wise.jobs/job/senior-product-analyst-ic2-send-in-london-jid-4259": "Senior Product Analyst (IC2), SEND"
   },
   "new_on": "2026-10-15"
  },
@@ -87,7 +82,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-15T10:01:01+00:00",
+  "checked": "2026-10-15T17:21:46+00:00",
   "error": null,
   "changed_on": "2026-10-15",
   "new_links": {},
@@ -103,7 +98,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-15T10:01:01+00:00",
+  "checked": "2026-10-15T17:21:46+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -112,7 +107,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "dd1d89ae83c31c574d4cf03bba8b770f90ae8493",
+  "hash": "4968d9a8000aeade2dc7cc7d381e4c0a3c2b27e2",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-sme-capabilities-1100090166/": "Manager - SME Capabilities",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-registrar-internal-medicine-1100042306/": "Senior Registrar - Internal Medicine",
@@ -127,7 +122,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-15T10:01:01+00:00",
+  "checked": "2026-10-15T17:21:46+00:00",
   "error": null,
   "changed_on": "2026-10-15",
   "new_links": {
