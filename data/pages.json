@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "4d06f38ed44baed8a8a29f223a160ce57ce4cd7f",
+  "hash": "dd12d4a99358e10e355ffc0356376d2e52748343",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Junior-Delivery-Manager-Defence-and-Security/25120": "Agile Junior Delivery Manager, Defence and Security",
@@ -25,38 +25,46 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-15T17:21:46+00:00",
+  "checked": "2026-10-16T09:54:31+00:00",
   "error": null,
-  "changed_on": "2026-10-15",
+  "changed_on": "2026-10-16",
   "new_links": {},
   "new_on": null
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "78db8c610abb4f49e5f0fe0bc3e747ae1c9d4d03",
+  "hash": "5ff1e0cf529db8a8e0bba5d9834a40ea6f463c7b",
   "postings": {
-   "https://wise.jobs/job/fincrime-operations-analyst-aml-investigations-in-sao-paulo-jid-4333": "FinCrime Operations Analyst - AML Investigations",
-   "https://wise.jobs/job/tax-manager-in-austin-jid-4332": "Tax Manager",
-   "https://wise.jobs/job/data-science-lead-dsl1-in-london-jid-4330": "Data Science Lead – DSL1",
-   "https://wise.jobs/job/senior-software-engineer-ic3-backend-in-hyderabad-jid-4329": "Senior Software Engineer (IC3 - Backend)",
-   "https://wise.jobs/job/internal-audit-manager-safeguarding-cass-in-london-jid-3935": "Internal Audit Manager - Safeguarding/CASS",
-   "https://wise.jobs/job/procurement-operations-manager-in-budapest-jid-4017": "Procurement Operations Manager",
-   "https://wise.jobs/job/fincrime-investigator-aml-investigations-in-budapest-jid-4328": "FinCrime Investigator - AML Investigations",
-   "https://wise.jobs/job/senior-procurement-manager-professional-services-in-budapest-jid-4048": "Senior Procurement Manager - Professional Services",
-   "https://wise.jobs/job/fincrime-operations-team-lead-aml-investigations-in-budapest-jid-4327": "FinCrime Operations Team Lead - AML Investigations",
-   "https://wise.jobs/job/senior-product-analyst-ic2-send-in-london-jid-4259": "Senior Product Analyst (IC2), SEND",
-   "https://wise.jobs/job/workforce-management-lead-in-hyderabad-jid-4326": "Workforce Management Lead"
+   "https://wise.jobs/job/workforce-management-lead-in-hyderabad-jid-4326": "Workforce Management Lead",
+   "https://wise.jobs/job/senior-engineering-lead-group-finance-systems-in-london-jid-4064": "Senior Engineering Lead - Group Finance Systems",
+   "https://wise.jobs/job/senior-software-engineer-recommend-team-java-in-london-jid-4174": "Senior Software Engineer - Recommend Team (Java)",
+   "https://wise.jobs/job/assistant-company-secretary-in-singapore-jid-4339": "Assistant Company Secretary",
+   "https://wise.jobs/job/board-support-manager-in-singapore-jid-4338": "Board Support Manager",
+   "https://wise.jobs/job/wise-platform-enterprise-specialist-in-singapore-jid-4337": "Wise Platform Enterprise Specialist",
+   "https://wise.jobs/job/compliance-senior-manager-aml-fraud-investigations-in-new-york-jid-3733": "Compliance Senior Manager- AML Fraud Investigations",
+   "https://wise.jobs/job/fincrime-quality-specialist-in-austin-jid-4336": "FinCrime Quality Specialist",
+   "https://wise.jobs/job/paid-audio-specialist-in-new-york-jid-3020": "Paid Audio Specialist",
+   "https://wise.jobs/job/payment-operations-global-processing-function-lead-in-sao-paulo-jid-4335": "Payment Operations Global Processing Function Lead",
+   "https://wise.jobs/job/payment-operations-global-processing-specialist-in-sao-paulo-jid-4213": "Payment Operations Global Processing Specialist",
+   "https://wise.jobs/job/customer-support-specialist-spanish-speaker-11-am-07-12-pm-in-sao-paulo-jid-4334": "Customer Support Specialist (Spanish Speaker) - 11 am - 07:12 pm"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-15T17:21:46+00:00",
+  "checked": "2026-10-16T09:54:31+00:00",
   "error": null,
-  "changed_on": "2026-10-15",
+  "changed_on": "2026-10-16",
   "new_links": {
-   "https://wise.jobs/job/senior-product-analyst-ic2-send-in-london-jid-4259": "Senior Product Analyst (IC2), SEND"
+   "https://wise.jobs/job/assistant-company-secretary-in-singapore-jid-4339": "Assistant Company Secretary",
+   "https://wise.jobs/job/board-support-manager-in-singapore-jid-4338": "Board Support Manager",
+   "https://wise.jobs/job/wise-platform-enterprise-specialist-in-singapore-jid-4337": "Wise Platform Enterprise Specialist",
+   "https://wise.jobs/job/fincrime-quality-specialist-in-austin-jid-4336": "FinCrime Quality Specialist",
+   "https://wise.jobs/job/paid-audio-specialist-in-new-york-jid-3020": "Paid Audio Specialist",
+   "https://wise.jobs/job/payment-operations-global-processing-function-lead-in-sao-paulo-jid-4335": "Payment Operations Global Processing Function Lead",
+   "https://wise.jobs/job/payment-operations-global-processing-specialist-in-sao-paulo-jid-4213": "Payment Operations Global Processing Specialist",
+   "https://wise.jobs/job/customer-support-specialist-spanish-speaker-11-am-07-12-pm-in-sao-paulo-jid-4334": "Customer Support Specialist (Spanish Speaker) - 11 am - 07:12 pm"
   },
-  "new_on": "2026-10-15"
+  "new_on": "2026-10-16"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
@@ -82,7 +90,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-15T17:21:46+00:00",
+  "checked": "2026-10-16T09:54:31+00:00",
   "error": null,
   "changed_on": "2026-10-15",
   "new_links": {},
@@ -98,7 +106,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-15T17:21:46+00:00",
+  "checked": "2026-10-16T09:54:31+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -107,7 +115,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "4968d9a8000aeade2dc7cc7d381e4c0a3c2b27e2",
+  "hash": "6eac8848caef8b37ebc4c23873b6c5621174c980",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-sme-capabilities-1100090166/": "Manager - SME Capabilities",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-registrar-internal-medicine-1100042306/": "Senior Registrar - Internal Medicine",
@@ -122,13 +130,10 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-15T17:21:46+00:00",
+  "checked": "2026-10-16T09:54:31+00:00",
   "error": null,
-  "changed_on": "2026-10-15",
-  "new_links": {
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-sme-capabilities-1100090166/": "Manager - SME Capabilities",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/medical-specialist-physiotherapy-home-health-care-1100090424/": "View Job Details"
-  },
+  "changed_on": "2026-10-16",
+  "new_links": {},
   "new_on": "2026-10-15"
  }
 }
