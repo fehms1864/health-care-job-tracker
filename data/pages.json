@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "dd12d4a99358e10e355ffc0356376d2e52748343",
+  "hash": "fabf9ecc0e4638cee8c4f1f39a64fecea04089a5",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Junior-Delivery-Manager-Defence-and-Security/25120": "Agile Junior Delivery Manager, Defence and Security",
@@ -25,7 +25,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-16T09:54:31+00:00",
+  "checked": "2026-10-16T16:58:07+00:00",
   "error": null,
   "changed_on": "2026-10-16",
   "new_links": {},
@@ -34,24 +34,23 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "5ff1e0cf529db8a8e0bba5d9834a40ea6f463c7b",
+  "hash": "61563eff7f9843637af38f5a6c65d31fd1e85463",
   "postings": {
+   "https://wise.jobs/job/senior-software-engineer-global-kyc-and-onboarding-in-london-jid-4038": "Senior Software Engineer - Global KYC and Onboarding",
+   "https://wise.jobs/job/senior-software-engineer-i-risk-control-and-governance-in-london-jid-4209": "Senior Software Engineer I - Risk Control & Governance",
+   "https://wise.jobs/job/senior-staff-product-engineer-risk-and-control-governance-in-london-jid-4099": "Senior/Staff Product Engineer - Risk & Control Governance",
+   "https://wise.jobs/job/senior-finance-business-partner-in-london-jid-4195": "Senior Finance Business Partner",
+   "https://wise.jobs/job/senior-software-engineer-ii-contacts-team-java-in-london-jid-583": "Senior Software Engineer II - Contacts Team - Java",
+   "https://wise.jobs/job/senior-software-engineer-send-high-volume-in-tallinn-jid-4340": "Senior Software Engineer - Send High Volume",
+   "https://wise.jobs/job/fincrime-investigator-aml-investigations-in-budapest-jid-4328": "FinCrime Investigator - AML Investigations",
    "https://wise.jobs/job/workforce-management-lead-in-hyderabad-jid-4326": "Workforce Management Lead",
    "https://wise.jobs/job/senior-engineering-lead-group-finance-systems-in-london-jid-4064": "Senior Engineering Lead - Group Finance Systems",
    "https://wise.jobs/job/senior-software-engineer-recommend-team-java-in-london-jid-4174": "Senior Software Engineer - Recommend Team (Java)",
-   "https://wise.jobs/job/assistant-company-secretary-in-singapore-jid-4339": "Assistant Company Secretary",
-   "https://wise.jobs/job/board-support-manager-in-singapore-jid-4338": "Board Support Manager",
-   "https://wise.jobs/job/wise-platform-enterprise-specialist-in-singapore-jid-4337": "Wise Platform Enterprise Specialist",
-   "https://wise.jobs/job/compliance-senior-manager-aml-fraud-investigations-in-new-york-jid-3733": "Compliance Senior Manager- AML Fraud Investigations",
-   "https://wise.jobs/job/fincrime-quality-specialist-in-austin-jid-4336": "FinCrime Quality Specialist",
-   "https://wise.jobs/job/paid-audio-specialist-in-new-york-jid-3020": "Paid Audio Specialist",
-   "https://wise.jobs/job/payment-operations-global-processing-function-lead-in-sao-paulo-jid-4335": "Payment Operations Global Processing Function Lead",
-   "https://wise.jobs/job/payment-operations-global-processing-specialist-in-sao-paulo-jid-4213": "Payment Operations Global Processing Specialist",
-   "https://wise.jobs/job/customer-support-specialist-spanish-speaker-11-am-07-12-pm-in-sao-paulo-jid-4334": "Customer Support Specialist (Spanish Speaker) - 11 am - 07:12 pm"
+   "https://wise.jobs/job/assistant-company-secretary-in-singapore-jid-4339": "Assistant Company Secretary"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-16T09:54:31+00:00",
+  "checked": "2026-10-16T16:58:07+00:00",
   "error": null,
   "changed_on": "2026-10-16",
   "new_links": {
@@ -69,8 +68,9 @@
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "4d8c341475f8df158a5cefda5b10e5c875cba272",
+  "hash": "509bc209a6a24627f6759c082f7d1333b4fc200a",
   "postings": {
+   "https://optiver.com/join-us/jobs/risk-finance-and-legal/amsterdam/group-treasury-specialist/": "Group Treasury Specialist",
    "https://optiver.com/join-us/jobs/technology/chicago/category-manager-software/": "Category Manager, Software",
    "https://optiver.com/join-us/jobs/technology/new-york/software-engineer-agentic-sdlc/": "Software Engineer - Agentic SDLC",
    "https://optiver.com/join-us/jobs/trade-operations/sydney/middle-office-manager/": "Middle Office Manager",
@@ -85,14 +85,13 @@
    "https://optiver.com/join-us/jobs/trading/amsterdam/futurefocus-quants-2027/": "FutureFocus: Quants 2027",
    "https://optiver.com/join-us/jobs/business-operations/london/global-mobility-manager/": "Global Mobility Manager",
    "https://optiver.com/join-us/jobs/technology/amsterdam/data-engineer-trading/": "Data Engineer - Trading",
-   "https://optiver.com/join-us/jobs/business-operations/amsterdam/executive-assistant/": "Executive Assistant",
-   "https://optiver.com/join-us/jobs/risk-finance-and-legal/chicago/risk-analyst/": "Risk Analyst"
+   "https://optiver.com/join-us/jobs/business-operations/amsterdam/executive-assistant/": "Executive Assistant"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-16T09:54:31+00:00",
+  "checked": "2026-10-16T16:58:07+00:00",
   "error": null,
-  "changed_on": "2026-10-15",
+  "changed_on": "2026-10-16",
   "new_links": {},
   "new_on": null
  },
@@ -106,7 +105,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-16T09:54:31+00:00",
+  "checked": "2026-10-16T16:58:07+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -115,7 +114,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "6eac8848caef8b37ebc4c23873b6c5621174c980",
+  "hash": "190502a403ceff06a88d116f26699f8033ea2113",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-sme-capabilities-1100090166/": "Manager - SME Capabilities",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-registrar-internal-medicine-1100042306/": "Senior Registrar - Internal Medicine",
@@ -130,7 +129,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-16T09:54:31+00:00",
+  "checked": "2026-10-16T16:58:07+00:00",
   "error": null,
   "changed_on": "2026-10-16",
   "new_links": {},
