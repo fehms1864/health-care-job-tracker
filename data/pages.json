@@ -25,7 +25,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-17T15:56:40+00:00",
+  "checked": "2026-10-18T09:41:22+00:00",
   "error": null,
   "changed_on": "2026-10-16",
   "new_links": {},
@@ -50,14 +50,10 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-17T15:56:40+00:00",
+  "checked": "2026-10-18T09:41:22+00:00",
   "error": null,
   "changed_on": "2026-10-17",
-  "new_links": {
-   "https://wise.jobs/job/fincrime-operations-senior-analyst-rfi-in-sao-paulo-jid-4344": "FinCrime Operations Senior Analyst - RFI",
-   "https://wise.jobs/job/fincrime-quality-specialist-in-austin-jid-4336": "FinCrime Quality Specialist",
-   "https://wise.jobs/job/paid-audio-specialist-in-new-york-jid-3020": "Paid Audio Specialist"
-  },
+  "new_links": {},
   "new_on": "2026-10-17"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
@@ -84,7 +80,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-17T15:56:40+00:00",
+  "checked": "2026-10-18T09:41:22+00:00",
   "error": null,
   "changed_on": "2026-10-17",
   "new_links": {},
@@ -100,7 +96,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-17T15:56:40+00:00",
+  "checked": "2026-10-18T09:41:22+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -109,8 +105,9 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "5ced629965f45049fb847074bd074d9617c6ed05",
+  "hash": "f6fe54cf3a2d8a1f28a738ff4fcee56ac3de2fe9",
   "postings": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-healthcare-services-1100091468/": "Manager - Healthcare Services",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-sme-capabilities-1100090166/": "Manager - SME Capabilities",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-registrar-internal-medicine-1100042306/": "Senior Registrar - Internal Medicine",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/medical-specialist-physiotherapy-home-health-care-1100090424/": "View Job Details",
@@ -119,15 +116,16 @@
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-ear-nose-throat-ent-1100085191/": "Consultant - Ear, Nose & Throat (ENT)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-fwa-data-science-1100088892/": "Manager - FWA Data Science",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-fwa-ai-engineer-1100088889/": "Manager - FWA AI Engineer",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-designer-1100091207/": "Coop – Designer"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-fwa-ai-engineer-1100088889/": "Manager - FWA AI Engineer"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-17T15:56:40+00:00",
+  "checked": "2026-10-18T09:41:22+00:00",
   "error": null,
-  "changed_on": "2026-10-17",
-  "new_links": {},
-  "new_on": "2026-10-15"
+  "changed_on": "2026-10-18",
+  "new_links": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-healthcare-services-1100091468/": "Manager - Healthcare Services"
+  },
+  "new_on": "2026-10-18"
  }
 }
