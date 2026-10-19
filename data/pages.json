@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "fabf9ecc0e4638cee8c4f1f39a64fecea04089a5",
+  "hash": "510e1fd604eab5b6c77528d00a09428162aa6b4a",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Junior-Delivery-Manager-Defence-and-Security/25120": "Agile Junior Delivery Manager, Defence and Security",
@@ -25,45 +25,49 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-19T10:51:25+00:00",
+  "checked": "2026-10-19T18:50:54+00:00",
   "error": null,
-  "changed_on": "2026-10-16",
+  "changed_on": "2026-10-19",
   "new_links": {},
   "new_on": null
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "27fcc16cdb873e5315f7c50816efa9a6c4e58f98",
+  "hash": "fad08556e64010c3164d39580f051eb1b35d75f3",
   "postings": {
-   "https://wise.jobs/job/kyc-operations-team-lead-consumer-in-hyderabad-jid-4356": "KYC Operations Team Lead - Consumer",
-   "https://wise.jobs/job/spend-operations-supply-chain-and-delivery-function-lead-in-london-jid-3937": "Spend Operations Supply Chain & Delivery Function Lead",
-   "https://wise.jobs/job/banking-operations-manager-in-hyderabad-jid-3920": "Banking Operations Manager",
-   "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355": "Software Engineering Intern",
-   "https://wise.jobs/job/analytics-intern-in-london-jid-4354": "Analytics Intern",
+   "https://wise.jobs/job/core-compliance-systems-data-and-enablement-ccsde-senior-specialist-in-hyderabad-jid-4361": "Core Compliance Systems, Data & Enablement (CCSDE) Senior Specialist",
    "https://wise.jobs/job/graduate-product-analyst-in-london-jid-4353": "Graduate Product Analyst",
-   "https://wise.jobs/job/data-science-intern-in-london-jid-4352": "Data Science Intern",
-   "https://wise.jobs/job/graduate-data-scientist-in-london-jid-4351": "Graduate Data Scientist",
-   "https://wise.jobs/job/internal-audit-manager-in-singapore-jid-4350": "Internal Audit Manager",
-   "https://wise.jobs/job/platform-engineer-compute-in-london-jid-4245": "Platform Engineer - Compute",
-   "https://wise.jobs/job/lead-data-scientist-aml-in-london-jid-4349": "Lead Data Scientist - AML"
+   "https://wise.jobs/job/analytics-intern-in-london-jid-4354": "Analytics Intern",
+   "https://wise.jobs/job/graduate-software-engineer-in-london-jid-4360": "Graduate Software Engineer",
+   "https://wise.jobs/job/payment-operations-global-processing-specialist-in-sao-paulo-jid-4213": "Payment Operations Global Processing Specialist",
+   "https://wise.jobs/job/complaints-and-ombudsman-officer-in-sao-paulo-jid-3919": "Complaints & Ombudsman Officer",
+   "https://wise.jobs/job/backend-engineer-north-america-risk-prevention-in-budapest-jid-3973": "Backend Engineer - North America Risk Prevention",
+   "https://wise.jobs/job/graduate-product-designer-in-london-jid-4358": "Graduate Product Designer",
+   "https://wise.jobs/job/graduate-ux-researcher-in-london-jid-4359": "Graduate UX Researcher",
+   "https://wise.jobs/job/fincrime-investigator-aml-investigations-in-budapest-jid-4328": "FinCrime Investigator - AML Investigations",
+   "https://wise.jobs/job/finance-business-partner-in-london-jid-3640": "Finance Business Partner",
+   "https://wise.jobs/job/head-of-kyc-operations-emea-in-budapest-jid-4357": "Head of KYC Operations - EMEA"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-19T10:51:25+00:00",
+  "checked": "2026-10-19T18:50:54+00:00",
   "error": null,
   "changed_on": "2026-10-19",
   "new_links": {
-   "https://wise.jobs/job/spend-operations-supply-chain-and-delivery-function-lead-in-london-jid-3937": "Spend Operations Supply Chain & Delivery Function Lead",
-   "https://wise.jobs/job/graduate-product-analyst-in-london-jid-4353": "Graduate Product Analyst"
+   "https://wise.jobs/job/core-compliance-systems-data-and-enablement-ccsde-senior-specialist-in-hyderabad-jid-4361": "Core Compliance Systems, Data & Enablement (CCSDE) Senior Specialist",
+   "https://wise.jobs/job/payment-operations-global-processing-specialist-in-sao-paulo-jid-4213": "Payment Operations Global Processing Specialist",
+   "https://wise.jobs/job/complaints-and-ombudsman-officer-in-sao-paulo-jid-3919": "Complaints & Ombudsman Officer",
+   "https://wise.jobs/job/graduate-ux-researcher-in-london-jid-4359": "Graduate UX Researcher"
   },
   "new_on": "2026-10-19"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "9a02c8bd8f4b9aafd0ea19c851cfb0113cb7457b",
+  "hash": "55fefd723add80837a9280bf783b62c713ee61f1",
   "postings": {
+   "https://optiver.com/join-us/jobs/risk-finance-and-legal/london/senior-compliance-officer-institutional-sales-and-trading-advisory/": "Senior Compliance Officer – Institutional Sales & Trading Advisory",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/amsterdam/financial-controller/": "Financial Controller",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/amsterdam/group-treasury-specialist/": "Treasury Specialist",
    "https://optiver.com/join-us/jobs/technology/chicago/category-manager-software/": "Category Manager, Software",
@@ -78,12 +82,11 @@
    "https://optiver.com/join-us/jobs/technology/amsterdam/career-kickstarter-tech-2/": "Career Kickstarter - Tech",
    "https://optiver.com/join-us/jobs/technology/amsterdam/enterprise-corporate-engineering-lead/": "Enterprise Corporate Engineering Lead",
    "https://optiver.com/join-us/jobs/events/mumbai/futurefocus-india-technology-2026/": "FutureFocus India - Technology 2026",
-   "https://optiver.com/join-us/jobs/risk-finance-and-legal/singapore/market-risk-internship-2027-singapore/": "Market Risk Internship 2027 - Singapore",
-   "https://optiver.com/join-us/jobs/trading/amsterdam/futurefocus-quants-2027/": "FutureFocus: Quants 2027"
+   "https://optiver.com/join-us/jobs/risk-finance-and-legal/singapore/market-risk-internship-2027-singapore/": "Market Risk Internship 2027 - Singapore"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-19T10:51:25+00:00",
+  "checked": "2026-10-19T18:50:54+00:00",
   "error": null,
   "changed_on": "2026-10-19",
   "new_links": {
@@ -101,7 +104,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-19T10:51:25+00:00",
+  "checked": "2026-10-19T18:50:54+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -110,7 +113,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "d889e7f909c7b2292da00dffb6ead36fb62296de",
+  "hash": "d29d05b1606213e342ef8b5d7e8b5b07531645db",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-actuarial-1100091491/": "Coop - Actuarial",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-clinical-excellence-1100091488/": "Manager - Clinical Excellence",
@@ -125,7 +128,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-19T10:51:25+00:00",
+  "checked": "2026-10-19T18:50:54+00:00",
   "error": null,
   "changed_on": "2026-10-19",
   "new_links": {
