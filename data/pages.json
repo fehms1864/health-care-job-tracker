@@ -25,7 +25,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-19T18:50:54+00:00",
+  "checked": "2026-10-20T10:08:26+00:00",
   "error": null,
   "changed_on": "2026-10-19",
   "new_links": {},
@@ -34,8 +34,11 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "fad08556e64010c3164d39580f051eb1b35d75f3",
+  "hash": "a973b67926cd82c37e68aa34f9b6a7e21553d997",
   "postings": {
+   "https://wise.jobs/job/graduate-product-designer-in-london-jid-4358": "Graduate Product Designer",
+   "https://wise.jobs/job/it-sox-controls-tester-in-london-jid-4244": "IT SOX Controls Tester",
+   "https://wise.jobs/job/senior-solutions-engineer-in-london-jid-3449": "Senior Solutions Engineer",
    "https://wise.jobs/job/core-compliance-systems-data-and-enablement-ccsde-senior-specialist-in-hyderabad-jid-4361": "Core Compliance Systems, Data & Enablement (CCSDE) Senior Specialist",
    "https://wise.jobs/job/graduate-product-analyst-in-london-jid-4353": "Graduate Product Analyst",
    "https://wise.jobs/job/analytics-intern-in-london-jid-4354": "Analytics Intern",
@@ -43,30 +46,23 @@
    "https://wise.jobs/job/payment-operations-global-processing-specialist-in-sao-paulo-jid-4213": "Payment Operations Global Processing Specialist",
    "https://wise.jobs/job/complaints-and-ombudsman-officer-in-sao-paulo-jid-3919": "Complaints & Ombudsman Officer",
    "https://wise.jobs/job/backend-engineer-north-america-risk-prevention-in-budapest-jid-3973": "Backend Engineer - North America Risk Prevention",
-   "https://wise.jobs/job/graduate-product-designer-in-london-jid-4358": "Graduate Product Designer",
-   "https://wise.jobs/job/graduate-ux-researcher-in-london-jid-4359": "Graduate UX Researcher",
    "https://wise.jobs/job/fincrime-investigator-aml-investigations-in-budapest-jid-4328": "FinCrime Investigator - AML Investigations",
-   "https://wise.jobs/job/finance-business-partner-in-london-jid-3640": "Finance Business Partner",
-   "https://wise.jobs/job/head-of-kyc-operations-emea-in-budapest-jid-4357": "Head of KYC Operations - EMEA"
+   "https://wise.jobs/job/finance-business-partner-in-london-jid-3640": "Finance Business Partner"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-19T18:50:54+00:00",
+  "checked": "2026-10-20T10:08:26+00:00",
   "error": null,
-  "changed_on": "2026-10-19",
-  "new_links": {
-   "https://wise.jobs/job/core-compliance-systems-data-and-enablement-ccsde-senior-specialist-in-hyderabad-jid-4361": "Core Compliance Systems, Data & Enablement (CCSDE) Senior Specialist",
-   "https://wise.jobs/job/payment-operations-global-processing-specialist-in-sao-paulo-jid-4213": "Payment Operations Global Processing Specialist",
-   "https://wise.jobs/job/complaints-and-ombudsman-officer-in-sao-paulo-jid-3919": "Complaints & Ombudsman Officer",
-   "https://wise.jobs/job/graduate-ux-researcher-in-london-jid-4359": "Graduate UX Researcher"
-  },
+  "changed_on": "2026-10-20",
+  "new_links": {},
   "new_on": "2026-10-19"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "55fefd723add80837a9280bf783b62c713ee61f1",
+  "hash": "da9189574116151e860943e2271a280cb927c7dd",
   "postings": {
+   "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/finance-systems-specialist/": "Finance Systems Specialist",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/london/senior-compliance-officer-institutional-sales-and-trading-advisory/": "Senior Compliance Officer – Institutional Sales & Trading Advisory",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/amsterdam/financial-controller/": "Financial Controller",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/amsterdam/group-treasury-specialist/": "Treasury Specialist",
@@ -81,17 +77,14 @@
    "https://optiver.com/join-us/jobs/technology/amsterdam/career-kickstarter-women-in-tech-2027/": "Career Kickstarter: Women in Tech 2027",
    "https://optiver.com/join-us/jobs/technology/amsterdam/career-kickstarter-tech-2/": "Career Kickstarter - Tech",
    "https://optiver.com/join-us/jobs/technology/amsterdam/enterprise-corporate-engineering-lead/": "Enterprise Corporate Engineering Lead",
-   "https://optiver.com/join-us/jobs/events/mumbai/futurefocus-india-technology-2026/": "FutureFocus India - Technology 2026",
-   "https://optiver.com/join-us/jobs/risk-finance-and-legal/singapore/market-risk-internship-2027-singapore/": "Market Risk Internship 2027 - Singapore"
+   "https://optiver.com/join-us/jobs/events/mumbai/futurefocus-india-technology-2026/": "FutureFocus India - Technology 2026"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-19T18:50:54+00:00",
+  "checked": "2026-10-20T10:08:26+00:00",
   "error": null,
-  "changed_on": "2026-10-19",
-  "new_links": {
-   "https://optiver.com/join-us/jobs/events/mumbai/futurefocus-india-technology-2026/": "FutureFocus India - Technology 2026"
-  },
+  "changed_on": "2026-10-20",
+  "new_links": {},
   "new_on": "2026-10-19"
  },
  "https://careers.shezlong.com/": {
@@ -104,7 +97,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-19T18:50:54+00:00",
+  "checked": "2026-10-20T10:08:26+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -113,7 +106,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "d29d05b1606213e342ef8b5d7e8b5b07531645db",
+  "hash": "e68b996fc08852e47db5bc2736c22497c8fcacb1",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-actuarial-1100091491/": "Coop - Actuarial",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-clinical-excellence-1100091488/": "Manager - Clinical Excellence",
@@ -128,12 +121,10 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-19T18:50:54+00:00",
+  "checked": "2026-10-20T10:08:26+00:00",
   "error": null,
-  "changed_on": "2026-10-19",
-  "new_links": {
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-clinical-excellence-1100091488/": "Manager - Clinical Excellence"
-  },
+  "changed_on": "2026-10-20",
+  "new_links": {},
   "new_on": "2026-10-19"
  }
 }
