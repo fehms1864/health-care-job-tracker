@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "510e1fd604eab5b6c77528d00a09428162aa6b4a",
+  "hash": "cfe8ed02ee60fe1795b1e807f51e2b6ed1d80d07",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Junior-Delivery-Manager-Defence-and-Security/25120": "Agile Junior Delivery Manager, Defence and Security",
@@ -25,18 +25,19 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-20T10:08:26+00:00",
+  "checked": "2026-10-20T17:32:09+00:00",
   "error": null,
-  "changed_on": "2026-10-19",
+  "changed_on": "2026-10-20",
   "new_links": {},
   "new_on": null
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "a973b67926cd82c37e68aa34f9b6a7e21553d997",
+  "hash": "deaefe9ea050495f9b0ef04d9998a9d022ef477a",
   "postings": {
-   "https://wise.jobs/job/graduate-product-designer-in-london-jid-4358": "Graduate Product Designer",
+   "https://wise.jobs/job/fincrime-investigator-aml-investigations-in-sao-paulo-jid-4374": "FinCrime Investigator - AML Investigations",
+   "https://wise.jobs/job/fincrime-operations-team-lead-in-sao-paulo-jid-3422": "FinCrime Operations Team Lead",
    "https://wise.jobs/job/it-sox-controls-tester-in-london-jid-4244": "IT SOX Controls Tester",
    "https://wise.jobs/job/senior-solutions-engineer-in-london-jid-3449": "Senior Solutions Engineer",
    "https://wise.jobs/job/core-compliance-systems-data-and-enablement-ccsde-senior-specialist-in-hyderabad-jid-4361": "Core Compliance Systems, Data & Enablement (CCSDE) Senior Specialist",
@@ -46,22 +47,25 @@
    "https://wise.jobs/job/payment-operations-global-processing-specialist-in-sao-paulo-jid-4213": "Payment Operations Global Processing Specialist",
    "https://wise.jobs/job/complaints-and-ombudsman-officer-in-sao-paulo-jid-3919": "Complaints & Ombudsman Officer",
    "https://wise.jobs/job/backend-engineer-north-america-risk-prevention-in-budapest-jid-3973": "Backend Engineer - North America Risk Prevention",
-   "https://wise.jobs/job/fincrime-investigator-aml-investigations-in-budapest-jid-4328": "FinCrime Investigator - AML Investigations",
-   "https://wise.jobs/job/finance-business-partner-in-london-jid-3640": "Finance Business Partner"
+   "https://wise.jobs/job/fincrime-investigator-aml-investigations-in-budapest-jid-4328": "FinCrime Investigator - AML Investigations"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-20T10:08:26+00:00",
+  "checked": "2026-10-20T17:32:09+00:00",
   "error": null,
   "changed_on": "2026-10-20",
-  "new_links": {},
-  "new_on": "2026-10-19"
+  "new_links": {
+   "https://wise.jobs/job/fincrime-operations-team-lead-in-sao-paulo-jid-3422": "FinCrime Operations Team Lead"
+  },
+  "new_on": "2026-10-20"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "da9189574116151e860943e2271a280cb927c7dd",
+  "hash": "23d72054c23478390fe4378cd0d319c8a8c2e0ea",
   "postings": {
+   "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-bachelor-or-master-summer-2028-shanghai/": "Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai)",
+   "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-phd-summer-2028--shanghai/": "Expressions of Interest - Quantitative Research Internship, PhD (Summer 2028 -Shanghai)",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/finance-systems-specialist/": "Finance Systems Specialist",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/london/senior-compliance-officer-institutional-sales-and-trading-advisory/": "Senior Compliance Officer – Institutional Sales & Trading Advisory",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/amsterdam/financial-controller/": "Financial Controller",
@@ -75,13 +79,11 @@
    "https://optiver.com/join-us/jobs/events/mumbai/future-focus-india-trading-and-research-2026/": "Future Focus India - Trading and Research 2026",
    "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/senior-performance-researcher/": "Senior Performance Researcher",
    "https://optiver.com/join-us/jobs/technology/amsterdam/career-kickstarter-women-in-tech-2027/": "Career Kickstarter: Women in Tech 2027",
-   "https://optiver.com/join-us/jobs/technology/amsterdam/career-kickstarter-tech-2/": "Career Kickstarter - Tech",
-   "https://optiver.com/join-us/jobs/technology/amsterdam/enterprise-corporate-engineering-lead/": "Enterprise Corporate Engineering Lead",
-   "https://optiver.com/join-us/jobs/events/mumbai/futurefocus-india-technology-2026/": "FutureFocus India - Technology 2026"
+   "https://optiver.com/join-us/jobs/technology/amsterdam/career-kickstarter-tech-2/": "Career Kickstarter - Tech"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-20T10:08:26+00:00",
+  "checked": "2026-10-20T17:32:09+00:00",
   "error": null,
   "changed_on": "2026-10-20",
   "new_links": {},
@@ -97,7 +99,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-20T10:08:26+00:00",
+  "checked": "2026-10-20T17:32:09+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -106,8 +108,9 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "e68b996fc08852e47db5bc2736c22497c8fcacb1",
+  "hash": "8f9278123482da335f39858ec85526d377be29bd",
   "postings": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-sme-account-management-pipeline-1100087121/": "View Job Details",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-actuarial-1100091491/": "Coop - Actuarial",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-clinical-excellence-1100091488/": "Manager - Clinical Excellence",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manger-performance-analysis-reporting-1100090425/": "Manger - Performance Analysis & Reporting",
@@ -116,15 +119,16 @@
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-registrar-internal-medicine-1100042306/": "Senior Registrar - Internal Medicine",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/medical-specialist-physiotherapy-home-health-care-1100090424/": "View Job Details",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-design-innovation-1100088833/": "Coop - Design & Innovation",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-design-experience-1100088831/": "Coop - Design Experience",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-ear-nose-throat-ent-1100085191/": "Consultant - Ear, Nose & Throat (ENT)"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-design-experience-1100088831/": "Coop - Design Experience"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-20T10:08:26+00:00",
+  "checked": "2026-10-20T17:32:09+00:00",
   "error": null,
   "changed_on": "2026-10-20",
-  "new_links": {},
-  "new_on": "2026-10-19"
+  "new_links": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-sme-account-management-pipeline-1100087121/": "View Job Details"
+  },
+  "new_on": "2026-10-20"
  }
 }
