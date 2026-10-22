@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "4e9c319c4a05e03f6780171c875a7f8dfef43c6e",
+  "hash": "f66ddfd138b846c1cb421afd11c64a4c2eb5ca11",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Junior-Delivery-Manager-Defence-and-Security/25120": "Agile Junior Delivery Manager, Defence and Security",
@@ -25,50 +25,49 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-21T17:39:50+00:00",
+  "checked": "2026-10-22T10:18:50+00:00",
   "error": null,
-  "changed_on": "2026-10-21",
+  "changed_on": "2026-10-22",
   "new_links": {},
   "new_on": null
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "748796a901aac83cb2b1019dfb1ab159b0ff14db",
+  "hash": "c6835f5a1e910a6c64e7e15cb2fd57c3ee19d22d",
   "postings": {
-   "https://wise.jobs/job/backend-engineer-send-experience-in-london-jid-4073": "Backend Engineer - Send Experience",
-   "https://wise.jobs/job/senior-software-engineer-i-risk-control-and-governance-in-london-jid-4384": "Senior Software Engineer I - Risk Control & Governance",
-   "https://wise.jobs/job/senior-digital-analyst-data-activation-in-london-jid-4383": "Senior Digital Analyst (Data Activation)",
-   "https://wise.jobs/job/senior-regulatory-oversight-manager-advisory-in-london-jid-4382": "Senior Regulatory Oversight Manager, Advisory",
-   "https://wise.jobs/job/internal-comms-designer-in-london-jid-4381": "Internal Comms Designer",
-   "https://wise.jobs/job/engineering-operations-manager-in-london-jid-4380": "Engineering Operations Manager",
-   "https://wise.jobs/job/partner-operations-manager-in-austin-jid-3412": "Partner Operations Manager",
-   "https://wise.jobs/job/group-compliance-monitoring-and-data-senior-manager-in-hyderabad-jid-4362": "Group Compliance Monitoring & Data Senior Manager",
-   "https://wise.jobs/job/senior-software-engineer-rules-platform-in-tallinn-jid-4379": "Senior Software Engineer - Rules Platform",
-   "https://wise.jobs/job/legal-operations-officer-in-sao-paulo-jid-4378": "Legal Operations Officer",
-   "https://wise.jobs/job/operations-team-lead-fincrime-aml-investigations-in-budapest-jid-4327": "Operations Team Lead – FinCrime (AML Investigations)",
-   "https://wise.jobs/job/complaints-officer-in-hyderabad-jid-2580": "Complaints Officer"
+   "https://wise.jobs/job/senior-software-engineer-ii-wise-for-enterprise-in-london-jid-4052": "Senior Software Engineer II - Wise for Enterprise",
+   "https://wise.jobs/job/senior-software-engineer-ii-cash-management-in-london-jid-4392": "Senior Software Engineer II - Cash Management",
+   "https://wise.jobs/job/senior-software-developer-ii-wise-for-banks-in-london-jid-4171": "Senior Software Developer II - Wise for Banks",
+   "https://wise.jobs/job/senior-software-developer-ii-wise-for-banks-in-london-jid-4391": "Senior Software Developer II - Wise for Banks",
+   "https://wise.jobs/job/senior-software-developer-for-cash-management-team-in-london-jid-4390": "Senior Software Developer for Cash Management Team",
+   "https://wise.jobs/job/senior-software-engineer-i-wise-for-enterprise-banks-in-london-jid-4389": "Senior Software Engineer I - Wise for Enterprise - Banks",
+   "https://wise.jobs/job/senior-software-developer-for-wp-in-london-jid-3781": "Senior Software Developer for WP",
+   "https://wise.jobs/job/country-regulatory-compliance-officer-india-in-hyderabad-jid-2963": "Country Regulatory Compliance Officer - India",
+   "https://wise.jobs/job/engineering-lead-wise-for-enterprise-in-london-jid-3755": "Engineering Lead - Wise for Enterprise",
+   "https://wise.jobs/job/senior-analytics-manager-compliance-in-london-jid-4388": "Senior Analytics Manager - Compliance",
+   "https://wise.jobs/job/senior-technical-recruiter-in-tallinn-jid-4232": "Senior Technical Recruiter",
+   "https://wise.jobs/job/workplace-operations-coordinator-in-singapore-jid-4387": "Workplace Operations Coordinator"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-21T17:39:50+00:00",
+  "checked": "2026-10-22T10:18:50+00:00",
   "error": null,
-  "changed_on": "2026-10-21",
+  "changed_on": "2026-10-22",
   "new_links": {
-   "https://wise.jobs/job/senior-digital-analyst-data-activation-in-london-jid-4383": "Senior Digital Analyst (Data Activation)",
-   "https://wise.jobs/job/senior-regulatory-oversight-manager-advisory-in-london-jid-4382": "Senior Regulatory Oversight Manager, Advisory",
-   "https://wise.jobs/job/partner-operations-manager-in-austin-jid-3412": "Partner Operations Manager",
-   "https://wise.jobs/job/group-compliance-monitoring-and-data-senior-manager-in-hyderabad-jid-4362": "Group Compliance Monitoring & Data Senior Manager",
-   "https://wise.jobs/job/legal-operations-officer-in-sao-paulo-jid-4378": "Legal Operations Officer",
-   "https://wise.jobs/job/complaints-officer-in-hyderabad-jid-2580": "Complaints Officer"
+   "https://wise.jobs/job/country-regulatory-compliance-officer-india-in-hyderabad-jid-2963": "Country Regulatory Compliance Officer - India",
+   "https://wise.jobs/job/workplace-operations-coordinator-in-singapore-jid-4387": "Workplace Operations Coordinator"
   },
-  "new_on": "2026-10-21"
+  "new_on": "2026-10-22"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "efef1411f6c01c1ab3479839e7b0b245508d8d55",
+  "hash": "521ad1f6ce0b5cbd45906475afdfba8484bdbcb5",
   "postings": {
+   "https://optiver.com/join-us/jobs/technology/shanghai/technology-operations-engineer-shanghai/": "Technology Operations Engineer - Shanghai",
+   "https://optiver.com/join-us/jobs/technology/taipei/technology-operations-engineer-taipei/": "Technology Operations Engineer - Taipei",
+   "https://optiver.com/join-us/jobs/technology/sydney/software-engineer-c-plus-plus-derivatives/": "Software Engineer (C++) - Derivatives",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/amsterdam/financial-systems-specialist-onestream/": "Financial Systems Specialist (OneStream)",
    "https://optiver.com/join-us/jobs/technology/chicago/network-engineer/": "Network Engineer",
    "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-bachelor-or-master-summer-2028-shanghai/": "Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai)",
@@ -81,16 +80,13 @@
    "https://optiver.com/join-us/jobs/technology/new-york/software-engineer-agentic-sdlc/": "Software Engineer - Agentic SDLC",
    "https://optiver.com/join-us/jobs/trade-operations/sydney/middle-office-manager/": "Middle Office Manager",
    "https://optiver.com/join-us/jobs/technology/chicago/data-operations-engineer/": "Data Operations Engineer",
-   "https://optiver.com/join-us/jobs/trading/amsterdam/career-kickstarter-trading-2027/": "Career Kickstarter - Trading 2027",
-   "https://optiver.com/join-us/jobs/trading/new-york/ai-lab-research/": "AI Lab - Research",
-   "https://optiver.com/join-us/jobs/events/mumbai/future-focus-india-trading-and-research-2026/": "Future Focus India - Trading and Research 2026",
-   "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/senior-performance-researcher/": "Senior Performance Researcher"
+   "https://optiver.com/join-us/jobs/trading/amsterdam/career-kickstarter-trading-2027/": "Career Kickstarter - Trading 2027"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-21T17:39:50+00:00",
+  "checked": "2026-10-22T10:18:50+00:00",
   "error": null,
-  "changed_on": "2026-10-21",
+  "changed_on": "2026-10-22",
   "new_links": {},
   "new_on": "2026-10-19"
  },
@@ -104,7 +100,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-21T17:39:50+00:00",
+  "checked": "2026-10-22T10:18:50+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -113,25 +109,32 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "d2e6accbf21507bdab8cea2f99e4329ba5b477e6",
+  "hash": "1face9eff17c8fdb50a65bc80ae2b86ce89646f0",
   "postings": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-hematology-part-time-1100089688/": "Consultant – Hematology (Part-Time)",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-general-surgery-part-time-1100089686/": "Consultant– General Surgery (Part-Time)",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-urology-part-time-1100089683/": "Consultant– Urology (Part-Time)",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-adult-endocrinology-part-time-1100089681/": "Consultant – Adult Endocrinology (Part-Time)",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-orthopaedics-lower-limb-part-time-1100089679/": "Consultant – Orthopaedics, Lower Limb (Part-Time)",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-orthopaedics-upper-limb-part-time-1100089680/": "Consultant – Orthopaedics, Upper Limb (Part-Time)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-allocation-reconciliation-invoicing-1100091550/": "Coop - Allocation Reconciliation & Invoicing",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-sme-account-management-pipeline-1100087121/": "View Job Details",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-actuarial-1100091491/": "Coop - Actuarial",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-clinical-excellence-1100091488/": "Manager - Clinical Excellence",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manger-performance-analysis-reporting-1100090425/": "Manger - Performance Analysis & Reporting",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-healthcare-services-1100091468/": "Manager - Healthcare Services",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-sme-capabilities-1100090166/": "Manager - SME Capabilities",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-registrar-internal-medicine-1100042306/": "Senior Registrar - Internal Medicine",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/medical-specialist-physiotherapy-home-health-care-1100090424/": "View Job Details",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-design-innovation-1100088833/": "Coop - Design & Innovation"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manger-performance-analysis-reporting-1100090425/": "Manger - Performance Analysis & Reporting"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-21T17:39:50+00:00",
+  "checked": "2026-10-22T10:18:50+00:00",
   "error": null,
-  "changed_on": "2026-10-21",
-  "new_links": {},
-  "new_on": "2026-10-20"
+  "changed_on": "2026-10-22",
+  "new_links": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-hematology-part-time-1100089688/": "Consultant – Hematology (Part-Time)",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-general-surgery-part-time-1100089686/": "Consultant– General Surgery (Part-Time)",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-urology-part-time-1100089683/": "Consultant– Urology (Part-Time)",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-adult-endocrinology-part-time-1100089681/": "Consultant – Adult Endocrinology (Part-Time)",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-orthopaedics-lower-limb-part-time-1100089679/": "Consultant – Orthopaedics, Lower Limb (Part-Time)",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-orthopaedics-upper-limb-part-time-1100089680/": "Consultant – Orthopaedics, Upper Limb (Part-Time)"
+  },
+  "new_on": "2026-10-22"
  }
 }
