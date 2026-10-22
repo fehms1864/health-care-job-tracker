@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "f66ddfd138b846c1cb421afd11c64a4c2eb5ca11",
+  "hash": "8156b112ba57c95c0d626344d0a9463e37db2c62",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Junior-Delivery-Manager-Defence-and-Security/25120": "Agile Junior Delivery Manager, Defence and Security",
@@ -21,11 +21,12 @@
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Equity-Capital-Markets-Finance-and-Transaction-Management-Office-EFT-M-A/24941": "Assistant Director, Equity Capital Markets, Finance, and Transaction Management Office (EFT), M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Equity-Capital-Markets-Finance-and-Transaction-Management-Office-EFT-M-A/24259": "Assistant Director, Equity Capital Markets, Finance, and Transaction Management Office (EFT), M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-M-A/24358": "Assistant Director, Financial Due Diligence - Financial Services, M&A",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Consumer/25545": "Assistant Director, Financial Due Diligence, Consumer"
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Consumer/25545": "Assistant Director, Financial Due Diligence, Consumer",
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-Manchester/25282": "Assistant Director, Financial Due Diligence, Financial Services, Manchester"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-22T10:18:50+00:00",
+  "checked": "2026-10-22T17:38:36+00:00",
   "error": null,
   "changed_on": "2026-10-22",
   "new_links": {},
@@ -34,29 +35,31 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "c6835f5a1e910a6c64e7e15cb2fd57c3ee19d22d",
+  "hash": "f74f9cd42b538b44da6bf6d12f91f7ecd805baf5",
   "postings": {
+   "https://wise.jobs/job/business-customer-support-specialist-in-sao-paulo-jid-4395": "Business Customer Support Specialist",
+   "https://wise.jobs/job/sar-quality-assurance-specialist-in-austin-jid-4394": "SAR Quality assurance specialist",
+   "https://wise.jobs/job/regional-crm-manager-in-london-jid-3433": "Regional CRM Manager",
+   "https://wise.jobs/job/israel-hybrid-specialist-in-budapest-jid-3955": "Israel Hybrid Specialist",
+   "https://wise.jobs/job/senior-product-analyst-aup-fraud-squad-in-tallinn-jid-4393": "Senior Product Analyst - AUP (Fraud Squad)",
+   "https://wise.jobs/job/network-engineer-platform-integrations-emea-in-tallinn-jid-4194": "Network Engineer - Platform Integrations EMEA",
    "https://wise.jobs/job/senior-software-engineer-ii-wise-for-enterprise-in-london-jid-4052": "Senior Software Engineer II - Wise for Enterprise",
    "https://wise.jobs/job/senior-software-engineer-ii-cash-management-in-london-jid-4392": "Senior Software Engineer II - Cash Management",
-   "https://wise.jobs/job/senior-software-developer-ii-wise-for-banks-in-london-jid-4171": "Senior Software Developer II - Wise for Banks",
    "https://wise.jobs/job/senior-software-developer-ii-wise-for-banks-in-london-jid-4391": "Senior Software Developer II - Wise for Banks",
    "https://wise.jobs/job/senior-software-developer-for-cash-management-team-in-london-jid-4390": "Senior Software Developer for Cash Management Team",
    "https://wise.jobs/job/senior-software-engineer-i-wise-for-enterprise-banks-in-london-jid-4389": "Senior Software Engineer I - Wise for Enterprise - Banks",
-   "https://wise.jobs/job/senior-software-developer-for-wp-in-london-jid-3781": "Senior Software Developer for WP",
-   "https://wise.jobs/job/country-regulatory-compliance-officer-india-in-hyderabad-jid-2963": "Country Regulatory Compliance Officer - India",
-   "https://wise.jobs/job/engineering-lead-wise-for-enterprise-in-london-jid-3755": "Engineering Lead - Wise for Enterprise",
-   "https://wise.jobs/job/senior-analytics-manager-compliance-in-london-jid-4388": "Senior Analytics Manager - Compliance",
-   "https://wise.jobs/job/senior-technical-recruiter-in-tallinn-jid-4232": "Senior Technical Recruiter",
-   "https://wise.jobs/job/workplace-operations-coordinator-in-singapore-jid-4387": "Workplace Operations Coordinator"
+   "https://wise.jobs/job/senior-software-developer-for-wp-in-london-jid-3781": "Senior Software Developer for WP"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-22T10:18:50+00:00",
+  "checked": "2026-10-22T17:38:36+00:00",
   "error": null,
   "changed_on": "2026-10-22",
   "new_links": {
-   "https://wise.jobs/job/country-regulatory-compliance-officer-india-in-hyderabad-jid-2963": "Country Regulatory Compliance Officer - India",
-   "https://wise.jobs/job/workplace-operations-coordinator-in-singapore-jid-4387": "Workplace Operations Coordinator"
+   "https://wise.jobs/job/business-customer-support-specialist-in-sao-paulo-jid-4395": "Business Customer Support Specialist",
+   "https://wise.jobs/job/sar-quality-assurance-specialist-in-austin-jid-4394": "SAR Quality assurance specialist",
+   "https://wise.jobs/job/regional-crm-manager-in-london-jid-3433": "Regional CRM Manager",
+   "https://wise.jobs/job/israel-hybrid-specialist-in-budapest-jid-3955": "Israel Hybrid Specialist"
   },
   "new_on": "2026-10-22"
  },
@@ -84,7 +87,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-22T10:18:50+00:00",
+  "checked": "2026-10-22T17:38:36+00:00",
   "error": null,
   "changed_on": "2026-10-22",
   "new_links": {},
@@ -100,7 +103,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-22T10:18:50+00:00",
+  "checked": "2026-10-22T17:38:36+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -109,7 +112,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "1face9eff17c8fdb50a65bc80ae2b86ce89646f0",
+  "hash": "ac67dff4e6043f553783b02a9e2a6fd75d00cb40",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-hematology-part-time-1100089688/": "Consultant – Hematology (Part-Time)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-general-surgery-part-time-1100089686/": "Consultant– General Surgery (Part-Time)",
@@ -124,7 +127,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-22T10:18:50+00:00",
+  "checked": "2026-10-22T17:38:36+00:00",
   "error": null,
   "changed_on": "2026-10-22",
   "new_links": {
