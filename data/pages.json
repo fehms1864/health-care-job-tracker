@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "8156b112ba57c95c0d626344d0a9463e37db2c62",
+  "hash": "1eca34cc954788131309aeace61e8ee00fc93439",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Junior-Delivery-Manager-Defence-and-Security/25120": "Agile Junior Delivery Manager, Defence and Security",
@@ -26,48 +26,46 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-22T17:38:36+00:00",
+  "checked": "2026-10-23T10:10:20+00:00",
   "error": null,
-  "changed_on": "2026-10-22",
+  "changed_on": "2026-10-23",
   "new_links": {},
   "new_on": null
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "f74f9cd42b538b44da6bf6d12f91f7ecd805baf5",
+  "hash": "8b1aeb7b42a1a6fe95c626e04a5dc35a4f2d9303",
   "postings": {
-   "https://wise.jobs/job/business-customer-support-specialist-in-sao-paulo-jid-4395": "Business Customer Support Specialist",
-   "https://wise.jobs/job/sar-quality-assurance-specialist-in-austin-jid-4394": "SAR Quality assurance specialist",
-   "https://wise.jobs/job/regional-crm-manager-in-london-jid-3433": "Regional CRM Manager",
-   "https://wise.jobs/job/israel-hybrid-specialist-in-budapest-jid-3955": "Israel Hybrid Specialist",
-   "https://wise.jobs/job/senior-product-analyst-aup-fraud-squad-in-tallinn-jid-4393": "Senior Product Analyst - AUP (Fraud Squad)",
-   "https://wise.jobs/job/network-engineer-platform-integrations-emea-in-tallinn-jid-4194": "Network Engineer - Platform Integrations EMEA",
-   "https://wise.jobs/job/senior-software-engineer-ii-wise-for-enterprise-in-london-jid-4052": "Senior Software Engineer II - Wise for Enterprise",
-   "https://wise.jobs/job/senior-software-engineer-ii-cash-management-in-london-jid-4392": "Senior Software Engineer II - Cash Management",
-   "https://wise.jobs/job/senior-software-developer-ii-wise-for-banks-in-london-jid-4391": "Senior Software Developer II - Wise for Banks",
-   "https://wise.jobs/job/senior-software-developer-for-cash-management-team-in-london-jid-4390": "Senior Software Developer for Cash Management Team",
-   "https://wise.jobs/job/senior-software-engineer-i-wise-for-enterprise-banks-in-london-jid-4389": "Senior Software Engineer I - Wise for Enterprise - Banks",
-   "https://wise.jobs/job/senior-software-developer-for-wp-in-london-jid-3781": "Senior Software Developer for WP"
+   "https://wise.jobs/job/director-of-analytics-customer-support-in-london-jid-4397": "Director of Analytics - Customer Support",
+   "https://wise.jobs/job/fp-and-a-manager-in-london-jid-3640": "FP&A Manager",
+   "https://wise.jobs/job/fincrime-operations-analyst-aml-investigations-in-hyderabad-jid-4298": "FinCrime Operations Analyst - AML Investigations",
+   "https://wise.jobs/job/senior-software-developer-in-tallinn-jid-4288": "Senior Software Developer",
+   "https://wise.jobs/job/senior-software-engineer-i-product-eligibility-in-london-jid-4131": "Senior Software Engineer I - Product Eligibility",
+   "https://wise.jobs/job/banking-operations-manager-in-singapore-jid-4396": "Banking Operations Manager",
+   "https://wise.jobs/job/senior-analytics-manager-in-london-jid-4388": "Senior Analytics Manager",
+   "https://wise.jobs/job/safeguarding-controller-apac-in-singapore-jid-3827": "Safeguarding Controller - APAC",
+   "https://wise.jobs/job/senior-product-analyst-in-hyderabad-jid-4239": "Senior Product Analyst",
+   "https://wise.jobs/job/channel-sales-manager-north-america-in-austin-jid-4373": "Channel Sales Manager - North America",
+   "https://wise.jobs/job/api-integration-support-engineer-in-austin-jid-3569": "API Integration Support Engineer",
+   "https://wise.jobs/job/business-customer-support-specialist-in-sao-paulo-jid-4395": "Business Customer Support Specialist"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-22T17:38:36+00:00",
+  "checked": "2026-10-23T10:10:20+00:00",
   "error": null,
-  "changed_on": "2026-10-22",
+  "changed_on": "2026-10-23",
   "new_links": {
-   "https://wise.jobs/job/business-customer-support-specialist-in-sao-paulo-jid-4395": "Business Customer Support Specialist",
-   "https://wise.jobs/job/sar-quality-assurance-specialist-in-austin-jid-4394": "SAR Quality assurance specialist",
-   "https://wise.jobs/job/regional-crm-manager-in-london-jid-3433": "Regional CRM Manager",
-   "https://wise.jobs/job/israel-hybrid-specialist-in-budapest-jid-3955": "Israel Hybrid Specialist"
+   "https://wise.jobs/job/senior-product-analyst-in-hyderabad-jid-4239": "Senior Product Analyst"
   },
-  "new_on": "2026-10-22"
+  "new_on": "2026-10-23"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "521ad1f6ce0b5cbd45906475afdfba8484bdbcb5",
+  "hash": "79b226744d34ae5214400e38653347cc4f890c1c",
   "postings": {
+   "https://optiver.com/join-us/jobs/human-resources-and-recruiting/sydney/apac-mobility-partner-12-month-contract/": "APAC Mobility Partner (12-month contract)",
    "https://optiver.com/join-us/jobs/technology/shanghai/technology-operations-engineer-shanghai/": "Technology Operations Engineer - Shanghai",
    "https://optiver.com/join-us/jobs/technology/taipei/technology-operations-engineer-taipei/": "Technology Operations Engineer - Taipei",
    "https://optiver.com/join-us/jobs/technology/sydney/software-engineer-c-plus-plus-derivatives/": "Software Engineer (C++) - Derivatives",
@@ -82,16 +80,17 @@
    "https://optiver.com/join-us/jobs/technology/chicago/category-manager-software/": "Category Manager, Software",
    "https://optiver.com/join-us/jobs/technology/new-york/software-engineer-agentic-sdlc/": "Software Engineer - Agentic SDLC",
    "https://optiver.com/join-us/jobs/trade-operations/sydney/middle-office-manager/": "Middle Office Manager",
-   "https://optiver.com/join-us/jobs/technology/chicago/data-operations-engineer/": "Data Operations Engineer",
-   "https://optiver.com/join-us/jobs/trading/amsterdam/career-kickstarter-trading-2027/": "Career Kickstarter - Trading 2027"
+   "https://optiver.com/join-us/jobs/technology/chicago/data-operations-engineer/": "Data Operations Engineer"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-22T17:38:36+00:00",
+  "checked": "2026-10-23T10:10:20+00:00",
   "error": null,
-  "changed_on": "2026-10-22",
-  "new_links": {},
-  "new_on": "2026-10-19"
+  "changed_on": "2026-10-23",
+  "new_links": {
+   "https://optiver.com/join-us/jobs/human-resources-and-recruiting/sydney/apac-mobility-partner-12-month-contract/": "APAC Mobility Partner (12-month contract)"
+  },
+  "new_on": "2026-10-23"
  },
  "https://careers.shezlong.com/": {
   "company": "Shezlong",
@@ -103,7 +102,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-22T17:38:36+00:00",
+  "checked": "2026-10-23T10:10:20+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -112,7 +111,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "ac67dff4e6043f553783b02a9e2a6fd75d00cb40",
+  "hash": "2a40a051a79a30fb0997575821c8ae197dc8e1ac",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-hematology-part-time-1100089688/": "Consultant – Hematology (Part-Time)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-general-surgery-part-time-1100089686/": "Consultant– General Surgery (Part-Time)",
@@ -127,17 +126,10 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-22T17:38:36+00:00",
+  "checked": "2026-10-23T10:10:20+00:00",
   "error": null,
-  "changed_on": "2026-10-22",
-  "new_links": {
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-hematology-part-time-1100089688/": "Consultant – Hematology (Part-Time)",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-general-surgery-part-time-1100089686/": "Consultant– General Surgery (Part-Time)",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-urology-part-time-1100089683/": "Consultant– Urology (Part-Time)",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-adult-endocrinology-part-time-1100089681/": "Consultant – Adult Endocrinology (Part-Time)",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-orthopaedics-lower-limb-part-time-1100089679/": "Consultant – Orthopaedics, Lower Limb (Part-Time)",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-orthopaedics-upper-limb-part-time-1100089680/": "Consultant – Orthopaedics, Upper Limb (Part-Time)"
-  },
+  "changed_on": "2026-10-23",
+  "new_links": {},
   "new_on": "2026-10-22"
  }
 }
