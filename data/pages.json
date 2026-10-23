@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "1eca34cc954788131309aeace61e8ee00fc93439",
+  "hash": "5eb033cc9b557c8fe2e34d655387e02c22be00ef",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Junior-Delivery-Manager-Defence-and-Security/25120": "Agile Junior Delivery Manager, Defence and Security",
@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-23T10:10:20+00:00",
+  "checked": "2026-10-23T17:26:57+00:00",
   "error": null,
   "changed_on": "2026-10-23",
   "new_links": {},
@@ -35,35 +35,36 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "8b1aeb7b42a1a6fe95c626e04a5dc35a4f2d9303",
+  "hash": "aae3adad0f9f1b5bccdab05838fa7dae9efa5efc",
   "postings": {
+   "https://wise.jobs/job/customer-support-specialist-in-sao-paulo-jid-4395": "Customer Support Specialist",
+   "https://wise.jobs/job/fincrime-investigator-aml-investigations-in-sao-paulo-jid-4374": "FinCrime Investigator - AML Investigations",
+   "https://wise.jobs/job/banking-operations-specialist-in-singapore-jid-4399": "Banking Operations Specialist",
+   "https://wise.jobs/job/principal-implementation-manager-wise-platform-verification-in-london-jid-4079": "Principal Implementation Manager - Wise Platform Verification",
+   "https://wise.jobs/job/engineering-lead-send-for-partners-in-london-jid-4398": "Engineering Lead - Send for Partners",
    "https://wise.jobs/job/director-of-analytics-customer-support-in-london-jid-4397": "Director of Analytics - Customer Support",
    "https://wise.jobs/job/fp-and-a-manager-in-london-jid-3640": "FP&A Manager",
    "https://wise.jobs/job/fincrime-operations-analyst-aml-investigations-in-hyderabad-jid-4298": "FinCrime Operations Analyst - AML Investigations",
    "https://wise.jobs/job/senior-software-developer-in-tallinn-jid-4288": "Senior Software Developer",
    "https://wise.jobs/job/senior-software-engineer-i-product-eligibility-in-london-jid-4131": "Senior Software Engineer I - Product Eligibility",
    "https://wise.jobs/job/banking-operations-manager-in-singapore-jid-4396": "Banking Operations Manager",
-   "https://wise.jobs/job/senior-analytics-manager-in-london-jid-4388": "Senior Analytics Manager",
-   "https://wise.jobs/job/safeguarding-controller-apac-in-singapore-jid-3827": "Safeguarding Controller - APAC",
-   "https://wise.jobs/job/senior-product-analyst-in-hyderabad-jid-4239": "Senior Product Analyst",
-   "https://wise.jobs/job/channel-sales-manager-north-america-in-austin-jid-4373": "Channel Sales Manager - North America",
-   "https://wise.jobs/job/api-integration-support-engineer-in-austin-jid-3569": "API Integration Support Engineer",
-   "https://wise.jobs/job/business-customer-support-specialist-in-sao-paulo-jid-4395": "Business Customer Support Specialist"
+   "https://wise.jobs/job/senior-analytics-manager-in-london-jid-4388": "Senior Analytics Manager"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-23T10:10:20+00:00",
+  "checked": "2026-10-23T17:26:57+00:00",
   "error": null,
   "changed_on": "2026-10-23",
   "new_links": {
-   "https://wise.jobs/job/senior-product-analyst-in-hyderabad-jid-4239": "Senior Product Analyst"
+   "https://wise.jobs/job/customer-support-specialist-in-sao-paulo-jid-4395": "Customer Support Specialist",
+   "https://wise.jobs/job/principal-implementation-manager-wise-platform-verification-in-london-jid-4079": "Principal Implementation Manager - Wise Platform Verification"
   },
   "new_on": "2026-10-23"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "79b226744d34ae5214400e38653347cc4f890c1c",
+  "hash": "a68f147ce72e0e933f118cd754f95709e6b3e5bf",
   "postings": {
    "https://optiver.com/join-us/jobs/human-resources-and-recruiting/sydney/apac-mobility-partner-12-month-contract/": "APAC Mobility Partner (12-month contract)",
    "https://optiver.com/join-us/jobs/technology/shanghai/technology-operations-engineer-shanghai/": "Technology Operations Engineer - Shanghai",
@@ -84,7 +85,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-23T10:10:20+00:00",
+  "checked": "2026-10-23T17:26:57+00:00",
   "error": null,
   "changed_on": "2026-10-23",
   "new_links": {
@@ -102,7 +103,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-23T10:10:20+00:00",
+  "checked": "2026-10-23T17:26:57+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -111,7 +112,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "2a40a051a79a30fb0997575821c8ae197dc8e1ac",
+  "hash": "a4f80e29396a9979153142cc1813edd2de162fa4",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-hematology-part-time-1100089688/": "Consultant – Hematology (Part-Time)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-general-surgery-part-time-1100089686/": "Consultant– General Surgery (Part-Time)",
@@ -126,7 +127,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-23T10:10:20+00:00",
+  "checked": "2026-10-23T17:26:57+00:00",
   "error": null,
   "changed_on": "2026-10-23",
   "new_links": {},
