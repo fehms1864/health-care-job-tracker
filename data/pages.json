@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-23T17:26:57+00:00",
+  "checked": "2026-10-24T09:36:10+00:00",
   "error": null,
   "changed_on": "2026-10-23",
   "new_links": {},
@@ -35,16 +35,16 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "aae3adad0f9f1b5bccdab05838fa7dae9efa5efc",
+  "hash": "12d613d1c3d2e0f64585cdf47403f547fdfb4c64",
   "postings": {
-   "https://wise.jobs/job/customer-support-specialist-in-sao-paulo-jid-4395": "Customer Support Specialist",
+   "https://wise.jobs/job/business-customer-support-specialist-in-sao-paulo-jid-4395": "Business Customer Support Specialist",
+   "https://wise.jobs/job/customer-support-specialist-in-hyderabad-jid-4138": "Customer Support Specialist",
    "https://wise.jobs/job/fincrime-investigator-aml-investigations-in-sao-paulo-jid-4374": "FinCrime Investigator - AML Investigations",
    "https://wise.jobs/job/banking-operations-specialist-in-singapore-jid-4399": "Banking Operations Specialist",
    "https://wise.jobs/job/principal-implementation-manager-wise-platform-verification-in-london-jid-4079": "Principal Implementation Manager - Wise Platform Verification",
    "https://wise.jobs/job/engineering-lead-send-for-partners-in-london-jid-4398": "Engineering Lead - Send for Partners",
    "https://wise.jobs/job/director-of-analytics-customer-support-in-london-jid-4397": "Director of Analytics - Customer Support",
    "https://wise.jobs/job/fp-and-a-manager-in-london-jid-3640": "FP&A Manager",
-   "https://wise.jobs/job/fincrime-operations-analyst-aml-investigations-in-hyderabad-jid-4298": "FinCrime Operations Analyst - AML Investigations",
    "https://wise.jobs/job/senior-software-developer-in-tallinn-jid-4288": "Senior Software Developer",
    "https://wise.jobs/job/senior-software-engineer-i-product-eligibility-in-london-jid-4131": "Senior Software Engineer I - Product Eligibility",
    "https://wise.jobs/job/banking-operations-manager-in-singapore-jid-4396": "Banking Operations Manager",
@@ -52,14 +52,14 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-23T17:26:57+00:00",
+  "checked": "2026-10-24T09:36:10+00:00",
   "error": null,
-  "changed_on": "2026-10-23",
+  "changed_on": "2026-10-24",
   "new_links": {
-   "https://wise.jobs/job/customer-support-specialist-in-sao-paulo-jid-4395": "Customer Support Specialist",
-   "https://wise.jobs/job/principal-implementation-manager-wise-platform-verification-in-london-jid-4079": "Principal Implementation Manager - Wise Platform Verification"
+   "https://wise.jobs/job/business-customer-support-specialist-in-sao-paulo-jid-4395": "Business Customer Support Specialist",
+   "https://wise.jobs/job/customer-support-specialist-in-hyderabad-jid-4138": "Customer Support Specialist"
   },
-  "new_on": "2026-10-23"
+  "new_on": "2026-10-24"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
@@ -85,12 +85,10 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-23T17:26:57+00:00",
+  "checked": "2026-10-24T09:36:10+00:00",
   "error": null,
   "changed_on": "2026-10-23",
-  "new_links": {
-   "https://optiver.com/join-us/jobs/human-resources-and-recruiting/sydney/apac-mobility-partner-12-month-contract/": "APAC Mobility Partner (12-month contract)"
-  },
+  "new_links": {},
   "new_on": "2026-10-23"
  },
  "https://careers.shezlong.com/": {
@@ -103,7 +101,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-23T17:26:57+00:00",
+  "checked": "2026-10-24T09:36:10+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -112,7 +110,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "a4f80e29396a9979153142cc1813edd2de162fa4",
+  "hash": "e7cafe30d35a1543af4b388b7417278404ebcadd",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-hematology-part-time-1100089688/": "Consultant – Hematology (Part-Time)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-general-surgery-part-time-1100089686/": "Consultant– General Surgery (Part-Time)",
@@ -127,9 +125,9 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-23T17:26:57+00:00",
+  "checked": "2026-10-24T09:36:10+00:00",
   "error": null,
-  "changed_on": "2026-10-23",
+  "changed_on": "2026-10-24",
   "new_links": {},
   "new_on": "2026-10-22"
  }
