@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-24T09:36:10+00:00",
+  "checked": "2026-10-24T16:15:10+00:00",
   "error": null,
   "changed_on": "2026-10-23",
   "new_links": {},
@@ -35,8 +35,9 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "12d613d1c3d2e0f64585cdf47403f547fdfb4c64",
+  "hash": "e16ea20730c06164f341fc1bb73f83889e334034",
   "postings": {
+   "https://wise.jobs/job/dei-partner-lead-in-london-jid-3995": "DEI Partner Lead",
    "https://wise.jobs/job/business-customer-support-specialist-in-sao-paulo-jid-4395": "Business Customer Support Specialist",
    "https://wise.jobs/job/customer-support-specialist-in-hyderabad-jid-4138": "Customer Support Specialist",
    "https://wise.jobs/job/fincrime-investigator-aml-investigations-in-sao-paulo-jid-4374": "FinCrime Investigator - AML Investigations",
@@ -47,17 +48,15 @@
    "https://wise.jobs/job/fp-and-a-manager-in-london-jid-3640": "FP&A Manager",
    "https://wise.jobs/job/senior-software-developer-in-tallinn-jid-4288": "Senior Software Developer",
    "https://wise.jobs/job/senior-software-engineer-i-product-eligibility-in-london-jid-4131": "Senior Software Engineer I - Product Eligibility",
-   "https://wise.jobs/job/banking-operations-manager-in-singapore-jid-4396": "Banking Operations Manager",
-   "https://wise.jobs/job/senior-analytics-manager-in-london-jid-4388": "Senior Analytics Manager"
+   "https://wise.jobs/job/banking-operations-manager-in-singapore-jid-4396": "Banking Operations Manager"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-24T09:36:10+00:00",
+  "checked": "2026-10-24T16:15:10+00:00",
   "error": null,
   "changed_on": "2026-10-24",
   "new_links": {
-   "https://wise.jobs/job/business-customer-support-specialist-in-sao-paulo-jid-4395": "Business Customer Support Specialist",
-   "https://wise.jobs/job/customer-support-specialist-in-hyderabad-jid-4138": "Customer Support Specialist"
+   "https://wise.jobs/job/dei-partner-lead-in-london-jid-3995": "DEI Partner Lead"
   },
   "new_on": "2026-10-24"
  },
@@ -85,7 +84,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-24T09:36:10+00:00",
+  "checked": "2026-10-24T16:15:10+00:00",
   "error": null,
   "changed_on": "2026-10-23",
   "new_links": {},
@@ -101,7 +100,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-24T09:36:10+00:00",
+  "checked": "2026-10-24T16:15:10+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -125,7 +124,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-24T09:36:10+00:00",
+  "checked": "2026-10-24T16:15:10+00:00",
   "error": null,
   "changed_on": "2026-10-24",
   "new_links": {},

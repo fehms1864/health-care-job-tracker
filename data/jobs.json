@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T09:36:10+00:00",
+ "generated_at": "2026-10-24T16:15:10+00:00",
  "baseline_date": "2026-09-27",
  "rules_version": 6,
  "sources": {
@@ -255,6 +255,28 @@
    "baseline": false
   },
   {
+   "id": "78c89cbdb4d19e",
+   "company": "Atlassian",
+   "region": "UK",
+   "title": "Deal Operations Manager  (EMEA)",
+   "location": "London - United Kingdom -   London,  EC1V United Kingdom / Remote - Remote",
+   "url": "https://www.atlassian.com/company/careers/details/27693",
+   "posted": "2026-10-21 09:55 AM",
+   "posted_date": "2026-10-21",
+   "posted_approx": false,
+   "first_seen": "2026-10-24",
+   "score": 33,
+   "hits": [
+    "operations",
+    "operations manager"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "c463fee032345e",
    "company": "Accenture",
    "region": "UK",
@@ -270,6 +292,30 @@
     "healthcare",
     "strategy",
     "operations",
+    "consulting"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "c5df6aff77f959",
+   "company": "Accenture",
+   "region": "UK",
+   "title": "Core Supply Chain Consultant",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Core-Supply-Chain-Consultant_R00362278",
+   "posted": "Yesterday",
+   "posted_date": "2026-10-23",
+   "posted_approx": false,
+   "first_seen": "2026-10-24",
+   "score": 32,
+   "hits": [
+    "strategy",
+    "operations",
+    "consultant",
     "consulting"
    ],
    "lang": null,
@@ -351,6 +397,30 @@
    "baseline": false
   },
   {
+   "id": "6282a2597b117a",
+   "company": "Atlassian",
+   "region": "UK",
+   "title": "Customer Program Manager | DX",
+   "location": "Remote - UK - Remote / Remote - Remote",
+   "url": "https://www.atlassian.com/company/careers/details/27700",
+   "posted": "2026-10-15 09:06 AM",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-24",
+   "score": 30,
+   "hits": [
+    "operations",
+    "consulting",
+    "program manager",
+    "change management"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "f776aa9f633584",
    "company": "Accenture",
    "region": "UK",
@@ -365,6 +435,30 @@
    "hits": [
     "strategy",
     "operations",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "777cc334688e1c",
+   "company": "Atlassian",
+   "region": "UK",
+   "title": "Principal Customer Success Manager, Public Sector UKI",
+   "location": "Remote - UK - Remote / London - United Kingdom -   London,  EC1V United Kingdom",
+   "url": "https://www.atlassian.com/company/careers/details/26042",
+   "posted": "2026-10-16 05:23 AM",
+   "posted_date": "2026-10-16",
+   "posted_approx": false,
+   "first_seen": "2026-10-24",
+   "score": 28,
+   "hits": [
+    "healthcare",
+    "nhs",
     "consulting",
     "transformation"
    ],
@@ -391,6 +485,30 @@
     "operations",
     "consulting",
     "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "e5a64e75b59f1d",
+   "company": "Atlassian",
+   "region": "UK",
+   "title": "Senior Manager, Customer Success Architects, EMEA",
+   "location": "London - United Kingdom -   London,  EC1V United Kingdom / Remote - Remote",
+   "url": "https://www.atlassian.com/company/careers/details/27645",
+   "posted": "2026-10-18 11:31 PM",
+   "posted_date": "2026-10-18",
+   "posted_approx": false,
+   "first_seen": "2026-10-24",
+   "score": 27,
+   "hits": [
+    "strategy",
+    "consulting",
+    "implementation",
+    "customer success"
    ],
    "lang": null,
    "visa": null,
@@ -495,6 +613,30 @@
    "baseline": false
   },
   {
+   "id": "0626435c5fd891",
+   "company": "Accenture",
+   "region": "UK",
+   "title": "Core Supply Chain Manager/Associate Manager",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Core-Supply-Chain-Manager-Associate-Manager_R00362415",
+   "posted": "Yesterday",
+   "posted_date": "2026-10-23",
+   "posted_approx": false,
+   "first_seen": "2026-10-24",
+   "score": 24,
+   "hits": [
+    "strategy",
+    "operations",
+    "consulting",
+    "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "a31ab9427fb758",
    "company": "Janssen",
    "region": "UK",
@@ -511,6 +653,54 @@
     "medtech",
     "strategy",
     "operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "8ea8097de0bee8",
+   "company": "Atlassian",
+   "region": "UK",
+   "title": "Enterprise Customer Success Manager, DX",
+   "location": "London - United Kingdom -   London,  EC1V United Kingdom / Remote - UK - Remote",
+   "url": "https://www.atlassian.com/company/careers/details/26315",
+   "posted": "2026-10-16 01:03 PM",
+   "posted_date": "2026-10-16",
+   "posted_approx": false,
+   "first_seen": "2026-10-24",
+   "score": 22,
+   "hits": [
+    "strategy",
+    "consulting",
+    "implementation",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "1dd007a2352e7f",
+   "company": "Atlassian",
+   "region": "UK",
+   "title": "Senior Manager, Customer Success, Strategic - DACH (German Speaking)",
+   "location": "Munich - Germany -   Munich,   Germany / Remote - Germany - Remote / London - United Kingdom -   London,  EC1V United Kingdom / Remote - UK - Remote",
+   "url": "https://www.atlassian.com/company/careers/details/27195",
+   "posted": "2026-10-22 09:47 AM",
+   "posted_date": "2026-10-22",
+   "posted_approx": false,
+   "first_seen": "2026-10-24",
+   "score": 22,
+   "hits": [
+    "strategy",
+    "consulting",
+    "transformation",
+    "customer success"
    ],
    "lang": null,
    "visa": null,
@@ -726,6 +916,28 @@
    "baseline": false
   },
   {
+   "id": "65cb17bfc85bf2",
+   "company": "Atlassian",
+   "region": "UK",
+   "title": "Manager, Strategic Account Management (German speaking)",
+   "location": "London - United Kingdom -   London,  EC1V United Kingdom / Remote - Remote",
+   "url": "https://www.atlassian.com/company/careers/details/27513",
+   "posted": "2026-10-09 02:44 PM",
+   "posted_date": "2026-10-09",
+   "posted_approx": false,
+   "first_seen": "2026-10-24",
+   "score": 16,
+   "hits": [
+    "strategy",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "3182eb3eef876c",
    "company": "Wipro",
    "region": "UK",
@@ -749,6 +961,50 @@
    "baseline": false
   },
   {
+   "id": "d72ebcb90fb970",
+   "company": "Atlassian",
+   "region": "UK",
+   "title": "Manager, Customer Success, Enterprise - DACH (German Speaking)",
+   "location": "Munich - Germany -   Munich,   Germany / Remote - Germany - Remote / Remote - UK - Remote / London - United Kingdom -   London,  EC1V United Kingdom",
+   "url": "https://www.atlassian.com/company/careers/details/27325",
+   "posted": "2026-10-22 09:47 AM",
+   "posted_date": "2026-10-22",
+   "posted_approx": false,
+   "first_seen": "2026-10-24",
+   "score": 14,
+   "hits": [
+    "strategy",
+    "customer success"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "be33cfebabb2e8",
+   "company": "Atlassian",
+   "region": "UK",
+   "title": "Principal Value Advisor, EMEA",
+   "location": "London - United Kingdom -   London,  EC1V United Kingdom / Remote - UK - Remote",
+   "url": "https://www.atlassian.com/company/careers/details/25783",
+   "posted": "2026-10-05 12:29 PM",
+   "posted_date": "2026-10-05",
+   "posted_approx": false,
+   "first_seen": "2026-10-24",
+   "score": 14,
+   "hits": [
+    "consulting",
+    "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "166dfa3e10b149",
    "company": "Accenture NL",
    "region": "NL",
@@ -764,6 +1020,28 @@
     "strategy",
     "operations",
     "consulting"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "47fe54e9710438",
+   "company": "Atlassian",
+   "region": "UK",
+   "title": "Senior Services Solutions Advocate",
+   "location": "Munich - Germany -   Munich,   Germany / Remote - Germany - Remote / Remote - UK - Remote / London - United Kingdom -   London,  EC1V United Kingdom",
+   "url": "https://www.atlassian.com/company/careers/details/26250",
+   "posted": "2026-10-21 11:24 AM",
+   "posted_date": "2026-10-21",
+   "posted_approx": false,
+   "first_seen": "2026-10-24",
+   "score": 13,
+   "hits": [
+    "implementation",
+    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -817,6 +1095,86 @@
    "baseline": false
   },
   {
+   "id": "acec7cfe513f1b",
+   "company": "Atlassian",
+   "region": "UK",
+   "title": "Readiness Enablement Manager - EMEA",
+   "location": "London - United Kingdom -   London,  EC1V United Kingdom / Remote - Remote",
+   "url": "https://www.atlassian.com/company/careers/details/27541",
+   "posted": "2026-10-19 03:28 PM",
+   "posted_date": "2026-10-19",
+   "posted_approx": false,
+   "first_seen": "2026-10-24",
+   "score": 10,
+   "hits": [
+    "operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "f1cd208774c9b8",
+   "company": "Atlassian",
+   "region": "UK",
+   "title": "Senior Privacy Counsel - Cybersecurity & Trust",
+   "location": "London - United Kingdom -   London,  EC1V United Kingdom",
+   "url": "https://www.atlassian.com/company/careers/details/27696",
+   "posted": "2026-10-15 07:30 AM",
+   "posted_date": "2026-10-15",
+   "posted_approx": false,
+   "first_seen": "2026-10-24",
+   "score": 10,
+   "hits": [
+    "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "4d72904ac1be47",
+   "company": "Atlassian",
+   "region": "UK",
+   "title": "Digital Success Manager",
+   "location": "London - United Kingdom -   London,  EC1V United Kingdom / Remote - UK - Remote",
+   "url": "https://www.atlassian.com/company/careers/details/26053",
+   "posted": "2026-10-09 09:18 AM",
+   "posted_date": "2026-10-09",
+   "posted_approx": false,
+   "first_seen": "2026-10-24",
+   "score": 9,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "c878d28756962d",
+   "company": "Atlassian",
+   "region": "UK",
+   "title": "Senior Scaled Adoption Manager",
+   "location": "London - United Kingdom -   London,  EC1V United Kingdom / Remote - UK - Remote",
+   "url": "https://www.atlassian.com/company/careers/details/27353",
+   "posted": "2026-10-13 10:20 AM",
+   "posted_date": "2026-10-13",
+   "posted_approx": false,
+   "first_seen": "2026-10-24",
+   "score": 8,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "8655f7ea1cde9c",
    "company": "Amazon / AWS (UK)",
    "region": "UK",
@@ -831,6 +1189,27 @@
    "hits": [
     "strategy",
     "operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "6e7771b624d8a9",
+   "company": "Wise",
+   "region": "UK",
+   "title": "DEI Partner Lead",
+   "location": "London",
+   "url": "https://wise.jobs/job/dei-partner-lead-in-london-jid-3995",
+   "posted": "2026-10-24T10:57:17+00:00",
+   "posted_date": "2026-10-24",
+   "posted_approx": false,
+   "first_seen": "2026-10-24",
+   "score": 6,
+   "hits": [
+    "strategy"
    ],
    "lang": null,
    "visa": null,
@@ -895,7 +1274,7 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
    "baseline": false
   },
@@ -20164,29 +20543,6 @@
    "baseline": true
   },
   {
-   "id": "06ff5a00e2ca85",
-   "company": "PwC",
-   "region": "UK",
-   "title": "Deals | Management Consultant",
-   "location": "6 Locations",
-   "url": "https://pwc.wd3.myworkdayjobs.com/CRM_Experienced_Careers_Site/job/Sydney/Deals---Management-Consultant_347569WD",
-   "posted": "26 Days Ago",
-   "posted_date": "2026-09-28",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 22,
-   "hits": [
-    "strategy",
-    "consultant",
-    "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "bc5d66c7163481",
    "company": "BCG Middle East",
    "region": "ME",
@@ -25521,28 +25877,6 @@
    "baseline": true
   },
   {
-   "id": "369a05bde5af83",
-   "company": "Siemens Healthineers",
-   "region": "UK",
-   "title": "Quality Release Officer (FTC)",
-   "location": "Llanberis, Caernarfon, UK / United Kingdom",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100709/Quality-Release-Officer-FTC",
-   "posted": "2026-10-07T00:00:00.000+0000",
-   "posted_date": "2026-10-07",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 18,
-   "hits": [
-    "healthcare",
-    "change management"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "d4fea8cc8f4c65",
    "company": "Siemens Healthineers",
    "region": "UK",
@@ -25558,6 +25892,28 @@
     "healthcare",
     "operations",
     "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "369a05bde5af83",
+   "company": "Siemens Healthineers",
+   "region": "UK",
+   "title": "Quality Release Officer (FTC)",
+   "location": "Llanberis, Caernarfon, UK / United Kingdom",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100709/Quality-Release-Officer-FTC",
+   "posted": "2026-10-07T00:00:00.000+0000",
+   "posted_date": "2026-10-07",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 18,
+   "hits": [
+    "healthcare",
+    "change management"
    ],
    "lang": null,
    "visa": null,
@@ -39235,13 +39591,13 @@
    "baseline": false
   },
   {
-   "id": "5095cf2978ef5d",
+   "id": "9fd0a0cc6730c6",
    "company": "Intercom",
    "region": "UK",
    "title": "Senior Customer Success Manager",
    "location": "Dublin, Ireland Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/intercom/jobs/7600712",
-   "posted": "2026-02-09T21:42:37-05:00",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/7600671",
+   "posted": "2026-02-09T21:42:36-05:00",
    "posted_date": "2026-02-09",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -39259,13 +39615,13 @@
    "baseline": false
   },
   {
-   "id": "9fd0a0cc6730c6",
+   "id": "5095cf2978ef5d",
    "company": "Intercom",
    "region": "UK",
    "title": "Senior Customer Success Manager",
    "location": "Dublin, Ireland Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/intercom/jobs/7600671",
-   "posted": "2026-02-09T21:42:36-05:00",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/7600712",
+   "posted": "2026-02-09T21:42:37-05:00",
    "posted_date": "2026-02-09",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -42407,13 +42763,13 @@
    "baseline": false
   },
   {
-   "id": "94cb7bc472850f",
+   "id": "5c9923fc2a4c97",
    "company": "SumUp",
    "region": "UK",
    "title": "Workday Specialist",
    "location": "Barcelona Barcelona, Barcelona, Spain / Berlin Berlin, Germany / London London, England, United Kingdom / Mexico - Remote Mexico City, Mexico City, Mexico / War",
-   "url": "https://sumup.com/careers/positions/8547634002?gh_jid=8547634002",
-   "posted": "2026-05-13T10:39:15-04:00",
+   "url": "https://sumup.com/careers/positions/8547633002?gh_jid=8547633002",
+   "posted": "2026-05-13T10:38:36-04:00",
    "posted_date": "2026-05-13",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -42429,13 +42785,13 @@
    "baseline": false
   },
   {
-   "id": "5c9923fc2a4c97",
+   "id": "94cb7bc472850f",
    "company": "SumUp",
    "region": "UK",
    "title": "Workday Specialist",
    "location": "Barcelona Barcelona, Barcelona, Spain / Berlin Berlin, Germany / London London, England, United Kingdom / Mexico - Remote Mexico City, Mexico City, Mexico / War",
-   "url": "https://sumup.com/careers/positions/8547633002?gh_jid=8547633002",
-   "posted": "2026-05-13T10:38:36-04:00",
+   "url": "https://sumup.com/careers/positions/8547634002?gh_jid=8547634002",
+   "posted": "2026-05-13T10:39:15-04:00",
    "posted_date": "2026-05-13",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -43629,13 +43985,13 @@
    "baseline": false
   },
   {
-   "id": "ceeaa0cf8c6de2",
+   "id": "5436cb72ceda73",
    "company": "Datadog",
    "region": "UK",
    "title": "Senior Partner Manager - Channels (Security)",
-   "location": "Sydney, Australia / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
-   "url": "https://careers.datadoghq.com/detail/8166231/?gh_jid=8166231",
-   "posted": "2026-09-04T06:56:39-04:00",
+   "location": "Singapore, Singapore / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
+   "url": "https://careers.datadoghq.com/detail/8164588/?gh_jid=8164588",
+   "posted": "2026-09-04T06:56:37-04:00",
    "posted_date": "2026-09-04",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -43648,13 +44004,13 @@
    "baseline": false
   },
   {
-   "id": "5436cb72ceda73",
+   "id": "ceeaa0cf8c6de2",
    "company": "Datadog",
    "region": "UK",
    "title": "Senior Partner Manager - Channels (Security)",
-   "location": "Singapore, Singapore / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
-   "url": "https://careers.datadoghq.com/detail/8164588/?gh_jid=8164588",
-   "posted": "2026-09-04T06:56:37-04:00",
+   "location": "Sydney, Australia / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
+   "url": "https://careers.datadoghq.com/detail/8166231/?gh_jid=8166231",
+   "posted": "2026-09-04T06:56:39-04:00",
    "posted_date": "2026-09-04",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -44469,9 +44825,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 452,
-   "in_region": 452,
-   "kept": 184
+   "total": 458,
+   "in_region": 458,
+   "kept": 186
   },
   {
    "companies": [
@@ -44489,7 +44845,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 250,
+   "total": 248,
    "in_region": 84,
    "kept": 32
   },
@@ -44541,9 +44897,9 @@
    ],
    "source": "atlassian",
    "error": null,
-   "total": 0,
-   "in_region": 0,
-   "kept": 0
+   "total": 354,
+   "in_region": 61,
+   "kept": 14
   },
   {
    "companies": [
@@ -44908,8 +45264,8 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 143,
-   "in_region": 143,
+   "total": 142,
+   "in_region": 142,
    "kept": 38
   },
   {
@@ -45346,8 +45702,8 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 39,
-   "in_region": 39,
+   "total": 40,
+   "in_region": 40,
    "kept": 19
   },
   {
@@ -45408,7 +45764,7 @@
    ],
    "source": "jibe",
    "error": null,
-   "total": 3221,
+   "total": 3222,
    "in_region": 251,
    "kept": 105
   },
@@ -45419,9 +45775,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 352,
-   "in_region": 352,
-   "kept": 77
+   "total": 351,
+   "in_region": 351,
+   "kept": 76
   },
   {
    "companies": [
@@ -45449,8 +45805,8 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 96,
-   "in_region": 96,
+   "total": 95,
+   "in_region": 95,
    "kept": 27
   },
   {
@@ -45563,7 +45919,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 720,
+   "total": 719,
    "in_region": 60,
    "kept": 19
   },
@@ -45715,7 +46071,7 @@
    "error": null,
    "total": 12,
    "in_region": 6,
-   "kept": 1,
+   "kept": 2,
    "method": "structured data on job pages"
   },
   {
@@ -45754,7 +46110,7 @@
    ],
    "source": "jibe",
    "error": null,
-   "total": 283,
+   "total": 284,
    "in_region": 10,
    "kept": 4
   },
@@ -45792,8 +46148,8 @@
  "counts": {
   "companies": 215,
   "feeds": 126,
-  "jobs": 1942,
-  "new_today": 32,
+  "jobs": 1958,
+  "new_today": 17,
   "pages": 5
  },
  "coverage": {
