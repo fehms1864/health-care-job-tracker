@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-25T09:52:53+00:00",
+  "checked": "2026-10-25T16:49:44+00:00",
   "error": null,
   "changed_on": "2026-10-23",
   "new_links": {},
@@ -35,8 +35,10 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "a1fa7d4f1d60150d219dba627cae319b268f8f71",
+  "hash": "2bf9e00139d7b7aa041775a95368447fee6d28dc",
   "postings": {
+   "https://wise.jobs/job/senior-recruiter-non-tech-in-hyderabad-jid-3335": "Senior Recruiter - Non Tech",
+   "https://wise.jobs/job/group-regulatory-compliance-manager-abc-coi-gh-and-e-in-london-jid-3928": "Group Regulatory Compliance Manager - ABC, COI, GH&E",
    "https://wise.jobs/job/dei-partner-lead-in-london-jid-3995": "DEI Partner Lead",
    "https://wise.jobs/job/business-customer-support-specialist-in-sao-paulo-jid-4395": "Business Customer Support Specialist",
    "https://wise.jobs/job/customer-support-specialist-in-hyderabad-jid-4138": "Customer Support Specialist",
@@ -46,17 +48,17 @@
    "https://wise.jobs/job/engineering-lead-send-for-partners-in-london-jid-4398": "Engineering Lead - Send for Partners",
    "https://wise.jobs/job/director-of-analytics-customer-support-in-london-jid-4397": "Director of Analytics - Customer Support",
    "https://wise.jobs/job/fp-and-a-manager-in-london-jid-3640": "FP&A Manager",
-   "https://wise.jobs/job/senior-software-developer-in-tallinn-jid-4288": "Senior Software Developer",
-   "https://wise.jobs/job/senior-software-engineer-i-product-eligibility-in-london-jid-4131": "Senior Software Engineer I - Product Eligibility",
-   "https://wise.jobs/job/banking-operations-manager-in-singapore-jid-4396": "Banking Operations Manager"
+   "https://wise.jobs/job/senior-software-developer-in-tallinn-jid-4288": "Senior Software Developer"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-25T09:52:53+00:00",
+  "checked": "2026-10-25T16:49:44+00:00",
   "error": null,
   "changed_on": "2026-10-25",
-  "new_links": {},
-  "new_on": "2026-10-24"
+  "new_links": {
+   "https://wise.jobs/job/group-regulatory-compliance-manager-abc-coi-gh-and-e-in-london-jid-3928": "Group Regulatory Compliance Manager - ABC, COI, GH&E"
+  },
+  "new_on": "2026-10-25"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
@@ -82,7 +84,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-25T09:52:53+00:00",
+  "checked": "2026-10-25T16:49:44+00:00",
   "error": null,
   "changed_on": "2026-10-23",
   "new_links": {},
@@ -98,7 +100,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-25T09:52:53+00:00",
+  "checked": "2026-10-25T16:49:44+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -107,8 +109,9 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "a04edfed5251bc79dced9c31aa2b5311840b8f63",
+  "hash": "cecd64369a3a4288db2310c8ba26602f0323dfb8",
   "postings": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-hematology-part-time-1100089688/": "Consultant – Hematology (Part-Time)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-general-surgery-part-time-1100089686/": "Consultant– General Surgery (Part-Time)",
@@ -117,12 +120,11 @@
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-orthopaedics-lower-limb-part-time-1100089679/": "Consultant – Orthopaedics, Lower Limb (Part-Time)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-orthopaedics-upper-limb-part-time-1100089680/": "Consultant – Orthopaedics, Upper Limb (Part-Time)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-allocation-reconciliation-invoicing-1100091550/": "Coop - Allocation Reconciliation & Invoicing",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-sme-account-management-pipeline-1100087121/": "View Job Details",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-actuarial-1100091491/": "Coop - Actuarial"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-sme-account-management-pipeline-1100087121/": "View Job Details"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-25T09:52:53+00:00",
+  "checked": "2026-10-25T16:49:44+00:00",
   "error": null,
   "changed_on": "2026-10-25",
   "new_links": {

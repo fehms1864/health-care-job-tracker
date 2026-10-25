@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T09:52:53+00:00",
+ "generated_at": "2026-10-25T16:49:44+00:00",
  "baseline_date": "2026-09-27",
  "rules_version": 6,
  "sources": {
@@ -207,6 +207,52 @@
    "baseline": false
   },
   {
+   "id": "06a4a60004e882",
+   "company": "AstraZeneca",
+   "region": "UK",
+   "title": "Senior Global Medical Affairs Lead, Cardiovascular & Renal (CVRM)",
+   "location": "2 Locations",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Senior-Global-Medical-Affairs-Lead--Cardiovascular---Renal--CVRM-_R-261303",
+   "posted": "Today",
+   "posted_date": "2026-10-25",
+   "posted_approx": false,
+   "first_seen": "2026-10-25",
+   "score": 31,
+   "hits": [
+    "healthcare",
+    "patient",
+    "medical",
+    "digital health"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "c4334b0d852f47",
+   "company": "Neko Health",
+   "region": "UK",
+   "title": "People Partner Lead, Commercial",
+   "location": "New York / London / United States",
+   "url": "https://jobs.ashbyhq.com/neko-health/79a2e104-dbe0-48df-9a2c-ff2a28e0c1b6",
+   "posted": "2026-10-25T12:50:32.079+00:00",
+   "posted_date": "2026-10-25",
+   "posted_approx": false,
+   "first_seen": "2026-10-25",
+   "score": 18,
+   "hits": [
+    "healthcare",
+    "strategy"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "a84f596abf9b1e",
    "company": "Wipro",
    "region": "UK",
@@ -222,6 +268,29 @@
     "operations",
     "consulting",
     "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "43dd2c859ba072",
+   "company": "M42",
+   "region": "ME",
+   "title": "Speech and Language Pathologist",
+   "location": "",
+   "url": "https://careers.m42.ae/jobs/5376?lang=en-us",
+   "posted": "2026-06-24T11:33:00+0000",
+   "posted_date": "2026-06-24",
+   "posted_approx": false,
+   "first_seen": "2026-10-25",
+   "score": 16,
+   "hits": [
+    "healthcare",
+    "patient",
+    "hospital"
    ],
    "lang": null,
    "visa": null,
@@ -294,21 +363,21 @@
    "baseline": false
   },
   {
-   "id": "884a0fde242e6f",
-   "company": "Janssen",
+   "id": "7df7ba723cac41",
+   "company": "Wise",
    "region": "UK",
-   "title": "",
-   "location": "",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ",
-   "posted": null,
+   "title": "Group Regulatory Compliance Manager - ABC, COI, GH&E",
+   "location": "London",
+   "url": "https://wise.jobs/job/group-regulatory-compliance-manager-abc-coi-gh-and-e-in-london-jid-3928",
+   "posted": "2026-10-25T11:33:18+00:00",
    "posted_date": "2026-10-25",
-   "posted_approx": true,
+   "posted_approx": false,
    "first_seen": "2026-10-25",
-   "score": 3,
+   "score": 4,
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
    "baseline": false
   },
@@ -7195,9 +7264,9 @@
    "id": "a12f8b9ac27ca9",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Mergers & Acquisitions Analyst 2 - EY Parthenon, Dubai (National)",
+   "title": "Mergers & Acquisitions Executive - EY Parthenon, Dubai (National)",
    "location": "Dubai, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/Dubai-Mergers-&amp;-Acquisitions-Analyst-2-EY-Parthenon%2C-Dubai-%28National%29-9267/1421525033/",
+   "url": "https://careers.ey.com/ey/job/Dubai-Mergers-&amp;-Acquisitions-Executive-EY-Parthenon%2C-Dubai-%28National%29-9267/1421525033/",
    "posted": null,
    "posted_date": "2026-10-20",
    "posted_approx": true,
@@ -10975,30 +11044,6 @@
     "patient",
     "medtech",
     "strategy"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "221c32e29568d9",
-   "company": "Janssen",
-   "region": "UK",
-   "title": "Manager, Clinical Research",
-   "location": "North Ryde, New South Wales, Australia",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/North-Ryde-New-South-Wales-Australia/Manager--Clinical-Research_R-074474-2",
-   "posted": "11 Days Ago",
-   "posted_date": "2026-10-14",
-   "posted_approx": false,
-   "first_seen": "2026-10-14",
-   "score": 33,
-   "hits": [
-    "healthcare",
-    "clinical",
-    "patient",
-    "medtech"
    ],
    "lang": null,
    "visa": null,
@@ -16721,9 +16766,9 @@
    "id": "15212e8d837917",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Risk Consulting - Enterprise Risk Transformation - TMT Sector - Senior Manager",
+   "title": "Risk Consulting - Enterprise Risk Transformation - TMT Sector - Senior Manager - Bay Area",
    "location": "San, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/San-Francisco-Risk-Consulting-Enterprise-Risk-Transformation-TMT-Sector-Senior-Manager-CA-94105-2907/1403076633/",
+   "url": "https://careers.ey.com/ey/job/San-Francisco-Risk-Consulting-Enterprise-Risk-Transformation-TMT-Sector-Senior-Manager-Bay-Area-CA-94105-2907/1403076633/",
    "posted": null,
    "posted_date": "2026-10-13",
    "posted_approx": true,
@@ -20630,12 +20675,12 @@
    "baseline": true
   },
   {
-   "id": "f8e5ca4bd4a67c",
+   "id": "25d5a34980758f",
    "company": "BCG",
    "region": "UK",
-   "title": "BCG X Global PA AI Strategy & Portfolio Senior Manager",
+   "title": "BCG X Global PA AI Strategy & Portfolio Manager",
    "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/59803/BCG-X-Global-PA-AI-Strategy-Portfolio-Senior-Manager",
+   "url": "https://careers.bcg.com/global/en/job/59802/BCG-X-Global-PA-AI-Strategy-Portfolio-Manager",
    "posted": "2026-10-02T00:00:00.000+0000",
    "posted_date": "2026-10-02",
    "posted_approx": false,
@@ -20653,12 +20698,12 @@
    "baseline": true
   },
   {
-   "id": "25d5a34980758f",
+   "id": "f8e5ca4bd4a67c",
    "company": "BCG",
    "region": "UK",
-   "title": "BCG X Global PA AI Strategy & Portfolio Manager",
+   "title": "BCG X Global PA AI Strategy & Portfolio Senior Manager",
    "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/59802/BCG-X-Global-PA-AI-Strategy-Portfolio-Manager",
+   "url": "https://careers.bcg.com/global/en/job/59803/BCG-X-Global-PA-AI-Strategy-Portfolio-Senior-Manager",
    "posted": "2026-10-02T00:00:00.000+0000",
    "posted_date": "2026-10-02",
    "posted_approx": false,
@@ -23127,6 +23172,54 @@
    "baseline": true
   },
   {
+   "id": "db193c86092dfd",
+   "company": "BCG",
+   "region": "UK",
+   "title": "Senior Analyst - BCG Vantage, Technology, Media, and Telecommunications (TMT)",
+   "location": "London, United Kingdom",
+   "url": "https://careers.bcg.com/global/en/job/59278/Senior-Analyst-BCG-Vantage-Technology-Media-and-Telecommunications-TMT",
+   "posted": "2026-08-31T00:00:00.000+0000",
+   "posted_date": "2026-08-31",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 20,
+   "hits": [
+    "healthcare",
+    "strategy",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "675fce8e1bb675",
+   "company": "BCG",
+   "region": "UK",
+   "title": "Global Cybersecurity Senior Manager – Program Management",
+   "location": "London, United Kingdom",
+   "url": "https://careers.bcg.com/global/en/job/59040/Global-Cybersecurity-Senior-Manager-Program-Management",
+   "posted": "2026-08-10T00:00:00.000+0000",
+   "posted_date": "2026-08-10",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 20,
+   "hits": [
+    "strategy",
+    "operations",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "71594d7227ab7c",
    "company": "BCG",
    "region": "UK",
@@ -23167,54 +23260,6 @@
     "consulting",
     "transformation",
     "change management"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "675fce8e1bb675",
-   "company": "BCG",
-   "region": "UK",
-   "title": "Global Cybersecurity Senior Manager – Program Management",
-   "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/59040/Global-Cybersecurity-Senior-Manager-Program-Management",
-   "posted": "2026-08-10T00:00:00.000+0000",
-   "posted_date": "2026-08-10",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 20,
-   "hits": [
-    "strategy",
-    "operations",
-    "consulting",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "db193c86092dfd",
-   "company": "BCG",
-   "region": "UK",
-   "title": "Senior Analyst - BCG Vantage, Technology, Media, and Telecommunications (TMT)",
-   "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/59278/Senior-Analyst-BCG-Vantage-Technology-Media-and-Telecommunications-TMT",
-   "posted": "2026-08-31T00:00:00.000+0000",
-   "posted_date": "2026-08-31",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 20,
-   "hits": [
-    "healthcare",
-    "strategy",
-    "consulting",
-    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -25196,30 +25241,6 @@
    "baseline": true
   },
   {
-   "id": "96e0f4e58249ec",
-   "company": "BCG",
-   "region": "UK",
-   "title": "Global Change & Communications Senior Specialist - Digital Products",
-   "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/59132/Global-Change-Communications-Senior-Specialist-Digital-Products",
-   "posted": "2026-08-17T00:00:00.000+0000",
-   "posted_date": "2026-08-17",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 18,
-   "hits": [
-    "strategy",
-    "consulting",
-    "transformation",
-    "change management"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "1331f1d06597bf",
    "company": "BCG",
    "region": "UK",
@@ -25236,6 +25257,30 @@
     "consulting",
     "implementation",
     "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "96e0f4e58249ec",
+   "company": "BCG",
+   "region": "UK",
+   "title": "Global Change & Communications Senior Specialist - Digital Products",
+   "location": "London, United Kingdom",
+   "url": "https://careers.bcg.com/global/en/job/59132/Global-Change-Communications-Senior-Specialist-Digital-Products",
+   "posted": "2026-08-17T00:00:00.000+0000",
+   "posted_date": "2026-08-17",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 18,
+   "hits": [
+    "strategy",
+    "consulting",
+    "transformation",
+    "change management"
    ],
    "lang": null,
    "visa": null,
@@ -32455,27 +32500,6 @@
    "baseline": true
   },
   {
-   "id": "bfe2e36b89cb83",
-   "company": "Publicis",
-   "region": "UK",
-   "title": "Social Strategist",
-   "location": "Birmingham, Michigan / 205 Hamilton",
-   "url": "https://careers.publicisgroupe.com/jobs/168125?lang=en-us",
-   "posted": "2026-07-29T17:27:00+0000",
-   "posted_date": "2026-07-29",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 9,
-   "hits": [
-    "strategy"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "1b7e407a31700f",
    "company": "Amazon / AWS (UK)",
    "region": "UK",
@@ -32987,27 +33011,6 @@
    "url": "https://careers.publicisgroupe.com/jobs/168104?lang=en-us",
    "posted": "2026-08-13T09:10:00+0000",
    "posted_date": "2026-08-13",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 8,
-   "hits": [
-    "strategy"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "50a261d7546a02",
-   "company": "Publicis",
-   "region": "UK",
-   "title": "Senior Producer",
-   "location": "Birmingham, Michigan / 205 Hamilton",
-   "url": "https://careers.publicisgroupe.com/jobs/168136?lang=en-us",
-   "posted": "2026-07-29T18:11:00+0000",
-   "posted_date": "2026-07-29",
    "posted_approx": false,
    "first_seen": "2026-10-13",
    "score": 8,
@@ -44799,8 +44802,8 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 452,
-   "in_region": 452,
+   "total": 454,
+   "in_region": 454,
    "kept": 184
   },
   {
@@ -44861,9 +44864,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 73,
-   "in_region": 73,
-   "kept": 23
+   "total": 74,
+   "in_region": 74,
+   "kept": 24
   },
   {
    "companies": [
@@ -45084,8 +45087,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 897,
-   "in_region": 93,
+   "total": 896,
+   "in_region": 92,
    "kept": 8
   },
   {
@@ -45228,8 +45231,8 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 9,
-   "in_region": 9,
+   "total": 4,
+   "in_region": 4,
    "kept": 0
   },
   {
@@ -45362,9 +45365,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 156,
-   "in_region": 156,
-   "kept": 48
+   "total": 154,
+   "in_region": 154,
+   "kept": 46
   },
   {
    "companies": [
@@ -45442,9 +45445,9 @@
    ],
    "source": "jibe",
    "error": null,
-   "total": 102,
-   "in_region": 102,
-   "kept": 44
+   "total": 103,
+   "in_region": 103,
+   "kept": 45
   },
   {
    "companies": [
@@ -45554,9 +45557,9 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 129,
-   "in_region": 41,
-   "kept": 17
+   "total": 130,
+   "in_region": 42,
+   "kept": 18
   },
   {
    "companies": [
@@ -45564,7 +45567,7 @@
    ],
    "source": "eightfold",
    "error": null,
-   "total": 391,
+   "total": 390,
    "in_region": 4,
    "kept": 1
   },
@@ -45614,7 +45617,7 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 794,
+   "total": 793,
    "in_region": 32,
    "kept": 8
   },
@@ -45738,9 +45741,9 @@
    ],
    "source": "jibe",
    "error": null,
-   "total": 3222,
-   "in_region": 252,
-   "kept": 105
+   "total": 3217,
+   "in_region": 248,
+   "kept": 103
   },
   {
    "companies": [
@@ -45769,7 +45772,7 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 1252,
+   "total": 1250,
    "in_region": 0,
    "kept": 0
   },
@@ -46045,7 +46048,7 @@
    "error": null,
    "total": 12,
    "in_region": 6,
-   "kept": 2,
+   "kept": 3,
    "method": "structured data on job pages"
   },
   {
@@ -46123,7 +46126,7 @@
   "companies": 215,
   "feeds": 126,
   "jobs": 1957,
-  "new_today": 7,
+  "new_today": 4,
   "pages": 5
  },
  "coverage": {
