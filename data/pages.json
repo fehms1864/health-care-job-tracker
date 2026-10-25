@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-24T16:15:10+00:00",
+  "checked": "2026-10-25T09:52:53+00:00",
   "error": null,
   "changed_on": "2026-10-23",
   "new_links": {},
@@ -35,7 +35,7 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "e16ea20730c06164f341fc1bb73f83889e334034",
+  "hash": "a1fa7d4f1d60150d219dba627cae319b268f8f71",
   "postings": {
    "https://wise.jobs/job/dei-partner-lead-in-london-jid-3995": "DEI Partner Lead",
    "https://wise.jobs/job/business-customer-support-specialist-in-sao-paulo-jid-4395": "Business Customer Support Specialist",
@@ -52,12 +52,10 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-24T16:15:10+00:00",
+  "checked": "2026-10-25T09:52:53+00:00",
   "error": null,
-  "changed_on": "2026-10-24",
-  "new_links": {
-   "https://wise.jobs/job/dei-partner-lead-in-london-jid-3995": "DEI Partner Lead"
-  },
+  "changed_on": "2026-10-25",
+  "new_links": {},
   "new_on": "2026-10-24"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
@@ -84,7 +82,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-24T16:15:10+00:00",
+  "checked": "2026-10-25T09:52:53+00:00",
   "error": null,
   "changed_on": "2026-10-23",
   "new_links": {},
@@ -100,7 +98,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-24T16:15:10+00:00",
+  "checked": "2026-10-25T09:52:53+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -109,8 +107,9 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "e7cafe30d35a1543af4b388b7417278404ebcadd",
+  "hash": "a04edfed5251bc79dced9c31aa2b5311840b8f63",
   "postings": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-hematology-part-time-1100089688/": "Consultant – Hematology (Part-Time)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-general-surgery-part-time-1100089686/": "Consultant– General Surgery (Part-Time)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-urology-part-time-1100089683/": "Consultant– Urology (Part-Time)",
@@ -119,15 +118,16 @@
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-orthopaedics-upper-limb-part-time-1100089680/": "Consultant – Orthopaedics, Upper Limb (Part-Time)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-allocation-reconciliation-invoicing-1100091550/": "Coop - Allocation Reconciliation & Invoicing",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-sme-account-management-pipeline-1100087121/": "View Job Details",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-actuarial-1100091491/": "Coop - Actuarial",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manger-performance-analysis-reporting-1100090425/": "Manger - Performance Analysis & Reporting"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-actuarial-1100091491/": "Coop - Actuarial"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-24T16:15:10+00:00",
+  "checked": "2026-10-25T09:52:53+00:00",
   "error": null,
-  "changed_on": "2026-10-24",
-  "new_links": {},
-  "new_on": "2026-10-22"
+  "changed_on": "2026-10-25",
+  "new_links": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement"
+  },
+  "new_on": "2026-10-25"
  }
 }
