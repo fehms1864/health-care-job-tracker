@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "baf2a00a03c99afc5549e3332b30b5d98761d022",
+  "hash": "f90b00adb260f75c190de3c9c5e3dd4ea65b989c",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Junior-Delivery-Manager-Defence-and-Security/25120": "Agile Junior Delivery Manager, Defence and Security",
@@ -12,6 +12,7 @@
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Engineer-Manager-Digital-Innovation/25207": "AI Engineer, Manager, Digital Innovation",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Governance-Lead-Manager-Financial-Services/24374": "AI Governance Lead, Manager, Financial Services",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Architect-Manager-Senior-Manager-Commerce-Deloitte-Digital/24737": "Architect, Manager - Senior Manager, Commerce - Deloitte Digital",
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Architect-Senior-Manager-Insurance-Deloitte-Digital/24385": "Architect, Senior Manager - Insurance, Deloitte Digital",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Nuclear-Advisory-Infrastructure-and-Capital-Programmes-Strategy-Risk-and-Transactions-Advisory/24431": "Assistant Director, Nuclear Advisory, Infrastructure and Capital Programmes: Strategy, Risk and Transactions Advisory",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Banking-Strategy-Strategy-Business-Design/24025": "Assistant Director, Banking Strategy, Strategy & Business Design",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Business-Services-M-A-Lead-Advisory/24513": "Assistant Director, Business Services, M&A Lead Advisory",
@@ -21,12 +22,11 @@
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Equity-Capital-Markets-Finance-and-Transaction-Management-Office-EFT-M-A/24259": "Assistant Director, Equity Capital Markets, Finance, and Transaction Management Office (EFT), M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-M-A/24358": "Assistant Director, Financial Due Diligence - Financial Services, M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Consumer/25545": "Assistant Director, Financial Due Diligence, Consumer",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-Manchester/25282": "Assistant Director, Financial Due Diligence, Financial Services, Manchester",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Government-Public-Sector-Occupiers-Capital-Projects-Infrastructure-Real-Estate-Advisory/22155": "Assistant Director, Government & Public Sector Occupiers & Capital Projects, Infrastructure & Real Estate Advisory"
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-Manchester/25282": "Assistant Director, Financial Due Diligence, Financial Services, Manchester"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-26T11:12:21+00:00",
+  "checked": "2026-10-26T18:51:53+00:00",
   "error": null,
   "changed_on": "2026-10-26",
   "new_links": {},
@@ -35,28 +35,29 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "8a7510ac9a3bf84fe949819f8a90ef9637abf955",
+  "hash": "2955735e455bc376730a450be7ad1c848c52be11",
   "postings": {
-   "https://wise.jobs/job/design-and-research-operations-graduate-in-london-jid-4346": "Design & Research Operations Graduate",
-   "https://wise.jobs/job/graduate-content-designer-in-london-jid-4348": "Graduate Content Designer",
-   "https://wise.jobs/job/graduate-product-designer-in-london-jid-4358": "Graduate Product Designer",
-   "https://wise.jobs/job/senior-product-engineer-ii-risk-and-control-governance-in-london-jid-4099": "Senior Product Engineer II - Risk & Control Governance",
+   "https://wise.jobs/job/regional-head-of-aml-investigations-in-austin-jid-4066": "Regional Head of AML Investigations",
+   "https://wise.jobs/job/graduate-software-engineer-in-london-jid-4360": "Graduate Software Engineer",
+   "https://wise.jobs/job/senior-backend-engineer-risk-domain-in-london-jid-4404": "Senior Backend Engineer - Risk Domain",
+   "https://wise.jobs/job/country-manager-italy-in-milan-jid-3759": "Country Manager - Italy",
+   "https://wise.jobs/job/head-of-finance-business-partnering-functions-and-workforce-strategy-in-london-jid-3786": "Head of Finance Business Partnering - Functions & Workforce Strategy",
+   "https://wise.jobs/job/external-reporting-manager-in-london-jid-4091": "External Reporting Manager",
+   "https://wise.jobs/job/wfm-operations-partner-senior-lead-in-london-jid-4148": "WFM Operations Partner Senior Lead",
    "https://wise.jobs/job/software-engineer-in-london-jid-4401": "Software Engineer",
    "https://wise.jobs/job/analytics-senior-manager-risk-and-controls-in-singapore-jid-4400": "Analytics Senior Manager - Risk & Controls",
    "https://wise.jobs/job/fincrime-investigator-aml-investigations-in-hyderabad-jid-2994": "FinCrime Investigator - AML Investigations",
    "https://wise.jobs/job/senior-recruiter-non-tech-in-hyderabad-jid-3335": "Senior Recruiter - Non Tech",
-   "https://wise.jobs/job/group-regulatory-compliance-manager-abc-coi-gh-and-e-in-london-jid-3928": "Group Regulatory Compliance Manager - ABC, COI, GH&E",
-   "https://wise.jobs/job/dei-partner-lead-in-london-jid-3995": "DEI Partner Lead",
-   "https://wise.jobs/job/business-customer-support-specialist-in-sao-paulo-jid-4395": "Business Customer Support Specialist",
-   "https://wise.jobs/job/customer-support-specialist-in-hyderabad-jid-4138": "Customer Support Specialist"
+   "https://wise.jobs/job/group-regulatory-compliance-manager-abc-coi-gh-and-e-in-london-jid-3928": "Group Regulatory Compliance Manager - ABC, COI, GH&E"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-26T11:12:21+00:00",
+  "checked": "2026-10-26T18:51:53+00:00",
   "error": null,
   "changed_on": "2026-10-26",
   "new_links": {
-   "https://wise.jobs/job/design-and-research-operations-graduate-in-london-jid-4346": "Design & Research Operations Graduate"
+   "https://wise.jobs/job/external-reporting-manager-in-london-jid-4091": "External Reporting Manager",
+   "https://wise.jobs/job/wfm-operations-partner-senior-lead-in-london-jid-4148": "WFM Operations Partner Senior Lead"
   },
   "new_on": "2026-10-26"
  },
@@ -84,7 +85,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-26T11:12:21+00:00",
+  "checked": "2026-10-26T18:51:53+00:00",
   "error": null,
   "changed_on": "2026-10-26",
   "new_links": {},
@@ -100,7 +101,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-26T11:12:21+00:00",
+  "checked": "2026-10-26T18:51:53+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -109,7 +110,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "4e9edafccea67d6be6a18e5eaaf3dbf73786ce95",
+  "hash": "1ad6fcfb3e3c1f4ec5584be7e26e73301cd8080c",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement",
@@ -124,7 +125,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-26T11:12:21+00:00",
+  "checked": "2026-10-26T18:51:53+00:00",
   "error": null,
   "changed_on": "2026-10-26",
   "new_links": {},
