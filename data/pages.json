@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "f90b00adb260f75c190de3c9c5e3dd4ea65b989c",
+  "hash": "86e167e9617ff9c3ff4ce0c3492ddad541a78e03",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Junior-Delivery-Manager-Defence-and-Security/25120": "Agile Junior Delivery Manager, Defence and Security",
@@ -26,45 +26,45 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-26T18:51:53+00:00",
+  "checked": "2026-10-27T10:39:27+00:00",
   "error": null,
-  "changed_on": "2026-10-26",
+  "changed_on": "2026-10-27",
   "new_links": {},
   "new_on": null
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "2955735e455bc376730a450be7ad1c848c52be11",
+  "hash": "9d62e6f3078a848acc6e26e8ff60b6597816b42f",
   "postings": {
-   "https://wise.jobs/job/regional-head-of-aml-investigations-in-austin-jid-4066": "Regional Head of AML Investigations",
-   "https://wise.jobs/job/graduate-software-engineer-in-london-jid-4360": "Graduate Software Engineer",
-   "https://wise.jobs/job/senior-backend-engineer-risk-domain-in-london-jid-4404": "Senior Backend Engineer - Risk Domain",
-   "https://wise.jobs/job/country-manager-italy-in-milan-jid-3759": "Country Manager - Italy",
-   "https://wise.jobs/job/head-of-finance-business-partnering-functions-and-workforce-strategy-in-london-jid-3786": "Head of Finance Business Partnering - Functions & Workforce Strategy",
-   "https://wise.jobs/job/external-reporting-manager-in-london-jid-4091": "External Reporting Manager",
-   "https://wise.jobs/job/wfm-operations-partner-senior-lead-in-london-jid-4148": "WFM Operations Partner Senior Lead",
-   "https://wise.jobs/job/software-engineer-in-london-jid-4401": "Software Engineer",
-   "https://wise.jobs/job/analytics-senior-manager-risk-and-controls-in-singapore-jid-4400": "Analytics Senior Manager - Risk & Controls",
-   "https://wise.jobs/job/fincrime-investigator-aml-investigations-in-hyderabad-jid-2994": "FinCrime Investigator - AML Investigations",
-   "https://wise.jobs/job/senior-recruiter-non-tech-in-hyderabad-jid-3335": "Senior Recruiter - Non Tech",
-   "https://wise.jobs/job/group-regulatory-compliance-manager-abc-coi-gh-and-e-in-london-jid-3928": "Group Regulatory Compliance Manager - ABC, COI, GH&E"
+   "https://wise.jobs/job/fincrime-operations-team-lead-aml-investigations-in-budapest-jid-4327": "FinCrime Operations Team Lead (AML Investigations)",
+   "https://wise.jobs/job/people-operations-intern-12-month-fixed-term-in-hyderabad-jid-4403": "People Operations Intern (12 month fixed-term)",
+   "https://wise.jobs/job/senior-product-compliance-manager-in-austin-jid-3616": "Senior Product Compliance Manager",
+   "https://wise.jobs/job/sales-team-manager-wise-business-in-sao-paulo-jid-4249": "Sales Team Manager - Wise Business",
+   "https://wise.jobs/job/staff-content-designer-grow-squad-12-month-ftc-in-london-jid-4129": "Staff Content Designer — Grow Squad (12 month FTC)",
+   "https://wise.jobs/job/senior-product-compliance-and-risk-manager-operational-resilience-and-outsourcing-in-london-jid-4135": "Senior Product Compliance & Risk Manager - Operational Resilience and Outsourcing",
+   "https://wise.jobs/job/senior-product-analyst-regional-expansion-global-coverage-in-london-jid-4137": "Senior Product Analyst, Regional Expansion, Global Coverage",
+   "https://wise.jobs/job/senior-engineering-lead-generative-ai-platform-in-tallinn-jid-3666": "Senior Engineering Lead - Generative AI Platform",
+   "https://wise.jobs/job/senior-product-manager-finance-master-data-management-in-tallinn-jid-3664": "Senior Product Manager - Finance Master Data Management",
+   "https://wise.jobs/job/lead-data-analyst-in-tallinn-jid-2307": "Lead Data Analyst",
+   "https://wise.jobs/job/engineering-manager-business-expense-management-in-london-jid-2078": "Engineering Manager - Business Expense Management"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-26T18:51:53+00:00",
+  "checked": "2026-10-27T10:39:27+00:00",
   "error": null,
-  "changed_on": "2026-10-26",
+  "changed_on": "2026-10-27",
   "new_links": {
-   "https://wise.jobs/job/external-reporting-manager-in-london-jid-4091": "External Reporting Manager",
-   "https://wise.jobs/job/wfm-operations-partner-senior-lead-in-london-jid-4148": "WFM Operations Partner Senior Lead"
+   "https://wise.jobs/job/senior-product-compliance-manager-in-austin-jid-3616": "Senior Product Compliance Manager",
+   "https://wise.jobs/job/senior-product-compliance-and-risk-manager-operational-resilience-and-outsourcing-in-london-jid-4135": "Senior Product Compliance & Risk Manager - Operational Resilience and Outsourcing",
+   "https://wise.jobs/job/senior-product-analyst-regional-expansion-global-coverage-in-london-jid-4137": "Senior Product Analyst, Regional Expansion, Global Coverage"
   },
-  "new_on": "2026-10-26"
+  "new_on": "2026-10-27"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "bc5229a686688d4a3c272e14bd4f29c9cc9bfde1",
+  "hash": "aca34d8d7b506fa0ded6e0ce7360ff38295ad864",
   "postings": {
    "https://optiver.com/join-us/jobs/human-resources-and-recruiting/sydney/apac-mobility-partner-12-month-contract/": "APAC Mobility Partner (12-month contract)",
    "https://optiver.com/join-us/jobs/technology/shanghai/technology-operations-engineer-shanghai/": "Technology Operations Engineer - Shanghai",
@@ -85,9 +85,9 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-26T18:51:53+00:00",
+  "checked": "2026-10-27T10:39:27+00:00",
   "error": null,
-  "changed_on": "2026-10-26",
+  "changed_on": "2026-10-27",
   "new_links": {},
   "new_on": "2026-10-23"
  },
@@ -101,7 +101,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-26T18:51:53+00:00",
+  "checked": "2026-10-27T10:39:27+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -110,7 +110,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "1ad6fcfb3e3c1f4ec5584be7e26e73301cd8080c",
+  "hash": "5d5d1129862be7377d03cdd45c8616437771b2f4",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement",
@@ -125,9 +125,9 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-26T18:51:53+00:00",
+  "checked": "2026-10-27T10:39:27+00:00",
   "error": null,
-  "changed_on": "2026-10-26",
+  "changed_on": "2026-10-27",
   "new_links": {},
   "new_on": "2026-10-25"
  }
