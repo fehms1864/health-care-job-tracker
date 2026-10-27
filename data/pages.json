@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "86e167e9617ff9c3ff4ce0c3492ddad541a78e03",
+  "hash": "2412ef330bbf8b275d83ac69cc308e0eed896e56",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Junior-Delivery-Manager-Defence-and-Security/25120": "Agile Junior Delivery Manager, Defence and Security",
@@ -12,7 +12,7 @@
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Engineer-Manager-Digital-Innovation/25207": "AI Engineer, Manager, Digital Innovation",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Governance-Lead-Manager-Financial-Services/24374": "AI Governance Lead, Manager, Financial Services",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Architect-Manager-Senior-Manager-Commerce-Deloitte-Digital/24737": "Architect, Manager - Senior Manager, Commerce - Deloitte Digital",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Architect-Senior-Manager-Insurance-Deloitte-Digital/24385": "Architect, Senior Manager - Insurance, Deloitte Digital",
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Architect-Senior-Manager-Insurance-Deloitte-Digital/24385": "Architect, Senior Manager, Insurance, Deloitte Digital",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Nuclear-Advisory-Infrastructure-and-Capital-Programmes-Strategy-Risk-and-Transactions-Advisory/24431": "Assistant Director, Nuclear Advisory, Infrastructure and Capital Programmes: Strategy, Risk and Transactions Advisory",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Banking-Strategy-Strategy-Business-Design/24025": "Assistant Director, Banking Strategy, Strategy & Business Design",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Business-Services-M-A-Lead-Advisory/24513": "Assistant Director, Business Services, M&A Lead Advisory",
@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-27T10:39:27+00:00",
+  "checked": "2026-10-27T18:16:13+00:00",
   "error": null,
   "changed_on": "2026-10-27",
   "new_links": {},
@@ -35,36 +35,33 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "9d62e6f3078a848acc6e26e8ff60b6597816b42f",
+  "hash": "cb4ff8ff3979373a1b04c6d6d694b2138c2869a8",
   "postings": {
-   "https://wise.jobs/job/fincrime-operations-team-lead-aml-investigations-in-budapest-jid-4327": "FinCrime Operations Team Lead (AML Investigations)",
-   "https://wise.jobs/job/people-operations-intern-12-month-fixed-term-in-hyderabad-jid-4403": "People Operations Intern (12 month fixed-term)",
-   "https://wise.jobs/job/senior-product-compliance-manager-in-austin-jid-3616": "Senior Product Compliance Manager",
-   "https://wise.jobs/job/sales-team-manager-wise-business-in-sao-paulo-jid-4249": "Sales Team Manager - Wise Business",
-   "https://wise.jobs/job/staff-content-designer-grow-squad-12-month-ftc-in-london-jid-4129": "Staff Content Designer — Grow Squad (12 month FTC)",
-   "https://wise.jobs/job/senior-product-compliance-and-risk-manager-operational-resilience-and-outsourcing-in-london-jid-4135": "Senior Product Compliance & Risk Manager - Operational Resilience and Outsourcing",
-   "https://wise.jobs/job/senior-product-analyst-regional-expansion-global-coverage-in-london-jid-4137": "Senior Product Analyst, Regional Expansion, Global Coverage",
-   "https://wise.jobs/job/senior-engineering-lead-generative-ai-platform-in-tallinn-jid-3666": "Senior Engineering Lead - Generative AI Platform",
-   "https://wise.jobs/job/senior-product-manager-finance-master-data-management-in-tallinn-jid-3664": "Senior Product Manager - Finance Master Data Management",
-   "https://wise.jobs/job/lead-data-analyst-in-tallinn-jid-2307": "Lead Data Analyst",
-   "https://wise.jobs/job/engineering-manager-business-expense-management-in-london-jid-2078": "Engineering Manager - Business Expense Management"
+   "https://wise.jobs/job/business-development-manager-expense-management-in-austin-jid-4257": "Business Development Manager - Expense Management",
+   "https://wise.jobs/job/lead-data-scientist-treasury-liquidity-in-london-jid-4413": "Lead Data Scientist - Treasury Liquidity",
+   "https://wise.jobs/job/sales-associate-coordinator-in-london-jid-4366": "Sales Associate / Coordinator",
+   "https://wise.jobs/job/senior-software-engineer-java-aml-handling-in-tallinn-jid-4412": "Senior Software Engineer - Java - AML Handling",
+   "https://wise.jobs/job/senior-backend-engineer-risk-domain-in-london-jid-4404": "Senior Backend Engineer - Risk Domain",
+   "https://wise.jobs/job/customer-support-specialist-arabic-in-hyderabad-jid-4406": "Customer Support Specialist - Arabic",
+   "https://wise.jobs/job/senior-product-manager-wise-platform-fincrime-in-london-jid-4414": "Senior Product Manager - Wise Platform - Fincrime",
+   "https://wise.jobs/job/senior-software-engineer-global-kyc-and-onboarding-in-london-jid-4038": "Senior Software Engineer - Global KYC and Onboarding",
+   "https://wise.jobs/job/senior-software-engineer-i-risk-control-and-governance-in-london-jid-4384": "Senior Software Engineer I - Risk Control & Governance"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-27T10:39:27+00:00",
+  "checked": "2026-10-27T18:16:13+00:00",
   "error": null,
   "changed_on": "2026-10-27",
   "new_links": {
-   "https://wise.jobs/job/senior-product-compliance-manager-in-austin-jid-3616": "Senior Product Compliance Manager",
-   "https://wise.jobs/job/senior-product-compliance-and-risk-manager-operational-resilience-and-outsourcing-in-london-jid-4135": "Senior Product Compliance & Risk Manager - Operational Resilience and Outsourcing",
-   "https://wise.jobs/job/senior-product-analyst-regional-expansion-global-coverage-in-london-jid-4137": "Senior Product Analyst, Regional Expansion, Global Coverage"
+   "https://wise.jobs/job/customer-support-specialist-arabic-in-hyderabad-jid-4406": "Customer Support Specialist - Arabic",
+   "https://wise.jobs/job/senior-product-manager-wise-platform-fincrime-in-london-jid-4414": "Senior Product Manager - Wise Platform - Fincrime"
   },
   "new_on": "2026-10-27"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "aca34d8d7b506fa0ded6e0ce7360ff38295ad864",
+  "hash": "e9b63333a11e94bc828fd2975fdb5c749def5dad",
   "postings": {
    "https://optiver.com/join-us/jobs/human-resources-and-recruiting/sydney/apac-mobility-partner-12-month-contract/": "APAC Mobility Partner (12-month contract)",
    "https://optiver.com/join-us/jobs/technology/shanghai/technology-operations-engineer-shanghai/": "Technology Operations Engineer - Shanghai",
@@ -85,7 +82,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-27T10:39:27+00:00",
+  "checked": "2026-10-27T18:16:13+00:00",
   "error": null,
   "changed_on": "2026-10-27",
   "new_links": {},
@@ -101,7 +98,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-27T10:39:27+00:00",
+  "checked": "2026-10-27T18:16:13+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -110,7 +107,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "5d5d1129862be7377d03cdd45c8616437771b2f4",
+  "hash": "cff4fe37c3a2c289a4dc660a3fcfb44f47d6ff2a",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement",
@@ -125,7 +122,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-27T10:39:27+00:00",
+  "checked": "2026-10-27T18:16:13+00:00",
   "error": null,
   "changed_on": "2026-10-27",
   "new_links": {},
