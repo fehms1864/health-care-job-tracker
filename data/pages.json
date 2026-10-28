@@ -2,8 +2,9 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "2412ef330bbf8b275d83ac69cc308e0eed896e56",
+  "hash": "535d6e13ce97a612d9db2b6c1a7c336ef26ac177",
   "postings": {
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Junior-Delivery-Manager-Defence-and-Security/25120": "Agile Junior Delivery Manager, Defence and Security",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-and-Data-Architect-Strategy-Governance-Architecture-AI-Data/24375": "AI and Data Architect, Strategy, Governance & Architecture, AI & Data",
@@ -21,47 +22,50 @@
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Equity-Capital-Markets-Finance-and-Transaction-Management-Office-EFT-M-A/24941": "Assistant Director, Equity Capital Markets, Finance, and Transaction Management Office (EFT), M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Equity-Capital-Markets-Finance-and-Transaction-Management-Office-EFT-M-A/24259": "Assistant Director, Equity Capital Markets, Finance, and Transaction Management Office (EFT), M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-M-A/24358": "Assistant Director, Financial Due Diligence - Financial Services, M&A",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Consumer/25545": "Assistant Director, Financial Due Diligence, Consumer",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-Manchester/25282": "Assistant Director, Financial Due Diligence, Financial Services, Manchester"
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Consumer/25545": "Assistant Director, Financial Due Diligence, Consumer"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-27T18:16:13+00:00",
+  "checked": "2026-10-28T11:24:12+00:00",
   "error": null,
-  "changed_on": "2026-10-27",
+  "changed_on": "2026-10-28",
   "new_links": {},
   "new_on": null
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "cb4ff8ff3979373a1b04c6d6d694b2138c2869a8",
+  "hash": "5f042260c0999f2799fec9f1c278d5083ff0b12e",
   "postings": {
-   "https://wise.jobs/job/business-development-manager-expense-management-in-austin-jid-4257": "Business Development Manager - Expense Management",
-   "https://wise.jobs/job/lead-data-scientist-treasury-liquidity-in-london-jid-4413": "Lead Data Scientist - Treasury Liquidity",
-   "https://wise.jobs/job/sales-associate-coordinator-in-london-jid-4366": "Sales Associate / Coordinator",
-   "https://wise.jobs/job/senior-software-engineer-java-aml-handling-in-tallinn-jid-4412": "Senior Software Engineer - Java - AML Handling",
-   "https://wise.jobs/job/senior-backend-engineer-risk-domain-in-london-jid-4404": "Senior Backend Engineer - Risk Domain",
-   "https://wise.jobs/job/customer-support-specialist-arabic-in-hyderabad-jid-4406": "Customer Support Specialist - Arabic",
-   "https://wise.jobs/job/senior-product-manager-wise-platform-fincrime-in-london-jid-4414": "Senior Product Manager - Wise Platform - Fincrime",
-   "https://wise.jobs/job/senior-software-engineer-global-kyc-and-onboarding-in-london-jid-4038": "Senior Software Engineer - Global KYC and Onboarding",
-   "https://wise.jobs/job/senior-software-engineer-i-risk-control-and-governance-in-london-jid-4384": "Senior Software Engineer I - Risk Control & Governance"
+   "https://wise.jobs/job/people-operations-specialist-in-singapore-jid-4419": "People Operations Specialist",
+   "https://wise.jobs/job/senior-software-engineer-i-pricing-core-in-london-jid-3946": "Senior Software Engineer I - Pricing Core",
+   "https://wise.jobs/job/senior-backend-software-engineer-in-london-jid-4206": "Senior Backend Software Engineer",
+   "https://wise.jobs/job/engineering-lead-wise-for-enterprise-in-london-jid-3755": "Engineering Lead - Wise for Enterprise",
+   "https://wise.jobs/job/senior-software-engineer-ii-wise-for-enterprise-in-london-jid-4052": "Senior Software Engineer II - Wise for Enterprise",
+   "https://wise.jobs/job/internal-audit-senior-specialist-in-london-jid-4418": "Internal Audit Senior Specialist",
+   "https://wise.jobs/job/senior-regulatory-compliance-manager-in-london-jid-4382": "Senior Regulatory Compliance Manager",
+   "https://wise.jobs/job/fincrime-investigator-aml-investigations-in-tallinn-jid-4417": "FinCrime Investigator - AML Investigations",
+   "https://wise.jobs/job/lead-analyst-ic3-data-platform-in-london-jid-4416": "Lead Analyst - IC3 - Data Platform",
+   "https://wise.jobs/job/lead-product-analyst-operations-in-hyderabad-jid-2073": "Lead Product Analyst - Operations",
+   "https://wise.jobs/job/senior-software-engineer-ii-data-onboarding-and-reporting-in-london-jid-3904": "Senior Software Engineer II - Data Onboarding & Reporting"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-27T18:16:13+00:00",
+  "checked": "2026-10-28T11:24:12+00:00",
   "error": null,
-  "changed_on": "2026-10-27",
+  "changed_on": "2026-10-28",
   "new_links": {
-   "https://wise.jobs/job/customer-support-specialist-arabic-in-hyderabad-jid-4406": "Customer Support Specialist - Arabic",
-   "https://wise.jobs/job/senior-product-manager-wise-platform-fincrime-in-london-jid-4414": "Senior Product Manager - Wise Platform - Fincrime"
+   "https://wise.jobs/job/people-operations-specialist-in-singapore-jid-4419": "People Operations Specialist",
+   "https://wise.jobs/job/senior-regulatory-compliance-manager-in-london-jid-4382": "Senior Regulatory Compliance Manager",
+   "https://wise.jobs/job/lead-analyst-ic3-data-platform-in-london-jid-4416": "Lead Analyst - IC3 - Data Platform",
+   "https://wise.jobs/job/lead-product-analyst-operations-in-hyderabad-jid-2073": "Lead Product Analyst - Operations"
   },
-  "new_on": "2026-10-27"
+  "new_on": "2026-10-28"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "e9b63333a11e94bc828fd2975fdb5c749def5dad",
+  "hash": "53043e1b01864d4307245e112efecc25a98b0b67",
   "postings": {
    "https://optiver.com/join-us/jobs/human-resources-and-recruiting/sydney/apac-mobility-partner-12-month-contract/": "APAC Mobility Partner (12-month contract)",
    "https://optiver.com/join-us/jobs/technology/shanghai/technology-operations-engineer-shanghai/": "Technology Operations Engineer - Shanghai",
@@ -82,9 +86,9 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-27T18:16:13+00:00",
+  "checked": "2026-10-28T11:24:12+00:00",
   "error": null,
-  "changed_on": "2026-10-27",
+  "changed_on": "2026-10-28",
   "new_links": {},
   "new_on": "2026-10-23"
  },
@@ -98,7 +102,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-27T18:16:13+00:00",
+  "checked": "2026-10-28T11:24:12+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -107,7 +111,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "cff4fe37c3a2c289a4dc660a3fcfb44f47d6ff2a",
+  "hash": "2f59c5b87447a811432cf7594822a204301eb1ef",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement",
@@ -122,9 +126,9 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-27T18:16:13+00:00",
+  "checked": "2026-10-28T11:24:12+00:00",
   "error": null,
-  "changed_on": "2026-10-27",
+  "changed_on": "2026-10-28",
   "new_links": {},
   "new_on": "2026-10-25"
  }
