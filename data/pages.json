@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "535d6e13ce97a612d9db2b6c1a7c336ef26ac177",
+  "hash": "7b377cf1a52ed04be28c0a70e67cd703ba9aa422",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -10,7 +10,6 @@
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-and-Data-Architect-Strategy-Governance-Architecture-AI-Data/24375": "AI and Data Architect, Strategy, Governance & Architecture, AI & Data",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Application-Architect-Senior-Manager-AI-and-Cloud-Engineering/25331": "AI Application Architect, Senior Manager, AI and Cloud Engineering",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Engineer-Forensic-and-Financial-Crime-Technology-Advisory-and-Data-Analytics/25246": "AI Engineer, Forensic and Financial Crime Technology Advisory and Data Analytics",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Engineer-Manager-Digital-Innovation/25207": "AI Engineer, Manager, Digital Innovation",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Governance-Lead-Manager-Financial-Services/24374": "AI Governance Lead, Manager, Financial Services",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Architect-Manager-Senior-Manager-Commerce-Deloitte-Digital/24737": "Architect, Manager - Senior Manager, Commerce - Deloitte Digital",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Architect-Senior-Manager-Insurance-Deloitte-Digital/24385": "Architect, Senior Manager, Insurance, Deloitte Digital",
@@ -22,11 +21,12 @@
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Equity-Capital-Markets-Finance-and-Transaction-Management-Office-EFT-M-A/24941": "Assistant Director, Equity Capital Markets, Finance, and Transaction Management Office (EFT), M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Equity-Capital-Markets-Finance-and-Transaction-Management-Office-EFT-M-A/24259": "Assistant Director, Equity Capital Markets, Finance, and Transaction Management Office (EFT), M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-M-A/24358": "Assistant Director, Financial Due Diligence - Financial Services, M&A",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Consumer/25545": "Assistant Director, Financial Due Diligence, Consumer"
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Consumer/25545": "Assistant Director, Financial Due Diligence, Consumer",
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-Manchester/25282": "Assistant Director, Financial Due Diligence, Financial Services, Manchester"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-28T11:24:12+00:00",
+  "checked": "2026-10-28T18:29:57+00:00",
   "error": null,
   "changed_on": "2026-10-28",
   "new_links": {},
@@ -35,30 +35,30 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "5f042260c0999f2799fec9f1c278d5083ff0b12e",
+  "hash": "bb383cbc99db9c3522b32688c86f8a39650e3536",
   "postings": {
+   "https://wise.jobs/job/senior-software-engineer-ii-cash-management-in-london-jid-4392": "Senior Software Engineer II - Cash Management",
+   "https://wise.jobs/job/senior-crm-manager-advocacy-in-london-jid-4046": "Senior CRM Manager - Advocacy",
+   "https://wise.jobs/job/regional-crm-manager-in-london-jid-3433": "Regional CRM Manager",
+   "https://wise.jobs/job/wfm-operations-partner-senior-lead-in-tallinn-jid-3468": "WFM Operations Partner Senior Lead",
+   "https://wise.jobs/job/deputy-mlro-spain-in-madrid-jid-4420": "Deputy MLRO - Spain",
+   "https://wise.jobs/job/lead-analyst-ic3-data-platform-in-london-jid-4416": "Lead Analyst - IC3 - Data Platform",
    "https://wise.jobs/job/people-operations-specialist-in-singapore-jid-4419": "People Operations Specialist",
    "https://wise.jobs/job/senior-software-engineer-i-pricing-core-in-london-jid-3946": "Senior Software Engineer I - Pricing Core",
    "https://wise.jobs/job/senior-backend-software-engineer-in-london-jid-4206": "Senior Backend Software Engineer",
    "https://wise.jobs/job/engineering-lead-wise-for-enterprise-in-london-jid-3755": "Engineering Lead - Wise for Enterprise",
-   "https://wise.jobs/job/senior-software-engineer-ii-wise-for-enterprise-in-london-jid-4052": "Senior Software Engineer II - Wise for Enterprise",
-   "https://wise.jobs/job/internal-audit-senior-specialist-in-london-jid-4418": "Internal Audit Senior Specialist",
-   "https://wise.jobs/job/senior-regulatory-compliance-manager-in-london-jid-4382": "Senior Regulatory Compliance Manager",
-   "https://wise.jobs/job/fincrime-investigator-aml-investigations-in-tallinn-jid-4417": "FinCrime Investigator - AML Investigations",
-   "https://wise.jobs/job/lead-analyst-ic3-data-platform-in-london-jid-4416": "Lead Analyst - IC3 - Data Platform",
-   "https://wise.jobs/job/lead-product-analyst-operations-in-hyderabad-jid-2073": "Lead Product Analyst - Operations",
-   "https://wise.jobs/job/senior-software-engineer-ii-data-onboarding-and-reporting-in-london-jid-3904": "Senior Software Engineer II - Data Onboarding & Reporting"
+   "https://wise.jobs/job/senior-software-engineer-ii-wise-for-enterprise-in-london-jid-4052": "Senior Software Engineer II - Wise for Enterprise"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-28T11:24:12+00:00",
+  "checked": "2026-10-28T18:29:57+00:00",
   "error": null,
   "changed_on": "2026-10-28",
   "new_links": {
-   "https://wise.jobs/job/people-operations-specialist-in-singapore-jid-4419": "People Operations Specialist",
-   "https://wise.jobs/job/senior-regulatory-compliance-manager-in-london-jid-4382": "Senior Regulatory Compliance Manager",
-   "https://wise.jobs/job/lead-analyst-ic3-data-platform-in-london-jid-4416": "Lead Analyst - IC3 - Data Platform",
-   "https://wise.jobs/job/lead-product-analyst-operations-in-hyderabad-jid-2073": "Lead Product Analyst - Operations"
+   "https://wise.jobs/job/senior-crm-manager-advocacy-in-london-jid-4046": "Senior CRM Manager - Advocacy",
+   "https://wise.jobs/job/regional-crm-manager-in-london-jid-3433": "Regional CRM Manager",
+   "https://wise.jobs/job/wfm-operations-partner-senior-lead-in-tallinn-jid-3468": "WFM Operations Partner Senior Lead",
+   "https://wise.jobs/job/deputy-mlro-spain-in-madrid-jid-4420": "Deputy MLRO - Spain"
   },
   "new_on": "2026-10-28"
  },
@@ -86,7 +86,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-28T11:24:12+00:00",
+  "checked": "2026-10-28T18:29:57+00:00",
   "error": null,
   "changed_on": "2026-10-28",
   "new_links": {},
@@ -102,7 +102,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-28T11:24:12+00:00",
+  "checked": "2026-10-28T18:29:57+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -111,7 +111,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "2f59c5b87447a811432cf7594822a204301eb1ef",
+  "hash": "c1890abc81b9e2b391d6b7410c7a9aad599d2e44",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement",
@@ -126,7 +126,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-28T11:24:12+00:00",
+  "checked": "2026-10-28T18:29:57+00:00",
   "error": null,
   "changed_on": "2026-10-28",
   "new_links": {},
