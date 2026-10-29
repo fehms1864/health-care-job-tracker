@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "7b377cf1a52ed04be28c0a70e67cd703ba9aa422",
+  "hash": "3a07fb8de92f5ca4b1263c1b6b18d1b3e0afee77",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -26,41 +26,40 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-28T18:29:57+00:00",
+  "checked": "2026-10-29T11:34:33+00:00",
   "error": null,
-  "changed_on": "2026-10-28",
+  "changed_on": "2026-10-29",
   "new_links": {},
   "new_on": null
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "bb383cbc99db9c3522b32688c86f8a39650e3536",
+  "hash": "048cacedd50b5d916c344d3b97770cd3084fa864",
   "postings": {
-   "https://wise.jobs/job/senior-software-engineer-ii-cash-management-in-london-jid-4392": "Senior Software Engineer II - Cash Management",
-   "https://wise.jobs/job/senior-crm-manager-advocacy-in-london-jid-4046": "Senior CRM Manager - Advocacy",
-   "https://wise.jobs/job/regional-crm-manager-in-london-jid-3433": "Regional CRM Manager",
-   "https://wise.jobs/job/wfm-operations-partner-senior-lead-in-tallinn-jid-3468": "WFM Operations Partner Senior Lead",
-   "https://wise.jobs/job/deputy-mlro-spain-in-madrid-jid-4420": "Deputy MLRO - Spain",
-   "https://wise.jobs/job/lead-analyst-ic3-data-platform-in-london-jid-4416": "Lead Analyst - IC3 - Data Platform",
-   "https://wise.jobs/job/people-operations-specialist-in-singapore-jid-4419": "People Operations Specialist",
-   "https://wise.jobs/job/senior-software-engineer-i-pricing-core-in-london-jid-3946": "Senior Software Engineer I - Pricing Core",
-   "https://wise.jobs/job/senior-backend-software-engineer-in-london-jid-4206": "Senior Backend Software Engineer",
-   "https://wise.jobs/job/engineering-lead-wise-for-enterprise-in-london-jid-3755": "Engineering Lead - Wise for Enterprise",
-   "https://wise.jobs/job/senior-software-engineer-ii-wise-for-enterprise-in-london-jid-4052": "Senior Software Engineer II - Wise for Enterprise"
+   "https://wise.jobs/job/senior-software-engineer-i-platform-cloud-foundations-in-london-jid-4425": "Senior Software Engineer I - Platform - Cloud Foundations",
+   "https://wise.jobs/job/head-of-kyc-operations-apac-in-hyderabad-jid-3622": "Head of KYC Operations - APAC",
+   "https://wise.jobs/job/bakend-engineer-send-core-in-london-jid-3901": "Bakend Engineer - Send Core",
+   "https://wise.jobs/job/senior-analyst-apac-growth-in-singapore-jid-4424": "Senior Analyst - APAC Growth",
+   "https://wise.jobs/job/senior-software-engineer-java-aml-handling-in-tallinn-jid-4412": "Senior Software Engineer - Java - AML Handling",
+   "https://wise.jobs/job/people-operations-specialist-in-london-jid-4422": "People Operations Specialist",
+   "https://wise.jobs/job/safeguarding-controller-apac-in-singapore-jid-3827": "Safeguarding Controller - APAC",
+   "https://wise.jobs/job/senior-people-technology-engineer-workday-time-and-absence-in-tallinn-jid-4296": "Senior People Technology Engineer (Workday Time & Absence)",
+   "https://wise.jobs/job/senior-business-development-manager-greater-china-in-hong-kong-jid-4421": "Senior Business Development Manager - Greater China",
+   "https://wise.jobs/job/customer-support-specialist-arabic-in-hyderabad-jid-4406": "Customer Support Specialist - Arabic",
+   "https://wise.jobs/job/head-of-regional-payment-operations-latam-and-mea-region-in-sao-paulo-jid-2095": "Head of Regional Payment Operations - LATAM & MEA Region"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-28T18:29:57+00:00",
+  "checked": "2026-10-29T11:34:33+00:00",
   "error": null,
-  "changed_on": "2026-10-28",
+  "changed_on": "2026-10-29",
   "new_links": {
-   "https://wise.jobs/job/senior-crm-manager-advocacy-in-london-jid-4046": "Senior CRM Manager - Advocacy",
-   "https://wise.jobs/job/regional-crm-manager-in-london-jid-3433": "Regional CRM Manager",
-   "https://wise.jobs/job/wfm-operations-partner-senior-lead-in-tallinn-jid-3468": "WFM Operations Partner Senior Lead",
-   "https://wise.jobs/job/deputy-mlro-spain-in-madrid-jid-4420": "Deputy MLRO - Spain"
+   "https://wise.jobs/job/senior-analyst-apac-growth-in-singapore-jid-4424": "Senior Analyst - APAC Growth",
+   "https://wise.jobs/job/people-operations-specialist-in-london-jid-4422": "People Operations Specialist",
+   "https://wise.jobs/job/customer-support-specialist-arabic-in-hyderabad-jid-4406": "Customer Support Specialist - Arabic"
   },
-  "new_on": "2026-10-28"
+  "new_on": "2026-10-29"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
@@ -86,7 +85,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-28T18:29:57+00:00",
+  "checked": "2026-10-29T11:34:33+00:00",
   "error": null,
   "changed_on": "2026-10-28",
   "new_links": {},
@@ -102,7 +101,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-28T18:29:57+00:00",
+  "checked": "2026-10-29T11:34:33+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -111,7 +110,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "c1890abc81b9e2b391d6b7410c7a9aad599d2e44",
+  "hash": "72bbbf55f6aa028690680ae266f79f3f27e1301d",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement",
@@ -126,9 +125,9 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-28T18:29:57+00:00",
+  "checked": "2026-10-29T11:34:33+00:00",
   "error": null,
-  "changed_on": "2026-10-28",
+  "changed_on": "2026-10-29",
   "new_links": {},
   "new_on": "2026-10-25"
  }
