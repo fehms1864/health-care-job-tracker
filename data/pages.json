@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "3a07fb8de92f5ca4b1263c1b6b18d1b3e0afee77",
+  "hash": "d2e4d01d603f4ec89683070f7d4423f4a5ee33d8",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -15,18 +15,18 @@
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Architect-Senior-Manager-Insurance-Deloitte-Digital/24385": "Architect, Senior Manager, Insurance, Deloitte Digital",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Nuclear-Advisory-Infrastructure-and-Capital-Programmes-Strategy-Risk-and-Transactions-Advisory/24431": "Assistant Director, Nuclear Advisory, Infrastructure and Capital Programmes: Strategy, Risk and Transactions Advisory",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Banking-Strategy-Strategy-Business-Design/24025": "Assistant Director, Banking Strategy, Strategy & Business Design",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Business-Services-M-A-Lead-Advisory/24513": "Assistant Director, Business Services, M&A Lead Advisory",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Commercial-Financial-Advisory-Infrastructure-and-Capital-Programmes-Strategy-Risk-and-Transactions-Advisory/23181": "Assistant Director, Commercial & Financial Advisory, Infrastructure and Capital Programmes: Strategy, Risk and Transacti",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Deal-Origination-Business-Services-M-A/22033": "Assistant Director, Deal Origination – Business Services, M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Equity-Capital-Markets-Finance-and-Transaction-Management-Office-EFT-M-A/24941": "Assistant Director, Equity Capital Markets, Finance, and Transaction Management Office (EFT), M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Equity-Capital-Markets-Finance-and-Transaction-Management-Office-EFT-M-A/24259": "Assistant Director, Equity Capital Markets, Finance, and Transaction Management Office (EFT), M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-M-A/24358": "Assistant Director, Financial Due Diligence - Financial Services, M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Consumer/25545": "Assistant Director, Financial Due Diligence, Consumer",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-Manchester/25282": "Assistant Director, Financial Due Diligence, Financial Services, Manchester"
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-Manchester/25282": "Assistant Director, Financial Due Diligence, Financial Services, Manchester",
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Government-and-Public-Sector-Occupiers-and-Capital-Projects/22155": "Assistant Director, Government and Public Sector Occupiers and Capital Projects"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-29T11:34:33+00:00",
+  "checked": "2026-10-29T18:39:27+00:00",
   "error": null,
   "changed_on": "2026-10-29",
   "new_links": {},
@@ -35,37 +35,35 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "048cacedd50b5d916c344d3b97770cd3084fa864",
+  "hash": "d38732a7defcfa0299181964501e9d530e7604a2",
   "postings": {
-   "https://wise.jobs/job/senior-software-engineer-i-platform-cloud-foundations-in-london-jid-4425": "Senior Software Engineer I - Platform - Cloud Foundations",
-   "https://wise.jobs/job/head-of-kyc-operations-apac-in-hyderabad-jid-3622": "Head of KYC Operations - APAC",
-   "https://wise.jobs/job/bakend-engineer-send-core-in-london-jid-3901": "Bakend Engineer - Send Core",
-   "https://wise.jobs/job/senior-analyst-apac-growth-in-singapore-jid-4424": "Senior Analyst - APAC Growth",
-   "https://wise.jobs/job/senior-software-engineer-java-aml-handling-in-tallinn-jid-4412": "Senior Software Engineer - Java - AML Handling",
-   "https://wise.jobs/job/people-operations-specialist-in-london-jid-4422": "People Operations Specialist",
-   "https://wise.jobs/job/safeguarding-controller-apac-in-singapore-jid-3827": "Safeguarding Controller - APAC",
-   "https://wise.jobs/job/senior-people-technology-engineer-workday-time-and-absence-in-tallinn-jid-4296": "Senior People Technology Engineer (Workday Time & Absence)",
-   "https://wise.jobs/job/senior-business-development-manager-greater-china-in-hong-kong-jid-4421": "Senior Business Development Manager - Greater China",
-   "https://wise.jobs/job/customer-support-specialist-arabic-in-hyderabad-jid-4406": "Customer Support Specialist - Arabic",
-   "https://wise.jobs/job/head-of-regional-payment-operations-latam-and-mea-region-in-sao-paulo-jid-2095": "Head of Regional Payment Operations - LATAM & MEA Region"
+   "https://wise.jobs/job/banking-operations-governance-team-lead-in-sao-paulo-jid-4092": "Banking Operations Governance Team Lead",
+   "https://wise.jobs/job/senior-java-software-engineer-ii-continuous-delivery-cd-in-london-jid-4429": "Senior Java Software Engineer II - Continuous Delivery (CD)",
+   "https://wise.jobs/job/senior-ii-lead-software-engineer-global-kyc-and-onboarding-in-london-jid-1989": "Senior II/Lead Software Engineer - Global KYC and Onboarding",
+   "https://wise.jobs/job/engineering-lead-wise-for-enterprise-in-london-jid-3755": "Engineering Lead - Wise for Enterprise",
+   "https://wise.jobs/job/senior-analytics-manager-compliance-in-london-jid-4388": "Senior Analytics Manager - Compliance",
+   "https://wise.jobs/job/lead-data-scientist-kyc-onboarding-in-london-jid-4247": "Lead Data Scientist - KYC/Onboarding",
+   "https://wise.jobs/job/head-of-finance-europe-in-brussels-jid-4428": "Head of Finance Europe",
+   "https://wise.jobs/job/finance-systems-change-programme-lead-in-london-jid-4427": "Finance Systems Change Programme Lead",
+   "https://wise.jobs/job/influencer-senior-manager-northam-in-austin-jid-4090": "Influencer Senior Manager (NorthAm)",
+   "https://wise.jobs/job/fincrime-investigator-aml-investigations-in-budapest-jid-4328": "FinCrime Investigator - AML Investigations"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-29T11:34:33+00:00",
+  "checked": "2026-10-29T18:39:27+00:00",
   "error": null,
   "changed_on": "2026-10-29",
   "new_links": {
-   "https://wise.jobs/job/senior-analyst-apac-growth-in-singapore-jid-4424": "Senior Analyst - APAC Growth",
-   "https://wise.jobs/job/people-operations-specialist-in-london-jid-4422": "People Operations Specialist",
-   "https://wise.jobs/job/customer-support-specialist-arabic-in-hyderabad-jid-4406": "Customer Support Specialist - Arabic"
+   "https://wise.jobs/job/influencer-senior-manager-northam-in-austin-jid-4090": "Influencer Senior Manager (NorthAm)"
   },
   "new_on": "2026-10-29"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "53043e1b01864d4307245e112efecc25a98b0b67",
+  "hash": "ec76607435231b9f389fc91e175ca952107170f0",
   "postings": {
+   "https://optiver.com/join-us/jobs/business-operations/amsterdam/procurement-analyst/": "Procurement Analyst",
    "https://optiver.com/join-us/jobs/human-resources-and-recruiting/sydney/apac-mobility-partner-12-month-contract/": "APAC Mobility Partner (12-month contract)",
    "https://optiver.com/join-us/jobs/technology/shanghai/technology-operations-engineer-shanghai/": "Technology Operations Engineer - Shanghai",
    "https://optiver.com/join-us/jobs/technology/taipei/technology-operations-engineer-taipei/": "Technology Operations Engineer - Taipei",
@@ -80,14 +78,13 @@
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/amsterdam/group-treasury-specialist/": "Group Treasury Specialist",
    "https://optiver.com/join-us/jobs/technology/chicago/category-manager-software/": "Category Manager, Software",
    "https://optiver.com/join-us/jobs/technology/new-york/software-engineer-agentic-sdlc/": "Software Engineer - Agentic SDLC",
-   "https://optiver.com/join-us/jobs/trade-operations/sydney/middle-office-manager/": "Middle Office Manager",
-   "https://optiver.com/join-us/jobs/technology/chicago/data-operations-engineer/": "Data Operations Engineer"
+   "https://optiver.com/join-us/jobs/trade-operations/sydney/middle-office-manager/": "Middle Office Manager"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-29T11:34:33+00:00",
+  "checked": "2026-10-29T18:39:27+00:00",
   "error": null,
-  "changed_on": "2026-10-28",
+  "changed_on": "2026-10-29",
   "new_links": {},
   "new_on": "2026-10-23"
  },
@@ -101,7 +98,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-29T11:34:33+00:00",
+  "checked": "2026-10-29T18:39:27+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -110,7 +107,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "72bbbf55f6aa028690680ae266f79f3f27e1301d",
+  "hash": "0045245ff76f545a781657ed1037ee4b736adb47",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement",
@@ -125,7 +122,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-29T11:34:33+00:00",
+  "checked": "2026-10-29T18:39:27+00:00",
   "error": null,
   "changed_on": "2026-10-29",
   "new_links": {},
