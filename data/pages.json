@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "d2e4d01d603f4ec89683070f7d4423f4a5ee33d8",
+  "hash": "8525e238ae2e05edd8a3b15a345fbcc01f8843a5",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -26,43 +26,52 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-29T18:39:27+00:00",
+  "checked": "2026-10-30T11:27:01+00:00",
   "error": null,
-  "changed_on": "2026-10-29",
+  "changed_on": "2026-10-30",
   "new_links": {},
   "new_on": null
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "d38732a7defcfa0299181964501e9d530e7604a2",
+  "hash": "013a3ce596dca95b033010c19f5b0d6117a0e3a7",
   "postings": {
-   "https://wise.jobs/job/banking-operations-governance-team-lead-in-sao-paulo-jid-4092": "Banking Operations Governance Team Lead",
-   "https://wise.jobs/job/senior-java-software-engineer-ii-continuous-delivery-cd-in-london-jid-4429": "Senior Java Software Engineer II - Continuous Delivery (CD)",
-   "https://wise.jobs/job/senior-ii-lead-software-engineer-global-kyc-and-onboarding-in-london-jid-1989": "Senior II/Lead Software Engineer - Global KYC and Onboarding",
-   "https://wise.jobs/job/engineering-lead-wise-for-enterprise-in-london-jid-3755": "Engineering Lead - Wise for Enterprise",
-   "https://wise.jobs/job/senior-analytics-manager-compliance-in-london-jid-4388": "Senior Analytics Manager - Compliance",
-   "https://wise.jobs/job/lead-data-scientist-kyc-onboarding-in-london-jid-4247": "Lead Data Scientist - KYC/Onboarding",
-   "https://wise.jobs/job/head-of-finance-europe-in-brussels-jid-4428": "Head of Finance Europe",
-   "https://wise.jobs/job/finance-systems-change-programme-lead-in-london-jid-4427": "Finance Systems Change Programme Lead",
-   "https://wise.jobs/job/influencer-senior-manager-northam-in-austin-jid-4090": "Influencer Senior Manager (NorthAm)",
-   "https://wise.jobs/job/fincrime-investigator-aml-investigations-in-budapest-jid-4328": "FinCrime Investigator - AML Investigations"
+   "https://wise.jobs/job/design-and-research-operations-graduate-in-london-jid-4346": "Design & Research Operations Graduate",
+   "https://wise.jobs/job/group-risk-lead-assets-risk-in-london-jid-3861": "Group Risk Lead - Assets Risk",
+   "https://wise.jobs/job/engineering-lead-send-for-partners-in-london-jid-4398": "Engineering Lead - Send for Partners",
+   "https://wise.jobs/job/senior-product-compliance-manager-apac-wise-platform-in-singapore-jid-4436": "Senior Product Compliance Manager - APAC Wise Platform",
+   "https://wise.jobs/job/paid-search-senior-manager-in-london-jid-4435": "Paid Search Senior Manager",
+   "https://wise.jobs/job/senior-ml-engineering-team-lead-financial-crime-in-london-jid-3951": "Senior ML Engineering Team Lead - Financial Crime",
+   "https://wise.jobs/job/lead-product-analyst-operations-in-hyderabad-jid-2073": "Lead Product Analyst - Operations",
+   "https://wise.jobs/job/banking-operations-function-lead-europe-and-swift-in-london-jid-4434": "Banking Operations Function Lead – Europe & SWIFT",
+   "https://wise.jobs/job/fincrime-operations-investigator-sanctions-in-tallinn-jid-4433": "FinCrime Operations Investigator - Sanctions",
+   "https://wise.jobs/job/engineering-lead-recommend-team-backend-focused-hands-on-in-london-jid-4370": "Engineering Lead - Recommend Team (Backend Focused - Hands on)",
+   "https://wise.jobs/job/engineering-lead-comparison-team-data-focused-in-london-jid-4432": "Engineering Lead - Comparison Team (Data Focused)"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-29T18:39:27+00:00",
+  "checked": "2026-10-30T11:27:01+00:00",
   "error": null,
-  "changed_on": "2026-10-29",
+  "changed_on": "2026-10-30",
   "new_links": {
-   "https://wise.jobs/job/influencer-senior-manager-northam-in-austin-jid-4090": "Influencer Senior Manager (NorthAm)"
+   "https://wise.jobs/job/design-and-research-operations-graduate-in-london-jid-4346": "Design & Research Operations Graduate",
+   "https://wise.jobs/job/group-risk-lead-assets-risk-in-london-jid-3861": "Group Risk Lead - Assets Risk",
+   "https://wise.jobs/job/senior-product-compliance-manager-apac-wise-platform-in-singapore-jid-4436": "Senior Product Compliance Manager - APAC Wise Platform",
+   "https://wise.jobs/job/paid-search-senior-manager-in-london-jid-4435": "Paid Search Senior Manager",
+   "https://wise.jobs/job/lead-product-analyst-operations-in-hyderabad-jid-2073": "Lead Product Analyst - Operations",
+   "https://wise.jobs/job/fincrime-operations-investigator-sanctions-in-tallinn-jid-4433": "FinCrime Operations Investigator - Sanctions"
   },
-  "new_on": "2026-10-29"
+  "new_on": "2026-10-30"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "ec76607435231b9f389fc91e175ca952107170f0",
+  "hash": "8e76a999fcbd1d4dea76c703e4bd7ffda4c8bbb2",
   "postings": {
+   "https://optiver.com/join-us/jobs/trading/singapore/trade-supervisor/": "Trade Supervisor",
+   "https://optiver.com/join-us/jobs/risk-finance-and-legal/chicago/compliance-intern-regulatory-advisory-2027-start/": "Compliance Intern – Regulatory Advisory",
+   "https://optiver.com/join-us/jobs/strategy/washington-d.c./government-affairs-strategy-analyst/": "Government Affairs Strategy Analyst",
    "https://optiver.com/join-us/jobs/business-operations/amsterdam/procurement-analyst/": "Procurement Analyst",
    "https://optiver.com/join-us/jobs/human-resources-and-recruiting/sydney/apac-mobility-partner-12-month-contract/": "APAC Mobility Partner (12-month contract)",
    "https://optiver.com/join-us/jobs/technology/shanghai/technology-operations-engineer-shanghai/": "Technology Operations Engineer - Shanghai",
@@ -75,18 +84,18 @@
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/finance-systems-specialist/": "Finance Systems Specialist",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/london/senior-compliance-officer-institutional-sales-and-trading-advisory/": "Senior Compliance Officer – Institutional Sales & Trading Advisory",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/amsterdam/financial-controller/": "Financial Controller",
-   "https://optiver.com/join-us/jobs/risk-finance-and-legal/amsterdam/group-treasury-specialist/": "Group Treasury Specialist",
-   "https://optiver.com/join-us/jobs/technology/chicago/category-manager-software/": "Category Manager, Software",
-   "https://optiver.com/join-us/jobs/technology/new-york/software-engineer-agentic-sdlc/": "Software Engineer - Agentic SDLC",
-   "https://optiver.com/join-us/jobs/trade-operations/sydney/middle-office-manager/": "Middle Office Manager"
+   "https://optiver.com/join-us/jobs/risk-finance-and-legal/amsterdam/group-treasury-specialist/": "Group Treasury Specialist"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-29T18:39:27+00:00",
+  "checked": "2026-10-30T11:27:01+00:00",
   "error": null,
-  "changed_on": "2026-10-29",
-  "new_links": {},
-  "new_on": "2026-10-23"
+  "changed_on": "2026-10-30",
+  "new_links": {
+   "https://optiver.com/join-us/jobs/trading/singapore/trade-supervisor/": "Trade Supervisor",
+   "https://optiver.com/join-us/jobs/strategy/washington-d.c./government-affairs-strategy-analyst/": "Government Affairs Strategy Analyst"
+  },
+  "new_on": "2026-10-30"
  },
  "https://careers.shezlong.com/": {
   "company": "Shezlong",
@@ -98,7 +107,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-29T18:39:27+00:00",
+  "checked": "2026-10-30T11:27:01+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -107,7 +116,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "0045245ff76f545a781657ed1037ee4b736adb47",
+  "hash": "b99a00eb78b0ba3eab90cea54ba070c30e0c186f",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement",
@@ -122,9 +131,9 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-29T18:39:27+00:00",
+  "checked": "2026-10-30T11:27:01+00:00",
   "error": null,
-  "changed_on": "2026-10-29",
+  "changed_on": "2026-10-30",
   "new_links": {},
   "new_on": "2026-10-25"
  }
