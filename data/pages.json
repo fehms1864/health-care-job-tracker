@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "8525e238ae2e05edd8a3b15a345fbcc01f8843a5",
+  "hash": "0e1c6fc40e60450977c1d5106207ee3e2fef378d",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-30T11:27:01+00:00",
+  "checked": "2026-10-30T18:13:03+00:00",
   "error": null,
   "changed_on": "2026-10-30",
   "new_links": {},
@@ -35,32 +35,28 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "013a3ce596dca95b033010c19f5b0d6117a0e3a7",
+  "hash": "9b5edb572e1a4d1f712f46883caeeda6a979865b",
   "postings": {
-   "https://wise.jobs/job/design-and-research-operations-graduate-in-london-jid-4346": "Design & Research Operations Graduate",
-   "https://wise.jobs/job/group-risk-lead-assets-risk-in-london-jid-3861": "Group Risk Lead - Assets Risk",
-   "https://wise.jobs/job/engineering-lead-send-for-partners-in-london-jid-4398": "Engineering Lead - Send for Partners",
-   "https://wise.jobs/job/senior-product-compliance-manager-apac-wise-platform-in-singapore-jid-4436": "Senior Product Compliance Manager - APAC Wise Platform",
-   "https://wise.jobs/job/paid-search-senior-manager-in-london-jid-4435": "Paid Search Senior Manager",
-   "https://wise.jobs/job/senior-ml-engineering-team-lead-financial-crime-in-london-jid-3951": "Senior ML Engineering Team Lead - Financial Crime",
-   "https://wise.jobs/job/lead-product-analyst-operations-in-hyderabad-jid-2073": "Lead Product Analyst - Operations",
-   "https://wise.jobs/job/banking-operations-function-lead-europe-and-swift-in-london-jid-4434": "Banking Operations Function Lead – Europe & SWIFT",
-   "https://wise.jobs/job/fincrime-operations-investigator-sanctions-in-tallinn-jid-4433": "FinCrime Operations Investigator - Sanctions",
-   "https://wise.jobs/job/engineering-lead-recommend-team-backend-focused-hands-on-in-london-jid-4370": "Engineering Lead - Recommend Team (Backend Focused - Hands on)",
-   "https://wise.jobs/job/engineering-lead-comparison-team-data-focused-in-london-jid-4432": "Engineering Lead - Comparison Team (Data Focused)"
+   "https://wise.jobs/job/senior-software-engineer-i-regional-expansion-mea-in-london-jid-4443": "Senior Software Engineer I- Regional Expansion -MEA",
+   "https://wise.jobs/job/senior-software-engineer-i-risk-control-and-governance-in-london-jid-4384": "Senior Software Engineer I - Risk Control & Governance",
+   "https://wise.jobs/job/senior-software-engineer-global-kyc-and-onboarding-in-london-jid-4038": "Senior Software Engineer - Global KYC and Onboarding",
+   "https://wise.jobs/job/senior-product-engineer-ii-risk-and-control-governance-in-london-jid-4099": "Senior Product Engineer II - Risk & Control Governance",
+   "https://wise.jobs/job/group-aml-and-ctf-manager-in-london-jid-4441": "Group AML & CTF Manager",
+   "https://wise.jobs/job/internal-audit-senior-manager-fincrime-in-brussels-jid-3848": "Internal Audit Senior Manager (Fincrime)",
+   "https://wise.jobs/job/external-reporting-senior-manager-in-london-jid-4442": "External Reporting Senior Manager",
+   "https://wise.jobs/job/payment-operations-risk-and-controls-team-lead-in-tallinn-jid-3972": "Payment Operations Risk & Controls Team Lead",
+   "https://wise.jobs/job/senior-ut-technician-in-hyderabad-jid-4136": "Senior UT Technician",
+   "https://wise.jobs/job/staff-software-engineer-affirmative-for-women-in-sao-paulo-jid-4440": "Staff Software Engineer - Affirmative for Women",
+   "https://wise.jobs/job/group-financial-crime-screening-manager-in-london-jid-4439": "Group Financial Crime Screening Manager"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-30T11:27:01+00:00",
+  "checked": "2026-10-30T18:13:03+00:00",
   "error": null,
   "changed_on": "2026-10-30",
   "new_links": {
-   "https://wise.jobs/job/design-and-research-operations-graduate-in-london-jid-4346": "Design & Research Operations Graduate",
-   "https://wise.jobs/job/group-risk-lead-assets-risk-in-london-jid-3861": "Group Risk Lead - Assets Risk",
-   "https://wise.jobs/job/senior-product-compliance-manager-apac-wise-platform-in-singapore-jid-4436": "Senior Product Compliance Manager - APAC Wise Platform",
-   "https://wise.jobs/job/paid-search-senior-manager-in-london-jid-4435": "Paid Search Senior Manager",
-   "https://wise.jobs/job/lead-product-analyst-operations-in-hyderabad-jid-2073": "Lead Product Analyst - Operations",
-   "https://wise.jobs/job/fincrime-operations-investigator-sanctions-in-tallinn-jid-4433": "FinCrime Operations Investigator - Sanctions"
+   "https://wise.jobs/job/external-reporting-senior-manager-in-london-jid-4442": "External Reporting Senior Manager",
+   "https://wise.jobs/job/payment-operations-risk-and-controls-team-lead-in-tallinn-jid-3972": "Payment Operations Risk & Controls Team Lead"
   },
   "new_on": "2026-10-30"
  },
@@ -88,7 +84,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-30T11:27:01+00:00",
+  "checked": "2026-10-30T18:13:03+00:00",
   "error": null,
   "changed_on": "2026-10-30",
   "new_links": {
@@ -107,7 +103,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-30T11:27:01+00:00",
+  "checked": "2026-10-30T18:13:03+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -116,7 +112,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "b99a00eb78b0ba3eab90cea54ba070c30e0c186f",
+  "hash": "6186fbb48fefaea2432eac6c42fa7c758130c0d4",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement",
@@ -131,7 +127,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-30T11:27:01+00:00",
+  "checked": "2026-10-30T18:13:03+00:00",
   "error": null,
   "changed_on": "2026-10-30",
   "new_links": {},
