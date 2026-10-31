@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-30T18:13:03+00:00",
+  "checked": "2026-10-31T10:57:53+00:00",
   "error": null,
   "changed_on": "2026-10-30",
   "new_links": {},
@@ -35,8 +35,11 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "9b5edb572e1a4d1f712f46883caeeda6a979865b",
+  "hash": "936b8e00fab71edda9f0e5259b3b00410f432db2",
   "postings": {
+   "https://wise.jobs/job/senior-product-compliance-and-risk-manager-india-in-singapore-jid-4250": "Senior Product Compliance & Risk Manager - India",
+   "https://wise.jobs/job/senior-product-compliance-and-risk-manager-india-in-hyderabad-jid-1794": "Senior Product Compliance & Risk Manager - India",
+   "https://wise.jobs/job/graduate-analyst-in-austin-jid-4438": "Graduate Analyst",
    "https://wise.jobs/job/senior-software-engineer-i-regional-expansion-mea-in-london-jid-4443": "Senior Software Engineer I- Regional Expansion -MEA",
    "https://wise.jobs/job/senior-software-engineer-i-risk-control-and-governance-in-london-jid-4384": "Senior Software Engineer I - Risk Control & Governance",
    "https://wise.jobs/job/senior-software-engineer-global-kyc-and-onboarding-in-london-jid-4038": "Senior Software Engineer - Global KYC and Onboarding",
@@ -44,27 +47,26 @@
    "https://wise.jobs/job/group-aml-and-ctf-manager-in-london-jid-4441": "Group AML & CTF Manager",
    "https://wise.jobs/job/internal-audit-senior-manager-fincrime-in-brussels-jid-3848": "Internal Audit Senior Manager (Fincrime)",
    "https://wise.jobs/job/external-reporting-senior-manager-in-london-jid-4442": "External Reporting Senior Manager",
-   "https://wise.jobs/job/payment-operations-risk-and-controls-team-lead-in-tallinn-jid-3972": "Payment Operations Risk & Controls Team Lead",
-   "https://wise.jobs/job/senior-ut-technician-in-hyderabad-jid-4136": "Senior UT Technician",
-   "https://wise.jobs/job/staff-software-engineer-affirmative-for-women-in-sao-paulo-jid-4440": "Staff Software Engineer - Affirmative for Women",
-   "https://wise.jobs/job/group-financial-crime-screening-manager-in-london-jid-4439": "Group Financial Crime Screening Manager"
+   "https://wise.jobs/job/payment-operations-risk-and-controls-team-lead-in-tallinn-jid-3972": "Payment Operations Risk & Controls Team Lead"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-30T18:13:03+00:00",
+  "checked": "2026-10-31T10:57:53+00:00",
   "error": null,
-  "changed_on": "2026-10-30",
+  "changed_on": "2026-10-31",
   "new_links": {
-   "https://wise.jobs/job/external-reporting-senior-manager-in-london-jid-4442": "External Reporting Senior Manager",
-   "https://wise.jobs/job/payment-operations-risk-and-controls-team-lead-in-tallinn-jid-3972": "Payment Operations Risk & Controls Team Lead"
+   "https://wise.jobs/job/senior-product-compliance-and-risk-manager-india-in-singapore-jid-4250": "Senior Product Compliance & Risk Manager - India",
+   "https://wise.jobs/job/senior-product-compliance-and-risk-manager-india-in-hyderabad-jid-1794": "Senior Product Compliance & Risk Manager - India",
+   "https://wise.jobs/job/graduate-analyst-in-austin-jid-4438": "Graduate Analyst"
   },
-  "new_on": "2026-10-30"
+  "new_on": "2026-10-31"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "8e76a999fcbd1d4dea76c703e4bd7ffda4c8bbb2",
+  "hash": "f25b96cd17818ae83834d965213b7cf424076442",
   "postings": {
+   "https://optiver.com/join-us/jobs/technology/austin/software-engineer-2/": "Software Engineer",
    "https://optiver.com/join-us/jobs/trading/singapore/trade-supervisor/": "Trade Supervisor",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/chicago/compliance-intern-regulatory-advisory-2027-start/": "Compliance Intern – Regulatory Advisory",
    "https://optiver.com/join-us/jobs/strategy/washington-d.c./government-affairs-strategy-analyst/": "Government Affairs Strategy Analyst",
@@ -79,18 +81,14 @@
    "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-phd-summer-2028--shanghai/": "Expressions of Interest - Quantitative Research Internship, PhD (Summer 2028 -Shanghai)",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/finance-systems-specialist/": "Finance Systems Specialist",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/london/senior-compliance-officer-institutional-sales-and-trading-advisory/": "Senior Compliance Officer – Institutional Sales & Trading Advisory",
-   "https://optiver.com/join-us/jobs/risk-finance-and-legal/amsterdam/financial-controller/": "Financial Controller",
-   "https://optiver.com/join-us/jobs/risk-finance-and-legal/amsterdam/group-treasury-specialist/": "Group Treasury Specialist"
+   "https://optiver.com/join-us/jobs/risk-finance-and-legal/amsterdam/financial-controller/": "Financial Controller"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-30T18:13:03+00:00",
+  "checked": "2026-10-31T10:57:53+00:00",
   "error": null,
-  "changed_on": "2026-10-30",
-  "new_links": {
-   "https://optiver.com/join-us/jobs/trading/singapore/trade-supervisor/": "Trade Supervisor",
-   "https://optiver.com/join-us/jobs/strategy/washington-d.c./government-affairs-strategy-analyst/": "Government Affairs Strategy Analyst"
-  },
+  "changed_on": "2026-10-31",
+  "new_links": {},
   "new_on": "2026-10-30"
  },
  "https://careers.shezlong.com/": {
@@ -103,7 +101,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-30T18:13:03+00:00",
+  "checked": "2026-10-31T10:57:53+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -112,7 +110,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "6186fbb48fefaea2432eac6c42fa7c758130c0d4",
+  "hash": "5da7b36ffcebaba74aef95edcb7b7bccc033b197",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement",
@@ -127,9 +125,9 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-30T18:13:03+00:00",
+  "checked": "2026-10-31T10:57:53+00:00",
   "error": null,
-  "changed_on": "2026-10-30",
+  "changed_on": "2026-10-31",
   "new_links": {},
   "new_on": "2026-10-25"
  }
