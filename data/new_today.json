@@ -1,23 +1,46 @@
 [
  {
-  "id": "41b23c2ba57497",
-  "company": "Amazon / AWS (UK)",
+  "id": "42acc75a2c6e5c",
+  "company": "Faculty",
   "region": "UK",
-  "title": "Technical Program Manager, Amazon Application Security",
-  "location": "London, England, GBR",
-  "url": "https://www.amazon.jobs/en/jobs/10384297/technical-program-manager-amazon-application-security",
-  "posted": "April  6, 2026",
+  "title": "Associate",
+  "location": "London / United Kingdom",
+  "url": "https://jobs.ashbyhq.com/faculty/f86c1078-251c-4bbd-a5e8-1c6ec40ed3cb",
+  "posted": "2026-11-01T12:52:58.279+00:00",
   "posted_date": "2026-11-01",
-  "posted_approx": true,
+  "posted_approx": false,
   "first_seen": "2026-11-01",
-  "score": 26,
+  "score": 22,
   "hits": [
-   "healthcare",
+   "strategy",
    "operations",
-   "program manager"
+   "implementation",
+   "transformation"
   ],
   "lang": null,
   "visa": null,
+  "details": true,
+  "lang_checked": true,
+  "baseline": false
+ },
+ {
+  "id": "ab4faf60d262b6",
+  "company": "Cera Care",
+  "region": "UK",
+  "title": "Female Care Assisstant",
+  "location": "Hounslow, gb",
+  "url": "https://jobs.smartrecruiters.com/ceracare/744000158976229",
+  "posted": "2026-11-01T15:54:29.351Z",
+  "posted_date": "2026-11-01",
+  "posted_approx": false,
+  "first_seen": "2026-11-01",
+  "score": 20,
+  "hits": [
+   "healthcare",
+   "mental health"
+  ],
+  "lang": null,
+  "visa": "no",
   "details": true,
   "lang_checked": true,
   "baseline": false

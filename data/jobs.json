@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T11:53:15+00:00",
+ "generated_at": "2026-11-01T18:06:48+00:00",
  "baseline_date": "2026-09-27",
  "rules_version": 6,
  "sources": {
@@ -177,6 +177,52 @@
    ],
    "lang": null,
    "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "42acc75a2c6e5c",
+   "company": "Faculty",
+   "region": "UK",
+   "title": "Associate",
+   "location": "London / United Kingdom",
+   "url": "https://jobs.ashbyhq.com/faculty/f86c1078-251c-4bbd-a5e8-1c6ec40ed3cb",
+   "posted": "2026-11-01T12:52:58.279+00:00",
+   "posted_date": "2026-11-01",
+   "posted_approx": false,
+   "first_seen": "2026-11-01",
+   "score": 22,
+   "hits": [
+    "strategy",
+    "operations",
+    "implementation",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "ab4faf60d262b6",
+   "company": "Cera Care",
+   "region": "UK",
+   "title": "Female Care Assisstant",
+   "location": "Hounslow, gb",
+   "url": "https://jobs.smartrecruiters.com/ceracare/744000158976229",
+   "posted": "2026-11-01T15:54:29.351Z",
+   "posted_date": "2026-11-01",
+   "posted_approx": false,
+   "first_seen": "2026-11-01",
+   "score": 20,
+   "hits": [
+    "healthcare",
+    "mental health"
+   ],
+   "lang": null,
+   "visa": "no",
    "details": true,
    "lang_checked": true,
    "baseline": false
@@ -1544,13 +1590,13 @@
    "baseline": false
   },
   {
-   "id": "c73bfa79156dca",
+   "id": "59fae8d91c041a",
    "company": "Intercom",
    "region": "UK",
    "title": "Senior Customer Education Manager, Live Programs",
-   "location": "Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/intercom/jobs/8337122",
-   "posted": "2026-10-30T12:51:32-04:00",
+   "location": "London, England London, Greater London, England, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/8155306",
+   "posted": "2026-10-30T12:51:30-04:00",
    "posted_date": "2026-10-30",
    "posted_approx": false,
    "first_seen": "2026-10-30",
@@ -1565,13 +1611,13 @@
    "baseline": false
   },
   {
-   "id": "59fae8d91c041a",
+   "id": "c73bfa79156dca",
    "company": "Intercom",
    "region": "UK",
    "title": "Senior Customer Education Manager, Live Programs",
-   "location": "London, England London, Greater London, England, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/intercom/jobs/8155306",
-   "posted": "2026-10-30T12:51:30-04:00",
+   "location": "Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/8337122",
+   "posted": "2026-10-30T12:51:32-04:00",
    "posted_date": "2026-10-30",
    "posted_approx": false,
    "first_seen": "2026-10-30",
@@ -3492,7 +3538,7 @@
    "title": "Sr. Clinical Product Manager – Neurology",
    "location": "Best",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Sr-Clinical-Product-Manager---Neurology_593188-1",
-   "posted": "4 Days Ago",
+   "posted": "Today",
    "posted_date": "2026-10-28",
    "posted_approx": false,
    "first_seen": "2026-10-28",
@@ -15508,27 +15554,6 @@
    "baseline": false
   },
   {
-   "id": "8fc32e6716aa18",
-   "company": "Publicis",
-   "region": "UK",
-   "title": "Programmatic Manager",
-   "location": "London, United Kingdom / 2 Television Centre",
-   "url": "https://careers.publicisgroupe.com/jobs/176396?lang=en-us",
-   "posted": "2026-10-15T11:22:00+0000",
-   "posted_date": "2026-10-15",
-   "posted_approx": false,
-   "first_seen": "2026-10-15",
-   "score": 8,
-   "hits": [
-    "strategy"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "d108b07b22b3bd",
    "company": "Baringa",
    "region": "UK",
@@ -23541,12 +23566,12 @@
    "baseline": true
   },
   {
-   "id": "f8e5ca4bd4a67c",
+   "id": "25d5a34980758f",
    "company": "BCG",
    "region": "UK",
-   "title": "BCG X Global PA AI Strategy & Portfolio Senior Manager",
+   "title": "BCG X Global PA AI Strategy & Portfolio Manager",
    "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/59803/BCG-X-Global-PA-AI-Strategy-Portfolio-Senior-Manager",
+   "url": "https://careers.bcg.com/global/en/job/59802/BCG-X-Global-PA-AI-Strategy-Portfolio-Manager",
    "posted": "2026-10-02T00:00:00.000+0000",
    "posted_date": "2026-10-02",
    "posted_approx": false,
@@ -23564,12 +23589,12 @@
    "baseline": true
   },
   {
-   "id": "25d5a34980758f",
+   "id": "f8e5ca4bd4a67c",
    "company": "BCG",
    "region": "UK",
-   "title": "BCG X Global PA AI Strategy & Portfolio Manager",
+   "title": "BCG X Global PA AI Strategy & Portfolio Senior Manager",
    "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/59802/BCG-X-Global-PA-AI-Strategy-Portfolio-Manager",
+   "url": "https://careers.bcg.com/global/en/job/59803/BCG-X-Global-PA-AI-Strategy-Portfolio-Senior-Manager",
    "posted": "2026-10-02T00:00:00.000+0000",
    "posted_date": "2026-10-02",
    "posted_approx": false,
@@ -23762,6 +23787,28 @@
    "hits": [
     "consultant",
     "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "36c90709fa9656",
+   "company": "Publicis",
+   "region": "UK",
+   "title": "Strategy Manager",
+   "location": "London, United Kingdom / 2 Television Centre",
+   "url": "https://careers.publicisgroupe.com/jobs/165690?lang=en-us",
+   "posted": "2026-07-22T14:23:00+0000",
+   "posted_date": "2026-07-22",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 22,
+   "hits": [
+    "strategy",
     "transformation"
    ],
    "lang": null,
@@ -25668,6 +25715,54 @@
    "baseline": true
   },
   {
+   "id": "db193c86092dfd",
+   "company": "BCG",
+   "region": "UK",
+   "title": "Senior Analyst - BCG Vantage, Technology, Media, and Telecommunications (TMT)",
+   "location": "London, United Kingdom",
+   "url": "https://careers.bcg.com/global/en/job/59278/Senior-Analyst-BCG-Vantage-Technology-Media-and-Telecommunications-TMT",
+   "posted": "2026-08-31T00:00:00.000+0000",
+   "posted_date": "2026-08-31",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 20,
+   "hits": [
+    "healthcare",
+    "strategy",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "675fce8e1bb675",
+   "company": "BCG",
+   "region": "UK",
+   "title": "Global Cybersecurity Senior Manager – Program Management",
+   "location": "London, United Kingdom",
+   "url": "https://careers.bcg.com/global/en/job/59040/Global-Cybersecurity-Senior-Manager-Program-Management",
+   "posted": "2026-08-10T00:00:00.000+0000",
+   "posted_date": "2026-08-10",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 20,
+   "hits": [
+    "strategy",
+    "operations",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "71594d7227ab7c",
    "company": "BCG",
    "region": "UK",
@@ -25708,54 +25803,6 @@
     "consulting",
     "transformation",
     "change management"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "675fce8e1bb675",
-   "company": "BCG",
-   "region": "UK",
-   "title": "Global Cybersecurity Senior Manager – Program Management",
-   "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/59040/Global-Cybersecurity-Senior-Manager-Program-Management",
-   "posted": "2026-08-10T00:00:00.000+0000",
-   "posted_date": "2026-08-10",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 20,
-   "hits": [
-    "strategy",
-    "operations",
-    "consulting",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "db193c86092dfd",
-   "company": "BCG",
-   "region": "UK",
-   "title": "Senior Analyst - BCG Vantage, Technology, Media, and Telecommunications (TMT)",
-   "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/59278/Senior-Analyst-BCG-Vantage-Technology-Media-and-Telecommunications-TMT",
-   "posted": "2026-08-31T00:00:00.000+0000",
-   "posted_date": "2026-08-31",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 20,
-   "hits": [
-    "healthcare",
-    "strategy",
-    "consulting",
-    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -28097,28 +28144,6 @@
    "baseline": true
   },
   {
-   "id": "369a05bde5af83",
-   "company": "Siemens Healthineers",
-   "region": "UK",
-   "title": "Quality Release Officer (FTC)",
-   "location": "Llanberis, Caernarfon, UK / United Kingdom",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100709/Quality-Release-Officer-FTC",
-   "posted": "2026-10-07T00:00:00.000+0000",
-   "posted_date": "2026-10-07",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 18,
-   "hits": [
-    "healthcare",
-    "change management"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "d4fea8cc8f4c65",
    "company": "Siemens Healthineers",
    "region": "UK",
@@ -28134,6 +28159,28 @@
     "healthcare",
     "operations",
     "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "369a05bde5af83",
+   "company": "Siemens Healthineers",
+   "region": "UK",
+   "title": "Quality Release Officer (FTC)",
+   "location": "Llanberis, Caernarfon, UK / United Kingdom",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100709/Quality-Release-Officer-FTC",
+   "posted": "2026-10-07T00:00:00.000+0000",
+   "posted_date": "2026-10-07",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 18,
+   "hits": [
+    "healthcare",
+    "change management"
    ],
    "lang": null,
    "visa": null,
@@ -37221,29 +37268,6 @@
    "baseline": false
   },
   {
-   "id": "209a3297dde208",
-   "company": "AstraZeneca",
-   "region": "UK",
-   "title": "Medical Evidence Delivery Manager",
-   "location": "Australia – New South Wales",
-   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Australia--New-South-Wales/Medical-Evidence-Delivery-Manager_R-260743-1",
-   "posted": "30 Days Ago",
-   "posted_date": "2026-10-02",
-   "posted_approx": false,
-   "first_seen": "2026-10-02",
-   "score": 31,
-   "hits": [
-    "healthcare",
-    "patient",
-    "medical"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "11428e38d056db",
    "company": "Faculty",
    "region": "UK",
@@ -40703,28 +40727,6 @@
    "baseline": false
   },
   {
-   "id": "d88dfc151edf38",
-   "company": "Cera Care",
-   "region": "UK",
-   "title": "Female Care Assisstant",
-   "location": "Hounslow, gb",
-   "url": "https://jobs.smartrecruiters.com/ceracare/744000139626990",
-   "posted": "2026-07-24T14:47:46.672Z",
-   "posted_date": "2026-07-24",
-   "posted_approx": false,
-   "first_seen": "2026-09-27",
-   "score": 20,
-   "hits": [
-    "healthcare",
-    "mental health"
-   ],
-   "lang": null,
-   "visa": "no",
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "17903fe3fcc1b3",
    "company": "Baringa",
    "region": "UK",
@@ -44030,9 +44032,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 69,
-   "in_region": 69,
-   "kept": 24
+   "total": 68,
+   "in_region": 68,
+   "kept": 23
   },
   {
    "companies": [
@@ -44061,7 +44063,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 62,
+   "total": 61,
    "in_region": 6,
    "kept": 0
   },
@@ -44172,8 +44174,8 @@
    ],
    "source": "smartrecruiters",
    "error": null,
-   "total": 729,
-   "in_region": 729,
+   "total": 728,
+   "in_region": 728,
    "kept": 6
   },
   {
@@ -44253,7 +44255,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 904,
+   "total": 909,
    "in_region": 92,
    "kept": 7
   },
@@ -44316,8 +44318,8 @@
    ],
    "source": "rmk_html",
    "error": null,
-   "total": 1279,
-   "in_region": 1279,
+   "total": 1284,
+   "in_region": 1284,
    "kept": 108
   },
   {
@@ -44346,9 +44348,9 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 84,
-   "in_region": 84,
-   "kept": 18
+   "total": 85,
+   "in_region": 85,
+   "kept": 19
   },
   {
    "companies": [
@@ -44907,8 +44909,8 @@
    ],
    "source": "jibe",
    "error": null,
-   "total": 3199,
-   "in_region": 267,
+   "total": 3200,
+   "in_region": 266,
    "kept": 112
   },
   {
@@ -45062,7 +45064,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 745,
+   "total": 746,
    "in_region": 64,
    "kept": 18
   },
@@ -45202,7 +45204,7 @@
    ],
    "source": "sf_rmk",
    "error": null,
-   "total": 400,
+   "total": 399,
    "in_region": 29,
    "kept": 9
   },
@@ -45292,7 +45294,7 @@
   "companies": 215,
   "feeds": 126,
   "jobs": 1920,
-  "new_today": 1,
+  "new_today": 2,
   "pages": 5
  },
  "coverage": {
