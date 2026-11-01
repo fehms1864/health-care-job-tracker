@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-31T17:22:12+00:00",
+  "checked": "2026-11-01T11:53:15+00:00",
   "error": null,
   "changed_on": "2026-10-30",
   "new_links": {},
@@ -35,7 +35,7 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "230a81ecffd8bc082c269830dacd70e807539e1d",
+  "hash": "936b8e00fab71edda9f0e5259b3b00410f432db2",
   "postings": {
    "https://wise.jobs/job/senior-product-compliance-and-risk-manager-india-in-singapore-jid-4250": "Senior Product Compliance & Risk Manager - India",
    "https://wise.jobs/job/senior-product-compliance-and-risk-manager-india-in-hyderabad-jid-1794": "Senior Product Compliance & Risk Manager - India",
@@ -51,14 +51,10 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-31T17:22:12+00:00",
+  "checked": "2026-11-01T11:53:15+00:00",
   "error": null,
-  "changed_on": "2026-10-31",
-  "new_links": {
-   "https://wise.jobs/job/senior-product-compliance-and-risk-manager-india-in-singapore-jid-4250": "Senior Product Compliance & Risk Manager - India",
-   "https://wise.jobs/job/senior-product-compliance-and-risk-manager-india-in-hyderabad-jid-1794": "Senior Product Compliance & Risk Manager - India",
-   "https://wise.jobs/job/graduate-analyst-in-austin-jid-4438": "Graduate Analyst"
-  },
+  "changed_on": "2026-11-01",
+  "new_links": {},
   "new_on": "2026-10-31"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
@@ -85,7 +81,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-31T17:22:12+00:00",
+  "checked": "2026-11-01T11:53:15+00:00",
   "error": null,
   "changed_on": "2026-10-31",
   "new_links": {},
@@ -101,7 +97,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-10-31T17:22:12+00:00",
+  "checked": "2026-11-01T11:53:15+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -110,7 +106,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "5da7b36ffcebaba74aef95edcb7b7bccc033b197",
+  "hash": "7cc9ca8e33cc61d11eb7bd14f8652e742a4f8886",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement",
@@ -125,9 +121,9 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-10-31T17:22:12+00:00",
+  "checked": "2026-11-01T11:53:15+00:00",
   "error": null,
-  "changed_on": "2026-10-31",
+  "changed_on": "2026-11-01",
   "new_links": {},
   "new_on": "2026-10-25"
  }
