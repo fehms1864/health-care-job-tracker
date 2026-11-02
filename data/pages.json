@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "abb5e3b3b55dfe5ceb9ad4157eea788c2c9ba34c",
+  "hash": "0ff6005bcec77110ede8d03efdb2a4d356f94f89",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-02T13:36:21+00:00",
+  "checked": "2026-11-02T21:56:09+00:00",
   "error": null,
   "changed_on": "2026-11-02",
   "new_links": {},
@@ -35,8 +35,12 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "62082852266da26a2087cfa92f16190dfc95ee40",
+  "hash": "dfc1230f8a7897e1a38d020f3efe2b1b8d6a798e",
   "postings": {
+   "https://wise.jobs/job/lead-data-analyst-financial-reporting-in-london-jid-4450": "Lead Data Analyst - Financial Reporting",
+   "https://wise.jobs/job/senior-data-engineer-i-global-kyc-and-onboarding-in-london-jid-4449": "Senior Data Engineer I - Global KYC & Onboarding",
+   "https://wise.jobs/job/staff-researcher-grow-in-london-jid-4448": "Staff Researcher - Grow",
+   "https://wise.jobs/job/head-of-financial-crime-compliance-and-mlro-japan-in-tokyo-jid-2550": "Head of Financial Crime Compliance and MLRO, Japan",
    "https://wise.jobs/job/backend-engineer-send-core-in-london-jid-3901": "Backend Engineer - Send Core",
    "https://wise.jobs/job/kyc-operations-associate-analyst-business-in-tallinn-jid-4447": "KYC Operations Associate Analyst - Business",
    "https://wise.jobs/job/enterprise-pricing-manager-emea-in-london-jid-4312": "Enterprise Pricing Manager (EMEA)",
@@ -44,31 +48,24 @@
    "https://wise.jobs/job/it-sox-advisory-specialist-in-london-jid-4246": "IT SOX Advisory Specialist",
    "https://wise.jobs/job/senior-product-compliance-manager-apac-wise-platform-in-singapore-jid-4436": "Senior Product Compliance Manager - APAC Wise Platform",
    "https://wise.jobs/job/customer-support-specialist-in-bangkok-jid-4446": "Customer Support Specialist",
-   "https://wise.jobs/job/fincrime-investigator-fraud-thai-speaking-in-kuala-lumpur-jid-4445": "FinCrime Investigator - Fraud (Thai Speaking)",
-   "https://wise.jobs/job/staff-backend-engineer-in-hyderabad-jid-4141": "Staff Backend Engineer",
-   "https://wise.jobs/job/issuance-automation-solution-specialist-in-singapore-jid-4444": "Issuance Automation Solution Specialist",
-   "https://wise.jobs/job/principal-product-designer-latam-in-sao-paulo-jid-3658": "Principal Product Designer – LATAM",
-   "https://wise.jobs/job/senior-product-compliance-and-risk-manager-india-in-singapore-jid-4250": "Senior Product Compliance & Risk Manager - India"
+   "https://wise.jobs/job/fincrime-investigator-fraud-thai-speaking-in-kuala-lumpur-jid-4445": "FinCrime Investigator - Fraud (Thai Speaking)"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-02T13:36:21+00:00",
+  "checked": "2026-11-02T21:56:09+00:00",
   "error": null,
   "changed_on": "2026-11-02",
   "new_links": {
-   "https://wise.jobs/job/people-operations-specialist-in-singapore-jid-4419": "People Operations Specialist",
-   "https://wise.jobs/job/it-sox-advisory-specialist-in-london-jid-4246": "IT SOX Advisory Specialist",
-   "https://wise.jobs/job/senior-product-compliance-manager-apac-wise-platform-in-singapore-jid-4436": "Senior Product Compliance Manager - APAC Wise Platform",
-   "https://wise.jobs/job/customer-support-specialist-in-bangkok-jid-4446": "Customer Support Specialist",
-   "https://wise.jobs/job/issuance-automation-solution-specialist-in-singapore-jid-4444": "Issuance Automation Solution Specialist"
+   "https://wise.jobs/job/staff-researcher-grow-in-london-jid-4448": "Staff Researcher - Grow"
   },
   "new_on": "2026-11-02"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "047301b21c44b53927a8abf1ea00a55fa9495f01",
+  "hash": "18fc0da85c289936314fb920686a50acba455e80",
   "postings": {
+   "https://optiver.com/join-us/jobs/technology/austin/supply-chain-specialist/": "Supply Chain Specialist",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/accounts-payable-officer/": "Accounts Payable Officer",
    "https://optiver.com/join-us/jobs/technology/austin/software-engineer-2/": "Software Engineer",
    "https://optiver.com/join-us/jobs/trading/singapore/trade-supervisor/": "Trade Supervisor",
@@ -83,16 +80,17 @@
    "https://optiver.com/join-us/jobs/technology/chicago/network-engineer/": "Network Engineer",
    "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-bachelor-or-master-summer-2028-shanghai/": "Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai)",
    "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-phd-summer-2028--shanghai/": "Expressions of Interest - Quantitative Research Internship, PhD (Summer 2028 -Shanghai)",
-   "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/finance-systems-specialist/": "Finance Systems Specialist",
-   "https://optiver.com/join-us/jobs/risk-finance-and-legal/london/senior-compliance-officer-institutional-sales-and-trading-advisory/": "Senior Compliance Officer – Institutional Sales & Trading Advisory"
+   "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/finance-systems-specialist/": "Finance Systems Specialist"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-02T13:36:21+00:00",
+  "checked": "2026-11-02T21:56:09+00:00",
   "error": null,
   "changed_on": "2026-11-02",
-  "new_links": {},
-  "new_on": "2026-10-30"
+  "new_links": {
+   "https://optiver.com/join-us/jobs/technology/austin/supply-chain-specialist/": "Supply Chain Specialist"
+  },
+  "new_on": "2026-11-02"
  },
  "https://careers.shezlong.com/": {
   "company": "Shezlong",
@@ -104,7 +102,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-02T13:36:21+00:00",
+  "checked": "2026-11-02T21:56:09+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -113,8 +111,9 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "23b472164cd1ebbf9b8a8cac70cbc52a57dfe706",
+  "hash": "6bdae7c5f97bf8e1ddc9056044e7e61b0d550c5d",
   "postings": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-business-enablement-strategic-transaction-1100091893/": "Senior Executive Manager - Business Enablement & Strategic Transaction",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-hematology-part-time-1100089688/": "Consultant – Hematology (Part-Time)",
@@ -123,15 +122,16 @@
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-adult-endocrinology-part-time-1100089681/": "Consultant – Adult Endocrinology (Part-Time)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-orthopaedics-lower-limb-part-time-1100089679/": "Consultant – Orthopaedics, Lower Limb (Part-Time)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-orthopaedics-upper-limb-part-time-1100089680/": "Consultant – Orthopaedics, Upper Limb (Part-Time)",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-allocation-reconciliation-invoicing-1100091550/": "Coop - Allocation Reconciliation & Invoicing",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-sme-account-management-pipeline-1100087121/": "View Job Details"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-allocation-reconciliation-invoicing-1100091550/": "Coop - Allocation Reconciliation & Invoicing"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-02T13:36:21+00:00",
+  "checked": "2026-11-02T21:56:09+00:00",
   "error": null,
   "changed_on": "2026-11-02",
-  "new_links": {},
-  "new_on": "2026-10-25"
+  "new_links": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-business-enablement-strategic-transaction-1100091893/": "Senior Executive Manager - Business Enablement & Strategic Transaction"
+  },
+  "new_on": "2026-11-02"
  }
 }
