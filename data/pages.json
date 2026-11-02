@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "0e1c6fc40e60450977c1d5106207ee3e2fef378d",
+  "hash": "abb5e3b3b55dfe5ceb9ad4157eea788c2c9ba34c",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -26,42 +26,50 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-01T18:06:48+00:00",
+  "checked": "2026-11-02T13:36:21+00:00",
   "error": null,
-  "changed_on": "2026-10-30",
+  "changed_on": "2026-11-02",
   "new_links": {},
   "new_on": null
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "f1c9cf127049961d32cbd502626de61f94a9f2f1",
+  "hash": "62082852266da26a2087cfa92f16190dfc95ee40",
   "postings": {
-   "https://wise.jobs/job/senior-product-compliance-and-risk-manager-india-in-singapore-jid-4250": "Senior Product Compliance & Risk Manager - India",
-   "https://wise.jobs/job/senior-product-compliance-and-risk-manager-india-in-hyderabad-jid-1794": "Senior Product Compliance & Risk Manager - India",
-   "https://wise.jobs/job/graduate-analyst-in-austin-jid-4438": "Graduate Analyst",
-   "https://wise.jobs/job/senior-software-engineer-i-regional-expansion-mea-in-london-jid-4443": "Senior Software Engineer I- Regional Expansion -MEA",
-   "https://wise.jobs/job/senior-software-engineer-i-risk-control-and-governance-in-london-jid-4384": "Senior Software Engineer I - Risk Control & Governance",
-   "https://wise.jobs/job/senior-software-engineer-global-kyc-and-onboarding-in-london-jid-4038": "Senior Software Engineer - Global KYC and Onboarding",
-   "https://wise.jobs/job/senior-product-engineer-ii-risk-and-control-governance-in-london-jid-4099": "Senior Product Engineer II - Risk & Control Governance",
-   "https://wise.jobs/job/group-aml-and-ctf-manager-in-london-jid-4441": "Group AML & CTF Manager",
-   "https://wise.jobs/job/internal-audit-senior-manager-fincrime-in-brussels-jid-3848": "Internal Audit Senior Manager (Fincrime)",
-   "https://wise.jobs/job/external-reporting-senior-manager-in-london-jid-4442": "External Reporting Senior Manager",
-   "https://wise.jobs/job/payment-operations-risk-and-controls-team-lead-in-tallinn-jid-3972": "Payment Operations Risk & Controls Team Lead"
+   "https://wise.jobs/job/backend-engineer-send-core-in-london-jid-3901": "Backend Engineer - Send Core",
+   "https://wise.jobs/job/kyc-operations-associate-analyst-business-in-tallinn-jid-4447": "KYC Operations Associate Analyst - Business",
+   "https://wise.jobs/job/enterprise-pricing-manager-emea-in-london-jid-4312": "Enterprise Pricing Manager (EMEA)",
+   "https://wise.jobs/job/people-operations-specialist-in-singapore-jid-4419": "People Operations Specialist",
+   "https://wise.jobs/job/it-sox-advisory-specialist-in-london-jid-4246": "IT SOX Advisory Specialist",
+   "https://wise.jobs/job/senior-product-compliance-manager-apac-wise-platform-in-singapore-jid-4436": "Senior Product Compliance Manager - APAC Wise Platform",
+   "https://wise.jobs/job/customer-support-specialist-in-bangkok-jid-4446": "Customer Support Specialist",
+   "https://wise.jobs/job/fincrime-investigator-fraud-thai-speaking-in-kuala-lumpur-jid-4445": "FinCrime Investigator - Fraud (Thai Speaking)",
+   "https://wise.jobs/job/staff-backend-engineer-in-hyderabad-jid-4141": "Staff Backend Engineer",
+   "https://wise.jobs/job/issuance-automation-solution-specialist-in-singapore-jid-4444": "Issuance Automation Solution Specialist",
+   "https://wise.jobs/job/principal-product-designer-latam-in-sao-paulo-jid-3658": "Principal Product Designer – LATAM",
+   "https://wise.jobs/job/senior-product-compliance-and-risk-manager-india-in-singapore-jid-4250": "Senior Product Compliance & Risk Manager - India"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-01T18:06:48+00:00",
+  "checked": "2026-11-02T13:36:21+00:00",
   "error": null,
-  "changed_on": "2026-11-01",
-  "new_links": {},
-  "new_on": "2026-10-31"
+  "changed_on": "2026-11-02",
+  "new_links": {
+   "https://wise.jobs/job/people-operations-specialist-in-singapore-jid-4419": "People Operations Specialist",
+   "https://wise.jobs/job/it-sox-advisory-specialist-in-london-jid-4246": "IT SOX Advisory Specialist",
+   "https://wise.jobs/job/senior-product-compliance-manager-apac-wise-platform-in-singapore-jid-4436": "Senior Product Compliance Manager - APAC Wise Platform",
+   "https://wise.jobs/job/customer-support-specialist-in-bangkok-jid-4446": "Customer Support Specialist",
+   "https://wise.jobs/job/issuance-automation-solution-specialist-in-singapore-jid-4444": "Issuance Automation Solution Specialist"
+  },
+  "new_on": "2026-11-02"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "f25b96cd17818ae83834d965213b7cf424076442",
+  "hash": "047301b21c44b53927a8abf1ea00a55fa9495f01",
   "postings": {
+   "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/accounts-payable-officer/": "Accounts Payable Officer",
    "https://optiver.com/join-us/jobs/technology/austin/software-engineer-2/": "Software Engineer",
    "https://optiver.com/join-us/jobs/trading/singapore/trade-supervisor/": "Trade Supervisor",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/chicago/compliance-intern-regulatory-advisory-2027-start/": "Compliance Intern – Regulatory Advisory",
@@ -76,14 +84,13 @@
    "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-bachelor-or-master-summer-2028-shanghai/": "Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai)",
    "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-phd-summer-2028--shanghai/": "Expressions of Interest - Quantitative Research Internship, PhD (Summer 2028 -Shanghai)",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/finance-systems-specialist/": "Finance Systems Specialist",
-   "https://optiver.com/join-us/jobs/risk-finance-and-legal/london/senior-compliance-officer-institutional-sales-and-trading-advisory/": "Senior Compliance Officer – Institutional Sales & Trading Advisory",
-   "https://optiver.com/join-us/jobs/risk-finance-and-legal/amsterdam/financial-controller/": "Financial Controller"
+   "https://optiver.com/join-us/jobs/risk-finance-and-legal/london/senior-compliance-officer-institutional-sales-and-trading-advisory/": "Senior Compliance Officer – Institutional Sales & Trading Advisory"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-01T18:06:48+00:00",
+  "checked": "2026-11-02T13:36:21+00:00",
   "error": null,
-  "changed_on": "2026-10-31",
+  "changed_on": "2026-11-02",
   "new_links": {},
   "new_on": "2026-10-30"
  },
@@ -97,7 +104,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-01T18:06:48+00:00",
+  "checked": "2026-11-02T13:36:21+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -106,7 +113,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "22f8b4dc05fffd8c0de7be33a2dcfbcb0c8199d6",
+  "hash": "23b472164cd1ebbf9b8a8cac70cbc52a57dfe706",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement",
@@ -121,9 +128,9 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-01T18:06:48+00:00",
+  "checked": "2026-11-02T13:36:21+00:00",
   "error": null,
-  "changed_on": "2026-11-01",
+  "changed_on": "2026-11-02",
   "new_links": {},
   "new_on": "2026-10-25"
  }
