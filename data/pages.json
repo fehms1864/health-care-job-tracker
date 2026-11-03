@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "0ff6005bcec77110ede8d03efdb2a4d356f94f89",
+  "hash": "93d6db9dacf8e14ef492fae412acf88188ccc217",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -26,44 +26,44 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-02T21:56:09+00:00",
+  "checked": "2026-11-03T12:51:05+00:00",
   "error": null,
-  "changed_on": "2026-11-02",
+  "changed_on": "2026-11-03",
   "new_links": {},
   "new_on": null
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "dfc1230f8a7897e1a38d020f3efe2b1b8d6a798e",
+  "hash": "0da8aeefb91e58b65c806abf987fec531cd2a9ac",
   "postings": {
-   "https://wise.jobs/job/lead-data-analyst-financial-reporting-in-london-jid-4450": "Lead Data Analyst - Financial Reporting",
-   "https://wise.jobs/job/senior-data-engineer-i-global-kyc-and-onboarding-in-london-jid-4449": "Senior Data Engineer I - Global KYC & Onboarding",
-   "https://wise.jobs/job/staff-researcher-grow-in-london-jid-4448": "Staff Researcher - Grow",
-   "https://wise.jobs/job/head-of-financial-crime-compliance-and-mlro-japan-in-tokyo-jid-2550": "Head of Financial Crime Compliance and MLRO, Japan",
-   "https://wise.jobs/job/backend-engineer-send-core-in-london-jid-3901": "Backend Engineer - Send Core",
-   "https://wise.jobs/job/kyc-operations-associate-analyst-business-in-tallinn-jid-4447": "KYC Operations Associate Analyst - Business",
-   "https://wise.jobs/job/enterprise-pricing-manager-emea-in-london-jid-4312": "Enterprise Pricing Manager (EMEA)",
-   "https://wise.jobs/job/people-operations-specialist-in-singapore-jid-4419": "People Operations Specialist",
-   "https://wise.jobs/job/it-sox-advisory-specialist-in-london-jid-4246": "IT SOX Advisory Specialist",
-   "https://wise.jobs/job/senior-product-compliance-manager-apac-wise-platform-in-singapore-jid-4436": "Senior Product Compliance Manager - APAC Wise Platform",
-   "https://wise.jobs/job/customer-support-specialist-in-bangkok-jid-4446": "Customer Support Specialist",
-   "https://wise.jobs/job/fincrime-investigator-fraud-thai-speaking-in-kuala-lumpur-jid-4445": "FinCrime Investigator - Fraud (Thai Speaking)"
+   "https://wise.jobs/job/engineering-lead-send-for-partners-in-london-jid-4398": "Engineering Lead - Send for Partners",
+   "https://wise.jobs/job/engineering-lead-wise-for-enterprise-in-london-jid-3755": "Engineering Lead - Wise for Enterprise",
+   "https://wise.jobs/job/senior-backend-engineer-in-london-jid-4453": "Senior Backend Engineer",
+   "https://wise.jobs/job/partner-risk-monitoring-specialist-in-singapore-jid-4452": "Partner Risk Monitoring Specialist",
+   "https://wise.jobs/job/senior-software-engineer-i-regional-expansion-mea-in-london-jid-4443": "Senior Software Engineer I- Regional Expansion MEA",
+   "https://wise.jobs/job/legal-counsel-uk-in-london-jid-4451": "Legal Counsel - UK",
+   "https://wise.jobs/job/head-of-finance-europe-in-brussels-jid-4428": "Head of Finance, Europe",
+   "https://wise.jobs/job/senior-engineering-team-lead-analytics-platform-in-london-jid-4409": "Senior Engineering Team Lead - Analytics Platform",
+   "https://wise.jobs/job/senior-engineering-team-lead-generative-ai-platform-in-london-jid-4405": "Senior Engineering Team Lead - Generative AI Platform",
+   "https://wise.jobs/job/senior-legal-counsel-in-london-jid-3451": "Senior Legal Counsel",
+   "https://wise.jobs/job/technical-solutions-and-implementation-lead-third-party-management-and-procurement-in-tallinn-jid-2937": "Technical Solutions and Implementation Lead, Third Party Management & Procurement",
+   "https://wise.jobs/job/fullstack-engineer-treasury-money-movement-in-tallinn-jid-3968": "Fullstack Engineer - Treasury Money Movement"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-02T21:56:09+00:00",
+  "checked": "2026-11-03T12:51:05+00:00",
   "error": null,
-  "changed_on": "2026-11-02",
+  "changed_on": "2026-11-03",
   "new_links": {
-   "https://wise.jobs/job/staff-researcher-grow-in-london-jid-4448": "Staff Researcher - Grow"
+   "https://wise.jobs/job/partner-risk-monitoring-specialist-in-singapore-jid-4452": "Partner Risk Monitoring Specialist"
   },
-  "new_on": "2026-11-02"
+  "new_on": "2026-11-03"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "18fc0da85c289936314fb920686a50acba455e80",
+  "hash": "3f85eb02e4fa1aad31f428b4f40fc2258370caaa",
   "postings": {
    "https://optiver.com/join-us/jobs/technology/austin/supply-chain-specialist/": "Supply Chain Specialist",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/accounts-payable-officer/": "Accounts Payable Officer",
@@ -84,12 +84,10 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-02T21:56:09+00:00",
+  "checked": "2026-11-03T12:51:05+00:00",
   "error": null,
-  "changed_on": "2026-11-02",
-  "new_links": {
-   "https://optiver.com/join-us/jobs/technology/austin/supply-chain-specialist/": "Supply Chain Specialist"
-  },
+  "changed_on": "2026-11-03",
+  "new_links": {},
   "new_on": "2026-11-02"
  },
  "https://careers.shezlong.com/": {
@@ -102,7 +100,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-02T21:56:09+00:00",
+  "checked": "2026-11-03T12:51:05+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -111,7 +109,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "6bdae7c5f97bf8e1ddc9056044e7e61b0d550c5d",
+  "hash": "8780e68aa3a78fe5553e735c7d3a8ad385791b4a",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-business-enablement-strategic-transaction-1100091893/": "Senior Executive Manager - Business Enablement & Strategic Transaction",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
@@ -126,12 +124,10 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-02T21:56:09+00:00",
+  "checked": "2026-11-03T12:51:05+00:00",
   "error": null,
-  "changed_on": "2026-11-02",
-  "new_links": {
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-business-enablement-strategic-transaction-1100091893/": "Senior Executive Manager - Business Enablement & Strategic Transaction"
-  },
+  "changed_on": "2026-11-03",
+  "new_links": {},
   "new_on": "2026-11-02"
  }
 }
