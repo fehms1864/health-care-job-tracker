@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "2ed5ed6204e1e8ba7cc9019c3c9fc516e0fc32cf",
+  "hash": "36fb9248298fdc0912add2f36dc22bc92829a6a6",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-04T13:03:32+00:00",
+  "checked": "2026-11-04T20:02:14+00:00",
   "error": null,
   "changed_on": "2026-11-04",
   "new_links": {},
@@ -35,43 +35,45 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "bf5a50fa06bad19f24c4694d6c3a8849e942b7e7",
+  "hash": "7fac9f4816c7d9f5a18b4fde143d44f000cb6808",
   "postings": {
+   "https://wise.jobs/job/senior-growth-crm-specialist-in-sao-paulo-jid-4321": "Senior Growth CRM Specialist",
+   "https://wise.jobs/job/customer-support-specialist-arabic-in-hyderabad-jid-4406": "Customer Support Specialist - Arabic",
+   "https://wise.jobs/job/paid-search-senior-manager-in-london-jid-4435": "Paid Search Senior Manager",
+   "https://wise.jobs/job/fincrime-operations-team-lead-in-sao-paulo-jid-3422": "FinCrime Operations Team Lead",
+   "https://wise.jobs/job/senior-compliance-specialist-aml-fraud-controls-in-austin-jid-2987": "Senior Compliance Specialist - AML/Fraud Controls",
+   "https://wise.jobs/job/principal-product-manager-graph-risk-intelligence-in-london-jid-4462": "Principal Product Manager - Graph Risk Intelligence",
+   "https://wise.jobs/job/senior-product-compliance-manager-kyc-and-onboarding-in-london-jid-4461": "Senior Product Compliance Manager - KYC & Onboarding",
+   "https://wise.jobs/job/lead-data-analyst-customer-support-in-london-jid-4460": "Lead Data Analyst, Customer Support",
+   "https://wise.jobs/job/kyc-operations-associate-analyst-business-in-tallinn-jid-4447": "KYC Operations Associate Analyst - Business",
+   "https://wise.jobs/job/head-of-business-operations-north-america-wise-platform-in-austin-jid-3592": "Head of Business Operations - North America - Wise Platform",
    "https://wise.jobs/job/senior-legal-counsel-corporate-in-london-jid-3451": "Senior Legal Counsel (Corporate)",
-   "https://wise.jobs/job/senior-software-engineer-rules-platform-in-tallinn-jid-4379": "Senior Software Engineer - Rules Platform",
-   "https://wise.jobs/job/senior-software-engineer-payment-processing-platform-in-tallinn-jid-3003": "Senior Software Engineer - Payment Processing Platform",
-   "https://wise.jobs/job/lead-data-scientist-agentic-ai-aml-in-london-jid-4252": "Lead Data Scientist - Agentic AI / AML",
-   "https://wise.jobs/job/technical-program-manager-in-hyderabad-jid-4230": "Technical Program Manager",
-   "https://wise.jobs/job/compliance-operations-manager-in-hyderabad-jid-2572": "Compliance Operations Manager",
-   "https://wise.jobs/job/api-integration-support-engineer-in-austin-jid-3569": "API Integration Support Engineer",
-   "https://wise.jobs/job/legal-operations-officer-in-sao-paulo-jid-4378": "Legal Operations Officer",
-   "https://wise.jobs/job/senior-legal-counsel-governance-and-company-secretarial-in-brussels-jid-4459": "Senior Legal Counsel, Governance & Company Secretarial",
-   "https://wise.jobs/job/global-payroll-specialist-in-sao-paulo-jid-3839": "Global Payroll Specialist",
-   "https://wise.jobs/job/senior-network-automation-engineer-in-hyderabad-jid-3996": "Senior Network Automation Engineer",
-   "https://wise.jobs/job/group-regulatory-affairs-lead-in-london-jid-4040": "Group Regulatory Affairs Lead"
+   "https://wise.jobs/job/senior-software-engineer-rules-platform-in-tallinn-jid-4379": "Senior Software Engineer - Rules Platform"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-04T13:03:32+00:00",
+  "checked": "2026-11-04T20:02:14+00:00",
   "error": null,
   "changed_on": "2026-11-04",
   "new_links": {
-   "https://wise.jobs/job/technical-program-manager-in-hyderabad-jid-4230": "Technical Program Manager",
-   "https://wise.jobs/job/compliance-operations-manager-in-hyderabad-jid-2572": "Compliance Operations Manager"
+   "https://wise.jobs/job/senior-growth-crm-specialist-in-sao-paulo-jid-4321": "Senior Growth CRM Specialist",
+   "https://wise.jobs/job/customer-support-specialist-arabic-in-hyderabad-jid-4406": "Customer Support Specialist - Arabic",
+   "https://wise.jobs/job/paid-search-senior-manager-in-london-jid-4435": "Paid Search Senior Manager",
+   "https://wise.jobs/job/fincrime-operations-team-lead-in-sao-paulo-jid-3422": "FinCrime Operations Team Lead",
+   "https://wise.jobs/job/principal-product-manager-graph-risk-intelligence-in-london-jid-4462": "Principal Product Manager - Graph Risk Intelligence"
   },
   "new_on": "2026-11-04"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "b64dfe1f6e306c27447f6a16cdb01405c3ce08fe",
+  "hash": "8fa2d19032c3a9f9740d4173e03eda2036219f14",
   "postings": {
    "https://optiver.com/join-us/jobs/trade-operations/amsterdam/otc-product-control-specialist/": "OTC Product Control Specialist",
    "https://optiver.com/join-us/jobs/technology/austin/supply-chain-specialist/": "Supply Chain Specialist",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/accounts-payable-officer/": "Accounts Payable Officer",
    "https://optiver.com/join-us/jobs/technology/austin/software-engineer-2/": "Software Engineer",
    "https://optiver.com/join-us/jobs/trading/singapore/trade-supervisor/": "Trade Supervisor",
-   "https://optiver.com/join-us/jobs/risk-finance-and-legal/chicago/compliance-intern-regulatory-advisory-2027-start/": "Compliance Intern – Regulatory Advisory",
    "https://optiver.com/join-us/jobs/strategy/washington-d.c./government-affairs-strategy-analyst/": "Government Affairs Strategy Analyst",
    "https://optiver.com/join-us/jobs/business-operations/amsterdam/procurement-analyst/": "Procurement Analyst",
    "https://optiver.com/join-us/jobs/human-resources-and-recruiting/sydney/apac-mobility-partner-12-month-contract/": "APAC Mobility Partner (12-month contract)",
@@ -81,11 +83,12 @@
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/amsterdam/financial-systems-specialist-onestream/": "Financial Systems Specialist (OneStream)",
    "https://optiver.com/join-us/jobs/technology/chicago/network-engineer/": "Network Engineer",
    "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-bachelor-or-master-summer-2028-shanghai/": "Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai)",
-   "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-phd-summer-2028--shanghai/": "Expressions of Interest - Quantitative Research Internship, PhD (Summer 2028 -Shanghai)"
+   "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-phd-summer-2028--shanghai/": "Expressions of Interest - Quantitative Research Internship, PhD (Summer 2028 -Shanghai)",
+   "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/finance-systems-specialist/": "Finance Systems Specialist"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-04T13:03:32+00:00",
+  "checked": "2026-11-04T20:02:14+00:00",
   "error": null,
   "changed_on": "2026-11-04",
   "new_links": {
@@ -103,7 +106,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-04T13:03:32+00:00",
+  "checked": "2026-11-04T20:02:14+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -112,7 +115,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "13a1055bf86ccd76ad113477b51de750d2ba6afe",
+  "hash": "9dad5d3edb3b0cb3118acdac2867d50d230366ca",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-brand-management-1100091913/": "Senior Associate - Brand Management",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-business-enablement-strategic-transaction-1100091893/": "Senior Executive Manager - Business Enablement & Strategic Transaction",
@@ -127,7 +130,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-04T13:03:32+00:00",
+  "checked": "2026-11-04T20:02:14+00:00",
   "error": null,
   "changed_on": "2026-11-04",
   "new_links": {
