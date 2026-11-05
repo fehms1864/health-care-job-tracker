@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "36fb9248298fdc0912add2f36dc22bc92829a6a6",
+  "hash": "645f1d62610572929bf08254e174a449a6783d92",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -11,7 +11,7 @@
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Application-Architect-Senior-Manager-AI-and-Cloud-Engineering/25331": "AI Application Architect, Senior Manager, AI and Cloud Engineering",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Engineer-Forensic-and-Financial-Crime-Technology-Advisory-and-Data-Analytics/25246": "AI Engineer, Forensic and Financial Crime Technology Advisory and Data Analytics",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Governance-Lead-Manager-Financial-Services/24374": "AI Governance Lead, Manager, Financial Services",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Analyst-Global-Information-Reporting-Tax/25670": "Analyst, Global Information Reporting, Tax",
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Analyst-Global-Information-Reporting/25670": "Analyst, Global Information Reporting",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Architect-Manager-Senior-Manager-Commerce-Deloitte-Digital/24737": "Architect, Manager - Senior Manager, Commerce - Deloitte Digital",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Architect-Senior-Manager-Insurance-Deloitte-Digital/24385": "Architect, Senior Manager, Insurance, Deloitte Digital",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Nuclear-Advisory-Infrastructure-and-Capital-Programmes-Strategy-Risk-and-Transactions-Advisory/24431": "Assistant Director, Nuclear Advisory, Infrastructure and Capital Programmes: Strategy, Risk and Transactions Advisory",
@@ -26,43 +26,42 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-04T20:02:14+00:00",
+  "checked": "2026-11-05T13:16:42+00:00",
   "error": null,
-  "changed_on": "2026-11-04",
-  "new_links": {},
-  "new_on": null
+  "changed_on": "2026-11-05",
+  "new_links": {
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Analyst-Global-Information-Reporting/25670": "Analyst, Global Information Reporting"
+  },
+  "new_on": "2026-11-05"
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "7fac9f4816c7d9f5a18b4fde143d44f000cb6808",
+  "hash": "ac0745470e7a131c74ed931cc8d0e93b942787f9",
   "postings": {
+   "https://wise.jobs/job/senior-software-engineer-risk-intelligence-platform-in-budapest-jid-4466": "Senior Software Engineer - Risk Intelligence Platform",
+   "https://wise.jobs/job/product-lead-wise-for-banks-in-london-jid-4233": "Product Lead, Wise for Banks",
+   "https://wise.jobs/job/internal-audit-senior-manager-fincrime-in-brussels-jid-3848": "Internal Audit Senior Manager (Fincrime)",
+   "https://wise.jobs/job/fincrime-operations-investigator-fraud-in-budapest-jid-4465": "Fincrime Operations Investigator - Fraud",
+   "https://wise.jobs/job/kyc-operations-senior-analyst-deactivations-in-hyderabad-jid-4464": "KYC Operations Senior Analyst - Deactivations",
+   "https://wise.jobs/job/senior-software-engineer-cloud-platform-in-tallinn-jid-4458": "Senior Software Engineer - Cloud Platform",
+   "https://wise.jobs/job/compliance-operations-lead-in-hyderabad-jid-3863": "Compliance Operations Lead",
+   "https://wise.jobs/job/senior-software-engineer-i-platform-cloud-foundations-in-london-jid-4425": "Senior Software Engineer I - Platform - Cloud Foundations",
+   "https://wise.jobs/job/head-of-business-operations-north-america-wise-platform-in-austin-jid-3592": "Head of Business Operations - North America - Wise Platform",
    "https://wise.jobs/job/senior-growth-crm-specialist-in-sao-paulo-jid-4321": "Senior Growth CRM Specialist",
    "https://wise.jobs/job/customer-support-specialist-arabic-in-hyderabad-jid-4406": "Customer Support Specialist - Arabic",
-   "https://wise.jobs/job/paid-search-senior-manager-in-london-jid-4435": "Paid Search Senior Manager",
-   "https://wise.jobs/job/fincrime-operations-team-lead-in-sao-paulo-jid-3422": "FinCrime Operations Team Lead",
-   "https://wise.jobs/job/senior-compliance-specialist-aml-fraud-controls-in-austin-jid-2987": "Senior Compliance Specialist - AML/Fraud Controls",
-   "https://wise.jobs/job/principal-product-manager-graph-risk-intelligence-in-london-jid-4462": "Principal Product Manager - Graph Risk Intelligence",
-   "https://wise.jobs/job/senior-product-compliance-manager-kyc-and-onboarding-in-london-jid-4461": "Senior Product Compliance Manager - KYC & Onboarding",
-   "https://wise.jobs/job/lead-data-analyst-customer-support-in-london-jid-4460": "Lead Data Analyst, Customer Support",
-   "https://wise.jobs/job/kyc-operations-associate-analyst-business-in-tallinn-jid-4447": "KYC Operations Associate Analyst - Business",
-   "https://wise.jobs/job/head-of-business-operations-north-america-wise-platform-in-austin-jid-3592": "Head of Business Operations - North America - Wise Platform",
-   "https://wise.jobs/job/senior-legal-counsel-corporate-in-london-jid-3451": "Senior Legal Counsel (Corporate)",
-   "https://wise.jobs/job/senior-software-engineer-rules-platform-in-tallinn-jid-4379": "Senior Software Engineer - Rules Platform"
+   "https://wise.jobs/job/paid-search-senior-manager-in-london-jid-4435": "Paid Search Senior Manager"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-04T20:02:14+00:00",
+  "checked": "2026-11-05T13:16:42+00:00",
   "error": null,
-  "changed_on": "2026-11-04",
+  "changed_on": "2026-11-05",
   "new_links": {
-   "https://wise.jobs/job/senior-growth-crm-specialist-in-sao-paulo-jid-4321": "Senior Growth CRM Specialist",
-   "https://wise.jobs/job/customer-support-specialist-arabic-in-hyderabad-jid-4406": "Customer Support Specialist - Arabic",
-   "https://wise.jobs/job/paid-search-senior-manager-in-london-jid-4435": "Paid Search Senior Manager",
-   "https://wise.jobs/job/fincrime-operations-team-lead-in-sao-paulo-jid-3422": "FinCrime Operations Team Lead",
-   "https://wise.jobs/job/principal-product-manager-graph-risk-intelligence-in-london-jid-4462": "Principal Product Manager - Graph Risk Intelligence"
+   "https://wise.jobs/job/product-lead-wise-for-banks-in-london-jid-4233": "Product Lead, Wise for Banks",
+   "https://wise.jobs/job/compliance-operations-lead-in-hyderabad-jid-3863": "Compliance Operations Lead"
   },
-  "new_on": "2026-11-04"
+  "new_on": "2026-11-05"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
@@ -88,12 +87,10 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-04T20:02:14+00:00",
+  "checked": "2026-11-05T13:16:42+00:00",
   "error": null,
   "changed_on": "2026-11-04",
-  "new_links": {
-   "https://optiver.com/join-us/jobs/trade-operations/amsterdam/otc-product-control-specialist/": "OTC Product Control Specialist"
-  },
+  "new_links": {},
   "new_on": "2026-11-04"
  },
  "https://careers.shezlong.com/": {
@@ -106,7 +103,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-04T20:02:14+00:00",
+  "checked": "2026-11-05T13:16:42+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -115,27 +112,28 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "9dad5d3edb3b0cb3118acdac2867d50d230366ca",
+  "hash": "8c51f617c61554ccb15b9736b066326fb605516f",
   "postings": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-applications-support-1100088887/": "Senior Executive Manager - Applications Support",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-brand-management-1100091913/": "Senior Associate - Brand Management",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-business-enablement-strategic-transaction-1100091893/": "Senior Executive Manager - Business Enablement & Strategic Transaction",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-operational-transformation-1100091836/": "Manager - Operational Transformation",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-hematology-part-time-1100089688/": "Consultant – Hematology (Part-Time)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-general-surgery-part-time-1100089686/": "Consultant– General Surgery (Part-Time)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-urology-part-time-1100089683/": "Consultant– Urology (Part-Time)",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-adult-endocrinology-part-time-1100089681/": "Consultant – Adult Endocrinology (Part-Time)",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-orthopaedics-lower-limb-part-time-1100089679/": "Consultant – Orthopaedics, Lower Limb (Part-Time)",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-orthopaedics-upper-limb-part-time-1100089680/": "Consultant – Orthopaedics, Upper Limb (Part-Time)"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-adult-endocrinology-part-time-1100089681/": "Consultant – Adult Endocrinology (Part-Time)"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-04T20:02:14+00:00",
+  "checked": "2026-11-05T13:16:42+00:00",
   "error": null,
-  "changed_on": "2026-11-04",
+  "changed_on": "2026-11-05",
   "new_links": {
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-brand-management-1100091913/": "Senior Associate - Brand Management"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-applications-support-1100088887/": "Senior Executive Manager - Applications Support",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-operational-transformation-1100091836/": "Manager - Operational Transformation"
   },
-  "new_on": "2026-11-04"
+  "new_on": "2026-11-05"
  }
 }
