@@ -26,45 +26,41 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-05T20:16:19+00:00",
+  "checked": "2026-11-06T13:00:22+00:00",
   "error": null,
   "changed_on": "2026-11-05",
-  "new_links": {
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Analyst-Global-Information-Reporting/25670": "Analyst, Global Information Reporting"
-  },
+  "new_links": {},
   "new_on": "2026-11-05"
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "310f1462284491fa1cb8f21e8f0172049a2eedb8",
+  "hash": "f167b2af1b452046a9d28f2d7fbf2b781b53f2a8",
   "postings": {
-   "https://wise.jobs/job/presentation-designer-in-london-jid-4469": "Presentation Designer",
-   "https://wise.jobs/job/senior-product-analyst-grow-scalable-platform-in-london-jid-4468": "Senior Product Analyst - Grow - Scalable Platform",
-   "https://wise.jobs/job/senior-business-development-manager-in-new-york-jid-4256": "Senior Business Development Manager",
-   "https://wise.jobs/job/senior-presales-consultant-in-london-jid-3876": "Senior Presales Consultant",
-   "https://wise.jobs/job/graduate-analyst-in-austin-jid-4438": "Graduate Analyst",
-   "https://wise.jobs/job/high-volume-business-support-specialist-in-sao-paulo-jid-4467": "High Volume Business Support Specialist",
-   "https://wise.jobs/job/regional-crm-manager-in-london-jid-3433": "Regional CRM Manager",
-   "https://wise.jobs/job/senior-crm-manager-advocacy-in-london-jid-4046": "Senior CRM Manager - Advocacy",
-   "https://wise.jobs/job/senior-product-designer-spend-credit-in-london-jid-4054": "Senior Product Designer - Spend - Credit",
-   "https://wise.jobs/job/senior-software-engineer-ii-risk-and-control-governance-in-london-jid-4099": "Senior Software Engineer II - Risk & Control Governance",
-   "https://wise.jobs/job/senior-software-engineer-risk-intelligence-platform-in-budapest-jid-4466": "Senior Software Engineer - Risk Intelligence Platform"
+   "https://wise.jobs/job/fincrime-investigator-aml-investigations-in-hyderabad-jid-2994": "FinCrime Investigator - AML Investigations",
+   "https://wise.jobs/job/senior-product-analyst-wise-platform-send-for-partners-in-london-jid-4472": "Senior Product Analyst - WISE Platform - Send for Partners",
+   "https://wise.jobs/job/senior-data-analyst-growth-in-london-jid-3806": "Senior Data Analyst - Growth",
+   "https://wise.jobs/job/lead-data-analyst-fincrime-operations-in-london-jid-4471": "Lead Data Analyst - FinCrime Operations",
+   "https://wise.jobs/job/senior-backend-engineer-personal-and-business-pricing-in-london-jid-4453": "Senior Backend Engineer - Personal and Business Pricing",
+   "https://wise.jobs/job/fincrime-operations-investigator-fraud-in-budapest-jid-4465": "Fincrime Operations Investigator - Fraud",
+   "https://wise.jobs/job/group-design-lead-spend-in-singapore-jid-2664": "Group Design Lead - Spend",
+   "https://wise.jobs/job/kyc-operations-associate-analyst-specialised-markets-in-hyderabad-jid-4470": "KYC Operations Associate Analyst - Specialised Markets",
+   "https://wise.jobs/job/senior-manager-fincrime-analytics-in-hyderabad-jid-4037": "Senior Manager - Fincrime Analytics",
+   "https://wise.jobs/job/transaction-health-senior-analyst-in-singapore-jid-2733": "Transaction Health Senior Analyst",
+   "https://wise.jobs/job/senior-software-engineer-cards-api-team-in-singapore-jid-3988": "Senior Software Engineer - Cards API team",
+   "https://wise.jobs/job/senior-business-development-manager-workforce-management-in-new-york-jid-4256": "Senior Business Development Manager - Workforce Management"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-05T20:16:19+00:00",
+  "checked": "2026-11-06T13:00:22+00:00",
   "error": null,
-  "changed_on": "2026-11-05",
+  "changed_on": "2026-11-06",
   "new_links": {
-   "https://wise.jobs/job/senior-product-analyst-grow-scalable-platform-in-london-jid-4468": "Senior Product Analyst - Grow - Scalable Platform",
-   "https://wise.jobs/job/senior-presales-consultant-in-london-jid-3876": "Senior Presales Consultant",
-   "https://wise.jobs/job/graduate-analyst-in-austin-jid-4438": "Graduate Analyst",
-   "https://wise.jobs/job/high-volume-business-support-specialist-in-sao-paulo-jid-4467": "High Volume Business Support Specialist",
-   "https://wise.jobs/job/regional-crm-manager-in-london-jid-3433": "Regional CRM Manager",
-   "https://wise.jobs/job/senior-crm-manager-advocacy-in-london-jid-4046": "Senior CRM Manager - Advocacy"
+   "https://wise.jobs/job/senior-product-analyst-wise-platform-send-for-partners-in-london-jid-4472": "Senior Product Analyst - WISE Platform - Send for Partners",
+   "https://wise.jobs/job/group-design-lead-spend-in-singapore-jid-2664": "Group Design Lead - Spend",
+   "https://wise.jobs/job/transaction-health-senior-analyst-in-singapore-jid-2733": "Transaction Health Senior Analyst"
   },
-  "new_on": "2026-11-05"
+  "new_on": "2026-11-06"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
@@ -90,7 +86,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-05T20:16:19+00:00",
+  "checked": "2026-11-06T13:00:22+00:00",
   "error": null,
   "changed_on": "2026-11-04",
   "new_links": {},
@@ -106,7 +102,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-05T20:16:19+00:00",
+  "checked": "2026-11-06T13:00:22+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -115,7 +111,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "560aa1c0e802d9b2cb7c10f22c00f4b16125f50b",
+  "hash": "4c5430ecd04c55d34d7c654913185128823d162f",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-process-improvements-1100091983/": "Coop - Process Improvements",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-innovation-designer-1100091982/": "Coop - Innovation Designer",
@@ -130,13 +126,10 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-05T20:16:19+00:00",
+  "checked": "2026-11-06T13:00:22+00:00",
   "error": null,
-  "changed_on": "2026-11-05",
-  "new_links": {
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-applications-support-1100088887/": "Senior Executive Manager - Applications Support",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-operational-transformation-1100091836/": "Manager - Operational Transformation"
-  },
+  "changed_on": "2026-11-06",
+  "new_links": {},
   "new_on": "2026-11-05"
  }
 }
