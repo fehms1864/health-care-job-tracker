@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T11:46:43+00:00",
+ "generated_at": "2026-11-07T17:52:14+00:00",
  "baseline_date": "2026-09-27",
  "rules_version": 6,
  "sources": {
@@ -1249,13 +1249,13 @@
    "baseline": false
   },
   {
-   "id": "f6889ac8873bb7",
+   "id": "2a29e518e3abed",
    "company": "Databricks",
    "region": "UK",
    "title": "Senior Delivery Partner Manager, Services",
-   "location": "London, United Kingdom London, United Kingdom",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8931716002",
-   "posted": "2026-11-06T10:16:57-05:00",
+   "location": "Paris, France / London, United Kingdom London, United Kingdom",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8933236002",
+   "posted": "2026-11-06T10:18:37-05:00",
    "posted_date": "2026-11-06",
    "posted_approx": false,
    "first_seen": "2026-11-06",
@@ -1272,13 +1272,13 @@
    "baseline": false
   },
   {
-   "id": "2a29e518e3abed",
+   "id": "f6889ac8873bb7",
    "company": "Databricks",
    "region": "UK",
    "title": "Senior Delivery Partner Manager, Services",
-   "location": "Paris, France / London, United Kingdom London, United Kingdom",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8933236002",
-   "posted": "2026-11-06T10:18:37-05:00",
+   "location": "London, United Kingdom London, United Kingdom",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8931716002",
+   "posted": "2026-11-06T10:16:57-05:00",
    "posted_date": "2026-11-06",
    "posted_approx": false,
    "first_seen": "2026-11-06",
@@ -42924,13 +42924,13 @@
    "baseline": false
   },
   {
-   "id": "5c9923fc2a4c97",
+   "id": "94cb7bc472850f",
    "company": "SumUp",
    "region": "UK",
    "title": "Workday Specialist",
    "location": "Barcelona Barcelona, Barcelona, Spain / Berlin Berlin, Germany / London London, England, United Kingdom / Mexico - Remote Mexico City, Mexico City, Mexico / War",
-   "url": "https://sumup.com/careers/positions/8547633002?gh_jid=8547633002",
-   "posted": "2026-05-13T10:38:36-04:00",
+   "url": "https://sumup.com/careers/positions/8547634002?gh_jid=8547634002",
+   "posted": "2026-05-13T10:39:15-04:00",
    "posted_date": "2026-05-13",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -42946,13 +42946,13 @@
    "baseline": false
   },
   {
-   "id": "94cb7bc472850f",
+   "id": "5c9923fc2a4c97",
    "company": "SumUp",
    "region": "UK",
    "title": "Workday Specialist",
    "location": "Barcelona Barcelona, Barcelona, Spain / Berlin Berlin, Germany / London London, England, United Kingdom / Mexico - Remote Mexico City, Mexico City, Mexico / War",
-   "url": "https://sumup.com/careers/positions/8547634002?gh_jid=8547634002",
-   "posted": "2026-05-13T10:39:15-04:00",
+   "url": "https://sumup.com/careers/positions/8547633002?gh_jid=8547633002",
+   "posted": "2026-05-13T10:38:36-04:00",
    "posted_date": "2026-05-13",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -43748,13 +43748,13 @@
    "baseline": false
   },
   {
-   "id": "ceeaa0cf8c6de2",
+   "id": "5436cb72ceda73",
    "company": "Datadog",
    "region": "UK",
    "title": "Senior Partner Manager - Channels (Security)",
-   "location": "Sydney, Australia / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
-   "url": "https://careers.datadoghq.com/detail/8166231/?gh_jid=8166231",
-   "posted": "2026-09-04T06:56:39-04:00",
+   "location": "Singapore, Singapore / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
+   "url": "https://careers.datadoghq.com/detail/8164588/?gh_jid=8164588",
+   "posted": "2026-09-04T06:56:37-04:00",
    "posted_date": "2026-09-04",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -43767,13 +43767,13 @@
    "baseline": false
   },
   {
-   "id": "5436cb72ceda73",
+   "id": "ceeaa0cf8c6de2",
    "company": "Datadog",
    "region": "UK",
    "title": "Senior Partner Manager - Channels (Security)",
-   "location": "Singapore, Singapore / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
-   "url": "https://careers.datadoghq.com/detail/8164588/?gh_jid=8164588",
-   "posted": "2026-09-04T06:56:37-04:00",
+   "location": "Sydney, Australia / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
+   "url": "https://careers.datadoghq.com/detail/8166231/?gh_jid=8166231",
+   "posted": "2026-09-04T06:56:39-04:00",
    "posted_date": "2026-09-04",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -44644,7 +44644,7 @@
    ],
    "source": "eightfold",
    "error": null,
-   "total": 456,
+   "total": 455,
    "in_region": 0,
    "kept": 0
   },
@@ -44879,8 +44879,8 @@
    ],
    "source": "rmk_html",
    "error": null,
-   "total": 1341,
-   "in_region": 1341,
+   "total": 1340,
+   "in_region": 1340,
    "kept": 117
   },
   {
@@ -45296,7 +45296,7 @@
    ],
    "source": "eightfold",
    "error": null,
-   "total": 392,
+   "total": 394,
    "in_region": 3,
    "kept": 1
   },
@@ -45346,7 +45346,7 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 820,
+   "total": 819,
    "in_region": 38,
    "kept": 10
   },
@@ -45470,8 +45470,8 @@
    ],
    "source": "jibe",
    "error": null,
-   "total": 3220,
-   "in_region": 287,
+   "total": 3221,
+   "in_region": 289,
    "kept": 114
   },
   {
@@ -45542,7 +45542,7 @@
    ],
    "source": "smartrecruiters",
    "error": null,
-   "total": 746,
+   "total": 745,
    "in_region": 34,
    "kept": 13
   },
@@ -45625,7 +45625,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 765,
+   "total": 766,
    "in_region": 65,
    "kept": 18
   },
@@ -45635,7 +45635,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 343,
+   "total": 342,
    "in_region": 94,
    "kept": 8
   },
@@ -45855,7 +45855,7 @@
   "companies": 215,
   "feeds": 126,
   "jobs": 1945,
-  "new_today": 16,
+  "new_today": 0,
   "pages": 5
  },
  "coverage": {
