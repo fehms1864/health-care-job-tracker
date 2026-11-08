@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-07T17:52:14+00:00",
+  "checked": "2026-11-08T11:58:47+00:00",
   "error": null,
   "changed_on": "2026-11-06",
   "new_links": {},
@@ -35,7 +35,7 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "c6697a5a21ae7eceba9ce8d278e10d565e58cabd",
+  "hash": "407a69146a6871622d8d6a2cf64b298bbd97a2b7",
   "postings": {
    "https://wise.jobs/job/senior-software-engineer-ii-risk-control-and-governance-in-london-jid-4384": "Senior Software Engineer II - Risk Control & Governance",
    "https://wise.jobs/job/senior-software-engineer-i-kyc-and-onboarding-in-london-jid-4477": "Senior Software Engineer I - KYC & Onboarding",
@@ -50,9 +50,9 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-07T17:52:14+00:00",
+  "checked": "2026-11-08T11:58:47+00:00",
   "error": null,
-  "changed_on": "2026-11-07",
+  "changed_on": "2026-11-08",
   "new_links": {},
   "new_on": "2026-11-06"
  },
@@ -80,7 +80,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-07T17:52:14+00:00",
+  "checked": "2026-11-08T11:58:47+00:00",
   "error": null,
   "changed_on": "2026-11-04",
   "new_links": {},
@@ -96,7 +96,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-07T17:52:14+00:00",
+  "checked": "2026-11-08T11:58:47+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -105,25 +105,27 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "e7e4c04aa4a0a674a876ef9e9b59bc453763c4c9",
+  "hash": "01853e96e05477cf1e31b551968c4c2c46cb03e8",
   "postings": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/endocrinology-consultant-1100045623/": "Endocrinology Consultant",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-design-experience-1100088831/": "Coop - Design Experience",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-design-innovation-1100088833/": "Coop - Design & Innovation",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-growth-marketing-1100091103/": "COOP - Growth Marketing",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-process-improvements-1100091983/": "Coop - Process Improvements",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-innovation-designer-1100091982/": "Coop - Innovation Designer",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-applications-support-1100088887/": "Senior Executive Manager - Applications Support",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-brand-management-1100091913/": "Senior Associate - Brand Management",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-business-enablement-strategic-transaction-1100091893/": "Senior Executive Manager - Business Enablement & Strategic Transaction",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-operational-transformation-1100091836/": "Manager - Operational Transformation",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-call-center-outsource-pipeline-1100087868/": "Senior Associate - Call Center (Outsource) Pipeline",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-hematology-part-time-1100089688/": "Consultant – Hematology (Part-Time)",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-general-surgery-part-time-1100089686/": "Consultant– General Surgery (Part-Time)"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-operational-transformation-1100091836/": "Manager - Operational Transformation"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-07T17:52:14+00:00",
+  "checked": "2026-11-08T11:58:47+00:00",
   "error": null,
-  "changed_on": "2026-11-07",
-  "new_links": {},
-  "new_on": "2026-11-05"
+  "changed_on": "2026-11-08",
+  "new_links": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/endocrinology-consultant-1100045623/": "Endocrinology Consultant"
+  },
+  "new_on": "2026-11-08"
  }
 }

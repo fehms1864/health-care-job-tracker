@@ -1,1 +1,98 @@
-[]
+[
+ {
+  "id": "46ee158ae907ab",
+  "company": "Accenture",
+  "region": "UK",
+  "title": "Agentic Strategy & Advisory Consultant",
+  "location": "",
+  "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Customer-Experience---Service-Transformation-Management-Consultant_R00290297",
+  "posted": "2 Days Ago",
+  "posted_date": "2026-11-06",
+  "posted_approx": false,
+  "first_seen": "2026-11-08",
+  "score": 41,
+  "hits": [
+   "strategy",
+   "operations",
+   "consultant",
+   "consulting"
+  ],
+  "lang": null,
+  "visa": null,
+  "details": true,
+  "lang_checked": true,
+  "baseline": false
+ },
+ {
+  "id": "7529b87e227bdd",
+  "company": "Accenture",
+  "region": "UK",
+  "title": "Lab Transformation Consultant",
+  "location": "",
+  "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Lab-Transformation-Consultant_R00317238",
+  "posted": "2 Days Ago",
+  "posted_date": "2026-11-06",
+  "posted_approx": false,
+  "first_seen": "2026-11-08",
+  "score": 38,
+  "hits": [
+   "strategy",
+   "operations",
+   "consultant",
+   "consulting"
+  ],
+  "lang": null,
+  "visa": null,
+  "details": true,
+  "lang_checked": true,
+  "baseline": false
+ },
+ {
+  "id": "a8b05a77ab073b",
+  "company": "Accenture",
+  "region": "UK",
+  "title": "Management Consultant - Defence",
+  "location": "",
+  "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London-30-Farringdon-Road/Management-Consultant---Defence_R00353987",
+  "posted": "2 Days Ago",
+  "posted_date": "2026-11-06",
+  "posted_approx": false,
+  "first_seen": "2026-11-08",
+  "score": 32,
+  "hits": [
+   "strategy",
+   "operations",
+   "consultant",
+   "consulting"
+  ],
+  "lang": null,
+  "visa": null,
+  "details": true,
+  "lang_checked": true,
+  "baseline": false
+ },
+ {
+  "id": "dfe851a79c736b",
+  "company": "Bupa Arabia",
+  "region": "ME",
+  "title": "Endocrinology Consultant",
+  "location": "",
+  "url": "https://careers.bupa.com.sa/en/saudi-arabia/jobs/endocrinology-consultant-1100045623/",
+  "posted": null,
+  "posted_date": "2026-11-08",
+  "posted_approx": true,
+  "first_seen": "2026-11-08",
+  "score": 32,
+  "hits": [
+   "healthcare",
+   "patient",
+   "hospital",
+   "telemedicine"
+  ],
+  "lang": null,
+  "visa": null,
+  "details": false,
+  "lang_checked": true,
+  "baseline": false
+ }
+]
