@@ -1,83 +1,11 @@
 [
  {
-  "id": "46ee158ae907ab",
-  "company": "Accenture",
-  "region": "UK",
-  "title": "Agentic Strategy & Advisory Consultant",
-  "location": "",
-  "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Customer-Experience---Service-Transformation-Management-Consultant_R00290297",
-  "posted": "2 Days Ago",
-  "posted_date": "2026-11-06",
-  "posted_approx": false,
-  "first_seen": "2026-11-08",
-  "score": 41,
-  "hits": [
-   "strategy",
-   "operations",
-   "consultant",
-   "consulting"
-  ],
-  "lang": null,
-  "visa": null,
-  "details": true,
-  "lang_checked": true,
-  "baseline": false
- },
- {
-  "id": "7529b87e227bdd",
-  "company": "Accenture",
-  "region": "UK",
-  "title": "Lab Transformation Consultant",
-  "location": "",
-  "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Lab-Transformation-Consultant_R00317238",
-  "posted": "2 Days Ago",
-  "posted_date": "2026-11-06",
-  "posted_approx": false,
-  "first_seen": "2026-11-08",
-  "score": 38,
-  "hits": [
-   "strategy",
-   "operations",
-   "consultant",
-   "consulting"
-  ],
-  "lang": null,
-  "visa": null,
-  "details": true,
-  "lang_checked": true,
-  "baseline": false
- },
- {
-  "id": "a8b05a77ab073b",
-  "company": "Accenture",
-  "region": "UK",
-  "title": "Management Consultant - Defence",
-  "location": "",
-  "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London-30-Farringdon-Road/Management-Consultant---Defence_R00353987",
-  "posted": "2 Days Ago",
-  "posted_date": "2026-11-06",
-  "posted_approx": false,
-  "first_seen": "2026-11-08",
-  "score": 32,
-  "hits": [
-   "strategy",
-   "operations",
-   "consultant",
-   "consulting"
-  ],
-  "lang": null,
-  "visa": null,
-  "details": true,
-  "lang_checked": true,
-  "baseline": false
- },
- {
-  "id": "dfe851a79c736b",
+  "id": "898c74f425a124",
   "company": "Bupa Arabia",
   "region": "ME",
-  "title": "Endocrinology Consultant",
+  "title": "Consultant",
   "location": "",
-  "url": "https://careers.bupa.com.sa/en/saudi-arabia/jobs/endocrinology-consultant-1100045623/",
+  "url": "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-internal-medicine-adult-endocrinology-1100089192/",
   "posted": null,
   "posted_date": "2026-11-08",
   "posted_approx": true,
@@ -86,12 +14,33 @@
   "hits": [
    "healthcare",
    "patient",
-   "hospital",
+   "telehealth",
    "telemedicine"
   ],
   "lang": null,
   "visa": null,
   "details": false,
+  "lang_checked": true,
+  "baseline": false
+ },
+ {
+  "id": "c067848992bc6b",
+  "company": "EY-Parthenon Middle East",
+  "region": "ME",
+  "title": "Decision Modeling and Economics - Executive 1 (Government & Public Sector) - EY Parthenon - Cairo 1",
+  "location": "Cairo, Egypt",
+  "url": "https://careers.ey.com/ey/job/Cairo-Decision-Modeling-and-Economics-Executive-1-%28Government-&amp;-Public-Sector%29-EY-Parthenon-Cairo-1/1455409633/",
+  "posted": null,
+  "posted_date": "2026-11-08",
+  "posted_approx": true,
+  "first_seen": "2026-11-08",
+  "score": 10,
+  "hits": [
+   "transformation"
+  ],
+  "lang": null,
+  "visa": null,
+  "details": true,
   "lang_checked": true,
   "baseline": false
  }

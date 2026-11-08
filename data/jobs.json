@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T11:58:47+00:00",
+ "generated_at": "2026-11-08T18:05:27+00:00",
  "baseline_date": "2026-09-27",
  "rules_version": 6,
  "sources": {
@@ -231,6 +231,30 @@
    "baseline": false
   },
   {
+   "id": "898c74f425a124",
+   "company": "Bupa Arabia",
+   "region": "ME",
+   "title": "Consultant",
+   "location": "",
+   "url": "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-internal-medicine-adult-endocrinology-1100089192/",
+   "posted": null,
+   "posted_date": "2026-11-08",
+   "posted_approx": true,
+   "first_seen": "2026-11-08",
+   "score": 32,
+   "hits": [
+    "healthcare",
+    "patient",
+    "telehealth",
+    "telemedicine"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "dfe851a79c736b",
    "company": "Bupa Arabia",
    "region": "ME",
@@ -251,6 +275,27 @@
    "lang": null,
    "visa": null,
    "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "c067848992bc6b",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Decision Modeling and Economics - Executive 1 (Government & Public Sector) - EY Parthenon - Cairo 1",
+   "location": "Cairo, Egypt",
+   "url": "https://careers.ey.com/ey/job/Cairo-Decision-Modeling-and-Economics-Executive-1-%28Government-&amp;-Public-Sector%29-EY-Parthenon-Cairo-1/1455409633/",
+   "posted": null,
+   "posted_date": "2026-11-08",
+   "posted_approx": true,
+   "first_seen": "2026-11-08",
+   "score": 10,
+   "hits": [
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
    "lang_checked": true,
    "baseline": false
   },
@@ -2101,30 +2146,6 @@
    "score": 5,
    "hits": [
     "strategy"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "8ac9a9009524dd",
-   "company": "Bupa Arabia",
-   "region": "ME",
-   "title": "Manager - Operational Transformation",
-   "location": "Riyadh, Riyadh, Saudi Arabia",
-   "url": "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-operational-transformation-1100091836/",
-   "posted": "2026-11-01",
-   "posted_date": "2026-11-01",
-   "posted_approx": false,
-   "first_seen": "2026-11-05",
-   "score": 40,
-   "hits": [
-    "patient",
-    "hospital",
-    "strategy",
-    "operational"
    ],
    "lang": null,
    "visa": null,
@@ -4853,29 +4874,6 @@
    "lang": null,
    "visa": null,
    "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "65458dd8351533",
-   "company": "Bupa Arabia",
-   "region": "ME",
-   "title": "Senior Associate",
-   "location": "",
-   "url": "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-brand-management-1100091913/",
-   "posted": null,
-   "posted_date": "2026-11-04",
-   "posted_approx": true,
-   "first_seen": "2026-11-04",
-   "score": 19,
-   "hits": [
-    "healthcare",
-    "operations",
-    "business operations"
-   ],
-   "lang": "Arabic",
-   "visa": null,
-   "details": false,
    "lang_checked": true,
    "baseline": false
   },
@@ -8617,25 +8615,6 @@
    "baseline": false
   },
   {
-   "id": "7bd7a8be503a8c",
-   "company": "Bupa Arabia",
-   "region": "ME",
-   "title": "Senior Executive Manager",
-   "location": "",
-   "url": "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-business-enablement-strategic-transaction-1100091893/",
-   "posted": null,
-   "posted_date": "2026-11-02",
-   "posted_approx": true,
-   "first_seen": "2026-11-02",
-   "score": 5,
-   "hits": [],
-   "lang": null,
-   "visa": null,
-   "details": false,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "005e39a56fc29d",
    "company": "Microsoft",
    "region": "UK",
@@ -10383,30 +10362,6 @@
    "baseline": false
   },
   {
-   "id": "63487181c2ebac",
-   "company": "Janssen",
-   "region": "UK",
-   "title": "ANZ Product Manager Knee",
-   "location": "4 Locations",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/North-Ryde-New-South-Wales-Australia/ANZ-Product-Manager-Knee_R-093351-1",
-   "posted": "10 Days Ago",
-   "posted_date": "2026-10-29",
-   "posted_approx": false,
-   "first_seen": "2026-10-29",
-   "score": 31,
-   "hits": [
-    "healthcare",
-    "medtech",
-    "strategy",
-    "implementation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "c3549740605095",
    "company": "Multiverse",
    "region": "UK",
@@ -11746,30 +11701,6 @@
     "medtech",
     "strategy",
     "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "e2a98315b9b3f9",
-   "company": "Janssen",
-   "region": "UK",
-   "title": "CQ Professional",
-   "location": "North Ryde, New South Wales, Australia",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/North-Ryde-New-South-Wales-Australia/CQ-Professional_R-088655-1",
-   "posted": "11 Days Ago",
-   "posted_date": "2026-10-28",
-   "posted_approx": false,
-   "first_seen": "2026-10-28",
-   "score": 23,
-   "hits": [
-    "healthcare",
-    "patient",
-    "medtech",
-    "operations"
    ],
    "lang": null,
    "visa": null,
@@ -13556,29 +13487,6 @@
     "patient",
     "hospital",
     "consultant"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "b877396f14ed34",
-   "company": "Janssen",
-   "region": "UK",
-   "title": "Occ Health Coordinator",
-   "location": "North Ryde, New South Wales, Australia",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/North-Ryde-New-South-Wales-Australia/Occ-Health-Coordinator_R-091214-1",
-   "posted": "13 Days Ago",
-   "posted_date": "2026-10-26",
-   "posted_approx": false,
-   "first_seen": "2026-10-26",
-   "score": 30,
-   "hits": [
-    "healthcare",
-    "health",
-    "medtech"
    ],
    "lang": null,
    "visa": null,
@@ -26702,29 +26610,6 @@
    "baseline": true
   },
   {
-   "id": "8c0bff1c9cf910",
-   "company": "Siemens Healthineers",
-   "region": "UK",
-   "title": "Incoming Inspection Supervisor",
-   "location": "Llanberis, Caernarfon, UK / United Kingdom",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100705/Incoming-Inspection-Supervisor",
-   "posted": "2026-10-07T12:42:49.236+0000",
-   "posted_date": "2026-10-07",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 23,
-   "hits": [
-    "healthcare",
-    "patient",
-    "operations"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "87f2cfdcc49736",
    "company": "Siemens Healthineers",
    "region": "UK",
@@ -26741,6 +26626,29 @@
     "strategy",
     "operations",
     "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "8c0bff1c9cf910",
+   "company": "Siemens Healthineers",
+   "region": "UK",
+   "title": "Incoming Inspection Supervisor",
+   "location": "Llanberis, Caernarfon, UK / United Kingdom",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100705/Incoming-Inspection-Supervisor",
+   "posted": "2026-10-07T12:42:49.236+0000",
+   "posted_date": "2026-10-07",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 23,
+   "hits": [
+    "healthcare",
+    "patient",
+    "operations"
    ],
    "lang": null,
    "visa": null,
@@ -27079,12 +26987,12 @@
    "baseline": true
   },
   {
-   "id": "f8e5ca4bd4a67c",
+   "id": "25d5a34980758f",
    "company": "BCG",
    "region": "UK",
-   "title": "BCG X Global PA AI Strategy & Portfolio Senior Manager",
+   "title": "BCG X Global PA AI Strategy & Portfolio Manager",
    "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/59803/BCG-X-Global-PA-AI-Strategy-Portfolio-Senior-Manager",
+   "url": "https://careers.bcg.com/global/en/job/59802/BCG-X-Global-PA-AI-Strategy-Portfolio-Manager",
    "posted": "2026-10-02T00:00:00.000+0000",
    "posted_date": "2026-10-02",
    "posted_approx": false,
@@ -27102,12 +27010,12 @@
    "baseline": true
   },
   {
-   "id": "25d5a34980758f",
+   "id": "f8e5ca4bd4a67c",
    "company": "BCG",
    "region": "UK",
-   "title": "BCG X Global PA AI Strategy & Portfolio Manager",
+   "title": "BCG X Global PA AI Strategy & Portfolio Senior Manager",
    "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/59802/BCG-X-Global-PA-AI-Strategy-Portfolio-Manager",
+   "url": "https://careers.bcg.com/global/en/job/59803/BCG-X-Global-PA-AI-Strategy-Portfolio-Senior-Manager",
    "posted": "2026-10-02T00:00:00.000+0000",
    "posted_date": "2026-10-02",
    "posted_approx": false,
@@ -28931,6 +28839,54 @@
    "baseline": true
   },
   {
+   "id": "db193c86092dfd",
+   "company": "BCG",
+   "region": "UK",
+   "title": "Senior Analyst - BCG Vantage, Technology, Media, and Telecommunications (TMT)",
+   "location": "London, United Kingdom",
+   "url": "https://careers.bcg.com/global/en/job/59278/Senior-Analyst-BCG-Vantage-Technology-Media-and-Telecommunications-TMT",
+   "posted": "2026-08-31T00:00:00.000+0000",
+   "posted_date": "2026-08-31",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 20,
+   "hits": [
+    "healthcare",
+    "strategy",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "675fce8e1bb675",
+   "company": "BCG",
+   "region": "UK",
+   "title": "Global Cybersecurity Senior Manager – Program Management",
+   "location": "London, United Kingdom",
+   "url": "https://careers.bcg.com/global/en/job/59040/Global-Cybersecurity-Senior-Manager-Program-Management",
+   "posted": "2026-08-10T00:00:00.000+0000",
+   "posted_date": "2026-08-10",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 20,
+   "hits": [
+    "strategy",
+    "operations",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "71594d7227ab7c",
    "company": "BCG",
    "region": "UK",
@@ -28971,54 +28927,6 @@
     "consulting",
     "transformation",
     "change management"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "675fce8e1bb675",
-   "company": "BCG",
-   "region": "UK",
-   "title": "Global Cybersecurity Senior Manager – Program Management",
-   "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/59040/Global-Cybersecurity-Senior-Manager-Program-Management",
-   "posted": "2026-08-10T00:00:00.000+0000",
-   "posted_date": "2026-08-10",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 20,
-   "hits": [
-    "strategy",
-    "operations",
-    "consulting",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "db193c86092dfd",
-   "company": "BCG",
-   "region": "UK",
-   "title": "Senior Analyst - BCG Vantage, Technology, Media, and Telecommunications (TMT)",
-   "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/59278/Senior-Analyst-BCG-Vantage-Technology-Media-and-Telecommunications-TMT",
-   "posted": "2026-08-31T00:00:00.000+0000",
-   "posted_date": "2026-08-31",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 20,
-   "hits": [
-    "healthcare",
-    "strategy",
-    "consulting",
-    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -44524,7 +44432,7 @@
    ],
    "source": "atlassian",
    "error": null,
-   "total": 353,
+   "total": 351,
    "in_region": 62,
    "kept": 14
   },
@@ -44627,7 +44535,7 @@
    "error": null,
    "total": 10,
    "in_region": 10,
-   "kept": 5,
+   "kept": 3,
    "method": "structured data on job pages"
   },
   {
@@ -44757,7 +44665,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 199,
+   "total": 200,
    "in_region": 134,
    "kept": 35
   },
@@ -44802,7 +44710,7 @@
    "error": null,
    "total": 1338,
    "in_region": 1338,
-   "kept": 117
+   "kept": 118
   },
   {
    "companies": [
@@ -45015,9 +44923,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 149,
-   "in_region": 149,
-   "kept": 71
+   "total": 146,
+   "in_region": 146,
+   "kept": 68
   },
   {
    "companies": [
@@ -45207,7 +45115,7 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 121,
+   "total": 122,
    "in_region": 39,
    "kept": 15
   },
@@ -45217,7 +45125,7 @@
    ],
    "source": "eightfold",
    "error": null,
-   "total": 389,
+   "total": 394,
    "in_region": 3,
    "kept": 1
   },
@@ -45267,7 +45175,7 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 818,
+   "total": 816,
    "in_region": 38,
    "kept": 10
   },
@@ -45402,8 +45310,8 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 370,
-   "in_region": 370,
+   "total": 372,
+   "in_region": 372,
    "kept": 95
   },
   {
@@ -45775,8 +45683,8 @@
  "counts": {
   "companies": 215,
   "feeds": 126,
-  "jobs": 1941,
-  "new_today": 4,
+  "jobs": 1937,
+  "new_today": 2,
   "pages": 5
  },
  "coverage": {
