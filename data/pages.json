@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "6b896cfc6cf8f6df3ad82e7451ef7f55066e3572",
+  "hash": "0215f0ed3a5bd24e5ce71acb6d65afa232caf84d",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -22,11 +22,11 @@
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-M-A/24358": "Assistant Director, Financial Due Diligence - Financial Services, M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-Manchester/25282": "Assistant Director, Financial Due Diligence, Financial Services, Manchester",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Private-Equity-Consumer/25545": "Assistant Director, Financial Due Diligence, Private Equity, Consumer",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Government-and-Public-Sector-Occupiers-and-Capital-Projects/22155": "Assistant Director, Government and Public Sector Occupiers and Capital Projects"
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Private-Equity-Consumer-London/25721": "Assistant Director, Financial Due Diligence, Private Equity, Consumer, London"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-09T13:58:45+00:00",
+  "checked": "2026-11-09T22:42:42+00:00",
   "error": null,
   "changed_on": "2026-11-09",
   "new_links": {},
@@ -35,24 +35,24 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "be7631e66a30f1873b56ba4037be82acc92f9438",
+  "hash": "1e1e268d3cd85315b353dc4524949bd96dd1b347",
   "postings": {
+   "https://wise.jobs/job/head-of-regional-payment-operations-latam-and-mea-region-in-sao-paulo-jid-4483": "Head of Regional Payment Operations - LATAM & MEA Region",
+   "https://wise.jobs/job/finance-manager-risk-and-controls-in-london-jid-4482": "Finance Manager - Risk and Controls",
+   "https://wise.jobs/job/internal-audit-senior-specialist-fincrime-in-london-jid-4418": "Internal Audit Senior Specialist - (FinCrime)",
+   "https://wise.jobs/job/senior-data-analyst-product-in-sao-paulo-jid-3853": "Senior Data Analyst (Product)",
+   "https://wise.jobs/job/senior-software-engineer-ii-data-onboarding-and-reporting-in-london-jid-3904": "Senior Software Engineer II - Data Onboarding & Reporting",
    "https://wise.jobs/job/senior-product-compliance-manager-wise-platform-latam-in-sao-paulo-jid-4481": "Senior Product Compliance Manager Wise Platform - LATAM",
    "https://wise.jobs/job/business-customer-support-specialist-in-sao-paulo-jid-4395": "Business Customer Support Specialist",
    "https://wise.jobs/job/senior-procurement-manager-professional-services-in-budapest-jid-4048": "Senior Procurement Manager - Professional Services",
    "https://wise.jobs/job/senior-software-engineer-ii-wise-for-enterprise-in-london-jid-4052": "Senior Software Engineer II - Wise for Enterprise",
    "https://wise.jobs/job/engineering-lead-send-for-partners-in-london-jid-4398": "Engineering Lead - Send for Partners",
    "https://wise.jobs/job/engineering-lead-wise-for-enterprise-in-london-jid-3755": "Engineering Lead - Wise for Enterprise",
-   "https://wise.jobs/job/software-engineer-fincrime-reporting-in-tallinn-jid-4480": "Software Engineer - Fincrime Reporting",
-   "https://wise.jobs/job/software-engineer-risk-control-and-governance-in-london-jid-4479": "Software Engineer - Risk Control & Governance",
-   "https://wise.jobs/job/senior-software-engineer-apac-expansion-in-singapore-jid-4478": "Senior Software Engineer - APAC Expansion",
-   "https://wise.jobs/job/senior-software-engineer-ii-risk-control-and-governance-in-london-jid-4384": "Senior Software Engineer II - Risk Control & Governance",
-   "https://wise.jobs/job/senior-software-engineer-i-kyc-and-onboarding-in-london-jid-4477": "Senior Software Engineer I - KYC & Onboarding",
-   "https://wise.jobs/job/senior-data-engineer-i-global-kyc-and-onboarding-in-london-jid-4449": "Senior Data Engineer I - Global KYC & Onboarding"
+   "https://wise.jobs/job/software-engineer-fincrime-reporting-in-tallinn-jid-4480": "Software Engineer - Fincrime Reporting"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-09T13:58:45+00:00",
+  "checked": "2026-11-09T22:42:42+00:00",
   "error": null,
   "changed_on": "2026-11-09",
   "new_links": {
@@ -64,7 +64,7 @@
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "2f818a750bdb3682bd5bbb15b210a453d2d3290e",
+  "hash": "84c13f9c718925cd93f2e376acdd7bcde431455c",
   "postings": {
    "https://optiver.com/join-us/jobs/trade-operations/amsterdam/otc-product-control-specialist/": "OTC Product Control Specialist",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/accounts-payable-officer/": "Accounts Payable Officer",
@@ -85,7 +85,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-09T13:58:45+00:00",
+  "checked": "2026-11-09T22:42:42+00:00",
   "error": null,
   "changed_on": "2026-11-09",
   "new_links": {},
@@ -101,7 +101,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-09T13:58:45+00:00",
+  "checked": "2026-11-09T22:42:42+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -110,8 +110,9 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "5ee42b15b710b08d789cdf3326ced9c8d9f1e088",
+  "hash": "f33da3e1f74fc145f7a015b6322346c1c690415c",
   "postings": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/home-healthcare-nurse-1100046708/": "View Job Details",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-sme-account-management-rm-pipeline-1100092204/": "View Job Details",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-internal-medicine-adult-endocrinology-1100089192/": "Consultant - Internal Medicine & Adult Endocrinology",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-project-management-1100092081/": "Coop - Project Management",
@@ -120,16 +121,15 @@
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-design-experience-1100088831/": "Coop - Design Experience",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-design-innovation-1100088833/": "Coop - Design & Innovation",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-growth-marketing-1100091103/": "COOP - Growth Marketing",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-process-improvements-1100091983/": "Coop - Process Improvements",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-innovation-designer-1100091982/": "Coop - Innovation Designer"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-process-improvements-1100091983/": "Coop - Process Improvements"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-09T13:58:45+00:00",
+  "checked": "2026-11-09T22:42:42+00:00",
   "error": null,
   "changed_on": "2026-11-09",
   "new_links": {
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-sme-account-management-rm-pipeline-1100092204/": "View Job Details"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/home-healthcare-nurse-1100046708/": "View Job Details"
   },
   "new_on": "2026-11-09"
  }
