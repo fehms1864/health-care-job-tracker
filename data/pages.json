@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "2808d678ae6b2659c21a103cebe39abff2f6df7f",
+  "hash": "6b896cfc6cf8f6df3ad82e7451ef7f55066e3572",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -11,58 +11,62 @@
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Application-Architect-Senior-Manager-AI-and-Cloud-Engineering/25331": "AI Application Architect, Senior Manager, AI and Cloud Engineering",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Engineer-Forensic-and-Financial-Crime-Technology-Advisory-and-Data-Analytics/25246": "AI Engineer, Forensic and Financial Crime Technology Advisory and Data Analytics",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Governance-Lead-Manager-Financial-Services/24374": "AI Governance Lead, Manager, Financial Services",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Analyst-Global-Information-Reporting/25670": "Analyst, Global Information Reporting",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Architect-Manager-Senior-Manager-Commerce-Deloitte-Digital/24737": "Architect, Manager - Senior Manager, Commerce - Deloitte Digital",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Architect-Senior-Manager-Insurance-Deloitte-Digital/24385": "Architect, Senior Manager, Insurance, Deloitte Digital",
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Life-Sciences-and-Healthcare-Commercial-Due-Diligence/25704": "Assistant Director Life Sciences and Healthcare, Commercial Due Diligence",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Nuclear-Advisory-Infrastructure-and-Capital-Programmes-Strategy-Risk-and-Transactions-Advisory/24431": "Assistant Director, Nuclear Advisory, Infrastructure and Capital Programmes: Strategy, Risk and Transactions Advisory",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Banking-Strategy-Strategy-Business-Design/24025": "Assistant Director, Banking Strategy, Strategy & Business Design",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Commercial-Financial-Advisory-Infrastructure-and-Capital-Programmes-Strategy-Risk-and-Transactions-Advisory/23181": "Assistant Director, Commercial & Financial Advisory, Infrastructure and Capital Programmes: Strategy, Risk and Transacti",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Deal-Origination-Business-Services-M-A/22033": "Assistant Director, Deal Origination – Business Services, M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Equity-Capital-Markets-Finance-and-Transaction-Management-Office-EFT-M-A/24941": "Assistant Director, Equity Capital Markets, Finance, and Transaction Management Office (EFT), M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Equity-Capital-Markets-Finance-and-Transaction-Management-Office-EFT-M-A/24259": "Assistant Director, Equity Capital Markets, Finance, and Transaction Management Office (EFT), M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-M-A/24358": "Assistant Director, Financial Due Diligence - Financial Services, M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-Manchester/25282": "Assistant Director, Financial Due Diligence, Financial Services, Manchester",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Private-Equity-Consumer/25545": "Assistant Director, Financial Due Diligence, Private Equity, Consumer"
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Private-Equity-Consumer/25545": "Assistant Director, Financial Due Diligence, Private Equity, Consumer",
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Government-and-Public-Sector-Occupiers-and-Capital-Projects/22155": "Assistant Director, Government and Public Sector Occupiers and Capital Projects"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-08T18:05:27+00:00",
+  "checked": "2026-11-09T13:58:45+00:00",
   "error": null,
-  "changed_on": "2026-11-06",
+  "changed_on": "2026-11-09",
   "new_links": {},
   "new_on": "2026-11-05"
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "9a87e6ef6c244621c60343dd169301a3a48ad0d2",
+  "hash": "be7631e66a30f1873b56ba4037be82acc92f9438",
   "postings": {
+   "https://wise.jobs/job/senior-product-compliance-manager-wise-platform-latam-in-sao-paulo-jid-4481": "Senior Product Compliance Manager Wise Platform - LATAM",
+   "https://wise.jobs/job/business-customer-support-specialist-in-sao-paulo-jid-4395": "Business Customer Support Specialist",
+   "https://wise.jobs/job/senior-procurement-manager-professional-services-in-budapest-jid-4048": "Senior Procurement Manager - Professional Services",
+   "https://wise.jobs/job/senior-software-engineer-ii-wise-for-enterprise-in-london-jid-4052": "Senior Software Engineer II - Wise for Enterprise",
+   "https://wise.jobs/job/engineering-lead-send-for-partners-in-london-jid-4398": "Engineering Lead - Send for Partners",
+   "https://wise.jobs/job/engineering-lead-wise-for-enterprise-in-london-jid-3755": "Engineering Lead - Wise for Enterprise",
+   "https://wise.jobs/job/software-engineer-fincrime-reporting-in-tallinn-jid-4480": "Software Engineer - Fincrime Reporting",
+   "https://wise.jobs/job/software-engineer-risk-control-and-governance-in-london-jid-4479": "Software Engineer - Risk Control & Governance",
+   "https://wise.jobs/job/senior-software-engineer-apac-expansion-in-singapore-jid-4478": "Senior Software Engineer - APAC Expansion",
    "https://wise.jobs/job/senior-software-engineer-ii-risk-control-and-governance-in-london-jid-4384": "Senior Software Engineer II - Risk Control & Governance",
    "https://wise.jobs/job/senior-software-engineer-i-kyc-and-onboarding-in-london-jid-4477": "Senior Software Engineer I - KYC & Onboarding",
-   "https://wise.jobs/job/senior-data-engineer-i-global-kyc-and-onboarding-in-london-jid-4449": "Senior Data Engineer I - Global KYC & Onboarding",
-   "https://wise.jobs/job/senior-software-engineer-ii-risk-and-control-governance-in-london-jid-4099": "Senior Software Engineer II - Risk & Control Governance",
-   "https://wise.jobs/job/assets-recovery-paralegal-in-austin-jid-4463": "Assets Recovery Paralegal",
-   "https://wise.jobs/job/senior-implementation-manager-in-austin-jid-4475": "Senior Implementation Manager",
-   "https://wise.jobs/job/payment-operations-global-processing-function-lead-in-sao-paulo-jid-4335": "Payment Operations Global Processing Function Lead",
-   "https://wise.jobs/job/northam-enterprise-and-operational-risk-lead-in-austin-jid-3884": "Northam Enterprise and Operational Risk Lead",
-   "https://wise.jobs/job/high-volume-business-support-specialist-in-sao-paulo-jid-4467": "High Volume Business Support Specialist",
-   "https://wise.jobs/job/senior-product-operations-specialist-investment-products-in-tallinn-jid-4474": "Senior Product Operations Specialist (Investment Products)"
+   "https://wise.jobs/job/senior-data-engineer-i-global-kyc-and-onboarding-in-london-jid-4449": "Senior Data Engineer I - Global KYC & Onboarding"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-08T18:05:27+00:00",
+  "checked": "2026-11-09T13:58:45+00:00",
   "error": null,
-  "changed_on": "2026-11-08",
-  "new_links": {},
-  "new_on": "2026-11-06"
+  "changed_on": "2026-11-09",
+  "new_links": {
+   "https://wise.jobs/job/senior-product-compliance-manager-wise-platform-latam-in-sao-paulo-jid-4481": "Senior Product Compliance Manager Wise Platform - LATAM",
+   "https://wise.jobs/job/business-customer-support-specialist-in-sao-paulo-jid-4395": "Business Customer Support Specialist"
+  },
+  "new_on": "2026-11-09"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "8fa2d19032c3a9f9740d4173e03eda2036219f14",
+  "hash": "2f818a750bdb3682bd5bbb15b210a453d2d3290e",
   "postings": {
    "https://optiver.com/join-us/jobs/trade-operations/amsterdam/otc-product-control-specialist/": "OTC Product Control Specialist",
-   "https://optiver.com/join-us/jobs/technology/austin/supply-chain-specialist/": "Supply Chain Specialist",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/accounts-payable-officer/": "Accounts Payable Officer",
    "https://optiver.com/join-us/jobs/technology/austin/software-engineer-2/": "Software Engineer",
    "https://optiver.com/join-us/jobs/trading/singapore/trade-supervisor/": "Trade Supervisor",
@@ -76,13 +80,14 @@
    "https://optiver.com/join-us/jobs/technology/chicago/network-engineer/": "Network Engineer",
    "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-bachelor-or-master-summer-2028-shanghai/": "Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai)",
    "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-phd-summer-2028--shanghai/": "Expressions of Interest - Quantitative Research Internship, PhD (Summer 2028 -Shanghai)",
-   "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/finance-systems-specialist/": "Finance Systems Specialist"
+   "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/finance-systems-specialist/": "Finance Systems Specialist",
+   "https://optiver.com/join-us/jobs/risk-finance-and-legal/london/senior-compliance-officer-institutional-sales-and-trading-advisory/": "Senior Compliance Officer – Institutional Sales & Trading Advisory"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-08T18:05:27+00:00",
+  "checked": "2026-11-09T13:58:45+00:00",
   "error": null,
-  "changed_on": "2026-11-04",
+  "changed_on": "2026-11-09",
   "new_links": {},
   "new_on": "2026-11-04"
  },
@@ -96,7 +101,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-08T18:05:27+00:00",
+  "checked": "2026-11-09T13:58:45+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -105,8 +110,9 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "f6fa09a7a96cd5f25312e7d3af02f20cad8533aa",
+  "hash": "5ee42b15b710b08d789cdf3326ced9c8d9f1e088",
   "postings": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-sme-account-management-rm-pipeline-1100092204/": "View Job Details",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-internal-medicine-adult-endocrinology-1100089192/": "Consultant - Internal Medicine & Adult Endocrinology",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-project-management-1100092081/": "Coop - Project Management",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/tamheer-talent-acquisition-1100092064/": "Tamheer - Talent Acquisition",
@@ -115,17 +121,16 @@
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-design-innovation-1100088833/": "Coop - Design & Innovation",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-growth-marketing-1100091103/": "COOP - Growth Marketing",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-process-improvements-1100091983/": "Coop - Process Improvements",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-innovation-designer-1100091982/": "Coop - Innovation Designer",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-applications-support-1100088887/": "Senior Executive Manager - Applications Support"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-innovation-designer-1100091982/": "Coop - Innovation Designer"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-08T18:05:27+00:00",
+  "checked": "2026-11-09T13:58:45+00:00",
   "error": null,
-  "changed_on": "2026-11-08",
+  "changed_on": "2026-11-09",
   "new_links": {
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/endocrinology-consultant-1100045623/": "Endocrinology Consultant"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-sme-account-management-rm-pipeline-1100092204/": "View Job Details"
   },
-  "new_on": "2026-11-08"
+  "new_on": "2026-11-09"
  }
 }
