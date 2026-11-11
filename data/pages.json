@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "be12f93d2c87e1f64f5b70f304423939f6b52c73",
+  "hash": "e963e0567dc4101028d3982a1ee045487fb1067d",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -26,45 +26,49 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-11T12:46:47+00:00",
+  "checked": "2026-11-11T19:51:59+00:00",
   "error": null,
-  "changed_on": "2026-11-10",
+  "changed_on": "2026-11-11",
   "new_links": {},
   "new_on": "2026-11-05"
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "a752b6da66d55487290fb481cb2c1bc61c0ff7f8",
+  "hash": "ace8d1b85f92bcb5421e8f0983119f68e6b5b079",
   "postings": {
-   "https://wise.jobs/job/fincrime-quality-specialist-in-hyderabad-jid-4493": "Fincrime Quality Specialist",
-   "https://wise.jobs/job/fincrime-investigator-fraud-in-tallinn-jid-4456": "FinCrime Investigator - Fraud",
-   "https://wise.jobs/job/senior-product-analyst-aup-fraud-squad-in-tallinn-jid-4393": "Senior Product Analyst - AUP (Fraud Squad)",
-   "https://wise.jobs/job/senior-data-engineer-ii-real-time-data-engineering-java-in-london-jid-2244": "Senior Data Engineer II - Real Time Data Engineering- Java",
-   "https://wise.jobs/job/api-integration-support-engineer-in-austin-jid-3569": "API Integration Support Engineer",
-   "https://wise.jobs/job/staff-content-designer-send-in-london-jid-4492": "Staff Content Designer - Send",
-   "https://wise.jobs/job/regulatory-product-compliance-manager-in-austin-jid-4322": "Regulatory Product Compliance Manager",
-   "https://wise.jobs/job/senior-engineering-lead-generative-ai-platform-in-hyderabad-jid-4491": "Senior Engineering Lead - Generative AI Platform",
-   "https://wise.jobs/job/graduate-data-scientist-in-austin-jid-4490": "Graduate Data Scientist",
-   "https://wise.jobs/job/senior-implementation-manager-treasury-in-london-jid-4317": "Senior Implementation Manager - Treasury",
-   "https://wise.jobs/job/head-of-sox-strategic-projects-and-growth-in-london-jid-4489": "Head of SOX - Strategic Projects and Growth",
-   "https://wise.jobs/job/executive-assistant-in-london-jid-4488": "Executive Assistant"
+   "https://wise.jobs/job/staff-content-designer-grow-squad-12m-ftc-in-london-jid-4129": "Staff Content Designer — Grow Squad (12m FTC)",
+   "https://wise.jobs/job/lead-analyst-apac-aml-risk-in-hyderabad-jid-4502": "Lead Analyst - APAC AML Risk",
+   "https://wise.jobs/job/senior-product-operations-specialist-investment-products-in-tallinn-jid-4474": "Senior Product Operations Specialist (Investment Products)",
+   "https://wise.jobs/job/senior-product-manager-api-experience-and-security-wise-platform-in-london-jid-4501": "Senior Product Manager - API Experience & Security - WISE Platform",
+   "https://wise.jobs/job/senior-technical-product-manager-api-experience-and-security-in-london-jid-3969": "Senior Technical Product Manager - API Experience & Security",
+   "https://wise.jobs/job/staff-data-analyst-in-london-jid-4500": "Staff Data Analyst",
+   "https://wise.jobs/job/staff-analyst-servicing-in-london-jid-4499": "Staff Analyst - Servicing",
+   "https://wise.jobs/job/wisewomencode-budapest-in-budapest-jid-4498": "WiseWomenCode - Budapest",
+   "https://wise.jobs/job/staff-product-analyst-product-growth-in-london-jid-4496": "Staff Product Analyst – Product Growth",
+   "https://wise.jobs/job/staff-analyst-operations-in-london-jid-4497": "Staff Analyst - Operations",
+   "https://wise.jobs/job/staff-analyst-sustainability-and-pricing-in-london-jid-3478": "Staff Analyst – Sustainability & Pricing",
+   "https://wise.jobs/job/engineering-lead-business-expense-management-in-london-jid-2078": "Engineering Lead - Business Expense Management"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-11T12:46:47+00:00",
+  "checked": "2026-11-11T19:51:59+00:00",
   "error": null,
   "changed_on": "2026-11-11",
   "new_links": {
-   "https://wise.jobs/job/fincrime-quality-specialist-in-hyderabad-jid-4493": "Fincrime Quality Specialist"
+   "https://wise.jobs/job/staff-analyst-servicing-in-london-jid-4499": "Staff Analyst - Servicing",
+   "https://wise.jobs/job/wisewomencode-budapest-in-budapest-jid-4498": "WiseWomenCode - Budapest",
+   "https://wise.jobs/job/staff-product-analyst-product-growth-in-london-jid-4496": "Staff Product Analyst – Product Growth",
+   "https://wise.jobs/job/staff-analyst-operations-in-london-jid-4497": "Staff Analyst - Operations"
   },
   "new_on": "2026-11-11"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "d3e5c6b900dfd2eecaf2e67b9ff6769644be3fad",
+  "hash": "f60ac807c709e6c20243af73b49c79b8e3179b62",
   "postings": {
+   "https://optiver.com/join-us/jobs/technology/london/software-engineer-digital-assets-2/": "Software Engineer - Digital Assets",
    "https://optiver.com/join-us/jobs/trade-operations/amsterdam/otc-product-control-specialist/": "OTC Product Control Specialist",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/accounts-payable-officer/": "Accounts Payable Officer",
    "https://optiver.com/join-us/jobs/technology/austin/software-engineer-2/": "Software Engineer",
@@ -79,12 +83,11 @@
    "https://optiver.com/join-us/jobs/technology/chicago/network-engineer/": "Network Engineer",
    "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-bachelor-or-master-summer-2028-shanghai/": "Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai)",
    "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-phd-summer-2028--shanghai/": "Expressions of Interest - Quantitative Research Internship, PhD (Summer 2028 -Shanghai)",
-   "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/finance-systems-specialist/": "Finance Systems Specialist",
-   "https://optiver.com/join-us/jobs/risk-finance-and-legal/london/senior-compliance-officer-institutional-sales-and-trading-advisory/": "Senior Compliance Officer – Institutional Sales & Trading Advisory"
+   "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/finance-systems-specialist/": "Finance Systems Specialist"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-11T12:46:47+00:00",
+  "checked": "2026-11-11T19:51:59+00:00",
   "error": null,
   "changed_on": "2026-11-11",
   "new_links": {},
@@ -100,7 +103,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-11T12:46:47+00:00",
+  "checked": "2026-11-11T19:51:59+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -109,7 +112,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "fb13bd6ea76e28299e4987e0edca0a5f35e17e13",
+  "hash": "e7b91adbde7c4893beceb80dda6c52ec5ddab7b5",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-cyber-security-strategy-architecture-1100092368/": "Senior Executive Manager - Cyber Security Strategy & Architecture",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/home-healthcare-nurse-1100046708/": "View Job Details",
@@ -124,7 +127,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-11T12:46:47+00:00",
+  "checked": "2026-11-11T19:51:59+00:00",
   "error": null,
   "changed_on": "2026-11-11",
   "new_links": {},
