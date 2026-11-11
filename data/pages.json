@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-10T20:00:37+00:00",
+  "checked": "2026-11-11T12:46:47+00:00",
   "error": null,
   "changed_on": "2026-11-10",
   "new_links": {},
@@ -35,39 +35,35 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "d7c8f6c7794d3c177aee71cb23252886e10c4d81",
+  "hash": "a752b6da66d55487290fb481cb2c1bc61c0ff7f8",
   "postings": {
+   "https://wise.jobs/job/fincrime-quality-specialist-in-hyderabad-jid-4493": "Fincrime Quality Specialist",
+   "https://wise.jobs/job/fincrime-investigator-fraud-in-tallinn-jid-4456": "FinCrime Investigator - Fraud",
+   "https://wise.jobs/job/senior-product-analyst-aup-fraud-squad-in-tallinn-jid-4393": "Senior Product Analyst - AUP (Fraud Squad)",
+   "https://wise.jobs/job/senior-data-engineer-ii-real-time-data-engineering-java-in-london-jid-2244": "Senior Data Engineer II - Real Time Data Engineering- Java",
    "https://wise.jobs/job/api-integration-support-engineer-in-austin-jid-3569": "API Integration Support Engineer",
    "https://wise.jobs/job/staff-content-designer-send-in-london-jid-4492": "Staff Content Designer - Send",
    "https://wise.jobs/job/regulatory-product-compliance-manager-in-austin-jid-4322": "Regulatory Product Compliance Manager",
-   "https://wise.jobs/job/business-customer-support-specialist-in-sao-paulo-jid-4395": "Business Customer Support Specialist",
    "https://wise.jobs/job/senior-engineering-lead-generative-ai-platform-in-hyderabad-jid-4491": "Senior Engineering Lead - Generative AI Platform",
    "https://wise.jobs/job/graduate-data-scientist-in-austin-jid-4490": "Graduate Data Scientist",
    "https://wise.jobs/job/senior-implementation-manager-treasury-in-london-jid-4317": "Senior Implementation Manager - Treasury",
    "https://wise.jobs/job/head-of-sox-strategic-projects-and-growth-in-london-jid-4489": "Head of SOX - Strategic Projects and Growth",
-   "https://wise.jobs/job/executive-assistant-in-london-jid-4488": "Executive Assistant",
-   "https://wise.jobs/job/paid-search-manager-b2b-in-london-jid-4282": "Paid Search Manager (B2B)",
-   "https://wise.jobs/job/engineering-lead-send-experience-in-tallinn-jid-4487": "Engineering Lead - Send Experience",
-   "https://wise.jobs/job/group-regulatory-compliance-manager-anti-bribery-and-corruption-conflict-of-interest-gifts-hospitali-in-london-jid-3928": "Group Regulatory Compliance Manager - Anti-Bribery & Corruption, Conflict of Interest, Gifts Hospitality & Entertainment"
+   "https://wise.jobs/job/executive-assistant-in-london-jid-4488": "Executive Assistant"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-10T20:00:37+00:00",
+  "checked": "2026-11-11T12:46:47+00:00",
   "error": null,
-  "changed_on": "2026-11-10",
+  "changed_on": "2026-11-11",
   "new_links": {
-   "https://wise.jobs/job/regulatory-product-compliance-manager-in-austin-jid-4322": "Regulatory Product Compliance Manager",
-   "https://wise.jobs/job/business-customer-support-specialist-in-sao-paulo-jid-4395": "Business Customer Support Specialist",
-   "https://wise.jobs/job/executive-assistant-in-london-jid-4488": "Executive Assistant",
-   "https://wise.jobs/job/paid-search-manager-b2b-in-london-jid-4282": "Paid Search Manager (B2B)",
-   "https://wise.jobs/job/group-regulatory-compliance-manager-anti-bribery-and-corruption-conflict-of-interest-gifts-hospitali-in-london-jid-3928": "Group Regulatory Compliance Manager - Anti-Bribery & Corruption, Conflict of Interest, Gifts Hospitality & Entertainment"
+   "https://wise.jobs/job/fincrime-quality-specialist-in-hyderabad-jid-4493": "Fincrime Quality Specialist"
   },
-  "new_on": "2026-11-10"
+  "new_on": "2026-11-11"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "7f2c0e390a1208a409d7550584ef64d586336779",
+  "hash": "d3e5c6b900dfd2eecaf2e67b9ff6769644be3fad",
   "postings": {
    "https://optiver.com/join-us/jobs/trade-operations/amsterdam/otc-product-control-specialist/": "OTC Product Control Specialist",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/accounts-payable-officer/": "Accounts Payable Officer",
@@ -88,9 +84,9 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-10T20:00:37+00:00",
+  "checked": "2026-11-11T12:46:47+00:00",
   "error": null,
-  "changed_on": "2026-11-10",
+  "changed_on": "2026-11-11",
   "new_links": {},
   "new_on": "2026-11-04"
  },
@@ -104,7 +100,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-10T20:00:37+00:00",
+  "checked": "2026-11-11T12:46:47+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -113,7 +109,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "ee574a93d2e2e51000a482af18c59418a4d7bbb6",
+  "hash": "fb13bd6ea76e28299e4987e0edca0a5f35e17e13",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-cyber-security-strategy-architecture-1100092368/": "Senior Executive Manager - Cyber Security Strategy & Architecture",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/home-healthcare-nurse-1100046708/": "View Job Details",
@@ -128,9 +124,9 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-10T20:00:37+00:00",
+  "checked": "2026-11-11T12:46:47+00:00",
   "error": null,
-  "changed_on": "2026-11-10",
+  "changed_on": "2026-11-11",
   "new_links": {},
   "new_on": "2026-11-09"
  }
