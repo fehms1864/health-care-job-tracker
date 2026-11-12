@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "e963e0567dc4101028d3982a1ee045487fb1067d",
+  "hash": "d1ab99ee7a4c3c77ebdd0894bc4b1a2b8f933847",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -26,42 +26,42 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-11T19:51:59+00:00",
+  "checked": "2026-11-12T13:50:14+00:00",
   "error": null,
-  "changed_on": "2026-11-11",
+  "changed_on": "2026-11-12",
   "new_links": {},
   "new_on": "2026-11-05"
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "ace8d1b85f92bcb5421e8f0983119f68e6b5b079",
+  "hash": "9ca8da7ba36b3507233ad82585f4bbaf8e19e393",
   "postings": {
-   "https://wise.jobs/job/staff-content-designer-grow-squad-12m-ftc-in-london-jid-4129": "Staff Content Designer — Grow Squad (12m FTC)",
-   "https://wise.jobs/job/lead-analyst-apac-aml-risk-in-hyderabad-jid-4502": "Lead Analyst - APAC AML Risk",
-   "https://wise.jobs/job/senior-product-operations-specialist-investment-products-in-tallinn-jid-4474": "Senior Product Operations Specialist (Investment Products)",
-   "https://wise.jobs/job/senior-product-manager-api-experience-and-security-wise-platform-in-london-jid-4501": "Senior Product Manager - API Experience & Security - WISE Platform",
-   "https://wise.jobs/job/senior-technical-product-manager-api-experience-and-security-in-london-jid-3969": "Senior Technical Product Manager - API Experience & Security",
-   "https://wise.jobs/job/staff-data-analyst-in-london-jid-4500": "Staff Data Analyst",
-   "https://wise.jobs/job/staff-analyst-servicing-in-london-jid-4499": "Staff Analyst - Servicing",
+   "https://wise.jobs/job/senior-software-engineer-ii-cash-management-in-london-jid-4392": "Senior Software Engineer II - Cash Management",
+   "https://wise.jobs/job/senior-finance-manager-risk-and-controls-contract-14-month-maternity-cover-in-london-jid-4504": "Senior Finance Manager (Risk & Controls) CONTRACT (14 month Maternity Cover)",
+   "https://wise.jobs/job/engineering-lead-send-for-partners-in-london-jid-4398": "Engineering Lead - Send for Partners",
+   "https://wise.jobs/job/engineering-lead-wise-for-enterprise-in-london-jid-3755": "Engineering Lead - Wise for Enterprise",
+   "https://wise.jobs/job/fincrime-quality-specialist-in-hyderabad-jid-4493": "FinCrime Quality Specialist",
+   "https://wise.jobs/job/kyc-operations-team-lead-deactivations-in-hyderabad-jid-3043": "KYC Operations Team Lead - Deactivations",
    "https://wise.jobs/job/wisewomencode-budapest-in-budapest-jid-4498": "WiseWomenCode - Budapest",
-   "https://wise.jobs/job/staff-product-analyst-product-growth-in-london-jid-4496": "Staff Product Analyst – Product Growth",
-   "https://wise.jobs/job/staff-analyst-operations-in-london-jid-4497": "Staff Analyst - Operations",
-   "https://wise.jobs/job/staff-analyst-sustainability-and-pricing-in-london-jid-3478": "Staff Analyst – Sustainability & Pricing",
-   "https://wise.jobs/job/engineering-lead-business-expense-management-in-london-jid-2078": "Engineering Lead - Business Expense Management"
+   "https://wise.jobs/job/senior-technical-product-manager-api-experience-and-security-in-london-jid-3969": "Senior Technical Product Manager - API Experience & Security",
+   "https://wise.jobs/job/senior-product-manager-wise-platform-fincrime-in-london-jid-4414": "Senior Product Manager, Wise Platform Fincrime",
+   "https://wise.jobs/job/senior-product-analyst-wise-platform-send-for-partners-in-london-jid-4472": "Senior Product Analyst - WISE Platform - Send for Partners",
+   "https://wise.jobs/job/product-lead-wise-for-banks-in-london-jid-4233": "Product Lead, Wise for Banks",
+   "https://wise.jobs/job/senior-analytics-manager-wise-platform-in-london-jid-4503": "Senior Analytics Manager - WISE Platform"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-11T19:51:59+00:00",
+  "checked": "2026-11-12T13:50:14+00:00",
   "error": null,
-  "changed_on": "2026-11-11",
+  "changed_on": "2026-11-12",
   "new_links": {
-   "https://wise.jobs/job/staff-analyst-servicing-in-london-jid-4499": "Staff Analyst - Servicing",
-   "https://wise.jobs/job/wisewomencode-budapest-in-budapest-jid-4498": "WiseWomenCode - Budapest",
-   "https://wise.jobs/job/staff-product-analyst-product-growth-in-london-jid-4496": "Staff Product Analyst – Product Growth",
-   "https://wise.jobs/job/staff-analyst-operations-in-london-jid-4497": "Staff Analyst - Operations"
+   "https://wise.jobs/job/fincrime-quality-specialist-in-hyderabad-jid-4493": "FinCrime Quality Specialist",
+   "https://wise.jobs/job/senior-product-manager-wise-platform-fincrime-in-london-jid-4414": "Senior Product Manager, Wise Platform Fincrime",
+   "https://wise.jobs/job/senior-product-analyst-wise-platform-send-for-partners-in-london-jid-4472": "Senior Product Analyst - WISE Platform - Send for Partners",
+   "https://wise.jobs/job/product-lead-wise-for-banks-in-london-jid-4233": "Product Lead, Wise for Banks"
   },
-  "new_on": "2026-11-11"
+  "new_on": "2026-11-12"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
@@ -87,7 +87,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-11T19:51:59+00:00",
+  "checked": "2026-11-12T13:50:14+00:00",
   "error": null,
   "changed_on": "2026-11-11",
   "new_links": {},
@@ -103,7 +103,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-11T19:51:59+00:00",
+  "checked": "2026-11-12T13:50:14+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -112,7 +112,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "e7b91adbde7c4893beceb80dda6c52ec5ddab7b5",
+  "hash": "ecba3827a0e4cb9dff3dbd32f4832e9b7449ad6a",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-cyber-security-strategy-architecture-1100092368/": "Senior Executive Manager - Cyber Security Strategy & Architecture",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/home-healthcare-nurse-1100046708/": "View Job Details",
@@ -127,9 +127,9 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-11T19:51:59+00:00",
+  "checked": "2026-11-12T13:50:14+00:00",
   "error": null,
-  "changed_on": "2026-11-11",
+  "changed_on": "2026-11-12",
   "new_links": {},
   "new_on": "2026-11-09"
  }
