@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "d1ab99ee7a4c3c77ebdd0894bc4b1a2b8f933847",
+  "hash": "e963e0567dc4101028d3982a1ee045487fb1067d",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-12T13:50:14+00:00",
+  "checked": "2026-11-12T20:27:38+00:00",
   "error": null,
   "changed_on": "2026-11-12",
   "new_links": {},
@@ -35,39 +35,37 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "9ca8da7ba36b3507233ad82585f4bbaf8e19e393",
+  "hash": "f075e023df0b837ec3d40094fa4f735abc2cc553",
   "postings": {
+   "https://wise.jobs/job/engineering-lead-api-experience-in-london-jid-4506": "Engineering Lead - API Experience",
+   "https://wise.jobs/job/engineering-manager-in-london-jid-4324": "Engineering Manager",
+   "https://wise.jobs/job/engineering-lead-send-for-partners-in-london-jid-3751": "Engineering Lead - Send for Partners",
+   "https://wise.jobs/job/senior-business-development-manager-travel-in-austin-jid-4505": "Senior Business Development Manager - Travel",
+   "https://wise.jobs/job/sales-team-manager-wise-business-in-sao-paulo-jid-4249": "Sales Team Manager - Wise Business",
+   "https://wise.jobs/job/lead-commercial-analyst-in-austin-jid-3980": "Lead Commercial Analyst",
    "https://wise.jobs/job/senior-software-engineer-ii-cash-management-in-london-jid-4392": "Senior Software Engineer II - Cash Management",
    "https://wise.jobs/job/senior-finance-manager-risk-and-controls-contract-14-month-maternity-cover-in-london-jid-4504": "Senior Finance Manager (Risk & Controls) CONTRACT (14 month Maternity Cover)",
    "https://wise.jobs/job/engineering-lead-send-for-partners-in-london-jid-4398": "Engineering Lead - Send for Partners",
    "https://wise.jobs/job/engineering-lead-wise-for-enterprise-in-london-jid-3755": "Engineering Lead - Wise for Enterprise",
    "https://wise.jobs/job/fincrime-quality-specialist-in-hyderabad-jid-4493": "FinCrime Quality Specialist",
-   "https://wise.jobs/job/kyc-operations-team-lead-deactivations-in-hyderabad-jid-3043": "KYC Operations Team Lead - Deactivations",
-   "https://wise.jobs/job/wisewomencode-budapest-in-budapest-jid-4498": "WiseWomenCode - Budapest",
-   "https://wise.jobs/job/senior-technical-product-manager-api-experience-and-security-in-london-jid-3969": "Senior Technical Product Manager - API Experience & Security",
-   "https://wise.jobs/job/senior-product-manager-wise-platform-fincrime-in-london-jid-4414": "Senior Product Manager, Wise Platform Fincrime",
-   "https://wise.jobs/job/senior-product-analyst-wise-platform-send-for-partners-in-london-jid-4472": "Senior Product Analyst - WISE Platform - Send for Partners",
-   "https://wise.jobs/job/product-lead-wise-for-banks-in-london-jid-4233": "Product Lead, Wise for Banks",
-   "https://wise.jobs/job/senior-analytics-manager-wise-platform-in-london-jid-4503": "Senior Analytics Manager - WISE Platform"
+   "https://wise.jobs/job/kyc-operations-team-lead-deactivations-in-hyderabad-jid-3043": "KYC Operations Team Lead - Deactivations"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-12T13:50:14+00:00",
+  "checked": "2026-11-12T20:27:38+00:00",
   "error": null,
   "changed_on": "2026-11-12",
   "new_links": {
-   "https://wise.jobs/job/fincrime-quality-specialist-in-hyderabad-jid-4493": "FinCrime Quality Specialist",
-   "https://wise.jobs/job/senior-product-manager-wise-platform-fincrime-in-london-jid-4414": "Senior Product Manager, Wise Platform Fincrime",
-   "https://wise.jobs/job/senior-product-analyst-wise-platform-send-for-partners-in-london-jid-4472": "Senior Product Analyst - WISE Platform - Send for Partners",
-   "https://wise.jobs/job/product-lead-wise-for-banks-in-london-jid-4233": "Product Lead, Wise for Banks"
+   "https://wise.jobs/job/lead-commercial-analyst-in-austin-jid-3980": "Lead Commercial Analyst"
   },
   "new_on": "2026-11-12"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "f60ac807c709e6c20243af73b49c79b8e3179b62",
+  "hash": "d1bbf0e36a103352d4b0f6e75ac6a43bf6285401",
   "postings": {
+   "https://optiver.com/join-us/jobs/technology/new-york/software-engineer-ai-lab/": "Software Engineer - AI Lab",
    "https://optiver.com/join-us/jobs/technology/london/software-engineer-digital-assets-2/": "Software Engineer - Digital Assets",
    "https://optiver.com/join-us/jobs/trade-operations/amsterdam/otc-product-control-specialist/": "OTC Product Control Specialist",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/accounts-payable-officer/": "Accounts Payable Officer",
@@ -82,14 +80,13 @@
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/amsterdam/financial-systems-specialist-onestream/": "Financial Systems Specialist (OneStream)",
    "https://optiver.com/join-us/jobs/technology/chicago/network-engineer/": "Network Engineer",
    "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-bachelor-or-master-summer-2028-shanghai/": "Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai)",
-   "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-phd-summer-2028--shanghai/": "Expressions of Interest - Quantitative Research Internship, PhD (Summer 2028 -Shanghai)",
-   "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/finance-systems-specialist/": "Finance Systems Specialist"
+   "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-phd-summer-2028--shanghai/": "Expressions of Interest - Quantitative Research Internship, PhD (Summer 2028 -Shanghai)"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-12T13:50:14+00:00",
+  "checked": "2026-11-12T20:27:38+00:00",
   "error": null,
-  "changed_on": "2026-11-11",
+  "changed_on": "2026-11-12",
   "new_links": {},
   "new_on": "2026-11-04"
  },
@@ -103,7 +100,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-12T13:50:14+00:00",
+  "checked": "2026-11-12T20:27:38+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -112,7 +109,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "ecba3827a0e4cb9dff3dbd32f4832e9b7449ad6a",
+  "hash": "b3b52bba5d036a1a6919d5bd9d89bfa23cc1b377",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-cyber-security-strategy-architecture-1100092368/": "Senior Executive Manager - Cyber Security Strategy & Architecture",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/home-healthcare-nurse-1100046708/": "View Job Details",
@@ -127,7 +124,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-12T13:50:14+00:00",
+  "checked": "2026-11-12T20:27:38+00:00",
   "error": null,
   "changed_on": "2026-11-12",
   "new_links": {},
