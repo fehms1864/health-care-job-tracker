@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "e963e0567dc4101028d3982a1ee045487fb1067d",
+  "hash": "b3a7b9f668fbe2ef7381fcfa86e1b52bab1cd198",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -26,44 +26,42 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-12T20:27:38+00:00",
+  "checked": "2026-11-13T13:11:52+00:00",
   "error": null,
-  "changed_on": "2026-11-12",
+  "changed_on": "2026-11-13",
   "new_links": {},
   "new_on": "2026-11-05"
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "f075e023df0b837ec3d40094fa4f735abc2cc553",
+  "hash": "eb19217c7a4cb21ccae90ceeb1c3ff9f57164214",
   "postings": {
+   "https://wise.jobs/job/fincrime-quality-senior-specialist-in-hyderabad-jid-4508": "FinCrime Quality Senior Specialist",
+   "https://wise.jobs/job/senior-software-engineer-cards-api-team-in-singapore-jid-3988": "Senior Software Engineer - Cards API team",
+   "https://wise.jobs/job/staff-software-engineer-apac-onboarding-and-kyc-in-singapore-jid-4507": "Staff Software Engineer - APAC Onboarding and KYC",
+   "https://wise.jobs/job/lead-data-analyst-total-service-operations-in-london-jid-3625": "Lead Data Analyst - Total Service (Operations)",
    "https://wise.jobs/job/engineering-lead-api-experience-in-london-jid-4506": "Engineering Lead - API Experience",
    "https://wise.jobs/job/engineering-manager-in-london-jid-4324": "Engineering Manager",
    "https://wise.jobs/job/engineering-lead-send-for-partners-in-london-jid-3751": "Engineering Lead - Send for Partners",
    "https://wise.jobs/job/senior-business-development-manager-travel-in-austin-jid-4505": "Senior Business Development Manager - Travel",
    "https://wise.jobs/job/sales-team-manager-wise-business-in-sao-paulo-jid-4249": "Sales Team Manager - Wise Business",
-   "https://wise.jobs/job/lead-commercial-analyst-in-austin-jid-3980": "Lead Commercial Analyst",
-   "https://wise.jobs/job/senior-software-engineer-ii-cash-management-in-london-jid-4392": "Senior Software Engineer II - Cash Management",
-   "https://wise.jobs/job/senior-finance-manager-risk-and-controls-contract-14-month-maternity-cover-in-london-jid-4504": "Senior Finance Manager (Risk & Controls) CONTRACT (14 month Maternity Cover)",
-   "https://wise.jobs/job/engineering-lead-send-for-partners-in-london-jid-4398": "Engineering Lead - Send for Partners",
-   "https://wise.jobs/job/engineering-lead-wise-for-enterprise-in-london-jid-3755": "Engineering Lead - Wise for Enterprise",
-   "https://wise.jobs/job/fincrime-quality-specialist-in-hyderabad-jid-4493": "FinCrime Quality Specialist",
-   "https://wise.jobs/job/kyc-operations-team-lead-deactivations-in-hyderabad-jid-3043": "KYC Operations Team Lead - Deactivations"
+   "https://wise.jobs/job/lead-commercial-analyst-in-austin-jid-3980": "Lead Commercial Analyst"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-12T20:27:38+00:00",
+  "checked": "2026-11-13T13:11:52+00:00",
   "error": null,
-  "changed_on": "2026-11-12",
+  "changed_on": "2026-11-13",
   "new_links": {
-   "https://wise.jobs/job/lead-commercial-analyst-in-austin-jid-3980": "Lead Commercial Analyst"
+   "https://wise.jobs/job/fincrime-quality-senior-specialist-in-hyderabad-jid-4508": "FinCrime Quality Senior Specialist"
   },
-  "new_on": "2026-11-12"
+  "new_on": "2026-11-13"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "d1bbf0e36a103352d4b0f6e75ac6a43bf6285401",
+  "hash": "48366981c280a31dffa91a762e6df7e2d038aecb",
   "postings": {
    "https://optiver.com/join-us/jobs/technology/new-york/software-engineer-ai-lab/": "Software Engineer - AI Lab",
    "https://optiver.com/join-us/jobs/technology/london/software-engineer-digital-assets-2/": "Software Engineer - Digital Assets",
@@ -84,9 +82,9 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-12T20:27:38+00:00",
+  "checked": "2026-11-13T13:11:52+00:00",
   "error": null,
-  "changed_on": "2026-11-12",
+  "changed_on": "2026-11-13",
   "new_links": {},
   "new_on": "2026-11-04"
  },
@@ -100,7 +98,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-12T20:27:38+00:00",
+  "checked": "2026-11-13T13:11:52+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -109,7 +107,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "b3b52bba5d036a1a6919d5bd9d89bfa23cc1b377",
+  "hash": "8586bf6cc36084a5cb2ce1e319aec7217a905ec8",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-cyber-security-strategy-architecture-1100092368/": "Senior Executive Manager - Cyber Security Strategy & Architecture",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/home-healthcare-nurse-1100046708/": "View Job Details",
@@ -124,9 +122,9 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-12T20:27:38+00:00",
+  "checked": "2026-11-13T13:11:52+00:00",
   "error": null,
-  "changed_on": "2026-11-12",
+  "changed_on": "2026-11-13",
   "new_links": {},
   "new_on": "2026-11-09"
  }
