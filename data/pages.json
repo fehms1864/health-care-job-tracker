@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "b3a7b9f668fbe2ef7381fcfa86e1b52bab1cd198",
+  "hash": "83b5cd57910ee41fcd79c5196ca304bc7ad921f5",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-13T13:11:52+00:00",
+  "checked": "2026-11-13T20:02:32+00:00",
   "error": null,
   "changed_on": "2026-11-13",
   "new_links": {},
@@ -35,26 +35,31 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "eb19217c7a4cb21ccae90ceeb1c3ff9f57164214",
+  "hash": "c2e2d93a0286d93120e8b03f0c47654450966738",
   "postings": {
-   "https://wise.jobs/job/fincrime-quality-senior-specialist-in-hyderabad-jid-4508": "FinCrime Quality Senior Specialist",
-   "https://wise.jobs/job/senior-software-engineer-cards-api-team-in-singapore-jid-3988": "Senior Software Engineer - Cards API team",
-   "https://wise.jobs/job/staff-software-engineer-apac-onboarding-and-kyc-in-singapore-jid-4507": "Staff Software Engineer - APAC Onboarding and KYC",
-   "https://wise.jobs/job/lead-data-analyst-total-service-operations-in-london-jid-3625": "Lead Data Analyst - Total Service (Operations)",
-   "https://wise.jobs/job/engineering-lead-api-experience-in-london-jid-4506": "Engineering Lead - API Experience",
-   "https://wise.jobs/job/engineering-manager-in-london-jid-4324": "Engineering Manager",
-   "https://wise.jobs/job/engineering-lead-send-for-partners-in-london-jid-3751": "Engineering Lead - Send for Partners",
-   "https://wise.jobs/job/senior-business-development-manager-travel-in-austin-jid-4505": "Senior Business Development Manager - Travel",
-   "https://wise.jobs/job/sales-team-manager-wise-business-in-sao-paulo-jid-4249": "Sales Team Manager - Wise Business",
-   "https://wise.jobs/job/lead-commercial-analyst-in-austin-jid-3980": "Lead Commercial Analyst"
+   "https://wise.jobs/job/complaints-and-ombudsman-officer-in-sao-paulo-jid-3919": "Complaints & Ombudsman Officer",
+   "https://wise.jobs/job/complaints-and-ombudsman-officer-exclusive-for-pwd-in-sao-paulo-jid-4268": "Complaints & Ombudsman Officer - Exclusive for PwD",
+   "https://wise.jobs/job/sr-business-development-manager-banks-in-austin-jid-4515": "Sr. Business Development Manager - Banks",
+   "https://wise.jobs/job/fincrime-reporting-specialist-in-hyderabad-jid-4514": "FinCrime Reporting Specialist",
+   "https://wise.jobs/job/campaigns-manager-in-london-jid-4513": "Campaigns Manager",
+   "https://wise.jobs/job/senior-software-engineer-ii-risk-control-and-governance-in-london-jid-4384": "Senior Software Engineer II - Risk Control & Governance",
+   "https://wise.jobs/job/senior-software-engineer-i-kyc-and-onboarding-in-london-jid-4477": "Senior Software Engineer I - KYC & Onboarding",
+   "https://wise.jobs/job/senior-data-engineer-i-global-kyc-and-onboarding-in-london-jid-4449": "Senior Data Engineer I - Global KYC & Onboarding",
+   "https://wise.jobs/job/fincrime-investigator-aml-investigations-in-budapest-jid-4328": "FinCrime Investigator - AML Investigations",
+   "https://wise.jobs/job/sar-quality-assurance-specialist-in-austin-jid-4394": "SAR Quality assurance specialist",
+   "https://wise.jobs/job/fincrime-operations-analyst-aml-investigations-team-in-budapest-jid-4511": "FinCrime Operations Analyst - AML Investigations Team"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-13T13:11:52+00:00",
+  "checked": "2026-11-13T20:02:32+00:00",
   "error": null,
   "changed_on": "2026-11-13",
   "new_links": {
-   "https://wise.jobs/job/fincrime-quality-senior-specialist-in-hyderabad-jid-4508": "FinCrime Quality Senior Specialist"
+   "https://wise.jobs/job/complaints-and-ombudsman-officer-in-sao-paulo-jid-3919": "Complaints & Ombudsman Officer",
+   "https://wise.jobs/job/complaints-and-ombudsman-officer-exclusive-for-pwd-in-sao-paulo-jid-4268": "Complaints & Ombudsman Officer - Exclusive for PwD",
+   "https://wise.jobs/job/fincrime-reporting-specialist-in-hyderabad-jid-4514": "FinCrime Reporting Specialist",
+   "https://wise.jobs/job/campaigns-manager-in-london-jid-4513": "Campaigns Manager",
+   "https://wise.jobs/job/sar-quality-assurance-specialist-in-austin-jid-4394": "SAR Quality assurance specialist"
   },
   "new_on": "2026-11-13"
  },
@@ -82,7 +87,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-13T13:11:52+00:00",
+  "checked": "2026-11-13T20:02:32+00:00",
   "error": null,
   "changed_on": "2026-11-13",
   "new_links": {},
@@ -98,7 +103,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-13T13:11:52+00:00",
+  "checked": "2026-11-13T20:02:32+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -107,7 +112,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "8586bf6cc36084a5cb2ce1e319aec7217a905ec8",
+  "hash": "47bd9f6ebd9167ca374017fe63596c1271323f43",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-cyber-security-strategy-architecture-1100092368/": "Senior Executive Manager - Cyber Security Strategy & Architecture",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/home-healthcare-nurse-1100046708/": "View Job Details",
@@ -122,7 +127,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-13T13:11:52+00:00",
+  "checked": "2026-11-13T20:02:32+00:00",
   "error": null,
   "changed_on": "2026-11-13",
   "new_links": {},
