@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-13T20:02:32+00:00",
+  "checked": "2026-11-14T12:15:47+00:00",
   "error": null,
   "changed_on": "2026-11-13",
   "new_links": {},
@@ -35,7 +35,7 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "c2e2d93a0286d93120e8b03f0c47654450966738",
+  "hash": "626a4b35179019dcf31f36c3f7b48076c29b7b0c",
   "postings": {
    "https://wise.jobs/job/complaints-and-ombudsman-officer-in-sao-paulo-jid-3919": "Complaints & Ombudsman Officer",
    "https://wise.jobs/job/complaints-and-ombudsman-officer-exclusive-for-pwd-in-sao-paulo-jid-4268": "Complaints & Ombudsman Officer - Exclusive for PwD",
@@ -51,26 +51,21 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-13T20:02:32+00:00",
+  "checked": "2026-11-14T12:15:47+00:00",
   "error": null,
-  "changed_on": "2026-11-13",
-  "new_links": {
-   "https://wise.jobs/job/complaints-and-ombudsman-officer-in-sao-paulo-jid-3919": "Complaints & Ombudsman Officer",
-   "https://wise.jobs/job/complaints-and-ombudsman-officer-exclusive-for-pwd-in-sao-paulo-jid-4268": "Complaints & Ombudsman Officer - Exclusive for PwD",
-   "https://wise.jobs/job/fincrime-reporting-specialist-in-hyderabad-jid-4514": "FinCrime Reporting Specialist",
-   "https://wise.jobs/job/campaigns-manager-in-london-jid-4513": "Campaigns Manager",
-   "https://wise.jobs/job/sar-quality-assurance-specialist-in-austin-jid-4394": "SAR Quality assurance specialist"
-  },
+  "changed_on": "2026-11-14",
+  "new_links": {},
   "new_on": "2026-11-13"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "48366981c280a31dffa91a762e6df7e2d038aecb",
+  "hash": "1cfd686b1b7a5dbfaaca16c67649168d5851a035",
   "postings": {
    "https://optiver.com/join-us/jobs/technology/new-york/software-engineer-ai-lab/": "Software Engineer - AI Lab",
    "https://optiver.com/join-us/jobs/technology/london/software-engineer-digital-assets-2/": "Software Engineer - Digital Assets",
    "https://optiver.com/join-us/jobs/trade-operations/amsterdam/otc-product-control-specialist/": "OTC Product Control Specialist",
+   "https://optiver.com/join-us/jobs/technology/austin/supply-chain-specialist/": "Supply Chain Specialist",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/accounts-payable-officer/": "Accounts Payable Officer",
    "https://optiver.com/join-us/jobs/technology/austin/software-engineer-2/": "Software Engineer",
    "https://optiver.com/join-us/jobs/trading/singapore/trade-supervisor/": "Trade Supervisor",
@@ -82,16 +77,17 @@
    "https://optiver.com/join-us/jobs/technology/sydney/software-engineer-c-plus-plus-derivatives/": "Software Engineer (C++) - Derivatives",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/amsterdam/financial-systems-specialist-onestream/": "Financial Systems Specialist (OneStream)",
    "https://optiver.com/join-us/jobs/technology/chicago/network-engineer/": "Network Engineer",
-   "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-bachelor-or-master-summer-2028-shanghai/": "Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai)",
-   "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-phd-summer-2028--shanghai/": "Expressions of Interest - Quantitative Research Internship, PhD (Summer 2028 -Shanghai)"
+   "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-bachelor-or-master-summer-2028-shanghai/": "Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai)"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-13T20:02:32+00:00",
+  "checked": "2026-11-14T12:15:47+00:00",
   "error": null,
-  "changed_on": "2026-11-13",
-  "new_links": {},
-  "new_on": "2026-11-04"
+  "changed_on": "2026-11-14",
+  "new_links": {
+   "https://optiver.com/join-us/jobs/technology/austin/supply-chain-specialist/": "Supply Chain Specialist"
+  },
+  "new_on": "2026-11-14"
  },
  "https://careers.shezlong.com/": {
   "company": "Shezlong",
@@ -103,7 +99,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-13T20:02:32+00:00",
+  "checked": "2026-11-14T12:15:47+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -112,7 +108,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "47bd9f6ebd9167ca374017fe63596c1271323f43",
+  "hash": "3feef9b3decc7425a17c53710904f9f705f76480",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-cyber-security-strategy-architecture-1100092368/": "Senior Executive Manager - Cyber Security Strategy & Architecture",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/home-healthcare-nurse-1100046708/": "View Job Details",
@@ -127,9 +123,9 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-13T20:02:32+00:00",
+  "checked": "2026-11-14T12:15:47+00:00",
   "error": null,
-  "changed_on": "2026-11-13",
+  "changed_on": "2026-11-14",
   "new_links": {},
   "new_on": "2026-11-09"
  }
