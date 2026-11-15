@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-14T18:29:24+00:00",
+  "checked": "2026-11-15T12:47:57+00:00",
   "error": null,
   "changed_on": "2026-11-13",
   "new_links": {},
@@ -35,8 +35,9 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "7936e9ed8dbb9cffca7fca797ab9e1fd6d60ad33",
+  "hash": "20202e346fad17825eaf24af57b11fe9057e0669",
   "postings": {
+   "https://wise.jobs/job/staff-software-engineer-apac-onboarding-and-kyc-in-singapore-jid-4507": "Staff Software Engineer - APAC Onboarding and KYC",
    "https://wise.jobs/job/kyc-operations-associate-analyst-specialised-markets-in-hyderabad-jid-4470": "KYC Operations Associate Analyst - Specialised Markets",
    "https://wise.jobs/job/recruiter-12-month-ftc-in-hyderabad-jid-4270": "Recruiter - 12 month FTC",
    "https://wise.jobs/job/lead-data-analyst-wise-business-commercial-and-sales-in-london-jid-4172": "Lead Data Analyst - Wise Business - Commercial & Sales",
@@ -51,9 +52,9 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-14T18:29:24+00:00",
+  "checked": "2026-11-15T12:47:57+00:00",
   "error": null,
-  "changed_on": "2026-11-14",
+  "changed_on": "2026-11-15",
   "new_links": {},
   "new_on": "2026-11-13"
  },
@@ -81,12 +82,10 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-14T18:29:24+00:00",
+  "checked": "2026-11-15T12:47:57+00:00",
   "error": null,
   "changed_on": "2026-11-14",
-  "new_links": {
-   "https://optiver.com/join-us/jobs/technology/austin/supply-chain-specialist/": "Supply Chain Specialist"
-  },
+  "new_links": {},
   "new_on": "2026-11-14"
  },
  "https://careers.shezlong.com/": {
@@ -99,7 +98,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-14T18:29:24+00:00",
+  "checked": "2026-11-15T12:47:57+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -108,25 +107,27 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "bbe5fae0837da95d2f4b66703834ca8a3455e034",
+  "hash": "677addabb6a18721f48975b2705e41aef667393d",
   "postings": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-innovation-designer-1100091982/": "Coop - Innovation Designer",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-icc-finance-operations-1100085080/": "Senior Associate - ICC Finance Operations",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-cyber-security-strategy-architecture-1100092368/": "Senior Executive Manager - Cyber Security Strategy & Architecture",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/home-healthcare-nurse-1100046708/": "View Job Details",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-sme-account-management-rm-pipeline-1100092204/": "View Job Details",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-internal-medicine-adult-endocrinology-1100089192/": "Consultant - Internal Medicine & Adult Endocrinology",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-project-management-1100092081/": "Coop - Project Management",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/tamheer-talent-acquisition-1100092064/": "Tamheer - Talent Acquisition",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/endocrinology-consultant-1100045623/": "Endocrinology Consultant",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-design-experience-1100088831/": "Coop - Design Experience",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-design-innovation-1100088833/": "Coop - Design & Innovation",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-growth-marketing-1100091103/": "COOP - Growth Marketing"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/endocrinology-consultant-1100045623/": "Endocrinology Consultant"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-14T18:29:24+00:00",
+  "checked": "2026-11-15T12:47:57+00:00",
   "error": null,
-  "changed_on": "2026-11-14",
-  "new_links": {},
-  "new_on": "2026-11-09"
+  "changed_on": "2026-11-15",
+  "new_links": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement"
+  },
+  "new_on": "2026-11-15"
  }
 }
