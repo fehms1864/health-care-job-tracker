@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T12:47:57+00:00",
+ "generated_at": "2026-11-15T19:07:11+00:00",
  "baseline_date": "2026-09-27",
  "rules_version": 6,
  "sources": {
@@ -159,6 +159,54 @@
  },
  "jobs": [
   {
+   "id": "cdfbf78e769596",
+   "company": "Neko Health",
+   "region": "UK",
+   "title": "Global Clinic Operations Lead",
+   "location": "New York / London / United States",
+   "url": "https://jobs.ashbyhq.com/neko-health/42cc5b50-db94-4f82-8e97-8fa0a4928d11",
+   "posted": "2026-11-15T16:17:20.176+00:00",
+   "posted_date": "2026-11-15",
+   "posted_approx": false,
+   "first_seen": "2026-11-15",
+   "score": 35,
+   "hits": [
+    "healthcare",
+    "strategy",
+    "operations",
+    "change management"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "981881dac5321c",
+   "company": "Neko Health",
+   "region": "UK",
+   "title": "Global Clinic Operations Lead",
+   "location": "London / United Kingdom",
+   "url": "https://jobs.ashbyhq.com/neko-health/b031c132-40cf-449e-9d24-3b8a8ec54a6a",
+   "posted": "2026-11-15T16:17:08.694+00:00",
+   "posted_date": "2026-11-15",
+   "posted_approx": false,
+   "first_seen": "2026-11-15",
+   "score": 35,
+   "hits": [
+    "healthcare",
+    "strategy",
+    "operations",
+    "change management"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "fd1a16233a3d46",
    "company": "Janssen NL",
    "region": "NL",
@@ -175,6 +223,30 @@
     "clinical",
     "hospital",
     "medtech"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "dcf17e1cb0fc9a",
+   "company": "IQVIA Middle East & Africa",
+   "region": "ME",
+   "title": "2141 - Tech/Systems Support Analyst",
+   "location": "New Cairo, Egypt",
+   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/New-Cairo-Egypt/XMLNAME-2141---Tech-Systems-Support-Analyst_R1574478",
+   "posted": "Today",
+   "posted_date": "2026-11-15",
+   "posted_approx": false,
+   "first_seen": "2026-11-15",
+   "score": 20,
+   "hits": [
+    "healthcare",
+    "patient",
+    "population health",
+    "operations"
    ],
    "lang": null,
    "visa": null,
@@ -18723,25 +18795,6 @@
    "baseline": false
   },
   {
-   "id": "4d72904ac1be47",
-   "company": "Atlassian",
-   "region": "UK",
-   "title": "Digital Success Manager",
-   "location": "London - United Kingdom -   London,  EC1V United Kingdom / Remote - UK - Remote",
-   "url": "https://www.atlassian.com/company/careers/details/26053",
-   "posted": "2026-10-09 09:18 AM",
-   "posted_date": "2026-10-09",
-   "posted_approx": false,
-   "first_seen": "2026-10-24",
-   "score": 9,
-   "hits": [],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "8655f7ea1cde9c",
    "company": "Amazon / AWS (UK)",
    "region": "UK",
@@ -25031,54 +25084,6 @@
    "baseline": true
   },
   {
-   "id": "b304f59f2c9738",
-   "company": "IQVIA Middle East & Africa",
-   "region": "ME",
-   "title": "Experienced Clinical Research Associate Sponsor-dedicated",
-   "location": "Riyadh, Saudi Arabia",
-   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Riyadh-Saudi-Arabia/Experienced-Clinical-Research-Associate-Sponsor-dedicated_R1520411",
-   "posted": "5 Days Ago",
-   "posted_date": "2026-10-02",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 34,
-   "hits": [
-    "healthcare",
-    "health care",
-    "clinical",
-    "patient"
-   ],
-   "lang": "Arabic",
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "43450d6534d41a",
-   "company": "IQVIA Middle East & Africa",
-   "region": "ME",
-   "title": "Experienced Clinical Research Associate - Multi-Sponsored Model",
-   "location": "Riyadh, Saudi Arabia",
-   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Riyadh-Saudi-Arabia/Experienced-Clinical-Research-Associate---Multi-Sponsored-Model_R1566220",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 34,
-   "hits": [
-    "healthcare",
-    "health care",
-    "clinical",
-    "patient"
-   ],
-   "lang": "Arabic",
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "b2a842656aadcb",
    "company": "BCG",
    "region": "UK",
@@ -28205,6 +28210,29 @@
    "hits": [
     "consultant",
     "consulting"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "ece3d429a76d52",
+   "company": "Publicis",
+   "region": "UK",
+   "title": "Principal Medical Writer",
+   "location": "London, United Kingdom / 2 Television Centre",
+   "url": "https://careers.publicisgroupe.com/jobs/143033?lang=en-us",
+   "posted": "2026-04-10T12:49:00+0000",
+   "posted_date": "2026-04-10",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 24,
+   "hits": [
+    "healthcare",
+    "medical",
+    "strategy"
    ],
    "lang": null,
    "visa": null,
@@ -32588,6 +32616,28 @@
    "baseline": true
   },
   {
+   "id": "369a05bde5af83",
+   "company": "Siemens Healthineers",
+   "region": "UK",
+   "title": "Quality Release Officer (FTC)",
+   "location": "Llanberis, Caernarfon, UK / United Kingdom",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100709/Quality-Release-Officer-FTC",
+   "posted": "2026-10-07T13:52:57.422+0000",
+   "posted_date": "2026-10-07",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 18,
+   "hits": [
+    "healthcare",
+    "change management"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "d4fea8cc8f4c65",
    "company": "Siemens Healthineers",
    "region": "UK",
@@ -32603,28 +32653,6 @@
     "healthcare",
     "operations",
     "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "369a05bde5af83",
-   "company": "Siemens Healthineers",
-   "region": "UK",
-   "title": "Quality Release Officer (FTC)",
-   "location": "Llanberis, Caernarfon, UK / United Kingdom",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100709/Quality-Release-Officer-FTC",
-   "posted": "2026-10-07T13:52:57.422+0000",
-   "posted_date": "2026-10-07",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 18,
-   "hits": [
-    "healthcare",
-    "change management"
    ],
    "lang": null,
    "visa": null,
@@ -35284,6 +35312,28 @@
    "hits": [
     "mental health",
     "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "af28a222151300",
+   "company": "Publicis",
+   "region": "UK",
+   "title": "Brand Representative - Free State",
+   "location": "Johannesburg, South Africa / Cambridge Office Park",
+   "url": "https://careers.publicisgroupe.com/jobs/48749?lang=en-us",
+   "posted": "2025-03-17T17:42:00+0000",
+   "posted_date": "2025-03-17",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 12,
+   "hits": [
+    "healthcare",
+    "strategy"
    ],
    "lang": null,
    "visa": null,
@@ -44451,7 +44501,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 668,
+   "total": 667,
    "in_region": 57,
    "kept": 21
   },
@@ -44471,9 +44521,9 @@
    ],
    "source": "atlassian",
    "error": null,
-   "total": 279,
-   "in_region": 61,
-   "kept": 16
+   "total": 278,
+   "in_region": 60,
+   "kept": 15
   },
   {
    "companies": [
@@ -44512,7 +44562,7 @@
    ],
    "source": "eightfold",
    "error": null,
-   "total": 333,
+   "total": 322,
    "in_region": 0,
    "kept": 0
   },
@@ -44920,9 +44970,9 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 324,
-   "in_region": 324,
-   "kept": 90
+   "total": 322,
+   "in_region": 322,
+   "kept": 89
   },
   {
    "companies": [
@@ -45154,9 +45204,9 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 123,
-   "in_region": 44,
-   "kept": 17
+   "total": 125,
+   "in_region": 46,
+   "kept": 19
   },
   {
    "companies": [
@@ -45164,7 +45214,7 @@
    ],
    "source": "eightfold",
    "error": null,
-   "total": 414,
+   "total": 419,
    "in_region": 4,
    "kept": 2
   },
@@ -45214,8 +45264,8 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 840,
-   "in_region": 43,
+   "total": 837,
+   "in_region": 42,
    "kept": 9
   },
   {
@@ -45245,7 +45295,7 @@
    ],
    "source": "workday",
    "error": null,
-   "total": 114,
+   "total": 110,
    "in_region": 0,
    "kept": 0
   },
@@ -45338,9 +45388,9 @@
    ],
    "source": "jibe",
    "error": null,
-   "total": 3282,
-   "in_region": 297,
-   "kept": 119
+   "total": 3285,
+   "in_region": 299,
+   "kept": 121
   },
   {
    "companies": [
@@ -45410,7 +45460,7 @@
    ],
    "source": "smartrecruiters",
    "error": null,
-   "total": 817,
+   "total": 815,
    "in_region": 40,
    "kept": 14
   },
@@ -45523,7 +45573,7 @@
    ],
    "source": "smartrecruiters",
    "error": null,
-   "total": 488,
+   "total": 486,
    "in_region": 28,
    "kept": 3
   },
@@ -45643,7 +45693,7 @@
    ],
    "source": "page",
    "error": null,
-   "total": 12,
+   "total": 11,
    "in_region": 5,
    "kept": 1,
    "method": "structured data on job pages"
@@ -45684,7 +45734,7 @@
    ],
    "source": "jibe",
    "error": null,
-   "total": 278,
+   "total": 277,
    "in_region": 7,
    "kept": 3
   },
@@ -45722,8 +45772,8 @@
  "counts": {
   "companies": 215,
   "feeds": 126,
-  "jobs": 1943,
-  "new_today": 7,
+  "jobs": 1945,
+  "new_today": 3,
   "pages": 5
  },
  "coverage": {
