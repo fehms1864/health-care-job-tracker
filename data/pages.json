@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "9a2dd714146a0272b2486928a2e02ab808bcdd78",
+  "hash": "e8f135f9f75d86930265add37776240f31b78758",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-16T13:44:34+00:00",
+  "checked": "2026-11-16T22:31:34+00:00",
   "error": null,
   "changed_on": "2026-11-16",
   "new_links": {},
@@ -35,24 +35,24 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "9ab629fc4ace207a98d73122458803e3c8eae7d6",
+  "hash": "68628ba5748426faa7c4bbe2b447693b5a48d670",
   "postings": {
+   "https://wise.jobs/job/software-engineer-in-austin-jid-4524": "Software Engineer",
+   "https://wise.jobs/job/senior-product-designer-scalable-growth-in-london-jid-4523": "Senior Product Designer - Scalable Growth",
+   "https://wise.jobs/job/software-engineer-swift-global-expansion-in-budapest-jid-1810": "Software Engineer - Swift - Global Expansion",
+   "https://wise.jobs/job/investment-operations-lead-in-tallinn-jid-4474": "Investment Operations Lead",
+   "https://wise.jobs/job/senior-software-engineer-global-coverage-in-tallinn-jid-4522": "Senior Software Engineer - Global Coverage",
    "https://wise.jobs/job/french-speaking-customer-support-team-lead-night-shift-3am-in-sao-paulo-jid-4521": "French Speaking Customer Support Team Lead (Night Shift) 3AM",
    "https://wise.jobs/job/senior-software-engineer-i-servicing-platform-in-london-jid-2833": "Senior Software Engineer I - Servicing Platform",
    "https://wise.jobs/job/senior-data-analyst-crm-analytics-in-london-jid-2679": "Senior Data Analyst - CRM Analytics",
-   "https://wise.jobs/job/fincrime-quality-specialist-in-hyderabad-jid-4493": "FinCrime Quality Specialist",
-   "https://wise.jobs/job/fincrime-reporting-specialist-in-hyderabad-jid-4514": "FinCrime Reporting Specialist",
    "https://wise.jobs/job/legal-counsel-apac-in-singapore-jid-4520": "Legal Counsel APAC",
    "https://wise.jobs/job/senior-security-engineer-in-london-jid-4519": "Senior Security Engineer",
    "https://wise.jobs/job/engineering-lead-in-hyderabad-jid-4518": "Engineering Lead",
-   "https://wise.jobs/job/kyc-operations-senior-analyst-deactivations-in-hyderabad-jid-4464": "KYC Operations Senior Analyst - Deactivations",
-   "https://wise.jobs/job/product-analytics-lead-aml-risk-in-hyderabad-jid-4502": "Product Analytics Lead - AML/Risk",
-   "https://wise.jobs/job/engineering-lead-aml-in-tallinn-jid-4271": "Engineering Lead - AML",
-   "https://wise.jobs/job/engineering-manager-apac-okyc-in-hyderabad-jid-4517": "Engineering Manager - APAC OKYC"
+   "https://wise.jobs/job/product-analytics-lead-aml-risk-in-hyderabad-jid-4502": "Product Analytics Lead - AML/Risk"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-16T13:44:34+00:00",
+  "checked": "2026-11-16T22:31:34+00:00",
   "error": null,
   "changed_on": "2026-11-16",
   "new_links": {
@@ -64,7 +64,7 @@
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "bedfc8609dc8fb9ae6f4dcab25ff4f2a718fac9d",
+  "hash": "b3ff36589d971bb33b06cf4b15c3a55c2054edc2",
   "postings": {
    "https://optiver.com/join-us/jobs/technology/new-york/software-engineer-ai-lab/": "Software Engineer - AI Lab",
    "https://optiver.com/join-us/jobs/technology/london/software-engineer-digital-assets-2/": "Software Engineer - Digital Assets",
@@ -85,7 +85,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-16T13:44:34+00:00",
+  "checked": "2026-11-16T22:31:34+00:00",
   "error": null,
   "changed_on": "2026-11-16",
   "new_links": {},
@@ -101,7 +101,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-16T13:44:34+00:00",
+  "checked": "2026-11-16T22:31:34+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -110,7 +110,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "efb9d22a1432eb15a0323327e2733a347c6d560e",
+  "hash": "537772ab1543c11bb97d94e73772c8229d79a960",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-legal-operations-enablement-1100092560/": "Senior Associate - Legal Operations & Enablement",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-litigation-regulatory-affairs-legal-risk-1100092557/": "Manager - Litigation, Regulatory Affairs & Legal Risk",
@@ -125,7 +125,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-16T13:44:34+00:00",
+  "checked": "2026-11-16T22:31:34+00:00",
   "error": null,
   "changed_on": "2026-11-16",
   "new_links": {
