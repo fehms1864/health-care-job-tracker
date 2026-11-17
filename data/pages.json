@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "e8f135f9f75d86930265add37776240f31b78758",
+  "hash": "186c574ee76ca650ca6ac8b58a5fbcda4aa11894",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -16,7 +16,7 @@
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Life-Sciences-and-Healthcare-Commercial-Due-Diligence/25704": "Assistant Director Life Sciences and Healthcare, Commercial Due Diligence",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Nuclear-Advisory-Infrastructure-and-Capital-Programmes-Strategy-Risk-and-Transactions-Advisory/24431": "Assistant Director, Nuclear Advisory, Infrastructure and Capital Programmes: Strategy, Risk and Transactions Advisory",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Banking-Strategy-Strategy-Business-Design/24025": "Assistant Director, Banking Strategy, Strategy & Business Design",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Capital-Projects-Advisory-Infrastructure-Real-Estate/24500": "Assistant Director, Capital Projects Advisory, Infrastructure & Real Estate",
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Capital-Projects-Advisory/24500": "Assistant Director, Capital Projects Advisory",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Commercial-Financial-Advisory-Infrastructure-and-Capital-Programmes-Strategy-Risk-and-Transactions-Advisory/23181": "Assistant Director, Commercial & Financial Advisory, Infrastructure and Capital Programmes: Strategy, Risk and Transacti",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Equity-Capital-Markets-Finance-and-Transaction-Management-Office-EFT-M-A/24941": "Assistant Director, Equity Capital Markets, Finance, and Transaction Management Office (EFT), M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Equity-Capital-Markets-Finance-and-Transaction-Management-Office-EFT-M-A/24259": "Assistant Director, Equity Capital Markets, Finance, and Transaction Management Office (EFT), M&A",
@@ -26,46 +26,49 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-16T22:31:34+00:00",
+  "checked": "2026-11-17T14:33:47+00:00",
   "error": null,
-  "changed_on": "2026-11-16",
+  "changed_on": "2026-11-17",
   "new_links": {},
   "new_on": "2026-11-05"
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "68628ba5748426faa7c4bbe2b447693b5a48d670",
+  "hash": "864870728be3a831a0af00b7c511e3cddc4b7c8c",
   "postings": {
-   "https://wise.jobs/job/software-engineer-in-austin-jid-4524": "Software Engineer",
-   "https://wise.jobs/job/senior-product-designer-scalable-growth-in-london-jid-4523": "Senior Product Designer - Scalable Growth",
-   "https://wise.jobs/job/software-engineer-swift-global-expansion-in-budapest-jid-1810": "Software Engineer - Swift - Global Expansion",
-   "https://wise.jobs/job/investment-operations-lead-in-tallinn-jid-4474": "Investment Operations Lead",
-   "https://wise.jobs/job/senior-software-engineer-global-coverage-in-tallinn-jid-4522": "Senior Software Engineer - Global Coverage",
-   "https://wise.jobs/job/french-speaking-customer-support-team-lead-night-shift-3am-in-sao-paulo-jid-4521": "French Speaking Customer Support Team Lead (Night Shift) 3AM",
-   "https://wise.jobs/job/senior-software-engineer-i-servicing-platform-in-london-jid-2833": "Senior Software Engineer I - Servicing Platform",
-   "https://wise.jobs/job/senior-data-analyst-crm-analytics-in-london-jid-2679": "Senior Data Analyst - CRM Analytics",
-   "https://wise.jobs/job/legal-counsel-apac-in-singapore-jid-4520": "Legal Counsel APAC",
-   "https://wise.jobs/job/senior-security-engineer-in-london-jid-4519": "Senior Security Engineer",
-   "https://wise.jobs/job/engineering-lead-in-hyderabad-jid-4518": "Engineering Lead",
-   "https://wise.jobs/job/product-analytics-lead-aml-risk-in-hyderabad-jid-4502": "Product Analytics Lead - AML/Risk"
+   "https://wise.jobs/job/senior-business-marketing-lead-north-america-in-austin-jid-3166": "Senior Business Marketing Lead, North America",
+   "https://wise.jobs/job/senior-software-engineer-ii-wise-for-banks-in-london-jid-4530": "Senior Software Engineer II - Wise for Banks",
+   "https://wise.jobs/job/quality-assurance-senior-specialist-in-tallinn-jid-3292": "Quality Assurance Senior Specialist",
+   "https://wise.jobs/job/quality-assurance-team-lead-in-tallinn-jid-3293": "Quality Assurance Team Lead",
+   "https://wise.jobs/job/senior-analyst-payment-operations-in-tallinn-jid-3708": "Senior Analyst - Payment Operations",
+   "https://wise.jobs/job/senior-finance-business-partner-in-london-jid-4195": "Senior Finance Business Partner",
+   "https://wise.jobs/job/senior-finance-business-partner-12-months-ftc-in-london-jid-4301": "Senior Finance Business Partner (12 Months FTC)",
+   "https://wise.jobs/job/senior-analyst-internal-audit-in-hyderabad-jid-3553": "Senior Analyst - Internal Audit",
+   "https://wise.jobs/job/engineering-lead-api-experience-in-london-jid-4529": "Engineering Lead - API Experience",
+   "https://wise.jobs/job/engineering-lead-send-for-partners-in-london-jid-4398": "Engineering Lead - Send for Partners",
+   "https://wise.jobs/job/engineering-lead-wise-for-enterprise-in-london-jid-3755": "Engineering Lead - Wise for Enterprise",
+   "https://wise.jobs/job/apac-marketing-director-in-singapore-jid-4117": "APAC Marketing Director"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-16T22:31:34+00:00",
+  "checked": "2026-11-17T14:33:47+00:00",
   "error": null,
-  "changed_on": "2026-11-16",
+  "changed_on": "2026-11-17",
   "new_links": {
-   "https://wise.jobs/job/french-speaking-customer-support-team-lead-night-shift-3am-in-sao-paulo-jid-4521": "French Speaking Customer Support Team Lead (Night Shift) 3AM",
-   "https://wise.jobs/job/fincrime-quality-specialist-in-hyderabad-jid-4493": "FinCrime Quality Specialist"
+   "https://wise.jobs/job/senior-business-marketing-lead-north-america-in-austin-jid-3166": "Senior Business Marketing Lead, North America",
+   "https://wise.jobs/job/quality-assurance-senior-specialist-in-tallinn-jid-3292": "Quality Assurance Senior Specialist",
+   "https://wise.jobs/job/quality-assurance-team-lead-in-tallinn-jid-3293": "Quality Assurance Team Lead",
+   "https://wise.jobs/job/senior-analyst-payment-operations-in-tallinn-jid-3708": "Senior Analyst - Payment Operations"
   },
-  "new_on": "2026-11-16"
+  "new_on": "2026-11-17"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "b3ff36589d971bb33b06cf4b15c3a55c2054edc2",
+  "hash": "7100a64eea6f370f3665fa99703ad04b78194562",
   "postings": {
+   "https://optiver.com/join-us/jobs/risk-finance-and-legal/mumbai/operational-risk-manager/": "Operational Risk Manager",
    "https://optiver.com/join-us/jobs/technology/new-york/software-engineer-ai-lab/": "Software Engineer - AI Lab",
    "https://optiver.com/join-us/jobs/technology/london/software-engineer-digital-assets-2/": "Software Engineer - Digital Assets",
    "https://optiver.com/join-us/jobs/trade-operations/amsterdam/otc-product-control-specialist/": "OTC Product Control Specialist",
@@ -80,16 +83,17 @@
    "https://optiver.com/join-us/jobs/technology/taipei/technology-operations-engineer-taipei/": "Technology Operations Engineer - Taipei",
    "https://optiver.com/join-us/jobs/technology/sydney/software-engineer-c-plus-plus-derivatives/": "Software Engineer (C++) - Derivatives",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/amsterdam/financial-systems-specialist-onestream/": "Financial Systems Specialist (OneStream)",
-   "https://optiver.com/join-us/jobs/technology/chicago/network-engineer/": "Network Engineer",
-   "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-bachelor-or-master-summer-2028-shanghai/": "Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai)"
+   "https://optiver.com/join-us/jobs/technology/chicago/network-engineer/": "Network Engineer"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-16T22:31:34+00:00",
+  "checked": "2026-11-17T14:33:47+00:00",
   "error": null,
-  "changed_on": "2026-11-16",
-  "new_links": {},
-  "new_on": "2026-11-14"
+  "changed_on": "2026-11-17",
+  "new_links": {
+   "https://optiver.com/join-us/jobs/risk-finance-and-legal/mumbai/operational-risk-manager/": "Operational Risk Manager"
+  },
+  "new_on": "2026-11-17"
  },
  "https://careers.shezlong.com/": {
   "company": "Shezlong",
@@ -101,7 +105,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-16T22:31:34+00:00",
+  "checked": "2026-11-17T14:33:47+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -110,29 +114,14 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "537772ab1543c11bb97d94e73772c8229d79a960",
-  "postings": {
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-legal-operations-enablement-1100092560/": "Senior Associate - Legal Operations & Enablement",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-litigation-regulatory-affairs-legal-risk-1100092557/": "Manager - Litigation, Regulatory Affairs & Legal Risk",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-pre-authorization-pipeline-1100067272/": "Manager - Pre Authorization (Pipeline)",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-innovation-designer-1100091982/": "Coop - Innovation Designer",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-icc-finance-operations-1100085080/": "Senior Associate - ICC Finance Operations",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-cyber-security-strategy-architecture-1100092368/": "Senior Executive Manager - Cyber Security Strategy & Architecture",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/home-healthcare-nurse-1100046708/": "View Job Details",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-sme-account-management-rm-pipeline-1100092204/": "View Job Details",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/consultant-internal-medicine-adult-endocrinology-1100089192/": "Consultant - Internal Medicine & Adult Endocrinology"
-  },
+  "hash": "58c9228f951e6f63427ea576938c60f9b48a24ec",
+  "postings": {},
   "readable": true,
-  "method": "structured data on job pages",
-  "checked": "2026-11-16T22:31:34+00:00",
+  "method": null,
+  "checked": "2026-11-17T14:33:47+00:00",
   "error": null,
-  "changed_on": "2026-11-16",
-  "new_links": {
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-legal-operations-enablement-1100092560/": "Senior Associate - Legal Operations & Enablement",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-litigation-regulatory-affairs-legal-risk-1100092557/": "Manager - Litigation, Regulatory Affairs & Legal Risk",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-pre-authorization-pipeline-1100067272/": "Manager - Pre Authorization (Pipeline)"
-  },
+  "changed_on": "2026-11-17",
+  "new_links": {},
   "new_on": "2026-11-16"
  }
 }
