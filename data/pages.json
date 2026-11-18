@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "87fa852aab93b66e651dfe17882e08aebdfbb055",
+  "hash": "06dd70f06f40c3fd91260749177cd7deed82df07",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -11,7 +11,6 @@
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Application-Architect-Senior-Manager-AI-and-Cloud-Engineering/25331": "AI Application Architect, Senior Manager, AI and Cloud Engineering",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Engineer-Forensic-and-Financial-Crime-Technology-Advisory-and-Data-Analytics/25246": "AI Engineer, Forensic and Financial Crime Technology Advisory and Data Analytics",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Governance-Lead-Manager-Financial-Services/24374": "AI Governance Lead, Manager, Financial Services",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Architect-Manager-Senior-Manager-Commerce-Deloitte-Digital/24737": "Architect, Manager - Senior Manager, Commerce - Deloitte Digital",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Architect-Senior-Manager-Insurance-Deloitte-Digital/24385": "Architect, Senior Manager, Insurance, Deloitte Digital",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Life-Sciences-and-Healthcare-Commercial-Due-Diligence/25704": "Assistant Director Life Sciences and Healthcare, Commercial Due Diligence",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Nuclear-Advisory-Infrastructure-and-Capital-Programmes-Strategy-Risk-and-Transactions-Advisory/24431": "Assistant Director, Nuclear Advisory, Infrastructure and Capital Programmes: Strategy, Risk and Transactions Advisory",
@@ -22,42 +21,49 @@
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Equity-Capital-Markets-Finance-and-Transaction-Management-Office-EFT-M-A/24259": "Assistant Director, Equity Capital Markets, Finance, and Transaction Management Office (EFT), M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-M-A/24358": "Assistant Director, Financial Due Diligence - Financial Services, M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-Manchester/25282": "Assistant Director, Financial Due Diligence, Financial Services, Manchester",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Private-Equity-TMT-Tech/25721": "Assistant Director, Financial Due Diligence, Private Equity, TMT Tech"
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Private-Equity-TMT-Tech/25721": "Assistant Director, Financial Due Diligence, Private Equity, TMT Tech",
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Private-Equity-TMT-Tech/25545": "Assistant Director, Financial Due Diligence, Private Equity, TMT, Tech"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-17T21:20:10+00:00",
+  "checked": "2026-11-18T14:11:35+00:00",
   "error": null,
-  "changed_on": "2026-11-17",
+  "changed_on": "2026-11-18",
   "new_links": {},
   "new_on": "2026-11-05"
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "4074c966f8914d7728590d441de1d9a050cf53c2",
+  "hash": "d09e4022d795717a900ec0dca421bee51aedd083",
   "postings": {
-   "https://wise.jobs/job/regulatory-relations-manager-in-austin-jid-4533": "Regulatory Relations Manager",
-   "https://wise.jobs/job/legal-counsel-in-brussels-jid-4531": "Legal Counsel",
-   "https://wise.jobs/job/internal-audit-technology-lead-india-in-hyderabad-jid-4277": "Internal Audit Technology Lead - India",
-   "https://wise.jobs/job/head-of-finance-business-partnering-functions-and-workforce-strategy-in-london-jid-3786": "Head of Finance Business Partnering - Functions & Workforce Strategy",
-   "https://wise.jobs/job/sales-associate-coordinator-in-london-jid-4366": "Sales Associate / Coordinator",
-   "https://wise.jobs/job/senior-business-marketing-lead-north-america-in-austin-jid-3166": "Senior Business Marketing Lead, North America",
-   "https://wise.jobs/job/senior-software-engineer-ii-wise-for-banks-in-london-jid-4530": "Senior Software Engineer II - Wise for Banks",
-   "https://wise.jobs/job/quality-assurance-senior-specialist-in-tallinn-jid-3292": "Quality Assurance Senior Specialist",
-   "https://wise.jobs/job/quality-assurance-team-lead-in-tallinn-jid-3293": "Quality Assurance Team Lead",
-   "https://wise.jobs/job/senior-analyst-payment-operations-in-tallinn-jid-3708": "Senior Analyst - Payment Operations",
-   "https://wise.jobs/job/senior-finance-business-partner-in-london-jid-4195": "Senior Finance Business Partner"
+   "https://wise.jobs/job/fincrime-quality-team-lead-in-hyderabad-jid-4538": "Fincrime Quality Team Lead",
+   "https://wise.jobs/job/fincrime-quality-senior-specialist-in-hyderabad-jid-4508": "FinCrime Quality Senior Specialist",
+   "https://wise.jobs/job/wisewomencode-tallinn-in-tallinn-jid-4537": "WiseWomenCode - Tallinn",
+   "https://wise.jobs/job/wisewomencode-sao-paulo-in-sao-paulo-jid-4536": "WiseWomenCode - Sao Paulo",
+   "https://wise.jobs/job/senior-software-developer-fraud-risk-in-tallinn-jid-4288": "Senior Software Developer - Fraud Risk",
+   "https://wise.jobs/job/senior-software-engineer-send-high-volume-in-tallinn-jid-4340": "Senior Software Engineer - Send High Volume",
+   "https://wise.jobs/job/kyc-operations-analyst-platform-in-singapore-jid-4535": "KYC Operations Analyst - Platform",
+   "https://wise.jobs/job/team-lead-financial-crime-operations-sar-reporting-in-hyderabad-jid-4534": "Team Lead, Financial Crime Operations (SAR Reporting)",
+   "https://wise.jobs/job/senior-product-analyst-in-hyderabad-jid-4239": "Senior Product Analyst",
+   "https://wise.jobs/job/kyc-operations-associate-analyst-specialised-markets-in-hyderabad-jid-4470": "KYC Operations Associate Analyst - Specialised Markets",
+   "https://wise.jobs/job/customer-support-specialist-in-tokyo-jid-4087": "Customer Support Specialist",
+   "https://wise.jobs/job/regulatory-relations-manager-in-austin-jid-4533": "Regulatory Relations Manager"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-17T21:20:10+00:00",
+  "checked": "2026-11-18T14:11:35+00:00",
   "error": null,
-  "changed_on": "2026-11-17",
+  "changed_on": "2026-11-18",
   "new_links": {
-   "https://wise.jobs/job/regulatory-relations-manager-in-austin-jid-4533": "Regulatory Relations Manager"
+   "https://wise.jobs/job/fincrime-quality-team-lead-in-hyderabad-jid-4538": "Fincrime Quality Team Lead",
+   "https://wise.jobs/job/fincrime-quality-senior-specialist-in-hyderabad-jid-4508": "FinCrime Quality Senior Specialist",
+   "https://wise.jobs/job/wisewomencode-tallinn-in-tallinn-jid-4537": "WiseWomenCode - Tallinn",
+   "https://wise.jobs/job/wisewomencode-sao-paulo-in-sao-paulo-jid-4536": "WiseWomenCode - Sao Paulo",
+   "https://wise.jobs/job/senior-product-analyst-in-hyderabad-jid-4239": "Senior Product Analyst",
+   "https://wise.jobs/job/customer-support-specialist-in-tokyo-jid-4087": "Customer Support Specialist"
   },
-  "new_on": "2026-11-17"
+  "new_on": "2026-11-18"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
@@ -83,12 +89,10 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-17T21:20:10+00:00",
+  "checked": "2026-11-18T14:11:35+00:00",
   "error": null,
   "changed_on": "2026-11-17",
-  "new_links": {
-   "https://optiver.com/join-us/jobs/risk-finance-and-legal/mumbai/operational-risk-manager/": "Operational Risk Manager"
-  },
+  "new_links": {},
   "new_on": "2026-11-17"
  },
  "https://careers.shezlong.com/": {
@@ -101,7 +105,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-17T21:20:10+00:00",
+  "checked": "2026-11-18T14:11:35+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -110,33 +114,30 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "7c25c47c8b38f48d485693b248db097e4ee3e6a4",
+  "hash": "070b666f0005eb792ada63ff1428440bd34fc90e",
   "postings": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-clinical-excellence-1100092634/": "Manager - Clinical Excellence",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-pr-contract-management-1100089040/": "Senior Executive Manager - PR Contract Management",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-operational-transformation-1100091836/": "Manager - Operational Transformation",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-medical-pre-authorization-pipeline-1100062472/": "Manager - Medical Pre Authorization ( Pipeline )",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-pre-authorization-pipeline-1100073541/": "Manager - Pre Authorization (Pipeline)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-data-security-analysis-1100088379/": "Manager - Data Security Analysis",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-legal-operations-enablement-1100092560/": "Senior Associate - Legal Operations & Enablement",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-litigation-regulatory-affairs-legal-risk-1100092557/": "Manager - Litigation, Regulatory Affairs & Legal Risk",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-pre-authorization-pipeline-1100067272/": "Manager - Pre Authorization (Pipeline)",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-innovation-designer-1100091982/": "Coop - Innovation Designer",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-icc-finance-operations-1100085080/": "Senior Associate - ICC Finance Operations",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-cyber-security-strategy-architecture-1100092368/": "Senior Executive Manager - Cyber Security Strategy & Architecture",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/home-healthcare-nurse-1100046708/": "View Job Details"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-graphic-design-1100091982/": "Coop - Graphic Design"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-17T21:20:10+00:00",
+  "checked": "2026-11-18T14:11:35+00:00",
   "error": null,
-  "changed_on": "2026-11-17",
+  "changed_on": "2026-11-18",
   "new_links": {
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-pre-authorization-pipeline-1100073541/": "Manager - Pre Authorization (Pipeline)",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-data-security-analysis-1100088379/": "Manager - Data Security Analysis",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-associate-legal-operations-enablement-1100092560/": "Senior Associate - Legal Operations & Enablement",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-litigation-regulatory-affairs-legal-risk-1100092557/": "Manager - Litigation, Regulatory Affairs & Legal Risk",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-pre-authorization-pipeline-1100067272/": "Manager - Pre Authorization (Pipeline)",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-outreach-engagement-1100091234/": "Manager - Outreach Engagement",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/home-healthcare-nurse-1100046708/": "View Job Details"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-clinical-excellence-1100092634/": "Manager - Clinical Excellence",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-pr-contract-management-1100089040/": "Senior Executive Manager - PR Contract Management",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-operational-transformation-1100091836/": "Manager - Operational Transformation",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-medical-pre-authorization-pipeline-1100062472/": "Manager - Medical Pre Authorization ( Pipeline )"
   },
-  "new_on": "2026-11-17"
+  "new_on": "2026-11-18"
  }
 }
