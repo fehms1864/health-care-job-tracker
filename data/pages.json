@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "6e93ee2a66c60464059dd3173513e8117adddb01",
+  "hash": "3498a8c7edfe0cde8acbb8969daa99898c29a6b6",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-19T14:29:20+00:00",
+  "checked": "2026-11-19T20:58:40+00:00",
   "error": null,
   "changed_on": "2026-11-19",
   "new_links": {},
@@ -35,42 +35,39 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "bcaacfe9221a86a2677845497b39105b20464b6e",
+  "hash": "11c806bd3f13cd067f15e70c739f9a512b3a4151",
   "postings": {
+   "https://wise.jobs/job/presales-consultant-banks-in-austin-jid-4184": "Presales Consultant - Banks",
+   "https://wise.jobs/job/senior-presales-consultant-online-platforms-in-austin-jid-4552": "Senior Presales Consultant - Online Platforms",
+   "https://wise.jobs/job/product-manager-support-experience-in-london-jid-4164": "Product Manager - Support Experience",
+   "https://wise.jobs/job/product-lead-money-laundering-prevention-in-london-jid-4551": "Product Lead - Money Laundering Prevention",
+   "https://wise.jobs/job/senior-engineering-lead-generative-ai-platform-in-hyderabad-jid-4491": "Senior Engineering Lead - Generative AI Platform",
+   "https://wise.jobs/job/revenue-operations-manager-in-london-jid-4550": "Revenue Operations Manager",
    "https://wise.jobs/job/senior-software-engineer-i-servicing-platform-in-london-jid-2833": "Senior Software Engineer I - Servicing Platform",
-   "https://wise.jobs/job/senior-product-analyst-fincrime-in-london-jid-3314": "Senior Product Analyst - FinCrime",
    "https://wise.jobs/job/lead-product-analyst-business-squad-in-london-jid-4225": "Lead Product Analyst - Business Squad",
    "https://wise.jobs/job/product-director-receive-in-london-jid-4205": "Product Director, Receive",
    "https://wise.jobs/job/senior-product-manager-payment-integrations-in-london-jid-4549": "Senior Product Manager – Payment integrations",
    "https://wise.jobs/job/general-accounting-senior-lead-product-accounting-and-journaling-in-tallinn-jid-4548": "General Accounting Senior Lead (Product accounting & Journaling)",
-   "https://wise.jobs/job/technology-vendor-manager-in-tallinn-jid-4547": "Technology Vendor Manager",
-   "https://wise.jobs/job/partner-risk-assessment-specialist-in-singapore-jid-4210": "Partner Risk Assessment Specialist",
-   "https://wise.jobs/job/kyc-operations-senior-analyst-deactivations-in-hyderabad-jid-4464": "KYC Operations Senior Analyst - Deactivations",
-   "https://wise.jobs/job/product-compliance-manager-apac-operational-resilience-in-singapore-jid-4546": "Product Compliance Manager - APAC Operational Resilience",
-   "https://wise.jobs/job/customer-support-specialist-spanish-speaker-5-am-shift-in-sao-paulo-jid-4545": "Customer Support Specialist (Spanish Speaker - 5 am shift)",
-   "https://wise.jobs/job/customer-support-specialist-spanish-speaker-nightime-1-am-shift-in-sao-paulo-jid-4544": "Customer Support Specialist (Spanish Speaker - Nightime - 1 am shift)"
+   "https://wise.jobs/job/technology-vendor-manager-in-tallinn-jid-4547": "Technology Vendor Manager"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-19T14:29:20+00:00",
+  "checked": "2026-11-19T20:58:40+00:00",
   "error": null,
   "changed_on": "2026-11-19",
   "new_links": {
-   "https://wise.jobs/job/senior-product-analyst-fincrime-in-london-jid-3314": "Senior Product Analyst - FinCrime",
-   "https://wise.jobs/job/lead-product-analyst-business-squad-in-london-jid-4225": "Lead Product Analyst - Business Squad",
-   "https://wise.jobs/job/senior-product-manager-payment-integrations-in-london-jid-4549": "Senior Product Manager – Payment integrations",
-   "https://wise.jobs/job/technology-vendor-manager-in-tallinn-jid-4547": "Technology Vendor Manager",
-   "https://wise.jobs/job/partner-risk-assessment-specialist-in-singapore-jid-4210": "Partner Risk Assessment Specialist",
-   "https://wise.jobs/job/product-compliance-manager-apac-operational-resilience-in-singapore-jid-4546": "Product Compliance Manager - APAC Operational Resilience",
-   "https://wise.jobs/job/customer-support-specialist-spanish-speaker-5-am-shift-in-sao-paulo-jid-4545": "Customer Support Specialist (Spanish Speaker - 5 am shift)",
-   "https://wise.jobs/job/customer-support-specialist-spanish-speaker-nightime-1-am-shift-in-sao-paulo-jid-4544": "Customer Support Specialist (Spanish Speaker - Nightime - 1 am shift)"
+   "https://wise.jobs/job/presales-consultant-banks-in-austin-jid-4184": "Presales Consultant - Banks",
+   "https://wise.jobs/job/senior-presales-consultant-online-platforms-in-austin-jid-4552": "Senior Presales Consultant - Online Platforms",
+   "https://wise.jobs/job/product-manager-support-experience-in-london-jid-4164": "Product Manager - Support Experience",
+   "https://wise.jobs/job/product-lead-money-laundering-prevention-in-london-jid-4551": "Product Lead - Money Laundering Prevention",
+   "https://wise.jobs/job/revenue-operations-manager-in-london-jid-4550": "Revenue Operations Manager"
   },
   "new_on": "2026-11-19"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "218032efcfe47adbb6b6ed949dc011e7a174733d",
+  "hash": "8825eabf2dff824634909561febc3235eee9336e",
   "postings": {
    "https://optiver.com/join-us/jobs/technology/shanghai/technology-procurement-sourcing-specialist/": "Technology Procurement Sourcing Specialist",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/mumbai/operational-risk-manager/": "Operational Risk Manager",
@@ -91,7 +88,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-19T14:29:20+00:00",
+  "checked": "2026-11-19T20:58:40+00:00",
   "error": null,
   "changed_on": "2026-11-19",
   "new_links": {},
@@ -107,7 +104,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-19T14:29:20+00:00",
+  "checked": "2026-11-19T20:58:40+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -116,8 +113,9 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "2e2ce6fd858a381595e8fa9f34cc4e73e0bdc471",
+  "hash": "0c6ab24ab9a2f30a80d7b688e2b007e068ae7352",
   "postings": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-registrar-internal-medicine-1100063734/": "Senior Registrar – Internal Medicine",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-medical-claims-operations-pipeline-1100092663/": "Manager - Medical Claims Operations (Pipeline)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-clinical-excellence-1100092634/": "Manager - Clinical Excellence",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-pr-contract-management-1100089040/": "Senior Executive Manager - PR Contract Management",
@@ -126,12 +124,11 @@
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-pre-authorization-pipeline-1100073541/": "Manager - Pre Authorization (Pipeline)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-data-security-analysis-1100088379/": "Manager - Data Security Analysis",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-litigation-regulatory-affairs-legal-risk-1100092557/": "Manager - Litigation, Regulatory Affairs & Legal Risk",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-pre-authorization-pipeline-1100067272/": "Manager - Pre Authorization (Pipeline)",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-graphic-design-1100091982/": "Coop - Graphic Design"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-pre-authorization-pipeline-1100067272/": "Manager - Pre Authorization (Pipeline)"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-19T14:29:20+00:00",
+  "checked": "2026-11-19T20:58:40+00:00",
   "error": null,
   "changed_on": "2026-11-19",
   "new_links": {

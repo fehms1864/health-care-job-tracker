@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T14:29:20+00:00",
+ "generated_at": "2026-11-19T20:58:40+00:00",
  "baseline_date": "2026-09-27",
  "rules_version": 6,
  "sources": {
@@ -159,6 +159,30 @@
  },
  "jobs": [
   {
+   "id": "78a4ecae2401c4",
+   "company": "Cleo AI",
+   "region": "UK",
+   "title": "Strategy & Operations Manager",
+   "location": "United Kingdom (Hybrid)",
+   "url": "https://jobs.ashbyhq.com/cleo-2/3d460bce-def5-442e-8042-466ce4ee4964",
+   "posted": "2026-11-19T16:12:03.935+00:00",
+   "posted_date": "2026-11-19",
+   "posted_approx": false,
+   "first_seen": "2026-11-19",
+   "score": 61,
+   "hits": [
+    "mental health",
+    "strategy",
+    "operations",
+    "operations manager"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "16e909febb34da",
    "company": "Microsoft",
    "region": "UK",
@@ -175,6 +199,30 @@
     "operations",
     "program manager",
     "business operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "7ad4e749b84669",
+   "company": "Wise",
+   "region": "UK",
+   "title": "Revenue Operations Manager",
+   "location": "London",
+   "url": "https://wise.jobs/job/revenue-operations-manager-in-london-jid-4550",
+   "posted": "2026-11-19T15:13:44+00:00",
+   "posted_date": "2026-11-19",
+   "posted_approx": false,
+   "first_seen": "2026-11-19",
+   "score": 38,
+   "hits": [
+    "strategy",
+    "operations",
+    "implementation",
+    "operations manager"
    ],
    "lang": null,
    "visa": null,
@@ -207,6 +255,102 @@
    "baseline": false
   },
   {
+   "id": "7853d79e5198e5",
+   "company": "Version 1",
+   "region": "UK",
+   "title": "Senior Microsoft Dynamics 365 Consultant",
+   "location": "London, Birmingham, Manchester, Newcastle upon Tyne, Edinburgh, Belfast, gb",
+   "url": "https://jobs.smartrecruiters.com/version1/744000162573794",
+   "posted": "2026-11-19T17:42:57.070Z",
+   "posted_date": "2026-11-19",
+   "posted_approx": false,
+   "first_seen": "2026-11-19",
+   "score": 32,
+   "hits": [
+    "consultant",
+    "implementation",
+    "transformation",
+    "process improvement"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "54f1cf587ef5a3",
+   "company": "Amazon / AWS (UK)",
+   "region": "UK",
+   "title": "Senior Product Manager, EU FBA Support Operations",
+   "location": "London, England, GBR",
+   "url": "https://www.amazon.jobs/en/jobs/10609300/senior-product-manager-eu-fba-support-operations",
+   "posted": "November 19, 2026",
+   "posted_date": "2026-11-19",
+   "posted_approx": true,
+   "first_seen": "2026-11-19",
+   "score": 32,
+   "hits": [
+    "strategy",
+    "operations",
+    "transformation",
+    "product manager"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "d9c2f2dfec3d0c",
+   "company": "HCA Healthcare UK",
+   "region": "UK",
+   "title": "Senior Medical Secretary | Urology (Harborne)",
+   "location": "London, United Kingdom",
+   "url": "https://www.hcahealthcare.co.uk/careers/vacancy/0055044",
+   "posted": "2026-11-19",
+   "posted_date": "2026-11-19",
+   "posted_approx": false,
+   "first_seen": "2026-11-19",
+   "score": 31,
+   "hits": [
+    "healthcare",
+    "patient",
+    "medical",
+    "hospital"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "3cf2fad5ae21e5",
+   "company": "HCA Healthcare UK",
+   "region": "UK",
+   "title": "Medical Secretary | Rheumatology (Fixed Term)",
+   "location": "London, United Kingdom",
+   "url": "https://www.hcahealthcare.co.uk/careers/vacancy/0054868",
+   "posted": "2026-11-19",
+   "posted_date": "2026-11-19",
+   "posted_approx": false,
+   "first_seen": "2026-11-19",
+   "score": 31,
+   "hits": [
+    "healthcare",
+    "patient",
+    "medical",
+    "hospital"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "00ddafece05a40",
    "company": "HCA Healthcare UK",
    "region": "UK",
@@ -231,6 +375,30 @@
    "baseline": false
   },
   {
+   "id": "d517a9fb9cb493",
+   "company": "Version 1",
+   "region": "UK",
+   "title": "Business Analyst",
+   "location": "Edinburgh, Scotland, gb",
+   "url": "https://jobs.smartrecruiters.com/version1/744000162567574",
+   "posted": "2026-11-19T17:05:08.841Z",
+   "posted_date": "2026-11-19",
+   "posted_approx": false,
+   "first_seen": "2026-11-19",
+   "score": 28,
+   "hits": [
+    "healthcare",
+    "consulting",
+    "implementation",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "5cda225520589f",
    "company": "Wipro",
    "region": "UK",
@@ -247,6 +415,28 @@
     "consulting",
     "transformation",
     "programme manager"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "4c92785d090640",
+   "company": "Amazon / AWS (UK)",
+   "region": "UK",
+   "title": "UK ICQA Operations Manager, EU Quality",
+   "location": "Dunstable, England, GBR",
+   "url": "https://www.amazon.jobs/en/jobs/10483333/uk-icqa-operations-manager-eu-quality",
+   "posted": "July 24, 2026",
+   "posted_date": "2026-11-19",
+   "posted_approx": true,
+   "first_seen": "2026-11-19",
+   "score": 26,
+   "hits": [
+    "operations",
+    "operations manager"
    ],
    "lang": null,
    "visa": null,
@@ -371,6 +561,30 @@
    "baseline": false
   },
   {
+   "id": "a871c833422b2e",
+   "company": "BCG",
+   "region": "UK",
+   "title": "Global Employee Relations Senior Specialist",
+   "location": "Lisbon, Portugal / London, United Kingdom",
+   "url": "https://careers.bcg.com/global/en/job/65360/Global-Employee-Relations-Senior-Specialist",
+   "posted": "2026-11-19T00:00:00.000+0000",
+   "posted_date": "2026-11-19",
+   "posted_approx": false,
+   "first_seen": "2026-11-19",
+   "score": 22,
+   "hits": [
+    "strategy",
+    "operations",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "9d23d1f5116244",
    "company": "Wipro",
    "region": "UK",
@@ -464,6 +678,29 @@
    "baseline": false
   },
   {
+   "id": "672c63d765395f",
+   "company": "Baringa",
+   "region": "UK",
+   "title": "Executive Assistant - 12 month FTC",
+   "location": "London, United Kingdom",
+   "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/5028814101",
+   "posted": "2026-11-19T13:06:31-05:00",
+   "posted_date": "2026-11-19",
+   "posted_approx": false,
+   "first_seen": "2026-11-19",
+   "score": 20,
+   "hits": [
+    "strategy",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "a71b8ec73c1099",
    "company": "Baringa",
    "region": "UK",
@@ -510,19 +747,21 @@
    "baseline": false
   },
   {
-   "id": "154125839c8c3a",
-   "company": "Publicis",
+   "id": "da55b52591d4ac",
+   "company": "Microsoft",
    "region": "UK",
-   "title": "Media Coordinator (Programmatic)",
-   "location": "New York, New York; Birmingham, Michigan; Chicago, Illinois / 375 Hudson",
-   "url": "https://careers.publicisgroupe.com/jobs/181940?lang=en-us",
-   "posted": "2026-11-16T17:46:00+0000",
-   "posted_date": "2026-11-16",
+   "title": "Partner Development Manager",
+   "location": "United Kingdom, London, London",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075135",
+   "posted": "2026-11-19T16:21:27+00:00",
+   "posted_date": "2026-11-19",
    "posted_approx": false,
    "first_seen": "2026-11-19",
    "score": 20,
    "hits": [
-    "implementation",
+    "strategy",
+    "operations",
+    "consulting",
     "transformation"
    ],
    "lang": null,
@@ -640,6 +879,49 @@
     "operations",
     "implementation",
     "operations manager"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "ac5d23305f53bf",
+   "company": "Version 1",
+   "region": "UK",
+   "title": "Senior Product Owner",
+   "location": "Belfast, Northern Ireland, gb",
+   "url": "https://jobs.smartrecruiters.com/version1/744000162532084",
+   "posted": "2026-11-19T14:51:00.125Z",
+   "posted_date": "2026-11-19",
+   "posted_approx": false,
+   "first_seen": "2026-11-19",
+   "score": 17,
+   "hits": [
+    "implementation",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "d5d2aa5e73bbe6",
+   "company": "Neko Health",
+   "region": "UK",
+   "title": "People Enablement Lead",
+   "location": "London / United Kingdom",
+   "url": "https://jobs.ashbyhq.com/neko-health/20461beb-ca08-42aa-995e-10c6a281edc1",
+   "posted": "2026-11-19T17:27:07.256+00:00",
+   "posted_date": "2026-11-19",
+   "posted_approx": false,
+   "first_seen": "2026-11-19",
+   "score": 16,
+   "hits": [
+    "operations"
    ],
    "lang": null,
    "visa": null,
@@ -783,6 +1065,28 @@
    "baseline": false
   },
   {
+   "id": "e1c89e19f36269",
+   "company": "Wise",
+   "region": "UK",
+   "title": "Product Manager - Support Experience",
+   "location": "London",
+   "url": "https://wise.jobs/job/product-manager-support-experience-in-london-jid-4164",
+   "posted": "2026-11-19T16:28:05+00:00",
+   "posted_date": "2026-11-19",
+   "posted_approx": false,
+   "first_seen": "2026-11-19",
+   "score": 14,
+   "hits": [
+    "strategy",
+    "product manager"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "5cbd083310fe69",
    "company": "Wise",
    "region": "UK",
@@ -849,6 +1153,28 @@
    "baseline": false
   },
   {
+   "id": "13c2fd33b6dc68",
+   "company": "Anthropic",
+   "region": "UK",
+   "title": "AWS Partnerships Lead",
+   "location": "London, UK London, England, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5486656008",
+   "posted": "2026-11-19T11:04:53-05:00",
+   "posted_date": "2026-11-19",
+   "posted_approx": false,
+   "first_seen": "2026-11-19",
+   "score": 13,
+   "hits": [
+    "strategy",
+    "consulting"
+   ],
+   "lang": null,
+   "visa": "yes",
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "bd56772389ca3e",
    "company": "Lendable",
    "region": "UK",
@@ -861,6 +1187,28 @@
    "first_seen": "2026-11-19",
    "score": 13,
    "hits": [
+    "operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "86822de26b225c",
+   "company": "Wise",
+   "region": "UK",
+   "title": "Product Lead - Money Laundering Prevention",
+   "location": "London",
+   "url": "https://wise.jobs/job/product-lead-money-laundering-prevention-in-london-jid-4551",
+   "posted": "2026-11-19T16:24:04+00:00",
+   "posted_date": "2026-11-19",
+   "posted_approx": false,
+   "first_seen": "2026-11-19",
+   "score": 13,
+   "hits": [
+    "strategy",
     "operations"
    ],
    "lang": null,
@@ -914,6 +1262,27 @@
    "baseline": false
   },
   {
+   "id": "9b6d88246a43d5",
+   "company": "Microsoft",
+   "region": "UK",
+   "title": "Lease Construction Manager",
+   "location": "United Kingdom, Multiple Locations, Multiple Locations / Norway, Oslo, Oslo",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075310",
+   "posted": "2026-11-19T16:43:26+00:00",
+   "posted_date": "2026-11-19",
+   "posted_approx": false,
+   "first_seen": "2026-11-19",
+   "score": 11,
+   "hits": [
+    "operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "829e4adbc02e06",
    "company": "Wise",
    "region": "UK",
@@ -956,6 +1325,28 @@
    "baseline": false
   },
   {
+   "id": "2963c169db1349",
+   "company": "Anthropic",
+   "region": "UK",
+   "title": "Partner Success Lead",
+   "location": "London, UK London, England, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427025008",
+   "posted": "2026-09-22T09:08:03-04:00",
+   "posted_date": "2026-09-22",
+   "posted_approx": false,
+   "first_seen": "2026-11-19",
+   "score": 10,
+   "hits": [
+    "consultant",
+    "consulting"
+   ],
+   "lang": null,
+   "visa": "yes",
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "e48a249ec15a9b",
    "company": "Mumzworld",
    "region": "ME",
@@ -975,20 +1366,22 @@
    "baseline": false
   },
   {
-   "id": "8cba7137484aeb",
-   "company": "Wise",
+   "id": "ff1c7f5ed544f2",
+   "company": "Amazon / AWS (UK)",
    "region": "UK",
-   "title": "Senior Product Analyst - FinCrime",
-   "location": "London",
-   "url": "https://wise.jobs/job/senior-product-analyst-fincrime-in-london-jid-3314",
-   "posted": "2026-11-19T12:03:41+00:00",
+   "title": "Sr. Supplier Decarbonization Manager, GPO Environment",
+   "location": "London, England, GBR",
+   "url": "https://www.amazon.jobs/en/jobs/10569173/sr-supplier-decarbonization-manager-gpo-environment",
+   "posted": "October  5, 2026",
    "posted_date": "2026-11-19",
-   "posted_approx": false,
+   "posted_approx": true,
    "first_seen": "2026-11-19",
-   "score": 4,
-   "hits": [],
+   "score": 5,
+   "hits": [
+    "strategy"
+   ],
    "lang": null,
-   "visa": "no",
+   "visa": null,
    "details": true,
    "lang_checked": true,
    "baseline": false
@@ -1005,6 +1398,25 @@
    "posted_approx": false,
    "first_seen": "2026-11-19",
    "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "8a3d2149433271",
+   "company": "Publicis",
+   "region": "UK",
+   "title": "Senior Professional, Marketing",
+   "location": "London, United Kingdom / 2 Television Centre",
+   "url": "https://careers.publicisgroupe.com/jobs/182179?lang=en-us",
+   "posted": "2026-11-19T17:55:00+0000",
+   "posted_date": "2026-11-19",
+   "posted_approx": false,
+   "first_seen": "2026-11-19",
+   "score": 2,
    "hits": [],
    "lang": null,
    "visa": null,
@@ -1048,30 +1460,6 @@
     "strategy",
     "operations",
     "product operations"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "39287cc10f9151",
-   "company": "Deliveroo",
-   "region": "UK",
-   "title": "Senior Associate, Dasher & Logistics - Strategy & Operations EMEA (L3)",
-   "location": "London, United Kingdom - Deliveroo",
-   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8399144",
-   "posted": "2026-11-18T10:06:31-05:00",
-   "posted_date": "2026-11-18",
-   "posted_approx": false,
-   "first_seen": "2026-11-18",
-   "score": 56,
-   "hits": [
-    "strategy",
-    "operations",
-    "change management",
-    "strategy & operations"
    ],
    "lang": null,
    "visa": null,
@@ -1295,30 +1683,6 @@
    "baseline": false
   },
   {
-   "id": "af481b810a0b55",
-   "company": "Version 1",
-   "region": "UK",
-   "title": "Senior Microsoft Dynamics 365 Consultant",
-   "location": "London, Birmingham, Manchester, Newcastle upon Tyne, Edinburgh, Belfast, gb",
-   "url": "https://jobs.smartrecruiters.com/version1/744000162305120",
-   "posted": "2026-11-18T14:08:25.575Z",
-   "posted_date": "2026-11-18",
-   "posted_approx": false,
-   "first_seen": "2026-11-18",
-   "score": 32,
-   "hits": [
-    "consultant",
-    "implementation",
-    "transformation",
-    "process improvement"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "3f408c88c63d49",
    "company": "BCG",
    "region": "UK",
@@ -1456,6 +1820,30 @@
    "baseline": false
   },
   {
+   "id": "39287cc10f9151",
+   "company": "Deliveroo",
+   "region": "UK",
+   "title": "Senior Associate, Dasher & Logistics",
+   "location": "London, United Kingdom - Deliveroo",
+   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8399144",
+   "posted": "2026-11-18T10:06:31-05:00",
+   "posted_date": "2026-11-18",
+   "posted_approx": false,
+   "first_seen": "2026-11-18",
+   "score": 24,
+   "hits": [
+    "strategy",
+    "operations",
+    "change management",
+    "strategy & operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "3ff3b0344de9cd",
    "company": "HCA Healthcare UK",
    "region": "UK",
@@ -1501,12 +1889,12 @@
    "baseline": false
   },
   {
-   "id": "672b658acd4414",
+   "id": "43b3f07d95c50a",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Sector Transformation - Aerospace, Defense and Automotive - Manager",
+   "title": "Sector Transformation - Aerospace, Defense and Automotive - Senior",
    "location": "Chicago, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/Chicago-Sector-Transformation-Aerospace%2C-Defense-and-Automotive-Manager-IL-60606/1458531633/",
+   "url": "https://careers.ey.com/ey/job/Chicago-Sector-Transformation-Aerospace%2C-Defense-and-Automotive-Senior-IL-60606/1458533033/",
    "posted": null,
    "posted_date": "2026-11-18",
    "posted_approx": true,
@@ -1524,12 +1912,12 @@
    "baseline": false
   },
   {
-   "id": "43b3f07d95c50a",
+   "id": "672b658acd4414",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Sector Transformation - Aerospace, Defense and Automotive - Senior",
+   "title": "Sector Transformation - Aerospace, Defense and Automotive - Manager",
    "location": "Chicago, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/Chicago-Sector-Transformation-Aerospace%2C-Defense-and-Automotive-Senior-IL-60606/1458533033/",
+   "url": "https://careers.ey.com/ey/job/Chicago-Sector-Transformation-Aerospace%2C-Defense-and-Automotive-Manager-IL-60606/1458531633/",
    "posted": null,
    "posted_date": "2026-11-18",
    "posted_approx": true,
@@ -1916,27 +2304,6 @@
    "posted": "October 30, 2026",
    "posted_date": "2026-11-18",
    "posted_approx": true,
-   "first_seen": "2026-11-18",
-   "score": 14,
-   "hits": [
-    "operations"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "da92ef69bcde87",
-   "company": "Lendable",
-   "region": "UK",
-   "title": "Customer Operations & Complaints Graduate (SRC)",
-   "location": "London / United Kingdom",
-   "url": "https://jobs.ashbyhq.com/lendable/f8b044e2-8ceb-4ba6-af1d-6c28faccc54d",
-   "posted": "2026-11-18T16:39:00.552+00:00",
-   "posted_date": "2026-11-18",
-   "posted_approx": false,
    "first_seen": "2026-11-18",
    "score": 14,
    "hits": [
@@ -2354,30 +2721,6 @@
     "strategy",
     "operations",
     "program manager"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "320110e4abb3cd",
-   "company": "Wipro",
-   "region": "UK",
-   "title": "DOMAIN CONSULTANT L2(CONTRACT)",
-   "location": "London, GBR-37, GBR, SE1 9AX<br / > / United Kingdom",
-   "url": "https://careers.wipro.com/job/DOMAIN-CONSULTANT-L2%28CONTRACT%29/199071-en_US",
-   "posted": "11/17/26",
-   "posted_date": "2026-11-17",
-   "posted_approx": false,
-   "first_seen": "2026-11-17",
-   "score": 25,
-   "hits": [
-    "operations",
-    "consultant",
-    "consulting",
-    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -3816,30 +4159,6 @@
    "baseline": false
   },
   {
-   "id": "cacf468b0180e0",
-   "company": "BCG",
-   "region": "UK",
-   "title": "London A-C Performance Partner, Senior Specialist (6 Month FTC)",
-   "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/64205/London-A-C-Performance-Partner-Senior-Specialist-6-Month-FTC",
-   "posted": "2026-11-16T00:00:00.000+0000",
-   "posted_date": "2026-11-16",
-   "posted_approx": false,
-   "first_seen": "2026-11-16",
-   "score": 16,
-   "hits": [
-    "strategy",
-    "consultant",
-    "consulting",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "32d76b4de5a645",
    "company": "Monzo",
    "region": "UK",
@@ -4007,27 +4326,6 @@
     "operations",
     "consulting",
     "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "b69fc6016f97b6",
-   "company": "Publicis",
-   "region": "UK",
-   "title": "Executive Assistant",
-   "location": "London, United Kingdom / 2 Television Centre",
-   "url": "https://careers.publicisgroupe.com/jobs/181979?lang=en-us",
-   "posted": "2026-11-16T11:40:00+0000",
-   "posted_date": "2026-11-16",
-   "posted_approx": false,
-   "first_seen": "2026-11-16",
-   "score": 8,
-   "hits": [
-    "strategy"
    ],
    "lang": null,
    "visa": null,
@@ -6936,29 +7234,6 @@
    "stale": true
   },
   {
-   "id": "74ecb15692709e",
-   "company": "Amazon / AWS (UK)",
-   "region": "UK",
-   "title": "Supply Chain Manager (S&OP), EU Supply Chain Execution & Planning (Grocery)",
-   "location": "London, England, GBR",
-   "url": "https://www.amazon.jobs/en/jobs/10603180/supply-chain-manager-s-op-eu-supply-chain-execution-planning-grocery",
-   "posted": "November 12, 2026",
-   "posted_date": "2026-11-12",
-   "posted_approx": true,
-   "first_seen": "2026-11-12",
-   "score": 12,
-   "hits": [
-    "strategy",
-    "operations",
-    "process improvement"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "ceb292b475b1c0",
    "company": "Amazon / AWS (UK)",
    "region": "UK",
@@ -8148,27 +8423,6 @@
    "lang_checked": true,
    "baseline": false,
    "stale": true
-  },
-  {
-   "id": "1b52641a1cb9cb",
-   "company": "HCA Healthcare UK",
-   "region": "UK",
-   "title": "Specialist Revenue Assurance Officer-Payments",
-   "location": "Prestatyn, United Kingdom",
-   "url": "https://www.hcahealthcare.co.uk/careers/vacancy/0054912",
-   "posted": "2026-11-11",
-   "posted_date": "2026-11-11",
-   "posted_approx": false,
-   "first_seen": "2026-11-11",
-   "score": 17,
-   "hits": [
-    "healthcare"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
   },
   {
    "id": "4bd716698e0b66",
@@ -11353,31 +11607,10 @@
    "baseline": false
   },
   {
-   "id": "66f2c24d0787ce",
-   "company": "Netflix",
-   "region": "NL",
-   "title": "Lead Merchandiser - EMEA",
-   "location": "London,United Kingdom / Amsterdam,North Holland,Netherlands",
-   "url": "https://explore.jobs.netflix.net/careers/job/790319316454",
-   "posted": null,
-   "posted_date": "2026-11-09",
-   "posted_approx": true,
-   "first_seen": "2026-11-09",
-   "score": 5,
-   "hits": [
-    "strategy"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "8deeedfe7f3edb",
    "company": "Publicis",
    "region": "UK",
-   "title": "Business Affairs Manager",
+   "title": "Junior Business Affairs Manager",
    "location": "London, United Kingdom / 2 Television Centre",
    "url": "https://careers.publicisgroupe.com/jobs/179106?lang=en-us",
    "posted": "2026-11-10T16:09:00+0000",
@@ -12367,28 +12600,6 @@
    "lang_checked": true,
    "baseline": false,
    "stale": true
-  },
-  {
-   "id": "ad79581ec62371",
-   "company": "Adyen",
-   "region": "NL",
-   "title": "Senior/Lead, HR Business Partner, Operations",
-   "location": "Amsterdam Amsterdam",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8158622",
-   "posted": "2026-11-06T08:07:23-05:00",
-   "posted_date": "2026-11-06",
-   "posted_approx": false,
-   "first_seen": "2026-11-06",
-   "score": 15,
-   "hits": [
-    "strategy",
-    "operations"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
   },
   {
    "id": "f560792171e10e",
@@ -13733,7 +13944,7 @@
    "title": "Strategic Client Services Manager",
    "location": "London, United Kingdom / 2 Television Centre",
    "url": "https://careers.publicisgroupe.com/jobs/179587?lang=en-us",
-   "posted": "2026-11-05T16:11:00+0000",
+   "posted": "2026-11-19T18:19:00+0000",
    "posted_date": "2026-11-05",
    "posted_approx": false,
    "first_seen": "2026-11-05",
@@ -16468,28 +16679,6 @@
    "stale": true
   },
   {
-   "id": "ad0f41db302bdc",
-   "company": "Publicis",
-   "region": "UK",
-   "title": "Senior Revenue Operations Analyst",
-   "location": "London, United Kingdom / 2 Television Centre",
-   "url": "https://careers.publicisgroupe.com/jobs/180142?lang=en-us",
-   "posted": "2026-11-02T15:41:00+0000",
-   "posted_date": "2026-11-02",
-   "posted_approx": false,
-   "first_seen": "2026-11-02",
-   "score": 22,
-   "hits": [
-    "operations",
-    "process improvement"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "9c52641eacf894",
    "company": "Adyen",
    "region": "NL",
@@ -16554,6 +16743,28 @@
     "strategy",
     "consulting",
     "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "ad0f41db302bdc",
+   "company": "Publicis",
+   "region": "UK",
+   "title": "Senior Revenue Operations Analyst",
+   "location": "London, United Kingdom / 2 Television Centre",
+   "url": "https://careers.publicisgroupe.com/jobs/180142?lang=en-us",
+   "posted": "2026-11-19T17:58:00+0000",
+   "posted_date": "2026-11-02",
+   "posted_approx": false,
+   "first_seen": "2026-11-02",
+   "score": 19,
+   "hits": [
+    "operations",
+    "process improvement"
    ],
    "lang": null,
    "visa": null,
@@ -17984,13 +18195,13 @@
    "baseline": false
   },
   {
-   "id": "59fae8d91c041a",
+   "id": "c73bfa79156dca",
    "company": "Intercom",
    "region": "UK",
    "title": "Senior Customer Education Manager, Live Programs",
-   "location": "London, England London, Greater London, England, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/intercom/jobs/8155306",
-   "posted": "2026-10-30T12:51:30-04:00",
+   "location": "Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/8337122",
+   "posted": "2026-10-30T12:51:32-04:00",
    "posted_date": "2026-10-30",
    "posted_approx": false,
    "first_seen": "2026-10-30",
@@ -18005,13 +18216,13 @@
    "baseline": false
   },
   {
-   "id": "c73bfa79156dca",
+   "id": "59fae8d91c041a",
    "company": "Intercom",
    "region": "UK",
    "title": "Senior Customer Education Manager, Live Programs",
-   "location": "Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/intercom/jobs/8337122",
-   "posted": "2026-10-30T12:51:32-04:00",
+   "location": "London, England London, Greater London, England, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/8155306",
+   "posted": "2026-10-30T12:51:30-04:00",
    "posted_date": "2026-10-30",
    "posted_approx": false,
    "first_seen": "2026-10-30",
@@ -19803,7 +20014,7 @@
    "title": "Campaign Operations Manager",
    "location": "London, United Kingdom / 2 Television Centre",
    "url": "https://careers.publicisgroupe.com/jobs/177847?lang=en-us",
-   "posted": "2026-10-27T16:01:00+0000",
+   "posted": "2026-11-19T18:18:00+0000",
    "posted_date": "2026-10-27",
    "posted_approx": false,
    "first_seen": "2026-10-27",
@@ -23977,30 +24188,6 @@
    "baseline": false
   },
   {
-   "id": "82fb0292dd6abe",
-   "company": "Baringa",
-   "region": "UK",
-   "title": "Commercial Transformation Manager",
-   "location": "London, United Kingdom",
-   "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/5010115101",
-   "posted": "2026-10-19T10:55:54-04:00",
-   "posted_date": "2026-10-19",
-   "posted_approx": false,
-   "first_seen": "2026-10-19",
-   "score": 35,
-   "hits": [
-    "strategy",
-    "operations",
-    "consulting",
-    "implementation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "bb30963dbe4248",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
@@ -25039,7 +25226,7 @@
    "id": "45e11ab87fdec3",
    "company": "Stripe",
    "region": "UK",
-   "title": "Partner Development Manager- System Integrators",
+   "title": "Partner Development Manager- Alliances & Channels",
    "location": "London / United Kingdom Locations",
    "url": "https://stripe.com/jobs/search?gh_jid=8267519",
    "posted": "2026-10-16T05:52:11-04:00",
@@ -30396,52 +30583,6 @@
    "baseline": true
   },
   {
-   "id": "8e19b0e6690460",
-   "company": "Amazon / AWS (UK)",
-   "region": "UK",
-   "title": "Area Manager, FC Operations",
-   "location": "Wakefield, England, GBR",
-   "url": "https://www.amazon.jobs/en/jobs/10445680/area-manager-fc-operations",
-   "posted": "June 11, 2026",
-   "posted_date": "2026-10-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 24,
-   "hits": [
-    "operations",
-    "implementation",
-    "process improvement"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "ef87082a20745b",
-   "company": "Amazon / AWS (UK)",
-   "region": "UK",
-   "title": "Area Manager, FC Operations",
-   "location": "Wakefield, England, GBR",
-   "url": "https://www.amazon.jobs/en/jobs/10445681/area-manager-fc-operations",
-   "posted": "June 11, 2026",
-   "posted_date": "2026-10-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 24,
-   "hits": [
-    "operations",
-    "implementation",
-    "process improvement"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "5639dcb4dc97fd",
    "company": "M42",
    "region": "ME",
@@ -30908,28 +31049,6 @@
    "hits": [
     "transformation",
     "programme manager"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "b310cae382f0ad",
-   "company": "Amazon / AWS (UK)",
-   "region": "UK",
-   "title": "Professional Services Graduate, Associate to Consultant (A2C)",
-   "location": "London, England, GBR",
-   "url": "https://www.amazon.jobs/en/jobs/10480245/professional-services-graduate-associate-to-consultant-a2c",
-   "posted": "July 21, 2026",
-   "posted_date": "2026-10-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 23,
-   "hits": [
-    "consultant",
-    "implementation"
    ],
    "lang": null,
    "visa": null,
@@ -34684,6 +34803,28 @@
    "baseline": true
   },
   {
+   "id": "369a05bde5af83",
+   "company": "Siemens Healthineers",
+   "region": "UK",
+   "title": "Quality Release Officer (FTC)",
+   "location": "Llanberis, Caernarfon, UK / United Kingdom",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100709/Quality-Release-Officer-FTC",
+   "posted": "2026-10-07T13:52:57.422+0000",
+   "posted_date": "2026-10-07",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 18,
+   "hits": [
+    "healthcare",
+    "change management"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "d4fea8cc8f4c65",
    "company": "Siemens Healthineers",
    "region": "UK",
@@ -34699,28 +34840,6 @@
     "healthcare",
     "operations",
     "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "369a05bde5af83",
-   "company": "Siemens Healthineers",
-   "region": "UK",
-   "title": "Quality Release Officer (FTC)",
-   "location": "Llanberis, Caernarfon, UK / United Kingdom",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100709/Quality-Release-Officer-FTC",
-   "posted": "2026-10-07T13:52:57.422+0000",
-   "posted_date": "2026-10-07",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 18,
-   "hits": [
-    "healthcare",
-    "change management"
    ],
    "lang": null,
    "visa": null,
@@ -37472,29 +37591,6 @@
    "baseline": true
   },
   {
-   "id": "d6c7d03f4da517",
-   "company": "Amazon / AWS (UK)",
-   "region": "UK",
-   "title": "Supply Chain Manager (S&OP), INT Supply Chain Grocery Execution",
-   "location": "London, England, GBR",
-   "url": "https://www.amazon.jobs/en/jobs/10437308/supply-chain-manager-s-op-int-supply-chain-grocery-execution",
-   "posted": "June  2, 2026",
-   "posted_date": "2026-10-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 12,
-   "hits": [
-    "strategy",
-    "operations",
-    "process improvement"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "c570fcf03cca13",
    "company": "Amazon / AWS (UK)",
    "region": "UK",
@@ -37984,27 +38080,6 @@
    "score": 10,
    "hits": [
     "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "c5724b2d33d05d",
-   "company": "Publicis",
-   "region": "UK",
-   "title": "Client Development Manager (RMN)",
-   "location": "London, United Kingdom / 2 Television Centre",
-   "url": "https://careers.publicisgroupe.com/jobs/175743?lang=en-us",
-   "posted": "2026-10-01T15:57:00+0000",
-   "posted_date": "2026-10-01",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 10,
-   "hits": [
-    "strategy"
    ],
    "lang": null,
    "visa": null,
@@ -41095,7 +41170,7 @@
    "id": "11428e38d056db",
    "company": "Faculty",
    "region": "UK",
-   "title": "Associate (National Security)",
+   "title": "Associate",
    "location": "London / United Kingdom",
    "url": "https://jobs.ashbyhq.com/faculty/cc5be5b9-e294-4ecf-bf73-d03894fb5f00",
    "posted": "2026-10-02T11:10:55.392+00:00",
@@ -41583,7 +41658,7 @@
    "id": "957883f02a169c",
    "company": "Faculty",
    "region": "UK",
-   "title": "Senior Manager (Safety)",
+   "title": "Senior Manager",
    "location": "London / United Kingdom",
    "url": "https://jobs.ashbyhq.com/faculty/c1060619-89c7-4cc1-ba5f-79f916f692d1",
    "posted": "2026-09-28T12:45:54.746+00:00",
@@ -43286,7 +43361,7 @@
    "id": "bd685cbf9fd2b3",
    "company": "Faculty",
    "region": "UK",
-   "title": "Associate (Safety)",
+   "title": "Associate",
    "location": "London / United Kingdom",
    "url": "https://jobs.ashbyhq.com/faculty/1f8374d4-2523-448b-9900-76fe5b21080b",
    "posted": "2026-08-10T12:20:23.049+00:00",
@@ -44018,7 +44093,7 @@
    "id": "0afed443b76fd4",
    "company": "Faculty",
    "region": "UK",
-   "title": "Senior Manager (National Security)",
+   "title": "Senior Manager",
    "location": "London / United Kingdom",
    "url": "https://jobs.ashbyhq.com/faculty/da865a27-19d9-4069-bb4b-ed36b959257e",
    "posted": "2026-03-09T19:42:15.864+00:00",
@@ -46409,9 +46484,9 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 247,
-   "in_region": 82,
-   "kept": 28
+   "total": 243,
+   "in_region": 80,
+   "kept": 27
   },
   {
    "companies": [
@@ -46431,9 +46506,9 @@
    ],
    "source": "amazon",
    "error": null,
-   "total": 783,
-   "in_region": 783,
-   "kept": 270
+   "total": 787,
+   "in_region": 787,
+   "kept": 268
   },
   {
    "companies": [
@@ -46442,8 +46517,8 @@
    "source": "greenhouse",
    "error": null,
    "total": 638,
-   "in_region": 58,
-   "kept": 20
+   "in_region": 60,
+   "kept": 22
   },
   {
    "companies": [
@@ -46451,7 +46526,7 @@
    ],
    "source": "atlassian",
    "error": null,
-   "total": 262,
+   "total": 259,
    "in_region": 57,
    "kept": 14
   },
@@ -46482,7 +46557,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 91,
+   "total": 89,
    "in_region": 37,
    "kept": 25
   },
@@ -46583,8 +46658,8 @@
    ],
    "source": "smartrecruiters",
    "error": null,
-   "total": 788,
-   "in_region": 788,
+   "total": 789,
+   "in_region": 789,
    "kept": 10
   },
   {
@@ -46613,9 +46688,9 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 16,
-   "in_region": 15,
-   "kept": 5
+   "total": 18,
+   "in_region": 17,
+   "kept": 6
   },
   {
    "companies": [
@@ -46654,8 +46729,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 908,
-   "in_region": 99,
+   "total": 901,
+   "in_region": 102,
    "kept": 8
   },
   {
@@ -46664,8 +46739,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 379,
-   "in_region": 31,
+   "total": 378,
+   "in_region": 30,
    "kept": 11
   },
   {
@@ -46674,8 +46749,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 186,
-   "in_region": 123,
+   "total": 189,
+   "in_region": 126,
    "kept": 36
   },
   {
@@ -46717,8 +46792,8 @@
    ],
    "source": "rmk_html",
    "error": null,
-   "total": 1393,
-   "in_region": 1393,
+   "total": 1395,
+   "in_region": 1395,
    "kept": 136
   },
   {
@@ -46747,8 +46822,8 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 95,
-   "in_region": 89,
+   "total": 94,
+   "in_region": 88,
    "kept": 21
   },
   {
@@ -46757,7 +46832,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 143,
+   "total": 145,
    "in_region": 19,
    "kept": 3
   },
@@ -46788,9 +46863,9 @@
    ],
    "source": "yext_hca",
    "error": null,
-   "total": 28,
-   "in_region": 28,
-   "kept": 21
+   "total": 29,
+   "in_region": 29,
+   "kept": 22
   },
   {
    "companies": [
@@ -46848,7 +46923,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 118,
+   "total": 122,
    "in_region": 46,
    "kept": 10
   },
@@ -46888,9 +46963,9 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 72,
-   "in_region": 66,
-   "kept": 27
+   "total": 71,
+   "in_region": 65,
+   "kept": 26
   },
   {
    "companies": [
@@ -46918,8 +46993,8 @@
    ],
    "source": "jibe",
    "error": null,
-   "total": 107,
-   "in_region": 107,
+   "total": 106,
+   "in_region": 106,
    "kept": 41
   },
   {
@@ -46959,9 +47034,9 @@
    ],
    "source": "pcsx",
    "error": null,
-   "total": 84,
-   "in_region": 80,
-   "kept": 27
+   "total": 87,
+   "in_region": 83,
+   "kept": 29
   },
   {
    "companies": [
@@ -47020,8 +47095,8 @@
    "source": "ashby",
    "error": null,
    "total": 117,
-   "in_region": 41,
-   "kept": 18
+   "in_region": 42,
+   "kept": 19
   },
   {
    "companies": [
@@ -47029,9 +47104,9 @@
    ],
    "source": "eightfold",
    "error": null,
-   "total": 442,
-   "in_region": 8,
-   "kept": 5
+   "total": 441,
+   "in_region": 7,
+   "kept": 4
   },
   {
    "companies": [
@@ -47069,8 +47144,8 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 834,
-   "in_region": 39,
+   "total": 840,
+   "in_region": 40,
    "kept": 8
   },
   {
@@ -47111,8 +47186,8 @@
    ],
    "source": "lever",
    "error": null,
-   "total": 308,
-   "in_region": 46,
+   "total": 307,
+   "in_region": 45,
    "kept": 9
   },
   {
@@ -47141,7 +47216,7 @@
    ],
    "source": "lever",
    "error": null,
-   "total": 123,
+   "total": 125,
    "in_region": 29,
    "kept": 8
   },
@@ -47161,9 +47236,9 @@
    ],
    "source": "jibe",
    "error": null,
-   "total": 3286,
-   "in_region": 305,
-   "kept": 117
+   "total": 3287,
+   "in_region": 300,
+   "kept": 115
   },
   {
    "companies": [
@@ -47171,7 +47246,7 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 51,
+   "total": 54,
    "in_region": 23,
    "kept": 4
   },
@@ -47191,8 +47266,8 @@
    ],
    "source": "teamtailor",
    "error": null,
-   "total": 35,
-   "in_region": 30,
+   "total": 37,
+   "in_region": 32,
    "kept": 5
   },
   {
@@ -47202,8 +47277,8 @@
    ],
    "source": "smartrecruiters",
    "error": null,
-   "total": 837,
-   "in_region": 43,
+   "total": 840,
+   "in_region": 44,
    "kept": 13
   },
   {
@@ -47225,8 +47300,8 @@
    ],
    "source": "phenom",
    "error": null,
-   "total": 52,
-   "in_region": 52,
+   "total": 53,
+   "in_region": 53,
    "kept": 17
   },
   {
@@ -47285,8 +47360,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 781,
-   "in_region": 62,
+   "total": 770,
+   "in_region": 61,
    "kept": 16
   },
   {
@@ -47295,7 +47370,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 310,
+   "total": 309,
    "in_region": 89,
    "kept": 7
   },
@@ -47315,7 +47390,7 @@
    ],
    "source": "smartrecruiters",
    "error": null,
-   "total": 502,
+   "total": 500,
    "in_region": 28,
    "kept": 3
   },
@@ -47335,8 +47410,8 @@
    ],
    "source": "tomtom",
    "error": null,
-   "total": 31,
-   "in_region": 12,
+   "total": 29,
+   "in_region": 11,
    "kept": 1
   },
   {
@@ -47345,8 +47420,8 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 37,
-   "in_region": 35,
+   "total": 36,
+   "in_region": 34,
    "kept": 9
   },
   {
@@ -47385,7 +47460,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 348,
+   "total": 346,
    "in_region": 20,
    "kept": 3
   },
@@ -47395,9 +47470,9 @@
    ],
    "source": "smartrecruiters",
    "error": null,
-   "total": 153,
-   "in_region": 77,
-   "kept": 28
+   "total": 155,
+   "in_region": 79,
+   "kept": 30
   },
   {
    "companies": [
@@ -47416,8 +47491,8 @@
    "source": "sf_rmk",
    "error": null,
    "total": 400,
-   "in_region": 40,
-   "kept": 18
+   "in_region": 37,
+   "kept": 17
   },
   {
    "companies": [
@@ -47426,8 +47501,8 @@
    "source": "page",
    "error": null,
    "total": 12,
-   "in_region": 5,
-   "kept": 3,
+   "in_region": 7,
+   "kept": 5,
    "method": "structured data on job pages"
   },
   {
@@ -47456,7 +47531,7 @@
    ],
    "source": "jibe",
    "error": null,
-   "total": 281,
+   "total": 279,
    "in_region": 7,
    "kept": 3
   },
@@ -47484,8 +47559,8 @@
  "counts": {
   "companies": 215,
   "feeds": 126,
-  "jobs": 1976,
-  "new_today": 39,
+  "jobs": 1979,
+  "new_today": 20,
   "pages": 5
  },
  "coverage": {
