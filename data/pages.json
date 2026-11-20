@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "a70aa32597f8f5439e2d510b5f47e1809b36d853",
+  "hash": "3498a8c7edfe0cde8acbb8969daa99898c29a6b6",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-20T14:05:57+00:00",
+  "checked": "2026-11-20T20:43:42+00:00",
   "error": null,
   "changed_on": "2026-11-20",
   "new_links": {},
@@ -35,39 +35,39 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "c6f50ddf68bcea6510a40ba63526e6b8ce5dafe5",
+  "hash": "5af508e53173d474d28aef87b198f816df4315e9",
   "postings": {
+   "https://wise.jobs/job/it-sox-controls-tester-cloud-assurance-in-london-jid-4244": "IT SOX Controls Tester - Cloud Assurance",
+   "https://wise.jobs/job/staff-product-designer-money-movement-in-london-jid-4561": "Staff Product Designer - Money Movement",
+   "https://wise.jobs/job/complaints-officer-in-hyderabad-jid-4560": "Complaints Officer",
+   "https://wise.jobs/job/fincrime-investigator-aml-investigations-in-budapest-jid-4328": "FinCrime Investigator - AML Investigations",
+   "https://wise.jobs/job/senior-software-engineer-safer-changes-java-in-london-jid-4559": "Senior Software Engineer: Safer Changes - Java",
+   "https://wise.jobs/job/people-operations-junior-specialist-18-month-contract-in-tallinn-jid-4557": "People Operations Junior Specialist (18-month contract)",
+   "https://wise.jobs/job/principal-product-designer-mitigation-platform-in-london-jid-4558": "Principal Product Designer – Mitigation Platform",
    "https://wise.jobs/job/senior-product-manager-payment-integrations-in-london-jid-4549": "Senior Product Manager – Payment integrations",
    "https://wise.jobs/job/senior-backend-engineer-conversational-money-transfers-in-london-jid-4556": "Senior Backend Engineer - Conversational Money Transfers",
    "https://wise.jobs/job/product-manager-connect-cloud-platform-in-tallinn-jid-3448": "Product Manager - Connect (Cloud Platform)",
    "https://wise.jobs/job/engineering-lead-api-experience-in-london-jid-4529": "Engineering Lead - API Experience",
-   "https://wise.jobs/job/engineering-lead-send-for-partners-in-london-jid-4398": "Engineering Lead - Send for Partners",
-   "https://wise.jobs/job/engineering-lead-wise-for-enterprise-in-london-jid-3755": "Engineering Lead - Wise for Enterprise",
-   "https://wise.jobs/job/fp-and-a-analyst-finance-business-partnering-in-hyderabad-jid-4263": "FP&A Analyst (Finance Business Partnering)",
-   "https://wise.jobs/job/hr-operations-manager-in-hyderabad-jid-4555": "HR Operations Manager",
-   "https://wise.jobs/job/fincrime-operations-team-lead-pep-in-kuala-lumpur-jid-4554": "FinCrime Operations Team Lead - PEP",
-   "https://wise.jobs/job/engineering-lead-send-convenience-in-tallinn-jid-4487": "Engineering Lead - Send Convenience",
-   "https://wise.jobs/job/fincrime-reporting-specialist-in-tokyo-jid-4527": "FinCrime Reporting Specialist",
-   "https://wise.jobs/job/product-compliance-manager-apac-wise-platform-in-singapore-jid-4436": "Product Compliance Manager - APAC Wise Platform"
+   "https://wise.jobs/job/engineering-lead-send-for-partners-in-london-jid-4398": "Engineering Lead - Send for Partners"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-20T14:05:57+00:00",
+  "checked": "2026-11-20T20:43:42+00:00",
   "error": null,
   "changed_on": "2026-11-20",
   "new_links": {
-   "https://wise.jobs/job/hr-operations-manager-in-hyderabad-jid-4555": "HR Operations Manager",
-   "https://wise.jobs/job/fincrime-operations-team-lead-pep-in-kuala-lumpur-jid-4554": "FinCrime Operations Team Lead - PEP",
-   "https://wise.jobs/job/fincrime-reporting-specialist-in-tokyo-jid-4527": "FinCrime Reporting Specialist",
-   "https://wise.jobs/job/product-compliance-manager-apac-wise-platform-in-singapore-jid-4436": "Product Compliance Manager - APAC Wise Platform"
+   "https://wise.jobs/job/complaints-officer-in-hyderabad-jid-4560": "Complaints Officer",
+   "https://wise.jobs/job/people-operations-junior-specialist-18-month-contract-in-tallinn-jid-4557": "People Operations Junior Specialist (18-month contract)"
   },
   "new_on": "2026-11-20"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "8825eabf2dff824634909561febc3235eee9336e",
+  "hash": "7d4a576d368c979b3c9484fc93ec3c88d0e2a370",
   "postings": {
+   "https://optiver.com/join-us/jobs/events/chicago/futurefocus-quants-trading-and-research-2027/": "FutureFocus: Quants (Trading & Research) 2027",
+   "https://optiver.com/join-us/jobs/events/chicago/futurefocus-tech-2027/": "FutureFocus: Tech 2027",
    "https://optiver.com/join-us/jobs/technology/shanghai/technology-procurement-sourcing-specialist/": "Technology Procurement Sourcing Specialist",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/mumbai/operational-risk-manager/": "Operational Risk Manager",
    "https://optiver.com/join-us/jobs/technology/new-york/software-engineer-ai-lab/": "Software Engineer - AI Lab",
@@ -81,17 +81,17 @@
    "https://optiver.com/join-us/jobs/business-operations/amsterdam/procurement-analyst/": "Procurement Analyst",
    "https://optiver.com/join-us/jobs/human-resources-and-recruiting/sydney/apac-mobility-partner-12-month-contract/": "APAC Mobility Partner (12-month contract)",
    "https://optiver.com/join-us/jobs/technology/shanghai/technology-operations-engineer-shanghai/": "Technology Operations Engineer - Shanghai",
-   "https://optiver.com/join-us/jobs/technology/taipei/technology-operations-engineer-taipei/": "Technology Operations Engineer - Taipei",
-   "https://optiver.com/join-us/jobs/technology/sydney/software-engineer-c-plus-plus-derivatives/": "Software Engineer (C++) - Derivatives",
-   "https://optiver.com/join-us/jobs/risk-finance-and-legal/amsterdam/financial-systems-specialist-onestream/": "Financial Systems Specialist (OneStream)"
+   "https://optiver.com/join-us/jobs/technology/taipei/technology-operations-engineer-taipei/": "Technology Operations Engineer - Taipei"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-20T14:05:57+00:00",
+  "checked": "2026-11-20T20:43:42+00:00",
   "error": null,
-  "changed_on": "2026-11-19",
-  "new_links": {},
-  "new_on": "2026-11-17"
+  "changed_on": "2026-11-20",
+  "new_links": {
+   "https://optiver.com/join-us/jobs/events/chicago/futurefocus-tech-2027/": "FutureFocus: Tech 2027"
+  },
+  "new_on": "2026-11-20"
  },
  "https://careers.shezlong.com/": {
   "company": "Shezlong",
@@ -103,7 +103,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-20T14:05:57+00:00",
+  "checked": "2026-11-20T20:43:42+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -112,7 +112,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "318f6f5cc5a35aaa915973c703e23f90b9d7171b",
+  "hash": "e3cb4be739bd973e96eb32cf9cd74a87e1ef24dc",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-registrar-internal-medicine-1100063734/": "Senior Registrar – Internal Medicine",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-medical-claims-operations-pipeline-1100092663/": "Manager - Medical Claims Operations (Pipeline)",
@@ -127,7 +127,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-20T14:05:57+00:00",
+  "checked": "2026-11-20T20:43:42+00:00",
   "error": null,
   "changed_on": "2026-11-20",
   "new_links": {},
