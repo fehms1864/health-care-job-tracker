@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-21T13:31:35+00:00",
+  "checked": "2026-11-21T19:47:26+00:00",
   "error": null,
   "changed_on": "2026-11-20",
   "new_links": {},
@@ -52,7 +52,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-21T13:31:35+00:00",
+  "checked": "2026-11-21T19:47:26+00:00",
   "error": null,
   "changed_on": "2026-11-21",
   "new_links": {
@@ -84,7 +84,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-21T13:31:35+00:00",
+  "checked": "2026-11-21T19:47:26+00:00",
   "error": null,
   "changed_on": "2026-11-21",
   "new_links": {
@@ -102,7 +102,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-21T13:31:35+00:00",
+  "checked": "2026-11-21T19:47:26+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -111,7 +111,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "291b5c8a5e81a31ecfa0619d2645cc131c41e6e3",
+  "hash": "e52d72e7e041bc18621fcfff852ba39e92193d89",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-registrar-internal-medicine-1100063734/": "Senior Registrar – Internal Medicine",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-medical-claims-operations-pipeline-1100092663/": "Manager - Medical Claims Operations (Pipeline)",
@@ -126,7 +126,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-21T13:31:35+00:00",
+  "checked": "2026-11-21T19:47:26+00:00",
   "error": null,
   "changed_on": "2026-11-21",
   "new_links": {},

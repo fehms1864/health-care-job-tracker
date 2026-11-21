@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T13:31:35+00:00",
+ "generated_at": "2026-11-21T19:47:26+00:00",
  "baseline_date": "2026-09-27",
  "rules_version": 6,
  "sources": {
@@ -159,6 +159,102 @@
  },
  "jobs": [
   {
+   "id": "8e5318bc0a3b3c",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Tech Consulting - Sector Transformation - Digital Grid - Power & Utilities - Senior Manager",
+   "location": "New, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/New-York-Tech-Consulting-Sector-Transformation-Digital-Grid-Power-&amp;-Utilities-Senior-Manager-NY-10001-8604/1459496433/",
+   "posted": null,
+   "posted_date": "2026-11-21",
+   "posted_approx": true,
+   "first_seen": "2026-11-21",
+   "score": 36,
+   "hits": [
+    "strategy",
+    "consulting",
+    "implementation",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "47f596108a528f",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Tech Consulting - Sector Transformation - Digital Grid - Power & Utilities - Senior",
+   "location": "New, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/New-York-Tech-Consulting-Sector-Transformation-Digital-Grid-Power-&amp;-Utilities-Senior-NY-10001-8604/1459496333/",
+   "posted": null,
+   "posted_date": "2026-11-21",
+   "posted_approx": true,
+   "first_seen": "2026-11-21",
+   "score": 34,
+   "hits": [
+    "strategy",
+    "consulting",
+    "implementation",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "4d7f98af3996fa",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Tech Consulting - Sector Transformation - Digital Grid - Power & Utilities - Manager",
+   "location": "New, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/New-York-Tech-Consulting-Sector-Transformation-Digital-Grid-Power-&amp;-Utilities-Manager-NY-10001-8604/1459496233/",
+   "posted": null,
+   "posted_date": "2026-11-21",
+   "posted_approx": true,
+   "first_seen": "2026-11-21",
+   "score": 32,
+   "hits": [
+    "strategy",
+    "consulting",
+    "implementation",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "959dfa39f4015a",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Tech Consulting - Sector Transformation - Digital Grid - Power & Utilities - Staff",
+   "location": "New, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/New-York-Tech-Consulting-Sector-Transformation-Digital-Grid-Power-&amp;-Utilities-Staff-NY-10001-8604/1459496533/",
+   "posted": null,
+   "posted_date": "2026-11-21",
+   "posted_approx": true,
+   "first_seen": "2026-11-21",
+   "score": 32,
+   "hits": [
+    "strategy",
+    "consulting",
+    "implementation",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "fbfe34283591b2",
    "company": "Amazon / AWS (UK)",
    "region": "UK",
@@ -173,6 +269,28 @@
    "hits": [
     "operations",
     "operations manager"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "f650d30b6635d1",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "Occupational Health Advisor - York",
+   "location": "United Kingdom-York",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom-York/Occupational-Health-Advisor---York_31167236",
+   "posted": "4 Days Ago",
+   "posted_date": "2026-11-17",
+   "posted_approx": false,
+   "first_seen": "2026-11-21",
+   "score": 23,
+   "hits": [
+    "healthcare",
+    "health"
    ],
    "lang": null,
    "visa": null,
@@ -226,6 +344,49 @@
    "baseline": false
   },
   {
+   "id": "35633a48e66ada",
+   "company": "Workday",
+   "region": "UK",
+   "title": "Solution Consultant",
+   "location": "United Kingdom, London",
+   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Solution-Consultant_JR-0110760",
+   "posted": "Yesterday",
+   "posted_date": "2026-11-20",
+   "posted_approx": false,
+   "first_seen": "2026-11-21",
+   "score": 20,
+   "hits": [
+    "consultant",
+    "consulting"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "d43449d32775e4",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "Senior EP Field Clinical Affairs Specialist",
+   "location": "United Kingdom : Remote",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom--Remote/Senior-EP-Field-Clinical-Affairs-Specialist_31167487",
+   "posted": "2 Days Ago",
+   "posted_date": "2026-11-19",
+   "posted_approx": false,
+   "first_seen": "2026-11-21",
+   "score": 15,
+   "hits": [
+    "clinical"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "5e33a1a0a1ac7f",
    "company": "Publicis",
    "region": "UK",
@@ -266,6 +427,443 @@
    "lang": null,
    "visa": null,
    "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "6a3b92a9eb59bd",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "Production Support Specialist A",
+   "location": "Netherlands - Olst",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Olst/Production-Support-Specialist-A_31160537",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-22",
+   "posted_approx": true,
+   "first_seen": "2026-11-21",
+   "score": 5,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "2466fc772d7e1b",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "Field Educator Specialist",
+   "location": "Netherlands - Hoofddorp",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Hoofddorp/Primary-Care-Educator_31154476",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-22",
+   "posted_approx": true,
+   "first_seen": "2026-11-21",
+   "score": 5,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "d2756e1589bb99",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "Sr. Computerized System Validation Specialist",
+   "location": "Netherlands - Olst",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Olst/Computerized-System-Validation-Specialist_31155755",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-22",
+   "posted_approx": true,
+   "first_seen": "2026-11-21",
+   "score": 5,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "8dedadb22e14ba",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "Operator Poedertoren",
+   "location": "Netherlands - Zwolle",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Operator-Poedertoren_31166916-2",
+   "posted": "15 Days Ago",
+   "posted_date": "2026-11-06",
+   "posted_approx": false,
+   "first_seen": "2026-11-21",
+   "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "13b50d92a1c556",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "OPERATOR POEDERTOREN (5-PLOEGENDIENST)",
+   "location": "Netherlands - Zwolle",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/OPERATOR-POEDERTOREN--5-PLOEGENDIENST-_31166901",
+   "posted": "15 Days Ago",
+   "posted_date": "2026-11-06",
+   "posted_approx": false,
+   "first_seen": "2026-11-21",
+   "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "20b3de5e4bdbaf",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "Procesoperator Poeder- en Liquid Processing in Zwolle",
+   "location": "Netherlands - Zwolle",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Procesoperator-Poeder--en-Liquid-Processing-in-Zwolle_31166900-3",
+   "posted": "15 Days Ago",
+   "posted_date": "2026-11-06",
+   "posted_approx": false,
+   "first_seen": "2026-11-21",
+   "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "6a2e2311e66fa3",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "Procesoperator Poeder- en Liquid Processing",
+   "location": "Netherlands - Zwolle",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Procesoperator-Poeder--en-Liquid-Processing_31166899",
+   "posted": "15 Days Ago",
+   "posted_date": "2026-11-06",
+   "posted_approx": false,
+   "first_seen": "2026-11-21",
+   "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "6d7cc3399b37d5",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "Operator Poederpak",
+   "location": "Netherlands - Zwolle",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Operator-Poederpak_31166897",
+   "posted": "15 Days Ago",
+   "posted_date": "2026-11-06",
+   "posted_approx": false,
+   "first_seen": "2026-11-21",
+   "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "974e9611c654d4",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "Operator Poederpak",
+   "location": "Netherlands - Zwolle",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Operator-Poederpak_31166370",
+   "posted": "15 Days Ago",
+   "posted_date": "2026-11-06",
+   "posted_approx": false,
+   "first_seen": "2026-11-21",
+   "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "4c8692dac026bc",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "Operator Poederpak",
+   "location": "Netherlands - Zwolle",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Operator-Poederpak_31166364",
+   "posted": "15 Days Ago",
+   "posted_date": "2026-11-06",
+   "posted_approx": false,
+   "first_seen": "2026-11-21",
+   "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "7897a7d558a2fc",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "Operator Poederpak",
+   "location": "Netherlands - Zwolle",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Operator-Poederpak_31166363",
+   "posted": "15 Days Ago",
+   "posted_date": "2026-11-06",
+   "posted_approx": false,
+   "first_seen": "2026-11-21",
+   "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "a1f6556c8374ee",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "Operator Liquid Packaging",
+   "location": "Netherlands - Zwolle",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Operator-Liquid-Packaging--------_31165856",
+   "posted": "25 Days Ago",
+   "posted_date": "2026-10-27",
+   "posted_approx": false,
+   "first_seen": "2026-11-21",
+   "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "8b6a976503ab1b",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "Operator A",
+   "location": "Netherlands - Olst",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Olst/Operator-A_31163767",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-22",
+   "posted_approx": true,
+   "first_seen": "2026-11-21",
+   "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "3e04e7d6e51479",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "4 Operator Poederpak",
+   "location": "Netherlands - Zwolle",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/XMLNAME-4-Operator-Poederpak_31164611",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-22",
+   "posted_approx": true,
+   "first_seen": "2026-11-21",
+   "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "218febe17553c9",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "Team Lead Analytisch Laboratorium",
+   "location": "Netherlands - Zwolle",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Team-Lead-Analytisch-Laboratorium_31164354",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-22",
+   "posted_approx": true,
+   "first_seen": "2026-11-21",
+   "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "6d0f7a70f38d89",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "8 Operator Poederpak gezocht! (5-Ploegendienst)",
+   "location": "Netherlands - Zwolle",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/XMLNAME-8-Operator-Poederpak-gezocht---5-Ploegendienst-_31164881",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-22",
+   "posted_approx": true,
+   "first_seen": "2026-11-21",
+   "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "892cfdca00bb12",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "Operator A",
+   "location": "Netherlands - Olst",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Olst/Operator-A_31163763-1",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-22",
+   "posted_approx": true,
+   "first_seen": "2026-11-21",
+   "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "76c95672920c5a",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "Kwaliteitscontroleur Steriel Vullen (5 ploegen)",
+   "location": "Netherlands - Olst",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Olst/Kwaliteitscontroleur-Steriel-Vullen--5-ploegen-_31163587",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-22",
+   "posted_approx": true,
+   "first_seen": "2026-11-21",
+   "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "649b11ec3cfead",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "Operator B",
+   "location": "Netherlands - Olst",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Olst/Operator-B_31162964",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-22",
+   "posted_approx": true,
+   "first_seen": "2026-11-21",
+   "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "4b81e8670b8a4a",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "Operator A",
+   "location": "Netherlands - Olst",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Olst/Operator-A_31162967",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-22",
+   "posted_approx": true,
+   "first_seen": "2026-11-21",
+   "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "5782617770c979",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "Onderhoudstechnicus werktuigbouw bij Abbott Weesp",
+   "location": "Netherlands - Weesp",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Weesp/Onderhoudstechnicus-werktuigbouw-bij-Abbott-Weesp_31160903",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-22",
+   "posted_approx": true,
+   "first_seen": "2026-11-21",
+   "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "97251a89db599c",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "Kom werken bij Abbott in Olst!",
+   "location": "Netherlands - Olst",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Olst/Kom-werken-bij-Abbott-in-Olst-_31155656",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-22",
+   "posted_approx": true,
+   "first_seen": "2026-11-21",
+   "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "f414fddccd16ce",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "Import/Export Officer",
+   "location": "Netherlands - Weesp",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Weesp/Import-Export-Officer_31150873",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-22",
+   "posted_approx": true,
+   "first_seen": "2026-11-21",
+   "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
    "lang_checked": true,
    "baseline": false
   },
@@ -342,30 +940,6 @@
    "baseline": false
   },
   {
-   "id": "52f767c1dc9b74",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "Risk Consulting - Enterprise Risk Transformation - TMT Sector - Senior Consultant - Northeast Region",
-   "location": "New, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/New-York-Risk-Consulting-Enterprise-Risk-Transformation-TMT-Sector-Senior-Consultant-Northeast-Region-NY-10001-8604/1451422633/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 44,
-   "hits": [
-    "operations",
-    "consultant",
-    "consulting",
-    "implementation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "168e2eb68c2fd6",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
@@ -380,6 +954,30 @@
    "hits": [
     "strategy",
     "operations",
+    "consulting",
+    "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "52f767c1dc9b74",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Risk Consulting - Enterprise Risk Transformation - TMT Sector - Senior Consultant - Northeast Region",
+   "location": "New, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/New-York-Risk-Consulting-Enterprise-Risk-Transformation-TMT-Sector-Senior-Consultant-Northeast-Region-NY-10001-8604/1451422633/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 44,
+   "hits": [
+    "operations",
+    "consultant",
     "consulting",
     "implementation"
    ],
@@ -462,30 +1060,6 @@
    "baseline": false
   },
   {
-   "id": "09c8e3f84e4656",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "EY-Parthenon - Strategy and Execution - Tech PE Value Creation - Senior Associate / Consultant",
-   "location": "New, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/New-York-EY-Parthenon-Strategy-and-Execution-Tech-PE-Value-Creation-Senior-Associate-Consultant-NY-10001-8604/1453912933/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 40,
-   "hits": [
-    "strategy",
-    "consultant",
-    "consulting",
-    "implementation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "3ad254e915d4cb",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
@@ -502,6 +1076,30 @@
     "consulting",
     "implementation",
     "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "09c8e3f84e4656",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "EY-Parthenon - Strategy and Execution - Tech PE Value Creation - Senior Associate / Consultant",
+   "location": "New, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/New-York-EY-Parthenon-Strategy-and-Execution-Tech-PE-Value-Creation-Senior-Associate-Consultant-NY-10001-8604/1453912933/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 40,
+   "hits": [
+    "strategy",
+    "consultant",
+    "consulting",
+    "implementation"
    ],
    "lang": null,
    "visa": null,
@@ -534,30 +1132,6 @@
    "baseline": false
   },
   {
-   "id": "602c5310812145",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "EY-Parthenon - Strategy and Execution-Telecommunications PE Value Creation-Sr. Associate-Consultant",
-   "location": "New, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/New-York-EY-Parthenon-Strategy-and-Execution-Telecommunications-PE-Value-Creation-Sr_-Associate-Consultant-NY-10001-8604/1443965433/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 38,
-   "hits": [
-    "strategy",
-    "consultant",
-    "consulting",
-    "implementation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "fc8c133e73968f",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
@@ -582,12 +1156,36 @@
    "baseline": false
   },
   {
-   "id": "e0ab8e89836d13",
+   "id": "602c5310812145",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Senior Consultant, Agile Transformation & Product Management",
-   "location": "London, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/London-Senior-Consultant%2C-Agile-Transformation-&amp;-Product-Management-SE1-2AF/1458462233/",
+   "title": "EY-Parthenon - Strategy and Execution-Telecommunications PE Value Creation-Sr. Associate-Consultant",
+   "location": "New, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/New-York-EY-Parthenon-Strategy-and-Execution-Telecommunications-PE-Value-Creation-Sr_-Associate-Consultant-NY-10001-8604/1443965433/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 38,
+   "hits": [
+    "strategy",
+    "consultant",
+    "consulting",
+    "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "340855f0357718",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "EY-Parthenon - Strategy and Execution - Deal Management - Sr Associate/Consultant",
+   "location": "New, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/New-York-EY-Parthenon-Strategy-and-Execution-Deal-Management-Sr-AssociateConsultant-NY-10001-8604/1441549833/",
    "posted": null,
    "posted_date": "2026-11-20",
    "posted_approx": true,
@@ -595,9 +1193,9 @@
    "score": 37,
    "hits": [
     "strategy",
+    "operations",
     "consultant",
-    "consulting",
-    "implementation"
+    "consulting"
    ],
    "lang": null,
    "visa": null,
@@ -630,12 +1228,12 @@
    "baseline": false
   },
   {
-   "id": "340855f0357718",
+   "id": "e0ab8e89836d13",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "EY-Parthenon - Strategy and Execution - Deal Management - Sr Associate/Consultant",
-   "location": "New, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/New-York-EY-Parthenon-Strategy-and-Execution-Deal-Management-Sr-AssociateConsultant-NY-10001-8604/1441549833/",
+   "title": "Senior Consultant, Agile Transformation & Product Management",
+   "location": "London, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/London-Senior-Consultant%2C-Agile-Transformation-&amp;-Product-Management-SE1-2AF/1458462233/",
    "posted": null,
    "posted_date": "2026-11-20",
    "posted_approx": true,
@@ -643,9 +1241,56 @@
    "score": 37,
    "hits": [
     "strategy",
-    "operations",
     "consultant",
-    "consulting"
+    "consulting",
+    "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "baefc0e285469c",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "US Consulting Transformation Architecture and Delivery Staff 2",
+   "location": "Chicago US, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/Chicago-US-Consulting-Transformation-Architecture-and-Delivery-Staff-2-IL-60606/1449169833/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 36,
+   "hits": [
+    "strategy",
+    "operations",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "86cadc7bb63188",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "FSO - Insurance - Life & Group Transformation - Technology Consulting - Manager",
+   "location": "Boston FSO, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/Boston-FSO-Insurance-Life-&amp;-Group-Transformation-Technology-Consulting-Manager-MA-02116/1446410433/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 36,
+   "hits": [
+    "operations",
+    "consulting",
+    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -692,53 +1337,6 @@
    "hits": [
     "strategy",
     "consultant",
-    "consulting",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "86cadc7bb63188",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "FSO - Insurance - Life & Group Transformation - Technology Consulting - Manager",
-   "location": "Boston FSO, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/Boston-FSO-Insurance-Life-&amp;-Group-Transformation-Technology-Consulting-Manager-MA-02116/1446410433/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 36,
-   "hits": [
-    "operations",
-    "consulting",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "baefc0e285469c",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "US Consulting Transformation Architecture and Delivery Staff 2",
-   "location": "Chicago US, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/Chicago-US-Consulting-Transformation-Architecture-and-Delivery-Staff-2-IL-60606/1449169833/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 36,
-   "hits": [
-    "strategy",
-    "operations",
     "consulting",
     "transformation"
    ],
@@ -845,21 +1443,45 @@
    "baseline": false
   },
   {
-   "id": "0753d386a271fd",
+   "id": "cd619e3a411141",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Government and Public Sector - HR Transformation - People Consulting - Staff 2",
-   "location": "McLean, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/McLean-Government-and-Public-Sector-HR-Transformation-People-Consulting-Staff-2-VA-22102/1428879533/",
+   "title": "Life Sciences Supply Chain Manufacturing Ops & AI Transformation Delivery - Senior",
+   "location": "Hoboken, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/Hoboken-Life-Sciences-Supply-Chain-Manufacturing-Ops-&amp;-AI-Transformation-Delivery-Senior-NJ-07030/1445414433/",
    "posted": null,
    "posted_date": "2026-11-20",
    "posted_approx": true,
    "first_seen": "2026-11-20",
    "score": 32,
    "hits": [
-    "healthcare",
-    "strategy",
-    "consulting",
+    "life sciences",
+    "operations",
+    "implementation",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "bb30963dbe4248",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Life Sciences Supply Chain Manufacturing Ops & AI Transformation Delivery- Senior Manager",
+   "location": "Chicago, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/Chicago-Life-Sciences-Supply-Chain-Manufacturing-Ops-&amp;-AI-Transformation-Delivery-Senior-Manager-IL-60606/1445415133/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 32,
+   "hits": [
+    "life sciences",
+    "operations",
+    "implementation",
     "transformation"
    ],
    "lang": null,
@@ -916,45 +1538,21 @@
    "baseline": false
   },
   {
-   "id": "cd619e3a411141",
+   "id": "0753d386a271fd",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Life Sciences Supply Chain Manufacturing Ops & AI Transformation Delivery - Senior",
-   "location": "Hoboken, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/Hoboken-Life-Sciences-Supply-Chain-Manufacturing-Ops-&amp;-AI-Transformation-Delivery-Senior-NJ-07030/1445414433/",
+   "title": "Government and Public Sector - HR Transformation - People Consulting - Staff 2",
+   "location": "McLean, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/McLean-Government-and-Public-Sector-HR-Transformation-People-Consulting-Staff-2-VA-22102/1428879533/",
    "posted": null,
    "posted_date": "2026-11-20",
    "posted_approx": true,
    "first_seen": "2026-11-20",
    "score": 32,
    "hits": [
-    "life sciences",
-    "operations",
-    "implementation",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "bb30963dbe4248",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "Life Sciences Supply Chain Manufacturing Ops & AI Transformation Delivery- Senior Manager",
-   "location": "Chicago, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/Chicago-Life-Sciences-Supply-Chain-Manufacturing-Ops-&amp;-AI-Transformation-Delivery-Senior-Manager-IL-60606/1445415133/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 32,
-   "hits": [
-    "life sciences",
-    "operations",
-    "implementation",
+    "healthcare",
+    "strategy",
+    "consulting",
     "transformation"
    ],
    "lang": null,
@@ -1056,20 +1654,20 @@
    "baseline": false
   },
   {
-   "id": "d668ae6f967793",
+   "id": "2cc78e8dd534c3",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Risk Consulting - Enterprise Risk Transformation - TMT Sector - Senior Manager - Northeast Region",
-   "location": "New, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/New-York-Risk-Consulting-Enterprise-Risk-Transformation-TMT-Sector-Senior-Manager-Northeast-Region-NY-10001-8604/1451422833/",
+   "title": "Life Sciences Supply Chain Manufacturing Ops & AI Transformation Delivery- Manager",
+   "location": "Boston, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/Boston-Life-Sciences-Supply-Chain-Manufacturing-Ops-&amp;-AI-Transformation-Delivery-Manager-MA-02116/1445414533/",
    "posted": null,
    "posted_date": "2026-11-20",
    "posted_approx": true,
    "first_seen": "2026-11-20",
    "score": 29,
    "hits": [
-    "operations",
-    "consulting",
+    "life sciences",
+    "implementation",
     "transformation"
    ],
    "lang": null,
@@ -1103,20 +1701,20 @@
    "baseline": false
   },
   {
-   "id": "2cc78e8dd534c3",
+   "id": "d668ae6f967793",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Life Sciences Supply Chain Manufacturing Ops & AI Transformation Delivery- Manager",
-   "location": "Boston, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/Boston-Life-Sciences-Supply-Chain-Manufacturing-Ops-&amp;-AI-Transformation-Delivery-Manager-MA-02116/1445414533/",
+   "title": "Risk Consulting - Enterprise Risk Transformation - TMT Sector - Senior Manager - Northeast Region",
+   "location": "New, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/New-York-Risk-Consulting-Enterprise-Risk-Transformation-TMT-Sector-Senior-Manager-Northeast-Region-NY-10001-8604/1451422833/",
    "posted": null,
    "posted_date": "2026-11-20",
    "posted_approx": true,
    "first_seen": "2026-11-20",
    "score": 29,
    "hits": [
-    "life sciences",
-    "implementation",
+    "operations",
+    "consulting",
     "transformation"
    ],
    "lang": null,
@@ -1313,6 +1911,30 @@
    "baseline": false
   },
   {
+   "id": "1f70b1bf005719",
+   "company": "EY Nederland",
+   "region": "NL",
+   "title": "Senior Consultant Manufacturing Excellence",
+   "location": "Amsterdam, Netherlands",
+   "url": "https://careers.ey.com/ey/job/Amsterdam-Senior-Consultant-Manufacturing-Excellence-1083-HP/1444236933/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 25,
+   "hits": [
+    "operations",
+    "consultant",
+    "implementation",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "022c14efd2de16",
    "company": "EY Nederland",
    "region": "NL",
@@ -1335,20 +1957,19 @@
    "baseline": false
   },
   {
-   "id": "1f70b1bf005719",
-   "company": "EY Nederland",
-   "region": "NL",
-   "title": "Senior Consultant Manufacturing Excellence",
-   "location": "Amsterdam, Netherlands",
-   "url": "https://careers.ey.com/ey/job/Amsterdam-Senior-Consultant-Manufacturing-Excellence-1083-HP/1444236933/",
+   "id": "f7acc0a9861d18",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Manager, Agile Transformation & Product Management",
+   "location": "London, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/London-Manager%2C-Agile-Transformation-&amp;-Product-Management-SE1-2AF/1458459233/",
    "posted": null,
    "posted_date": "2026-11-20",
    "posted_approx": true,
    "first_seen": "2026-11-20",
-   "score": 25,
+   "score": 24,
    "hits": [
-    "operations",
-    "consultant",
+    "strategy",
     "implementation",
     "transformation"
    ],
@@ -1374,29 +1995,6 @@
     "strategy",
     "operational",
     "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "f7acc0a9861d18",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "Manager, Agile Transformation & Product Management",
-   "location": "London, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/London-Manager%2C-Agile-Transformation-&amp;-Product-Management-SE1-2AF/1458459233/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 24,
-   "hits": [
-    "strategy",
-    "implementation",
-    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -1498,53 +2096,6 @@
    "baseline": false
   },
   {
-   "id": "ed24b24a947993",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "Senior  Manager, Wealth & Asset Management, Business Transformation",
-   "location": "London, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/London-Senior-Manager%2C-Wealth-&amp;-Asset-Management%2C-Business-Transformation-E14-5EY/1454661533/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 22,
-   "hits": [
-    "strategy",
-    "consulting",
-    "implementation",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "2369c9d3a3e528",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "Deputy and Transformation Leader",
-   "location": "Hoboken, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/Hoboken-Deputy-and-Transformation-Leader-NJ-07030/1454343733/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 22,
-   "hits": [
-    "strategy",
-    "operations",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "e1a105a3245e58",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
@@ -1604,6 +2155,53 @@
    "score": 22,
    "hits": [
     "strategy",
+    "implementation",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "2369c9d3a3e528",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Deputy and Transformation Leader",
+   "location": "Hoboken, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/Hoboken-Deputy-and-Transformation-Leader-NJ-07030/1454343733/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 22,
+   "hits": [
+    "strategy",
+    "operations",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "ed24b24a947993",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Senior  Manager, Wealth & Asset Management, Business Transformation",
+   "location": "London, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/London-Senior-Manager%2C-Wealth-&amp;-Asset-Management%2C-Business-Transformation-E14-5EY/1454661533/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 22,
+   "hits": [
+    "strategy",
+    "consulting",
     "implementation",
     "transformation"
    ],
@@ -1682,6 +2280,51 @@
    "baseline": false
   },
   {
+   "id": "37cbef687291af",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "SAP GEBU Transformation CE Lead (24 Months FTC)",
+   "location": "London SAP GEBU, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/London-SAP-GEBU-Transformation-CE-Lead-%2824-Months-FTC%29-SE1-2AF/1438309133/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 20,
+   "hits": [
+    "strategy",
+    "operations",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "b1f71cfe83c70c",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "EY-Parthenon - Strategy and Execution-Commercial Due Diligence-Associate",
+   "location": "Boston EY, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/Boston-EY-Parthenon-Strategy-and-Execution-Commercial-Due-Diligence-Associate-MA-02116/1437294933/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 20,
+   "hits": [
+    "strategy",
+    "consulting"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "9a04d51449f5f7",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
@@ -1748,51 +2391,6 @@
    "baseline": false
   },
   {
-   "id": "b1f71cfe83c70c",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "EY-Parthenon - Strategy and Execution-Commercial Due Diligence-Associate",
-   "location": "Boston EY, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/Boston-EY-Parthenon-Strategy-and-Execution-Commercial-Due-Diligence-Associate-MA-02116/1437294933/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 20,
-   "hits": [
-    "strategy",
-    "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "37cbef687291af",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "SAP GEBU Transformation CE Lead (24 Months FTC)",
-   "location": "London SAP GEBU, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/London-SAP-GEBU-Transformation-CE-Lead-%2824-Months-FTC%29-SE1-2AF/1438309133/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 20,
-   "hits": [
-    "strategy",
-    "operations",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "6df0270845f54a",
    "company": "EY Nederland",
    "region": "NL",
@@ -1832,6 +2430,52 @@
     "patient",
     "hospital",
     "process improvement"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "e50759dddd1f29",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "FSO, Business Transformation - WAM Asset Manager",
+   "location": "New, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/New-York-FSO%2C-Business-Transformation-WAM-Asset-Manager-NY-10001-8604/1431997833/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 19,
+   "hits": [
+    "consultant",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "b583f602921ff4",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "FSO, Business Transformation - WAM Asset Manager 1",
+   "location": "New, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/New-York-FSO%2C-Business-Transformation-WAM-Asset-Manager-1-NY-10001-8604/1457412333/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 19,
+   "hits": [
+    "consultant",
+    "consulting",
+    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -1884,44 +2528,22 @@
    "baseline": false
   },
   {
-   "id": "b583f602921ff4",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "FSO, Business Transformation - WAM Asset Manager 1",
-   "location": "New, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/New-York-FSO%2C-Business-Transformation-WAM-Asset-Manager-1-NY-10001-8604/1457412333/",
+   "id": "ebdfed74bf9e6f",
+   "company": "EY Nederland",
+   "region": "NL",
+   "title": "SAP S4/HANA Asset Manager",
+   "location": "Amsterdam SAP S4HANA, Netherlands",
+   "url": "https://careers.ey.com/ey/job/Amsterdam-SAP-S4HANA-Asset-Manager-1083-HP/1437220033/",
    "posted": null,
    "posted_date": "2026-11-20",
    "posted_approx": true,
    "first_seen": "2026-11-20",
    "score": 19,
    "hits": [
-    "consultant",
+    "strategy",
+    "operations",
     "consulting",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "e50759dddd1f29",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "FSO, Business Transformation - WAM Asset Manager",
-   "location": "New, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/New-York-FSO%2C-Business-Transformation-WAM-Asset-Manager-NY-10001-8604/1431997833/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 19,
-   "hits": [
-    "consultant",
-    "consulting",
-    "transformation"
+    "implementation"
    ],
    "lang": null,
    "visa": null,
@@ -1945,30 +2567,6 @@
     "strategy",
     "consultant",
     "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "ebdfed74bf9e6f",
-   "company": "EY Nederland",
-   "region": "NL",
-   "title": "SAP S4/HANA Asset Manager",
-   "location": "Amsterdam SAP S4HANA, Netherlands",
-   "url": "https://careers.ey.com/ey/job/Amsterdam-SAP-S4HANA-Asset-Manager-1083-HP/1437220033/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 19,
-   "hits": [
-    "strategy",
-    "operations",
-    "consulting",
-    "implementation"
    ],
    "lang": null,
    "visa": null,
@@ -2068,28 +2666,6 @@
    "baseline": false
   },
   {
-   "id": "22e6dad76a85b6",
-   "company": "EY Nederland",
-   "region": "NL",
-   "title": "Senior Consultant Data & AI",
-   "location": "Amsterdam, Netherlands",
-   "url": "https://careers.ey.com/ey/job/Amsterdam-Senior-Consultant-Data-&amp;-AI-1083-HP/1433739333/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 17,
-   "hits": [
-    "consultant",
-    "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "63560102edffb1",
    "company": "EY Nederland",
    "region": "NL",
@@ -2104,6 +2680,28 @@
    "hits": [
     "strategy",
     "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "22e6dad76a85b6",
+   "company": "EY Nederland",
+   "region": "NL",
+   "title": "Senior Consultant Data & AI",
+   "location": "Amsterdam, Netherlands",
+   "url": "https://careers.ey.com/ey/job/Amsterdam-Senior-Consultant-Data-&amp;-AI-1083-HP/1433739333/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 17,
+   "hits": [
+    "consultant",
+    "consulting"
    ],
    "lang": null,
    "visa": null,
@@ -2136,28 +2734,6 @@
    "baseline": false
   },
   {
-   "id": "d4ef5cdd412488",
-   "company": "EY Nederland",
-   "region": "NL",
-   "title": "SAP S/4HANA Senior Consultant - Manufacturing",
-   "location": "Amsterdam SAP S4HANA, Netherlands",
-   "url": "https://careers.ey.com/ey/job/Amsterdam-SAP-S4HANA-Senior-Consultant-Manufacturing-1083-HP/1433820133/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 16,
-   "hits": [
-    "consultant",
-    "implementation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "38b7fa90be1b5a",
    "company": "EY Nederland",
    "region": "NL",
@@ -2172,6 +2748,28 @@
    "hits": [
     "consulting",
     "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "d4ef5cdd412488",
+   "company": "EY Nederland",
+   "region": "NL",
+   "title": "SAP S/4HANA Senior Consultant - Manufacturing",
+   "location": "Amsterdam SAP S4HANA, Netherlands",
+   "url": "https://careers.ey.com/ey/job/Amsterdam-SAP-S4HANA-Senior-Consultant-Manufacturing-1083-HP/1433820133/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 16,
+   "hits": [
+    "consultant",
+    "implementation"
    ],
    "lang": null,
    "visa": null,
@@ -7145,30 +7743,6 @@
    "stale": true
   },
   {
-   "id": "2d0ff95a83de42",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Clinical Research Associate",
-   "location": "United Kingdom - Witney",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Witney/Clinical-Research-Associate_31163345",
-   "posted": "2 Days Ago",
-   "posted_date": "2026-11-13",
-   "posted_approx": false,
-   "first_seen": "2026-11-13",
-   "score": 30,
-   "hits": [
-    "healthcare",
-    "clinical",
-    "patient"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false,
-   "stale": true
-  },
-  {
    "id": "f557046a22b44b",
    "company": "Novartis",
    "region": "UK",
@@ -8285,31 +8859,6 @@
    "details": true,
    "lang_checked": true,
    "baseline": false
-  },
-  {
-   "id": "5d30b97c33c96e",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Head Medical Affairs EUCAN",
-   "location": "3 Locations",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/France---Paris/Head-Medical-Affairs-EUCAN_31166926",
-   "posted": "3 Days Ago",
-   "posted_date": "2026-11-12",
-   "posted_approx": false,
-   "first_seen": "2026-11-12",
-   "score": 28,
-   "hits": [
-    "healthcare",
-    "patient",
-    "medical",
-    "strategy"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false,
-   "stale": true
   },
   {
    "id": "7e0e2d08a76c69",
@@ -12584,7 +13133,7 @@
    "title": "Clinical Specialist - Endovascular",
    "location": "United Kingdom - Maidenhead",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Maidenhead/Clinical-Specialist---Endovascular_31166650",
-   "posted": "6 Days Ago",
+   "posted": "12 Days Ago",
    "posted_date": "2026-11-09",
    "posted_approx": false,
    "first_seen": "2026-11-09",
@@ -12599,8 +13148,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "2a9babff551643",
@@ -13156,6 +13704,28 @@
    "stale": true
   },
   {
+   "id": "d778ed13736939",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "Territory Manager Endovascular (London & South East)",
+   "location": "United Kingdom > Maidenhead : Remote",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom--Maidenhead--Remote/Territory-Manager-Endovascular--London---South-East-_31159811",
+   "posted": "12 Days Ago",
+   "posted_date": "2026-11-09",
+   "posted_approx": false,
+   "first_seen": "2026-11-09",
+   "score": 18,
+   "hits": [
+    "healthcare",
+    "health care"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "bdbeecfcf4edd3",
    "company": "PwC",
    "region": "UK",
@@ -13172,29 +13742,6 @@
     "consulting",
     "implementation",
     "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false,
-   "stale": true
-  },
-  {
-   "id": "d778ed13736939",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Territory Manager Endovascular (London & South East)",
-   "location": "United Kingdom > Maidenhead : Remote",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom--Maidenhead--Remote/Territory-Manager-Endovascular--London---South-East-_31159811",
-   "posted": "6 Days Ago",
-   "posted_date": "2026-11-09",
-   "posted_approx": false,
-   "first_seen": "2026-11-09",
-   "score": 18,
-   "hits": [
-    "healthcare",
-    "health care"
    ],
    "lang": null,
    "visa": null,
@@ -14299,13 +14846,13 @@
    "stale": true
   },
   {
-   "id": "f6889ac8873bb7",
+   "id": "2a29e518e3abed",
    "company": "Databricks",
    "region": "UK",
    "title": "Senior Delivery Partner Manager, Services",
-   "location": "London, United Kingdom London, United Kingdom",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8931716002",
-   "posted": "2026-11-06T10:16:57-05:00",
+   "location": "Paris, France / London, United Kingdom London, United Kingdom",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8933236002",
+   "posted": "2026-11-06T10:18:37-05:00",
    "posted_date": "2026-11-06",
    "posted_approx": false,
    "first_seen": "2026-11-06",
@@ -14322,13 +14869,13 @@
    "baseline": false
   },
   {
-   "id": "2a29e518e3abed",
+   "id": "f6889ac8873bb7",
    "company": "Databricks",
    "region": "UK",
    "title": "Senior Delivery Partner Manager, Services",
-   "location": "Paris, France / London, United Kingdom London, United Kingdom",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8933236002",
-   "posted": "2026-11-06T10:18:37-05:00",
+   "location": "London, United Kingdom London, United Kingdom",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8931716002",
+   "posted": "2026-11-06T10:16:57-05:00",
    "posted_date": "2026-11-06",
    "posted_approx": false,
    "first_seen": "2026-11-06",
@@ -15314,6 +15861,29 @@
    "baseline": false
   },
   {
+   "id": "6dcb8e024b0231",
+   "company": "Workday",
+   "region": "UK",
+   "title": "Managing Partner - Platform EMEA",
+   "location": "2 Locations",
+   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/France-Paris/Managing-Partner---Platform-EMEA_JR-0111108",
+   "posted": "16 Days Ago",
+   "posted_date": "2026-11-05",
+   "posted_approx": false,
+   "first_seen": "2026-11-05",
+   "score": 20,
+   "hits": [
+    "strategy",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "928eec2147a118",
    "company": "Siemens Healthineers Middle East",
    "region": "ME",
@@ -15335,30 +15905,6 @@
    "details": true,
    "lang_checked": true,
    "baseline": false
-  },
-  {
-   "id": "6dcb8e024b0231",
-   "company": "Workday",
-   "region": "UK",
-   "title": "Managing Partner - Platform EMEA",
-   "location": "2 Locations",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/France-Paris/Managing-Partner---Platform-EMEA_JR-0111108",
-   "posted": "14 Days Ago",
-   "posted_date": "2026-11-05",
-   "posted_approx": false,
-   "first_seen": "2026-11-05",
-   "score": 20,
-   "hits": [
-    "strategy",
-    "consulting",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false,
-   "stale": true
   },
   {
    "id": "ffc2f496c1c780",
@@ -17492,7 +18038,7 @@
    "title": "Senior Technical Consultant - EMEA, VNDLY Technical Services",
    "location": "2 Locations",
    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Senior-Technical-Consultant---EMEA--VNDLY-Technical-Services_JR-0111135",
-   "posted": "16 Days Ago",
+   "posted": "18 Days Ago",
    "posted_date": "2026-11-03",
    "posted_approx": false,
    "first_seen": "2026-11-03",
@@ -17506,8 +18052,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "517561a90dfbab",
@@ -18019,44 +18564,6 @@
    "baseline": false
   },
   {
-   "id": "159ed5551dd02c",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "Assurance - Transaction Forensics - Sale & Purchase Agreements - Senior Manager - London/Regions",
-   "location": "London, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/London-Assurance-Transaction-Forensics-Sale-&amp;-Purchase-Agreements-Senior-Manager-LondonRegions-SE1-2AF/1443326733/",
-   "posted": null,
-   "posted_date": "2026-11-03",
-   "posted_approx": true,
-   "first_seen": "2026-11-03",
-   "score": 1,
-   "hits": [],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "ac3287d98c9bff",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "Assurance - Transaction Forensics - Sale & Purchase Agreements - Manager - London",
-   "location": "London, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/London-Assurance-Transaction-Forensics-Sale-&amp;-Purchase-Agreements-Manager-London-SE1-2AF/1446348333/",
-   "posted": null,
-   "posted_date": "2026-11-03",
-   "posted_approx": true,
-   "first_seen": "2026-11-03",
-   "score": 1,
-   "hits": [],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "3148b3e3642ae5",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
@@ -18076,12 +18583,50 @@
    "baseline": false
   },
   {
+   "id": "159ed5551dd02c",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Assurance - Transaction Forensics - Sale & Purchase Agreements - Senior Manager - London/Regions",
+   "location": "London, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/London-Assurance-Transaction-Forensics-Sale-&amp;-Purchase-Agreements-Senior-Manager-LondonRegions-SE1-2AF/1443326733/",
+   "posted": null,
+   "posted_date": "2026-11-03",
+   "posted_approx": true,
+   "first_seen": "2026-11-03",
+   "score": 1,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "63b6fd32a53367",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
    "title": "Assurance - Transaction Forensics - Sale & Purchase Agreements - Manager - London/Regions",
    "location": "London, United Arab Emirates",
    "url": "https://careers.ey.com/ey/job/London-Assurance-Transaction-Forensics-Sale-&amp;-Purchase-Agreements-Manager-LondonRegions-SE1-2AF/1446348233/",
+   "posted": null,
+   "posted_date": "2026-11-03",
+   "posted_approx": true,
+   "first_seen": "2026-11-03",
+   "score": 1,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "ac3287d98c9bff",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Assurance - Transaction Forensics - Sale & Purchase Agreements - Manager - London",
+   "location": "London, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/London-Assurance-Transaction-Forensics-Sale-&amp;-Purchase-Agreements-Manager-London-SE1-2AF/1446348333/",
    "posted": null,
    "posted_date": "2026-11-03",
    "posted_approx": true,
@@ -18865,12 +19410,12 @@
    "stale": true
   },
   {
-   "id": "31bbaa5eea4200",
+   "id": "11df49243e3c58",
    "company": "EY Nederland",
    "region": "NL",
-   "title": "Senior Manager (ISO27001)",
+   "title": "Manager (ISO27001)",
    "location": "Amsterdam, Netherlands",
-   "url": "https://careers.ey.com/ey/job/Amsterdam-Senior-Manager-%28ISO27001%29-1083-HP/1407753233/",
+   "url": "https://careers.ey.com/ey/job/Amsterdam-Manager-%28ISO27001%29-1083-HP/1409697733/",
    "posted": null,
    "posted_date": "2026-11-02",
    "posted_approx": true,
@@ -18886,12 +19431,12 @@
    "baseline": false
   },
   {
-   "id": "11df49243e3c58",
+   "id": "31bbaa5eea4200",
    "company": "EY Nederland",
    "region": "NL",
-   "title": "Manager (ISO27001)",
+   "title": "Senior Manager (ISO27001)",
    "location": "Amsterdam, Netherlands",
-   "url": "https://careers.ey.com/ey/job/Amsterdam-Manager-%28ISO27001%29-1083-HP/1409697733/",
+   "url": "https://careers.ey.com/ey/job/Amsterdam-Senior-Manager-%28ISO27001%29-1083-HP/1407753233/",
    "posted": null,
    "posted_date": "2026-11-02",
    "posted_approx": true,
@@ -20258,7 +20803,7 @@
    "title": "Quality Assurance Specialist.",
    "location": "United Kingdom : Blythe Valley Park , Elder (Plot C1b), Central Boulevard Solihull",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom--Blythe-Valley-Park--Elder-Plot-C1b-Central-Boulevard-Solihull/Quality-Assurance-Specialist_31165001",
-   "posted": "17 Days Ago",
+   "posted": "23 Days Ago",
    "posted_date": "2026-10-29",
    "posted_approx": false,
    "first_seen": "2026-10-29",
@@ -20273,8 +20818,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "10fc49a57d1445",
@@ -22311,29 +22855,6 @@
    "baseline": false
   },
   {
-   "id": "2d7a550cff3f8b",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Occupational Health Advisor based in Crewe",
-   "location": "United Kingdom > Abingdon : Remote",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom--Abingdon--Remote/Occupational-Health-Advisor-based-in-Crewe_31159901",
-   "posted": "20 Days Ago",
-   "posted_date": "2026-10-26",
-   "posted_approx": false,
-   "first_seen": "2026-10-26",
-   "score": 23,
-   "hits": [
-    "healthcare",
-    "health"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false,
-   "stale": true
-  },
-  {
    "id": "e8285fe506a655",
    "company": "Publicis",
    "region": "UK",
@@ -23316,7 +23837,7 @@
    "title": "eSolutions Advisor",
    "location": "United Kingdom - Maidenhead",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Maidenhead/eSolutions-Advisor_31164996",
-   "posted": "23 Days Ago",
+   "posted": "29 Days Ago",
    "posted_date": "2026-10-23",
    "posted_approx": false,
    "first_seen": "2026-10-23",
@@ -23331,8 +23852,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "557e3951b56b6a",
@@ -23937,7 +24457,7 @@
    "title": "EMEA Content Manager",
    "location": "United Kingdom - Maidenhead",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Maidenhead/EMEA-Content-Manager_31165454",
-   "posted": "24 Days Ago",
+   "posted": "30 Days Ago",
    "posted_date": "2026-10-22",
    "posted_approx": false,
    "first_seen": "2026-10-22",
@@ -23951,8 +24471,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "4f98794ffdab93",
@@ -24019,29 +24538,6 @@
    "details": true,
    "lang_checked": true,
    "baseline": false
-  },
-  {
-   "id": "4fd9dba0da5b24",
-   "company": "Fractal Analytics",
-   "region": "UK",
-   "title": "Engagement Manager - CPG Domain",
-   "location": "London",
-   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/London/Engagement-Manager---CPG-Domain_SR-46963",
-   "posted": "24 Days Ago",
-   "posted_date": "2026-10-22",
-   "posted_approx": false,
-   "first_seen": "2026-10-22",
-   "score": 16,
-   "hits": [
-    "consulting",
-    "engagement manager"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false,
-   "stale": true
   },
   {
    "id": "886bec43d1cf1c",
@@ -24351,7 +24847,7 @@
    "title": "Team Mgr-Clinic Operations-TH",
    "location": "Glasgow, Scotland, UK",
    "url": "https://lifeworks.wd3.myworkdayjobs.com/External/job/Glasgow-Scotland-UK/Team-Mgr-Clinic-Operations-TH_R-22887-1",
-   "posted": "25 Days Ago",
+   "posted": "30+ Days Ago",
    "posted_date": "2026-10-21",
    "posted_approx": false,
    "first_seen": "2026-10-21",
@@ -24366,8 +24862,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "3934a79526fc42",
@@ -24398,7 +24893,7 @@
    "title": "Informatics Technical Service Specialist UKI",
    "location": "United Kingdom - Remote",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Remote/Informatics-Technical-Service-Specialist-UKI_31160995",
-   "posted": "25 Days Ago",
+   "posted": "30+ Days Ago",
    "posted_date": "2026-10-21",
    "posted_approx": false,
    "first_seen": "2026-10-21",
@@ -24413,8 +24908,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "2e8feb793df273",
@@ -24961,7 +25455,7 @@
    "title": "Customer Success Manager",
    "location": "London, England, UK",
    "url": "https://lifeworks.wd3.myworkdayjobs.com/External/job/London-England-UK/Customer-Success-Manager_R-23424",
-   "posted": "26 Days Ago",
+   "posted": "30+ Days Ago",
    "posted_date": "2026-10-20",
    "posted_approx": false,
    "first_seen": "2026-10-20",
@@ -24975,8 +25469,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "d7cff9e958f93b",
@@ -26248,6 +26741,27 @@
    "baseline": false
   },
   {
+   "id": "34f5437aaa845b",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "Territory Manager Radiofrequency Ablation (RF) - South West",
+   "location": "4 Locations",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Solihull--Remote/Territory-Manager-Radiofrequency-Ablation--RF----South-West_31158541",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-09-16",
+   "posted_approx": true,
+   "first_seen": "2026-10-16",
+   "score": 12,
+   "hits": [
+    "healthcare"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "923258a834678a",
    "company": "Adyen",
    "region": "NL",
@@ -26290,28 +26804,6 @@
    "details": true,
    "lang_checked": true,
    "baseline": false
-  },
-  {
-   "id": "34f5437aaa845b",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Territory Manager Radiofrequency Ablation (RF) - South West",
-   "location": "4 Locations",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Solihull--Remote/Territory-Manager-Radiofrequency-Ablation--RF----South-West_31158541",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-16",
-   "posted_approx": true,
-   "first_seen": "2026-10-16",
-   "score": 12,
-   "hits": [
-    "healthcare"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false,
-   "stale": true
   },
   {
    "id": "10956ca1661f42",
@@ -27508,12 +28000,12 @@
    "baseline": true
   },
   {
-   "id": "b3dd434526d0b0",
+   "id": "48646c45ad9b9f",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Digital Lab Transformation - Senior Consultant - Life Sciences (LIMS)",
+   "title": "Digital Quality Transformation - Senior Consultant - Life Sciences (QMS)",
    "location": "New, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/New-York-Digital-Lab-Transformation-Senior-Consultant-Life-Sciences-%28LIMS%29-NY-10001-8604/1407620333/",
+   "url": "https://careers.ey.com/ey/job/New-York-Digital-Quality-Transformation-Senior-Consultant-Life-Sciences-%28QMS%29-NY-10001-8604/1407620633/",
    "posted": null,
    "posted_date": "2026-10-13",
    "posted_approx": true,
@@ -27532,12 +28024,12 @@
    "baseline": true
   },
   {
-   "id": "48646c45ad9b9f",
+   "id": "b3dd434526d0b0",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Digital Quality Transformation - Senior Consultant - Life Sciences (QMS)",
+   "title": "Digital Lab Transformation - Senior Consultant - Life Sciences (LIMS)",
    "location": "New, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/New-York-Digital-Quality-Transformation-Senior-Consultant-Life-Sciences-%28QMS%29-NY-10001-8604/1407620633/",
+   "url": "https://careers.ey.com/ey/job/New-York-Digital-Lab-Transformation-Senior-Consultant-Life-Sciences-%28LIMS%29-NY-10001-8604/1407620333/",
    "posted": null,
    "posted_date": "2026-10-13",
    "posted_approx": true,
@@ -27699,8 +28191,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "e8d7925f187138",
@@ -28099,6 +28590,30 @@
    "stale": true
   },
   {
+   "id": "88c8dc33296218",
+   "company": "Fractal Analytics",
+   "region": "UK",
+   "title": "Principal consultant - CPG Data foundations & Strategy",
+   "location": "London",
+   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/London/Senior-CPG-Data-Foundation-Advisor_SR-43253",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-09-30",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 36,
+   "hits": [
+    "strategy",
+    "consultant",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "881cf48c1f7386",
    "company": "BCG",
    "region": "UK",
@@ -28231,31 +28746,6 @@
    "posted": "30+ Days Ago",
    "posted_date": "2026-09-13",
    "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 36,
-   "hits": [
-    "strategy",
-    "consultant",
-    "consulting",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
-  },
-  {
-   "id": "88c8dc33296218",
-   "company": "Fractal Analytics",
-   "region": "UK",
-   "title": "Principal consultant - CPG Data foundations & Strategy",
-   "location": "London",
-   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/London/Senior-CPG-Data-Foundation-Advisor_SR-43253",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-30",
-   "posted_approx": false,
    "first_seen": "2026-10-13",
    "score": 36,
    "hits": [
@@ -28534,6 +29024,30 @@
    "baseline": true
   },
   {
+   "id": "7362f8e6914b55",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "Clinical Development Specialist Electrophysiology London/South East UK",
+   "location": "United Kingdom-London",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom-London/Clinical-Development-Specialist-Electrophysiology-London-South-East-UK_31160099",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-09-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 33,
+   "hits": [
+    "healthcare",
+    "health care",
+    "clinical",
+    "patient"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "6d714ae3a2162b",
    "company": "Strategy& Middle East",
    "region": "ME",
@@ -28556,31 +29070,6 @@
    "details": true,
    "lang_checked": true,
    "baseline": true
-  },
-  {
-   "id": "7362f8e6914b55",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Clinical Development Specialist Electrophysiology London/South East UK",
-   "location": "United Kingdom-London",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom-London/Clinical-Development-Specialist-Electrophysiology-London-South-East-UK_31160099",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 33,
-   "hits": [
-    "healthcare",
-    "health care",
-    "clinical",
-    "patient"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
   },
   {
    "id": "2b485505800f33",
@@ -28654,29 +29143,6 @@
    "stale": true
   },
   {
-   "id": "2a7c45bc325806",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "Senior Consultant - Insurance Technology Transformation, TC FS",
-   "location": "London, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/London-Senior-Consultant-Insurance-Technology-Transformation%2C-TC-FS-E14-5EY/1373712633/",
-   "posted": null,
-   "posted_date": "2026-10-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 32,
-   "hits": [
-    "consultant",
-    "consulting",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "3a54515cb8f569",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
@@ -28692,6 +29158,29 @@
     "operations",
     "consulting",
     "implementation",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "2a7c45bc325806",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Senior Consultant - Insurance Technology Transformation, TC FS",
+   "location": "London, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/London-Senior-Consultant-Insurance-Technology-Transformation%2C-TC-FS-E14-5EY/1373712633/",
+   "posted": null,
+   "posted_date": "2026-10-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 32,
+   "hits": [
+    "consultant",
+    "consulting",
     "transformation"
    ],
    "lang": null,
@@ -28773,30 +29262,6 @@
    "baseline": true
   },
   {
-   "id": "84a467bd3a656e",
-   "company": "BCG",
-   "region": "UK",
-   "title": "Senior Analyst - BCG Vantage, MedTech (Temporary - 12-Month Fixed-Term Contract)",
-   "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/58825/Senior-Analyst-BCG-Vantage-MedTech-Temporary-12-Month-Fixed-Term-Contract",
-   "posted": "2026-07-22T00:00:00.000+0000",
-   "posted_date": "2026-07-22",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 32,
-   "hits": [
-    "health care",
-    "medtech",
-    "strategy",
-    "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "ddfc231332ec4f",
    "company": "BCG",
    "region": "UK",
@@ -28812,6 +29277,30 @@
     "strategy",
     "operations",
     "consultant",
+    "consulting"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "84a467bd3a656e",
+   "company": "BCG",
+   "region": "UK",
+   "title": "Senior Analyst - BCG Vantage, MedTech (Temporary - 12-Month Fixed-Term Contract)",
+   "location": "London, United Kingdom",
+   "url": "https://careers.bcg.com/global/en/job/58825/Senior-Analyst-BCG-Vantage-MedTech-Temporary-12-Month-Fixed-Term-Contract",
+   "posted": "2026-07-22T00:00:00.000+0000",
+   "posted_date": "2026-07-22",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 32,
+   "hits": [
+    "health care",
+    "medtech",
+    "strategy",
     "consulting"
    ],
    "lang": null,
@@ -29620,6 +30109,30 @@
    "baseline": true
   },
   {
+   "id": "a443ad64ba6c44",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "Clinical Specialist NMD - North",
+   "location": "4 Locations",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Solihull--Remote/Clinical-Specialist-NMD---North_31162850",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-09-24",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 30,
+   "hits": [
+    "healthcare",
+    "clinical",
+    "hospital",
+    "nhs"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "52a5108bc99b30",
    "company": "Accenture NL",
    "region": "NL",
@@ -29810,31 +30323,6 @@
     "consultant",
     "consulting",
     "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
-  },
-  {
-   "id": "a443ad64ba6c44",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Clinical Specialist NMD - North",
-   "location": "4 Locations",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Solihull--Remote/Clinical-Specialist-NMD---North_31162850",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-24",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 30,
-   "hits": [
-    "healthcare",
-    "clinical",
-    "hospital",
-    "nhs"
    ],
    "lang": null,
    "visa": null,
@@ -30473,6 +30961,30 @@
    "baseline": true
   },
   {
+   "id": "2eec55cbf4c127",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "Customer Relations Manager Benelux - Abbott Diabetes Care",
+   "location": "Netherlands - Hoofddorp",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Hoofddorp/Customer-Relations-Manager-Benelux---Abbott-Diabetes-Care_31154627-1",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-09-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 27,
+   "hits": [
+    "healthcare",
+    "strategy",
+    "operations",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "efced1eb9546a4",
    "company": "Accenture",
    "region": "UK",
@@ -30585,31 +31097,6 @@
    "first_seen": "2026-10-13",
    "score": 27,
    "hits": [
-    "operations",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
-  },
-  {
-   "id": "2eec55cbf4c127",
-   "company": "Abbott NL",
-   "region": "NL",
-   "title": "Customer Relations Manager Benelux - Abbott Diabetes Care",
-   "location": "Netherlands - Hoofddorp",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Hoofddorp/Customer-Relations-Manager-Benelux---Abbott-Diabetes-Care_31154627-1",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 27,
-   "hits": [
-    "healthcare",
-    "strategy",
     "operations",
     "transformation"
    ],
@@ -30863,30 +31350,6 @@
    "stale": true
   },
   {
-   "id": "120ab0f3500d08",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Continuous Improvement Specialist - Product Investigation",
-   "location": "United Kingdom - Witney",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Witney/Operational-Excellence-Specialist_31162611",
-   "posted": "11 Days Ago",
-   "posted_date": "2026-09-21",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 26,
-   "hits": [
-    "operations",
-    "operational",
-    "implementation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
-  },
-  {
    "id": "f3728a906826f4",
    "company": "ICON",
    "region": "UK",
@@ -30959,6 +31422,54 @@
    "baseline": true
   },
   {
+   "id": "4ca5c9b9d9710c",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "Senior Regulatory Affairs Specialist",
+   "location": "United Kingdom - Witney",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Witney/Senior-Regulatory-Affairs-Specialist_31152152",
+   "posted": "2 Days Ago",
+   "posted_date": "2026-09-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 25,
+   "hits": [
+    "healthcare",
+    "hospital",
+    "strategy",
+    "operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "16ea3725ca0dac",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "Senior Specialist, Good Manufacturing Practices",
+   "location": "United Kingdom - Witney",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Witney/Senior-Specialist--Good-Manufacturing-Practices_31163945",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-06",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 25,
+   "hits": [
+    "healthcare",
+    "patient",
+    "hospital",
+    "operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "0019f78c7cf209",
    "company": "Accenture",
    "region": "UK",
@@ -31000,56 +31511,6 @@
     "consulting",
     "transformation",
     "change management"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
-  },
-  {
-   "id": "16ea3725ca0dac",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Senior Specialist, Good Manufacturing Practices",
-   "location": "United Kingdom - Witney",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Witney/Senior-Specialist--Good-Manufacturing-Practices_31163945",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-10-06",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 25,
-   "hits": [
-    "healthcare",
-    "patient",
-    "hospital",
-    "operations"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
-  },
-  {
-   "id": "4ca5c9b9d9710c",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Senior Regulatory Affairs Specialist",
-   "location": "United Kingdom - Witney",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Witney/Senior-Regulatory-Affairs-Specialist_31152152",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 25,
-   "hits": [
-    "healthcare",
-    "hospital",
-    "strategy",
-    "operations"
    ],
    "lang": null,
    "visa": null,
@@ -31767,6 +32228,30 @@
    "baseline": true
   },
   {
+   "id": "a9098bdff48c96",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "Senior Manager, Design Transfer",
+   "location": "United Kingdom - Witney",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Witney/Senior-Manager--Design-Transfer_31163944",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-06",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 23,
+   "hits": [
+    "healthcare",
+    "hospital",
+    "digital health",
+    "strategy"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "87f2cfdcc49736",
    "company": "Siemens Healthineers",
    "region": "UK",
@@ -31879,80 +32364,6 @@
     "operations",
     "transformation",
     "program manager"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
-  },
-  {
-   "id": "a9098bdff48c96",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Senior Manager, Design Transfer",
-   "location": "United Kingdom - Witney",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Witney/Senior-Manager--Design-Transfer_31163944",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-10-06",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 23,
-   "hits": [
-    "healthcare",
-    "hospital",
-    "digital health",
-    "strategy"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
-  },
-  {
-   "id": "9ddb71b98cf016",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "System Project Lead",
-   "location": "United Kingdom - Witney",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Witney/System-Project-Lead_31163818",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-10-06",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 23,
-   "hits": [
-    "healthcare",
-    "implementation",
-    "process improvement"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
-  },
-  {
-   "id": "5e6aa6979ef6ac",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Planning Project Lead - Manufacturing",
-   "location": "United Kingdom - Witney",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Witney/Planning-Project-Lead---Manufacturing_31156187",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 23,
-   "hits": [
-    "healthcare",
-    "hospital",
-    "operations",
-    "implementation"
    ],
    "lang": null,
    "visa": null,
@@ -32132,29 +32543,6 @@
    "stale": true
   },
   {
-   "id": "0c4fcfe4d591a4",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "Manager, M&A Deal Management, Strategy and Execution, EY Parthenon",
-   "location": "London, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/London-Manager%2C-M&amp;A-Deal-Management%2C-Strategy-and-Execution%2C-EY-Parthenon-SE1-2AF/1397435033/",
-   "posted": null,
-   "posted_date": "2026-10-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 22,
-   "hits": [
-    "strategy",
-    "consultant",
-    "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "3a5e946376a7ed",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
@@ -32170,6 +32558,29 @@
     "consultant",
     "consulting",
     "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "0c4fcfe4d591a4",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Manager, M&A Deal Management, Strategy and Execution, EY Parthenon",
+   "location": "London, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/London-Manager%2C-M&amp;A-Deal-Management%2C-Strategy-and-Execution%2C-EY-Parthenon-SE1-2AF/1397435033/",
+   "posted": null,
+   "posted_date": "2026-10-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 22,
+   "hits": [
+    "strategy",
+    "consultant",
+    "consulting"
    ],
    "lang": null,
    "visa": null,
@@ -32202,12 +32613,12 @@
    "baseline": true
   },
   {
-   "id": "25d5a34980758f",
+   "id": "f8e5ca4bd4a67c",
    "company": "BCG",
    "region": "UK",
-   "title": "BCG X Global PA AI Strategy & Portfolio Manager",
+   "title": "BCG X Global PA AI Strategy & Portfolio Senior Manager",
    "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/59802/BCG-X-Global-PA-AI-Strategy-Portfolio-Manager",
+   "url": "https://careers.bcg.com/global/en/job/59803/BCG-X-Global-PA-AI-Strategy-Portfolio-Senior-Manager",
    "posted": "2026-10-02T00:00:00.000+0000",
    "posted_date": "2026-10-02",
    "posted_approx": false,
@@ -32225,12 +32636,12 @@
    "baseline": true
   },
   {
-   "id": "f8e5ca4bd4a67c",
+   "id": "25d5a34980758f",
    "company": "BCG",
    "region": "UK",
-   "title": "BCG X Global PA AI Strategy & Portfolio Senior Manager",
+   "title": "BCG X Global PA AI Strategy & Portfolio Manager",
    "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/59803/BCG-X-Global-PA-AI-Strategy-Portfolio-Senior-Manager",
+   "url": "https://careers.bcg.com/global/en/job/59802/BCG-X-Global-PA-AI-Strategy-Portfolio-Manager",
    "posted": "2026-10-02T00:00:00.000+0000",
    "posted_date": "2026-10-02",
    "posted_approx": false,
@@ -32411,6 +32822,53 @@
    "baseline": true
   },
   {
+   "id": "65db47f088939f",
+   "company": "Workday",
+   "region": "UK",
+   "title": "Engagement Manager - Sana (London)",
+   "location": "United Kingdom, London",
+   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Engagement-Manager---Sana--London-_JR-0110504",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-07",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 22,
+   "hits": [
+    "implementation",
+    "change management",
+    "engagement manager"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "64b9742c14e797",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "Territory Manager MCS, Heart Failure - North UK",
+   "location": "3 Locations",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Solihull--Remote/Territory-Manager-MCS--Heart-Failure---North-UK_31150377",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-09-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 22,
+   "hits": [
+    "healthcare",
+    "patient",
+    "strategy",
+    "operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "6bf9c49dc32159",
    "company": "Siemens Healthineers",
    "region": "UK",
@@ -32548,30 +33006,6 @@
    "details": false,
    "lang_checked": true,
    "baseline": true
-  },
-  {
-   "id": "65db47f088939f",
-   "company": "Workday",
-   "region": "UK",
-   "title": "Engagement Manager - Sana (London)",
-   "location": "United Kingdom, London",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Engagement-Manager---Sana--London-_JR-0110504",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-10-07",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 22,
-   "hits": [
-    "implementation",
-    "change management",
-    "engagement manager"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
   },
   {
    "id": "809e0c3a9c2d99",
@@ -32987,55 +33421,6 @@
    "stale": true
   },
   {
-   "id": "856e50a0d5fc77",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Regional Business Manager North UK & Ireland",
-   "location": "5 Locations",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Maidenhead/Regional-Business-Manager---North-West_31162194",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-29",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 22,
-   "hits": [
-    "healthcare",
-    "nhs",
-    "strategy"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
-  },
-  {
-   "id": "64b9742c14e797",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Territory Manager MCS, Heart Failure - North UK",
-   "location": "3 Locations",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Solihull--Remote/Territory-Manager-MCS--Heart-Failure---North-UK_31150377",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 22,
-   "hits": [
-    "healthcare",
-    "patient",
-    "strategy",
-    "operations"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
-  },
-  {
    "id": "bf67a865610070",
    "company": "ICON",
    "region": "UK",
@@ -33197,6 +33582,29 @@
    "baseline": true
   },
   {
+   "id": "0675896f2779ff",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "Site EHS Manager",
+   "location": "United Kingdom - Witney",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Witney/Site-EHS-Manager_31162748",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-09-21",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 21,
+   "hits": [
+    "strategy",
+    "operations",
+    "operations manager"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "ad5358bbdededc",
    "company": "Accenture NL",
    "region": "NL",
@@ -33237,30 +33645,6 @@
     "consultant",
     "implementation",
     "engagement manager"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
-  },
-  {
-   "id": "0675896f2779ff",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Site EHS Manager",
-   "location": "United Kingdom - Witney",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Witney/Site-EHS-Manager_31162748",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-21",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 21,
-   "hits": [
-    "strategy",
-    "operations",
-    "operations manager"
    ],
    "lang": null,
    "visa": null,
@@ -33362,43 +33746,19 @@
    "baseline": true
   },
   {
-   "id": "074c20eeccd890",
+   "id": "71594d7227ab7c",
    "company": "BCG",
    "region": "UK",
-   "title": "Global Staffing Senior Manager",
-   "location": "Lisbon, Portugal / London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/59700/Global-Staffing-Senior-Manager",
-   "posted": "2026-10-06T00:00:00.000+0000",
-   "posted_date": "2026-10-06",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 20,
-   "hits": [
-    "strategy",
-    "consultant",
-    "consulting",
-    "implementation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "db193c86092dfd",
-   "company": "BCG",
-   "region": "UK",
-   "title": "Senior Analyst - BCG Vantage, Technology, Media, and Telecommunications (TMT)",
+   "title": "Manager - BCG Vantage - Tech Capital in Principal Investors and Private Equity",
    "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/59278/Senior-Analyst-BCG-Vantage-Technology-Media-and-Telecommunications-TMT",
-   "posted": "2026-08-31T00:00:00.000+0000",
-   "posted_date": "2026-08-31",
+   "url": "https://careers.bcg.com/global/en/job/57586/Manager-BCG-Vantage-Tech-Capital-in-Principal-Investors-and-Private-Equity",
+   "posted": "2026-09-11T00:00:00.000+0000",
+   "posted_date": "2026-09-11",
    "posted_approx": false,
    "first_seen": "2026-10-13",
    "score": 20,
    "hits": [
-    "healthcare",
+    "health care",
     "strategy",
     "consulting",
     "transformation"
@@ -33482,22 +33842,22 @@
    "baseline": true
   },
   {
-   "id": "71594d7227ab7c",
+   "id": "074c20eeccd890",
    "company": "BCG",
    "region": "UK",
-   "title": "Manager - BCG Vantage - Tech Capital in Principal Investors and Private Equity",
-   "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/57586/Manager-BCG-Vantage-Tech-Capital-in-Principal-Investors-and-Private-Equity",
-   "posted": "2026-09-11T00:00:00.000+0000",
-   "posted_date": "2026-09-11",
+   "title": "Global Staffing Senior Manager",
+   "location": "Lisbon, Portugal / London, United Kingdom",
+   "url": "https://careers.bcg.com/global/en/job/59700/Global-Staffing-Senior-Manager",
+   "posted": "2026-10-06T00:00:00.000+0000",
+   "posted_date": "2026-10-06",
    "posted_approx": false,
    "first_seen": "2026-10-13",
    "score": 20,
    "hits": [
-    "health care",
     "strategy",
+    "consultant",
     "consulting",
-    "transformation"
+    "implementation"
    ],
    "lang": null,
    "visa": null,
@@ -33528,6 +33888,30 @@
    "details": true,
    "lang_checked": true,
    "baseline": false
+  },
+  {
+   "id": "db193c86092dfd",
+   "company": "BCG",
+   "region": "UK",
+   "title": "Senior Analyst - BCG Vantage, Technology, Media, and Telecommunications (TMT)",
+   "location": "London, United Kingdom",
+   "url": "https://careers.bcg.com/global/en/job/59278/Senior-Analyst-BCG-Vantage-Technology-Media-and-Telecommunications-TMT",
+   "posted": "2026-08-31T00:00:00.000+0000",
+   "posted_date": "2026-08-31",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 20,
+   "hits": [
+    "healthcare",
+    "strategy",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
   },
   {
    "id": "d54755264d7c61",
@@ -33712,6 +34096,52 @@
    "baseline": true
   },
   {
+   "id": "6f036f394cb95a",
+   "company": "Workday",
+   "region": "UK",
+   "title": "Principal Managing Partner - UKI",
+   "location": "United Kingdom, London",
+   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Principal-Managing-Partner---Financial-Software_JR-0107017",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-13",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 20,
+   "hits": [
+    "strategy",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "da81eed49cce3e",
+   "company": "Workday",
+   "region": "UK",
+   "title": "Principal Managing Partner - Public Sector",
+   "location": "United Kingdom, London",
+   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Principal-Managing-Partner---UKI_JR-0102298",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-09-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 20,
+   "hits": [
+    "strategy",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "338bbb079d4f97",
    "company": "Adyen",
    "region": "NL",
@@ -33804,77 +34234,6 @@
    "details": true,
    "lang_checked": true,
    "baseline": true
-  },
-  {
-   "id": "6f036f394cb95a",
-   "company": "Workday",
-   "region": "UK",
-   "title": "Principal Managing Partner - UKI",
-   "location": "United Kingdom, London",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Principal-Managing-Partner---Financial-Software_JR-0107017",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-10-13",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 20,
-   "hits": [
-    "strategy",
-    "consulting",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false,
-   "stale": true
-  },
-  {
-   "id": "2fcb84eb66f0e9",
-   "company": "Workday",
-   "region": "UK",
-   "title": "Solution Consultant HCM",
-   "location": "United Kingdom, London",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Solution-Consultant-HCM_JR-0110148",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-21",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 20,
-   "hits": [
-    "consultant",
-    "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
-  },
-  {
-   "id": "da81eed49cce3e",
-   "company": "Workday",
-   "region": "UK",
-   "title": "Principal Managing Partner - Public Sector",
-   "location": "United Kingdom, London",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Principal-Managing-Partner---UKI_JR-0102298",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 20,
-   "hits": [
-    "strategy",
-    "consulting",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
   },
   {
    "id": "e27e77b0e03d52",
@@ -35269,21 +35628,64 @@
    "baseline": true
   },
   {
-   "id": "d4fea8cc8f4c65",
-   "company": "Siemens Healthineers",
+   "id": "f2514b92c785af",
+   "company": "Abbott UK",
    "region": "UK",
-   "title": "SAP Systems Analyst",
-   "location": "Bicester, UK / Eynsham, Witney, UK / United Kingdom",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100561/SAP-Systems-Analyst",
-   "posted": "2026-10-01T16:17:13.283+0000",
-   "posted_date": "2026-10-01",
+   "title": "(Senior) Territory Manager Electrophysiology - South Coast",
+   "location": "2 Locations",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Solihull--Remote/XMLNAME--Senior--Territory-Manager-Electrophysiology---South-Coast_31157153",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-13",
    "posted_approx": false,
    "first_seen": "2026-10-13",
    "score": 18,
    "hits": [
     "healthcare",
-    "operations",
-    "transformation"
+    "health care"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "f788884ed3d0ad",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "Territory Manager Electrophysiology (Central London)",
+   "location": "2 Locations",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Solihull--Remote/Territory-Manager-Electrophysiology--Central-London-_31159965-1",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-09-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 18,
+   "hits": [
+    "healthcare",
+    "health care"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "dea47daf287cbf",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "Occupational Health Advisors (Pipeline for current and future openings in the UK)",
+   "location": "8 Locations",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Loughton--Remote/Occupational-Health-Advisors--Pipeline-for-current-and-future-openings-in-the-UK-_31078872",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-09-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 18,
+   "hits": [
+    "healthcare",
+    "health"
    ],
    "lang": null,
    "visa": null,
@@ -35306,6 +35708,29 @@
    "hits": [
     "healthcare",
     "change management"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "d4fea8cc8f4c65",
+   "company": "Siemens Healthineers",
+   "region": "UK",
+   "title": "SAP Systems Analyst",
+   "location": "Bicester, UK / Eynsham, Witney, UK / United Kingdom",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100561/SAP-Systems-Analyst",
+   "posted": "2026-10-01T16:17:13.283+0000",
+   "posted_date": "2026-10-01",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 18,
+   "hits": [
+    "healthcare",
+    "operations",
+    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -35460,75 +35885,6 @@
    "stale": true
   },
   {
-   "id": "f2514b92c785af",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "(Senior) Territory Manager Electrophysiology - South Coast",
-   "location": "2 Locations",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Solihull--Remote/XMLNAME--Senior--Territory-Manager-Electrophysiology---South-Coast_31157153",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-10-13",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 18,
-   "hits": [
-    "healthcare",
-    "health care"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false,
-   "stale": true
-  },
-  {
-   "id": "f788884ed3d0ad",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Territory Manager Electrophysiology (Central London)",
-   "location": "2 Locations",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Solihull--Remote/Territory-Manager-Electrophysiology--Central-London-_31159965-1",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 18,
-   "hits": [
-    "healthcare",
-    "health care"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
-  },
-  {
-   "id": "dea47daf287cbf",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Occupational Health Advisors (Pipeline for current and future openings in the UK)",
-   "location": "8 Locations",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Loughton--Remote/Occupational-Health-Advisors--Pipeline-for-current-and-future-openings-in-the-UK-_31078872",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 18,
-   "hits": [
-    "healthcare",
-    "health"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
-  },
-  {
    "id": "893b7a7618746c",
    "company": "BCG Middle East",
    "region": "ME",
@@ -35670,30 +36026,6 @@
    "stale": true
   },
   {
-   "id": "cec576f127794a",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Virtual Territory Manager",
-   "location": "United Kingdom - Remote",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Remote/Virtual-Territory-Manager_31164596",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-10-09",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 17,
-   "hits": [
-    "healthcare",
-    "patient",
-    "nhs"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
-  },
-  {
    "id": "601461a6ed7c0a",
    "company": "ICON",
    "region": "UK",
@@ -35762,30 +36094,6 @@
    "baseline": true
   },
   {
-   "id": "cc07a5c81c0b5d",
-   "company": "BCG",
-   "region": "UK",
-   "title": "(Senior) AI Factory Product Builder, London - BCG X",
-   "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/58305/Senior-AI-Factory-Product-Builder-London-BCG-X",
-   "posted": "2026-06-03T00:00:00.000+0000",
-   "posted_date": "2026-06-03",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 16,
-   "hits": [
-    "strategy",
-    "consulting",
-    "implementation",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "a43f331bab448b",
    "company": "BCG",
    "region": "UK",
@@ -35802,6 +36110,30 @@
     "consulting",
     "transformation",
     "process improvement"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "cc07a5c81c0b5d",
+   "company": "BCG",
+   "region": "UK",
+   "title": "(Senior) AI Factory Product Builder, London - BCG X",
+   "location": "London, United Kingdom",
+   "url": "https://careers.bcg.com/global/en/job/58305/Senior-AI-Factory-Product-Builder-London-BCG-X",
+   "posted": "2026-06-03T00:00:00.000+0000",
+   "posted_date": "2026-06-03",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 16,
+   "hits": [
+    "strategy",
+    "consulting",
+    "implementation",
+    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -36224,6 +36556,28 @@
    "baseline": true
   },
   {
+   "id": "e6ab49eaf89174",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "Join the Talent Pipeline at Abbott Nutrition UK & Ireland",
+   "location": "2 Locations",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Maidenhead/Join-the-Talent-Pipeline-at-Abbott-Nutrition-UK---Ireland_31129499",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-09-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 16,
+   "hits": [
+    "healthcare",
+    "operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "62c908d452ee33",
    "company": "Accenture NL",
    "region": "NL",
@@ -36515,29 +36869,6 @@
    "stale": true
   },
   {
-   "id": "e6ab49eaf89174",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Join the Talent Pipeline at Abbott Nutrition UK & Ireland",
-   "location": "2 Locations",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Maidenhead/Join-the-Talent-Pipeline-at-Abbott-Nutrition-UK---Ireland_31129499",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 16,
-   "hits": [
-    "healthcare",
-    "operations"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
-  },
-  {
    "id": "33128e617aaad8",
    "company": "ICON",
    "region": "UK",
@@ -36713,6 +37044,28 @@
    "baseline": true
   },
   {
+   "id": "ef2a5aad761b13",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "Supply Chain Executive (Diagnostics) - Glasgow",
+   "location": "United Kingdom-Glasgow",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom-Glasgow/Supply-Chain-Executive--Diagnostics----Glasgow_31159356",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-09-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 15,
+   "hits": [
+    "healthcare",
+    "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "a2c0fe4c8df6e4",
    "company": "M42",
    "region": "ME",
@@ -36821,29 +37174,6 @@
    "hits": [
     "operations",
     "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
-  },
-  {
-   "id": "ef2a5aad761b13",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Supply Chain Executive (Diagnostics) - Glasgow",
-   "location": "United Kingdom-Glasgow",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom-Glasgow/Supply-Chain-Executive--Diagnostics----Glasgow_31159356",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 15,
-   "hits": [
-    "healthcare",
-    "implementation"
    ],
    "lang": null,
    "visa": null,
@@ -38261,8 +38591,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": true,
-   "stale": true
+   "baseline": true
   },
   {
    "id": "544950350d700d",
@@ -40460,16 +40789,15 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": true,
-   "stale": true
+   "baseline": true
   },
   {
-   "id": "028f14f9731bb6",
+   "id": "561e070e8a4a00",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Senior Manager, Private Capital Transactions, London",
+   "title": "Manager, Private Capital Transactions, London",
    "location": "London, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/London-Senior-Manager%2C-Private-Capital-Transactions%2C-London-SE1-2AF/1250878701/",
+   "url": "https://careers.ey.com/ey/job/London-Manager%2C-Private-Capital-Transactions%2C-London-SE1-2AF/1251096201/",
    "posted": null,
    "posted_date": "2026-10-13",
    "posted_approx": true,
@@ -40502,12 +40830,12 @@
    "baseline": true
   },
   {
-   "id": "561e070e8a4a00",
+   "id": "028f14f9731bb6",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Manager, Private Capital Transactions, London",
+   "title": "Senior Manager, Private Capital Transactions, London",
    "location": "London, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/London-Manager%2C-Private-Capital-Transactions%2C-London-SE1-2AF/1251096201/",
+   "url": "https://careers.ey.com/ey/job/London-Senior-Manager%2C-Private-Capital-Transactions%2C-London-SE1-2AF/1250878701/",
    "posted": null,
    "posted_date": "2026-10-13",
    "posted_approx": true,
@@ -45587,13 +45915,6 @@
    "alert": false
   },
   {
-   "company": "Telus Health",
-   "region": "UK",
-   "url": "https://lifeworks.wd3.myworkdayjobs.com/External",
-   "kind": "feed_error",
-   "alert": false
-  },
-  {
    "company": "Congenica",
    "region": "UK",
    "url": "https://www.congenica.com/careers",
@@ -45676,13 +45997,6 @@
    "company": "Accenture",
    "region": "UK",
    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers",
-   "kind": "feed_error",
-   "alert": false
-  },
-  {
-   "company": "Fractal Analytics",
-   "region": "UK",
-   "url": "https://fractal.wd1.myworkdayjobs.com/Careers",
    "kind": "feed_error",
    "alert": false
   },
@@ -45858,13 +46172,6 @@
    "alert": false
   },
   {
-   "company": "Workday",
-   "region": "UK",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday",
-   "kind": "feed_error",
-   "alert": false
-  },
-  {
    "company": "Bupa",
    "region": "UK",
    "url": "https://careers.bupa.co.uk/search-jobs",
@@ -45876,13 +46183,6 @@
    "company": "Philips UK",
    "region": "UK",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
-   "kind": "feed_error",
-   "alert": false
-  },
-  {
-   "company": "Abbott UK",
-   "region": "UK",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers",
    "kind": "feed_error",
    "alert": false
   },
@@ -45988,13 +46288,6 @@
    "url": "https://careers.castoredc.com/vacancies/",
    "kind": "link",
    "note": "careers.castoredc.com/vacancies/",
-   "alert": false
-  },
-  {
-   "company": "Abbott NL",
-   "region": "NL",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers",
-   "kind": "feed_error",
    "alert": false
   },
   {
@@ -46323,17 +46616,6 @@
  "status": [
   {
    "companies": [
-    "Abbott UK",
-    "Abbott NL"
-   ],
-   "source": "workday",
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abbott.wd5.myworkdayjobs.com/wday/cxs/abbott/abbottcareers/jobs",
-   "total": 0,
-   "in_region": 0,
-   "kept": 0
-  },
-  {
-   "companies": [
     "Accenture",
     "Accenture NL"
    ],
@@ -46369,16 +46651,6 @@
    ],
    "source": "workday",
    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ferring.wd3.myworkdayjobs.com/wday/cxs/ferring/Ferring/jobs",
-   "total": 0,
-   "in_region": 0,
-   "kept": 0
-  },
-  {
-   "companies": [
-    "Fractal Analytics"
-   ],
-   "source": "workday",
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://fractal.wd1.myworkdayjobs.com/wday/cxs/fractal/Careers/jobs",
    "total": 0,
    "in_region": 0,
    "kept": 0
@@ -46543,30 +46815,10 @@
   },
   {
    "companies": [
-    "Telus Health"
-   ],
-   "source": "workday",
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://lifeworks.wd3.myworkdayjobs.com/wday/cxs/lifeworks/External/jobs",
-   "total": 0,
-   "in_region": 0,
-   "kept": 0
-  },
-  {
-   "companies": [
     "Wolters Kluwer"
    ],
    "source": "workday",
    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://wk.wd3.myworkdayjobs.com/wday/cxs/wk/External/jobs",
-   "total": 0,
-   "in_region": 0,
-   "kept": 0
-  },
-  {
-   "companies": [
-    "Workday"
-   ],
-   "source": "workday",
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs",
    "total": 0,
    "in_region": 0,
    "kept": 0
@@ -46580,6 +46832,17 @@
    "total": 0,
    "in_region": 0,
    "kept": 0
+  },
+  {
+   "companies": [
+    "Abbott UK",
+    "Abbott NL"
+   ],
+   "source": "workday",
+   "error": null,
+   "total": 115,
+   "in_region": 115,
+   "kept": 47
   },
   {
    "companies": [
@@ -46597,7 +46860,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 241,
+   "total": 243,
    "in_region": 80,
    "kept": 26
   },
@@ -46619,8 +46882,8 @@
    ],
    "source": "amazon",
    "error": null,
-   "total": 791,
-   "in_region": 791,
+   "total": 792,
+   "in_region": 792,
    "kept": 274
   },
   {
@@ -46639,8 +46902,8 @@
    ],
    "source": "atlassian",
    "error": null,
-   "total": 233,
-   "in_region": 57,
+   "total": 234,
+   "in_region": 58,
    "kept": 14
   },
   {
@@ -46842,8 +47105,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 896,
-   "in_region": 101,
+   "total": 895,
+   "in_region": 100,
    "kept": 8
   },
   {
@@ -46862,7 +47125,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 189,
+   "total": 190,
    "in_region": 128,
    "kept": 36
   },
@@ -46905,9 +47168,9 @@
    ],
    "source": "rmk_html",
    "error": null,
-   "total": 1417,
-   "in_region": 1417,
-   "kept": 132
+   "total": 1420,
+   "in_region": 1420,
+   "kept": 136
   },
   {
    "companies": [
@@ -46959,6 +47222,16 @@
    "total": 30,
    "in_region": 20,
    "kept": 4
+  },
+  {
+   "companies": [
+    "Fractal Analytics"
+   ],
+   "source": "workday",
+   "error": null,
+   "total": 4,
+   "in_region": 4,
+   "kept": 1
   },
   {
    "companies": [
@@ -47349,7 +47622,7 @@
    ],
    "source": "jibe",
    "error": null,
-   "total": 3304,
+   "total": 3305,
    "in_region": 305,
    "kept": 118
   },
@@ -47509,6 +47782,16 @@
   },
   {
    "companies": [
+    "Telus Health"
+   ],
+   "source": "workday",
+   "error": null,
+   "total": 7,
+   "in_region": 7,
+   "kept": 2
+  },
+  {
+   "companies": [
     "Thoughtworks"
    ],
    "source": "greenhouse",
@@ -47620,6 +47903,16 @@
   },
   {
    "companies": [
+    "Workday"
+   ],
+   "source": "workday",
+   "error": null,
+   "total": 13,
+   "in_region": 13,
+   "kept": 7
+  },
+  {
+   "companies": [
     "Xebia"
    ],
    "source": "recruitee",
@@ -47662,8 +47955,8 @@
  "counts": {
   "companies": 215,
   "feeds": 126,
-  "jobs": 1982,
-  "new_today": 5,
+  "jobs": 2002,
+  "new_today": 30,
   "pages": 5
  },
  "coverage": {
