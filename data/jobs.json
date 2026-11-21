@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T20:43:42+00:00",
+ "generated_at": "2026-11-21T13:31:35+00:00",
  "baseline_date": "2026-09-27",
  "rules_version": 6,
  "sources": {
@@ -158,6 +158,117 @@
   "IQVIA Middle East & Africa": "{\"site\": \"IQVIA\", \"tenant\": \"iqvia\", \"type\": \"workday\", \"wd\": \"wd1\"}"
  },
  "jobs": [
+  {
+   "id": "fbfe34283591b2",
+   "company": "Amazon / AWS (UK)",
+   "region": "UK",
+   "title": "Operations Manager, AMZL-Delivery Station",
+   "location": "Leicester, England, GBR",
+   "url": "https://www.amazon.jobs/en/jobs/10610224/operations-manager-amzl-delivery-station",
+   "posted": "November 20, 2026",
+   "posted_date": "2026-11-21",
+   "posted_approx": true,
+   "first_seen": "2026-11-21",
+   "score": 32,
+   "hits": [
+    "operations",
+    "operations manager"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "447b34e3884ed2",
+   "company": "Microsoft NL",
+   "region": "NL",
+   "title": "Sr Strategic Consulting Executive - Retail & Consumer Goods",
+   "location": "United Kingdom, Multiple Locations, Multiple Locations / Belgium, Multiple Locations, Multiple Locations / Germany, Multiple Locations, Multiple Locations / Net",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557024862",
+   "posted": "2026-11-20T22:00:00+00:00",
+   "posted_date": "2026-11-20",
+   "posted_approx": false,
+   "first_seen": "2026-11-21",
+   "score": 20,
+   "hits": [
+    "strategy",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "ea1682eb9d3d81",
+   "company": "ServiceNow",
+   "region": "UK",
+   "title": "Sr Manager, Solution Consulting - Employee Experience",
+   "location": "Staines, gb",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162827109",
+   "posted": "2026-11-20T21:55:13.971Z",
+   "posted_date": "2026-11-20",
+   "posted_approx": false,
+   "first_seen": "2026-11-21",
+   "score": 20,
+   "hits": [
+    "operations",
+    "consulting"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "5e33a1a0a1ac7f",
+   "company": "Publicis",
+   "region": "UK",
+   "title": "Manager, Commerce/Retail Media (Amazon)",
+   "location": "Chicago, Illinois; New York, New York; El Segundo, California; Seattle, Washington; Dallas, Texas; Atlanta, Georgia; Birmingham, Michigan / Wacker Drive",
+   "url": "https://careers.publicisgroupe.com/jobs/184586?lang=en-us",
+   "posted": "2026-11-20T21:06:00+0000",
+   "posted_date": "2026-11-20",
+   "posted_approx": false,
+   "first_seen": "2026-11-21",
+   "score": 10,
+   "hits": [
+    "strategy",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "0f3f3567a6acf0",
+   "company": "Publicis",
+   "region": "UK",
+   "title": "Manager, Commerce/Retail Media (Amazon)",
+   "location": "Chicago, Illinois; New York, New York; El Segundo, California; Seattle, Washington; Dallas, Texas; Atlanta, Georgia; Birmingham, Michigan / Wacker Drive",
+   "url": "https://careers.publicisgroupe.com/jobs/184587?lang=en-us",
+   "posted": "2026-11-20T21:03:00+0000",
+   "posted_date": "2026-11-20",
+   "posted_approx": false,
+   "first_seen": "2026-11-21",
+   "score": 10,
+   "hits": [
+    "strategy",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
   {
    "id": "4c182d1a1c6491",
    "company": "ZS Associates",
@@ -423,6 +534,30 @@
    "baseline": false
   },
   {
+   "id": "602c5310812145",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "EY-Parthenon - Strategy and Execution-Telecommunications PE Value Creation-Sr. Associate-Consultant",
+   "location": "New, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/New-York-EY-Parthenon-Strategy-and-Execution-Telecommunications-PE-Value-Creation-Sr_-Associate-Consultant-NY-10001-8604/1443965433/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 38,
+   "hits": [
+    "strategy",
+    "consultant",
+    "consulting",
+    "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "fc8c133e73968f",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
@@ -447,17 +582,17 @@
    "baseline": false
   },
   {
-   "id": "602c5310812145",
+   "id": "e0ab8e89836d13",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "EY-Parthenon - Strategy and Execution-Telecommunications PE Value Creation-Sr. Associate-Consultant",
-   "location": "New, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/New-York-EY-Parthenon-Strategy-and-Execution-Telecommunications-PE-Value-Creation-Sr_-Associate-Consultant-NY-10001-8604/1443965433/",
+   "title": "Senior Consultant, Agile Transformation & Product Management",
+   "location": "London, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/London-Senior-Consultant%2C-Agile-Transformation-&amp;-Product-Management-SE1-2AF/1458462233/",
    "posted": null,
    "posted_date": "2026-11-20",
    "posted_approx": true,
    "first_seen": "2026-11-20",
-   "score": 38,
+   "score": 37,
    "hits": [
     "strategy",
     "consultant",
@@ -495,30 +630,6 @@
    "baseline": false
   },
   {
-   "id": "e0ab8e89836d13",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "Senior Consultant, Agile Transformation & Product Management",
-   "location": "London, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/London-Senior-Consultant%2C-Agile-Transformation-&amp;-Product-Management-SE1-2AF/1458462233/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 37,
-   "hits": [
-    "strategy",
-    "consultant",
-    "consulting",
-    "implementation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "340855f0357718",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
@@ -535,30 +646,6 @@
     "operations",
     "consultant",
     "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "baefc0e285469c",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "US Consulting Transformation Architecture and Delivery Staff 2",
-   "location": "Chicago US, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/Chicago-US-Consulting-Transformation-Architecture-and-Delivery-Staff-2-IL-60606/1449169833/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 36,
-   "hits": [
-    "strategy",
-    "operations",
-    "consulting",
-    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -627,6 +714,30 @@
    "first_seen": "2026-11-20",
    "score": 36,
    "hits": [
+    "operations",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "baefc0e285469c",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "US Consulting Transformation Architecture and Delivery Staff 2",
+   "location": "Chicago US, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/Chicago-US-Consulting-Transformation-Architecture-and-Delivery-Staff-2-IL-60606/1449169833/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 36,
+   "hits": [
+    "strategy",
     "operations",
     "consulting",
     "transformation"
@@ -734,21 +845,21 @@
    "baseline": false
   },
   {
-   "id": "cd619e3a411141",
+   "id": "0753d386a271fd",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Life Sciences Supply Chain Manufacturing Ops & AI Transformation Delivery - Senior",
-   "location": "Hoboken, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/Hoboken-Life-Sciences-Supply-Chain-Manufacturing-Ops-&amp;-AI-Transformation-Delivery-Senior-NJ-07030/1445414433/",
+   "title": "Government and Public Sector - HR Transformation - People Consulting - Staff 2",
+   "location": "McLean, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/McLean-Government-and-Public-Sector-HR-Transformation-People-Consulting-Staff-2-VA-22102/1428879533/",
    "posted": null,
    "posted_date": "2026-11-20",
    "posted_approx": true,
    "first_seen": "2026-11-20",
    "score": 32,
    "hits": [
-    "life sciences",
-    "operations",
-    "implementation",
+    "healthcare",
+    "strategy",
+    "consulting",
     "transformation"
    ],
    "lang": null,
@@ -781,30 +892,6 @@
    "baseline": false
   },
   {
-   "id": "0753d386a271fd",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "Government and Public Sector - HR Transformation - People Consulting - Staff 2",
-   "location": "McLean, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/McLean-Government-and-Public-Sector-HR-Transformation-People-Consulting-Staff-2-VA-22102/1428879533/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 32,
-   "hits": [
-    "healthcare",
-    "strategy",
-    "consulting",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "6f0ac592f9cdfb",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
@@ -819,6 +906,30 @@
    "hits": [
     "operations",
     "consulting",
+    "implementation",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "cd619e3a411141",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Life Sciences Supply Chain Manufacturing Ops & AI Transformation Delivery - Senior",
+   "location": "Hoboken, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/Hoboken-Life-Sciences-Supply-Chain-Manufacturing-Ops-&amp;-AI-Transformation-Delivery-Senior-NJ-07030/1445414433/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 32,
+   "hits": [
+    "life sciences",
+    "operations",
     "implementation",
     "transformation"
    ],
@@ -945,20 +1056,20 @@
    "baseline": false
   },
   {
-   "id": "2cc78e8dd534c3",
+   "id": "d668ae6f967793",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Life Sciences Supply Chain Manufacturing Ops & AI Transformation Delivery- Manager",
-   "location": "Boston, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/Boston-Life-Sciences-Supply-Chain-Manufacturing-Ops-&amp;-AI-Transformation-Delivery-Manager-MA-02116/1445414533/",
+   "title": "Risk Consulting - Enterprise Risk Transformation - TMT Sector - Senior Manager - Northeast Region",
+   "location": "New, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/New-York-Risk-Consulting-Enterprise-Risk-Transformation-TMT-Sector-Senior-Manager-Northeast-Region-NY-10001-8604/1451422833/",
    "posted": null,
    "posted_date": "2026-11-20",
    "posted_approx": true,
    "first_seen": "2026-11-20",
    "score": 29,
    "hits": [
-    "life sciences",
-    "implementation",
+    "operations",
+    "consulting",
     "transformation"
    ],
    "lang": null,
@@ -992,20 +1103,20 @@
    "baseline": false
   },
   {
-   "id": "d668ae6f967793",
+   "id": "2cc78e8dd534c3",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Risk Consulting - Enterprise Risk Transformation - TMT Sector - Senior Manager - Northeast Region",
-   "location": "New, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/New-York-Risk-Consulting-Enterprise-Risk-Transformation-TMT-Sector-Senior-Manager-Northeast-Region-NY-10001-8604/1451422833/",
+   "title": "Life Sciences Supply Chain Manufacturing Ops & AI Transformation Delivery- Manager",
+   "location": "Boston, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/Boston-Life-Sciences-Supply-Chain-Manufacturing-Ops-&amp;-AI-Transformation-Delivery-Manager-MA-02116/1445414533/",
    "posted": null,
    "posted_date": "2026-11-20",
    "posted_approx": true,
    "first_seen": "2026-11-20",
    "score": 29,
    "hits": [
-    "operations",
-    "consulting",
+    "life sciences",
+    "implementation",
     "transformation"
    ],
    "lang": null,
@@ -1202,30 +1313,6 @@
    "baseline": false
   },
   {
-   "id": "1f70b1bf005719",
-   "company": "EY Nederland",
-   "region": "NL",
-   "title": "Senior Consultant Manufacturing Excellence",
-   "location": "Amsterdam, Netherlands",
-   "url": "https://careers.ey.com/ey/job/Amsterdam-Senior-Consultant-Manufacturing-Excellence-1083-HP/1444236933/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 25,
-   "hits": [
-    "operations",
-    "consultant",
-    "implementation",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "022c14efd2de16",
    "company": "EY Nederland",
    "region": "NL",
@@ -1248,19 +1335,20 @@
    "baseline": false
   },
   {
-   "id": "f7acc0a9861d18",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "Manager, Agile Transformation & Product Management",
-   "location": "London, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/London-Manager%2C-Agile-Transformation-&amp;-Product-Management-SE1-2AF/1458459233/",
+   "id": "1f70b1bf005719",
+   "company": "EY Nederland",
+   "region": "NL",
+   "title": "Senior Consultant Manufacturing Excellence",
+   "location": "Amsterdam, Netherlands",
+   "url": "https://careers.ey.com/ey/job/Amsterdam-Senior-Consultant-Manufacturing-Excellence-1083-HP/1444236933/",
    "posted": null,
    "posted_date": "2026-11-20",
    "posted_approx": true,
    "first_seen": "2026-11-20",
-   "score": 24,
+   "score": 25,
    "hits": [
-    "strategy",
+    "operations",
+    "consultant",
     "implementation",
     "transformation"
    ],
@@ -1294,12 +1382,12 @@
    "baseline": false
   },
   {
-   "id": "9a029202734c44",
+   "id": "f7acc0a9861d18",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Con - Business Con - Transformation Architecture and Delivery-Manager - Multiple Positions - 1745050",
-   "location": "Boca, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/Boca-Raton-Con-Business-Con-Transformation-Architecture-and-Delivery-Manager-Multiple-Positions-1745050-FL-33486/1437757233/",
+   "title": "Manager, Agile Transformation & Product Management",
+   "location": "London, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/London-Manager%2C-Agile-Transformation-&amp;-Product-Management-SE1-2AF/1458459233/",
    "posted": null,
    "posted_date": "2026-11-20",
    "posted_approx": true,
@@ -1307,8 +1395,7 @@
    "score": 24,
    "hits": [
     "strategy",
-    "consultant",
-    "consulting",
+    "implementation",
     "transformation"
    ],
    "lang": null,
@@ -1411,6 +1498,76 @@
    "baseline": false
   },
   {
+   "id": "ed24b24a947993",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Senior  Manager, Wealth & Asset Management, Business Transformation",
+   "location": "London, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/London-Senior-Manager%2C-Wealth-&amp;-Asset-Management%2C-Business-Transformation-E14-5EY/1454661533/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 22,
+   "hits": [
+    "strategy",
+    "consulting",
+    "implementation",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "2369c9d3a3e528",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Deputy and Transformation Leader",
+   "location": "Hoboken, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/Hoboken-Deputy-and-Transformation-Leader-NJ-07030/1454343733/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 22,
+   "hits": [
+    "strategy",
+    "operations",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "e1a105a3245e58",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Sector Transformation - Aerospace, Defense and Automotive - Sr Manager",
+   "location": "Chicago, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/Chicago-Sector-Transformation-Aerospace%2C-Defense-and-Automotive-Sr-Manager-IL-60606/1458198333/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 22,
+   "hits": [
+    "strategy",
+    "implementation",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "672b658acd4414",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
@@ -1447,76 +1604,6 @@
    "score": 22,
    "hits": [
     "strategy",
-    "implementation",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "e1a105a3245e58",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "Sector Transformation - Aerospace, Defense and Automotive - Sr Manager",
-   "location": "Chicago, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/Chicago-Sector-Transformation-Aerospace%2C-Defense-and-Automotive-Sr-Manager-IL-60606/1458198333/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 22,
-   "hits": [
-    "strategy",
-    "implementation",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "2369c9d3a3e528",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "Deputy and Transformation Leader",
-   "location": "Hoboken, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/Hoboken-Deputy-and-Transformation-Leader-NJ-07030/1454343733/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 22,
-   "hits": [
-    "strategy",
-    "operations",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "ed24b24a947993",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "Senior  Manager, Wealth & Asset Management, Business Transformation",
-   "location": "London, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/London-Senior-Manager%2C-Wealth-&amp;-Asset-Management%2C-Business-Transformation-E14-5EY/1454661533/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 22,
-   "hits": [
-    "strategy",
-    "consulting",
     "implementation",
     "transformation"
    ],
@@ -1595,51 +1682,6 @@
    "baseline": false
   },
   {
-   "id": "37cbef687291af",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "SAP GEBU Transformation CE Lead (24 Months FTC)",
-   "location": "London SAP GEBU, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/London-SAP-GEBU-Transformation-CE-Lead-%2824-Months-FTC%29-SE1-2AF/1438309133/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 20,
-   "hits": [
-    "strategy",
-    "operations",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "b1f71cfe83c70c",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "EY-Parthenon - Strategy and Execution-Commercial Due Diligence-Associate",
-   "location": "Boston EY, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/Boston-EY-Parthenon-Strategy-and-Execution-Commercial-Due-Diligence-Associate-MA-02116/1437294933/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 20,
-   "hits": [
-    "strategy",
-    "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "9a04d51449f5f7",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
@@ -1706,6 +1748,51 @@
    "baseline": false
   },
   {
+   "id": "b1f71cfe83c70c",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "EY-Parthenon - Strategy and Execution-Commercial Due Diligence-Associate",
+   "location": "Boston EY, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/Boston-EY-Parthenon-Strategy-and-Execution-Commercial-Due-Diligence-Associate-MA-02116/1437294933/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 20,
+   "hits": [
+    "strategy",
+    "consulting"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "37cbef687291af",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "SAP GEBU Transformation CE Lead (24 Months FTC)",
+   "location": "London SAP GEBU, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/London-SAP-GEBU-Transformation-CE-Lead-%2824-Months-FTC%29-SE1-2AF/1438309133/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 20,
+   "hits": [
+    "strategy",
+    "operations",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "6df0270845f54a",
    "company": "EY Nederland",
    "region": "NL",
@@ -1753,21 +1840,42 @@
    "baseline": false
   },
   {
-   "id": "e50759dddd1f29",
+   "id": "9d73f7f0ef7c45",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "FSO, Business Transformation - WAM Asset Manager",
-   "location": "New, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/New-York-FSO%2C-Business-Transformation-WAM-Asset-Manager-NY-10001-8604/1431997833/",
+   "title": "Executive - Tech - Strategy and Execution - EY Parthenon",
+   "location": "Belfast, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/Belfast-Executive-Tech-Strategy-and-Execution-EY-Parthenon-BT2-7DT/1454941333/",
    "posted": null,
    "posted_date": "2026-11-20",
    "posted_approx": true,
    "first_seen": "2026-11-20",
    "score": 19,
    "hits": [
-    "consultant",
-    "consulting",
-    "transformation"
+    "strategy",
+    "operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "2adaa516b0fc53",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Manager - Tech - Strategy and Execution - EY Parthenon",
+   "location": "London, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/London-Manager-Tech-Strategy-and-Execution-EY-Parthenon-SE1-2AF/1457698433/",
+   "posted": null,
+   "posted_date": "2026-11-20",
+   "posted_approx": true,
+   "first_seen": "2026-11-20",
+   "score": 19,
+   "hits": [
+    "strategy",
+    "operations"
    ],
    "lang": null,
    "visa": null,
@@ -1799,42 +1907,21 @@
    "baseline": false
   },
   {
-   "id": "2adaa516b0fc53",
+   "id": "e50759dddd1f29",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Manager - Tech - Strategy and Execution - EY Parthenon",
-   "location": "London, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/London-Manager-Tech-Strategy-and-Execution-EY-Parthenon-SE1-2AF/1457698433/",
+   "title": "FSO, Business Transformation - WAM Asset Manager",
+   "location": "New, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/New-York-FSO%2C-Business-Transformation-WAM-Asset-Manager-NY-10001-8604/1431997833/",
    "posted": null,
    "posted_date": "2026-11-20",
    "posted_approx": true,
    "first_seen": "2026-11-20",
    "score": 19,
    "hits": [
-    "strategy",
-    "operations"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "9d73f7f0ef7c45",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "Executive - Tech - Strategy and Execution - EY Parthenon",
-   "location": "Belfast, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/Belfast-Executive-Tech-Strategy-and-Execution-EY-Parthenon-BT2-7DT/1454941333/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 19,
-   "hits": [
-    "strategy",
-    "operations"
+    "consultant",
+    "consulting",
+    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -2358,13 +2445,13 @@
    "baseline": false
   },
   {
-   "id": "9e703451af390c",
+   "id": "a311788656df7b",
    "company": "Stripe",
    "region": "UK",
    "title": "Product Manager, Payment Methods, EMEA",
-   "location": "London / United Kingdom Locations",
-   "url": "https://stripe.com/jobs/search?gh_jid=8384780",
-   "posted": "2026-11-20T14:52:23-05:00",
+   "location": "Dublin / United Kingdom Locations",
+   "url": "https://stripe.com/jobs/search?gh_jid=8406995",
+   "posted": "2026-11-20T14:53:56-05:00",
    "posted_date": "2026-11-20",
    "posted_approx": false,
    "first_seen": "2026-11-20",
@@ -2380,13 +2467,13 @@
    "baseline": false
   },
   {
-   "id": "a311788656df7b",
+   "id": "9e703451af390c",
    "company": "Stripe",
    "region": "UK",
    "title": "Product Manager, Payment Methods, EMEA",
-   "location": "Dublin / United Kingdom Locations",
-   "url": "https://stripe.com/jobs/search?gh_jid=8406995",
-   "posted": "2026-11-20T14:53:56-05:00",
+   "location": "London / United Kingdom Locations",
+   "url": "https://stripe.com/jobs/search?gh_jid=8384780",
+   "posted": "2026-11-20T14:52:23-05:00",
    "posted_date": "2026-11-20",
    "posted_approx": false,
    "first_seen": "2026-11-20",
@@ -2741,25 +2828,6 @@
    "hits": [
     "strategy"
    ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "e3c64ee29e973c",
-   "company": "TomTom",
-   "region": "NL",
-   "title": "macOS & Jamf Automation Specialist",
-   "location": "Amsterdam, The Netherlands",
-   "url": "https://www.tomtom.com/careers/jobdetails/9a38cd27-e353-439b-bc91-de1531aad262/macos-jamf-automation-specialist/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 6,
-   "hits": [],
    "lang": null,
    "visa": null,
    "details": true,
@@ -5204,28 +5272,6 @@
    "baseline": false
   },
   {
-   "id": "79b24620910864",
-   "company": "EY Nederland",
-   "region": "NL",
-   "title": "Senior Consultant Risk Consulting (Publiek)",
-   "location": "Amsterdam, Netherlands",
-   "url": "https://careers.ey.com/ey/job/Amsterdam-Senior-Consultant-Risk-Consulting-%28Publiek%29-1083-HP/1379394133/",
-   "posted": null,
-   "posted_date": "2026-11-17",
-   "posted_approx": true,
-   "first_seen": "2026-11-17",
-   "score": 24,
-   "hits": [
-    "consultant",
-    "consulting"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "ed931e6ff16498",
    "company": "EY Nederland",
    "region": "NL",
@@ -5240,6 +5286,28 @@
    "hits": [
     "strategy",
     "operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "79b24620910864",
+   "company": "EY Nederland",
+   "region": "NL",
+   "title": "Senior Consultant Risk Consulting (Publiek)",
+   "location": "Amsterdam, Netherlands",
+   "url": "https://careers.ey.com/ey/job/Amsterdam-Senior-Consultant-Risk-Consulting-%28Publiek%29-1083-HP/1379394133/",
+   "posted": null,
+   "posted_date": "2026-11-17",
+   "posted_approx": true,
+   "first_seen": "2026-11-17",
+   "score": 24,
+   "hits": [
+    "consultant",
+    "consulting"
    ],
    "lang": null,
    "visa": null,
@@ -5801,25 +5869,6 @@
    "hits": [
     "operations"
    ],
-   "lang": null,
-   "visa": null,
-   "details": false,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "884fd3eb69dc65",
-   "company": "Bupa Arabia",
-   "region": "ME",
-   "title": "Manager",
-   "location": "",
-   "url": "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-litigation-regulatory-affairs-legal-risk-1100092557/",
-   "posted": null,
-   "posted_date": "2026-11-17",
-   "posted_approx": true,
-   "first_seen": "2026-11-17",
-   "score": 6,
-   "hits": [],
    "lang": null,
    "visa": null,
    "details": false,
@@ -7527,29 +7576,6 @@
    "stale": true
   },
   {
-   "id": "6f3aa40da26bc1",
-   "company": "Microsoft NL",
-   "region": "NL",
-   "title": "Digital Solution Area Specialist",
-   "location": "Netherlands, Multiple Locations, Multiple Locations / Netherlands, Noord-Holland, Amsterdam / Ireland, Dublin, Dublin",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557041030",
-   "posted": "2026-11-13T14:17:49+00:00",
-   "posted_date": "2026-11-13",
-   "posted_approx": false,
-   "first_seen": "2026-11-13",
-   "score": 15,
-   "hits": [
-    "healthcare",
-    "operations",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "182fab0ba6955e",
    "company": "Neko Health",
    "region": "UK",
@@ -8014,28 +8040,6 @@
    "lang_checked": true,
    "baseline": false,
    "stale": true
-  },
-  {
-   "id": "a14895f276dc0f",
-   "company": "Microsoft",
-   "region": "UK",
-   "title": "Data Center Site Operations Manager",
-   "location": "United Kingdom, London, London",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557070486",
-   "posted": "2026-11-12T10:26:37+00:00",
-   "posted_date": "2026-11-12",
-   "posted_approx": false,
-   "first_seen": "2026-11-12",
-   "score": 38,
-   "hits": [
-    "operations",
-    "operations manager"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
   },
   {
    "id": "2a2d281e24a487",
@@ -14295,13 +14299,13 @@
    "stale": true
   },
   {
-   "id": "2a29e518e3abed",
+   "id": "f6889ac8873bb7",
    "company": "Databricks",
    "region": "UK",
    "title": "Senior Delivery Partner Manager, Services",
-   "location": "Paris, France / London, United Kingdom London, United Kingdom",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8933236002",
-   "posted": "2026-11-06T10:18:37-05:00",
+   "location": "London, United Kingdom London, United Kingdom",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8931716002",
+   "posted": "2026-11-06T10:16:57-05:00",
    "posted_date": "2026-11-06",
    "posted_approx": false,
    "first_seen": "2026-11-06",
@@ -14318,13 +14322,13 @@
    "baseline": false
   },
   {
-   "id": "f6889ac8873bb7",
+   "id": "2a29e518e3abed",
    "company": "Databricks",
    "region": "UK",
    "title": "Senior Delivery Partner Manager, Services",
-   "location": "London, United Kingdom London, United Kingdom",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8931716002",
-   "posted": "2026-11-06T10:16:57-05:00",
+   "location": "Paris, France / London, United Kingdom London, United Kingdom",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8933236002",
+   "posted": "2026-11-06T10:18:37-05:00",
    "posted_date": "2026-11-06",
    "posted_approx": false,
    "first_seen": "2026-11-06",
@@ -14592,28 +14596,6 @@
    "lang_checked": true,
    "baseline": false,
    "stale": true
-  },
-  {
-   "id": "f465eef71e4a45",
-   "company": "Monzo",
-   "region": "UK",
-   "title": "Property & Facilities Lead",
-   "location": "London",
-   "url": "https://job-boards.greenhouse.io/monzo/jobs/8358652",
-   "posted": "2026-11-06T08:35:00-05:00",
-   "posted_date": "2026-11-06",
-   "posted_approx": false,
-   "first_seen": "2026-11-06",
-   "score": 12,
-   "hits": [
-    "strategy",
-    "operations"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
   },
   {
    "id": "0a73cd529b44ec",
@@ -14950,30 +14932,6 @@
    "lang_checked": true,
    "baseline": false,
    "stale": true
-  },
-  {
-   "id": "50bffdfd5cc72c",
-   "company": "Wipro",
-   "region": "UK",
-   "title": "TECHNO FUNCTIONAL CONSULTANT L2(CONTRACT)",
-   "location": "Warwick, GBR-WA, GBR / United Kingdom",
-   "url": "https://careers.wipro.com/job/TECHNO-FUNCTIONAL-CONSULTANT-L2%28CONTRACT%29/213394-en_US",
-   "posted": "11/13/26",
-   "posted_date": "2026-11-05",
-   "posted_approx": false,
-   "first_seen": "2026-11-05",
-   "score": 26,
-   "hits": [
-    "operations",
-    "consultant",
-    "consulting",
-    "implementation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
   },
   {
    "id": "79600f27e7901f",
@@ -15847,27 +15805,6 @@
    "first_seen": "2026-11-05",
    "score": 11,
    "hits": [],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "d8b2b365421ab4",
-   "company": "Amazon / AWS (UK)",
-   "region": "UK",
-   "title": "Manager, Creative Productions",
-   "location": "London, England, GBR",
-   "url": "https://www.amazon.jobs/en/jobs/10596931/manager-creative-productions",
-   "posted": "November  5, 2026",
-   "posted_date": "2026-11-05",
-   "posted_approx": true,
-   "first_seen": "2026-11-05",
-   "score": 10,
-   "hits": [
-    "strategy"
-   ],
    "lang": null,
    "visa": null,
    "details": true,
@@ -17999,25 +17936,6 @@
    "baseline": false
   },
   {
-   "id": "cbeb1de1960072",
-   "company": "Wipro",
-   "region": "UK",
-   "title": "Corporate Actions & Distribution Team Leader",
-   "location": "Bath, GBR-SO, GBR / United Kingdom",
-   "url": "https://careers.wipro.com/job/Corporate-Actions-&amp;-Distribution-Team-Leader/216313-en_US",
-   "posted": "11/3/26",
-   "posted_date": "2026-11-03",
-   "posted_approx": false,
-   "first_seen": "2026-11-03",
-   "score": 7,
-   "hits": [],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "0e39fc0e22090e",
    "company": "Kainos",
    "region": "UK",
@@ -18101,25 +18019,6 @@
    "baseline": false
   },
   {
-   "id": "3148b3e3642ae5",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "Assurance - Transaction Forensics - Sale & Purchase Agreements - Senior Manager - London",
-   "location": "London, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/London-Assurance-Transaction-Forensics-Sale-&amp;-Purchase-Agreements-Senior-Manager-London-SE1-2AF/1443326833/",
-   "posted": null,
-   "posted_date": "2026-11-03",
-   "posted_approx": true,
-   "first_seen": "2026-11-03",
-   "score": 1,
-   "hits": [],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "159ed5551dd02c",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
@@ -18139,12 +18038,12 @@
    "baseline": false
   },
   {
-   "id": "63b6fd32a53367",
+   "id": "ac3287d98c9bff",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Assurance - Transaction Forensics - Sale & Purchase Agreements - Manager - London/Regions",
+   "title": "Assurance - Transaction Forensics - Sale & Purchase Agreements - Manager - London",
    "location": "London, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/London-Assurance-Transaction-Forensics-Sale-&amp;-Purchase-Agreements-Manager-LondonRegions-SE1-2AF/1446348233/",
+   "url": "https://careers.ey.com/ey/job/London-Assurance-Transaction-Forensics-Sale-&amp;-Purchase-Agreements-Manager-London-SE1-2AF/1446348333/",
    "posted": null,
    "posted_date": "2026-11-03",
    "posted_approx": true,
@@ -18158,12 +18057,31 @@
    "baseline": false
   },
   {
-   "id": "ac3287d98c9bff",
+   "id": "3148b3e3642ae5",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Assurance - Transaction Forensics - Sale & Purchase Agreements - Manager - London",
+   "title": "Assurance - Transaction Forensics - Sale & Purchase Agreements - Senior Manager - London",
    "location": "London, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/London-Assurance-Transaction-Forensics-Sale-&amp;-Purchase-Agreements-Manager-London-SE1-2AF/1446348333/",
+   "url": "https://careers.ey.com/ey/job/London-Assurance-Transaction-Forensics-Sale-&amp;-Purchase-Agreements-Senior-Manager-London-SE1-2AF/1443326833/",
+   "posted": null,
+   "posted_date": "2026-11-03",
+   "posted_approx": true,
+   "first_seen": "2026-11-03",
+   "score": 1,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "63b6fd32a53367",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Assurance - Transaction Forensics - Sale & Purchase Agreements - Manager - London/Regions",
+   "location": "London, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/London-Assurance-Transaction-Forensics-Sale-&amp;-Purchase-Agreements-Manager-LondonRegions-SE1-2AF/1446348233/",
    "posted": null,
    "posted_date": "2026-11-03",
    "posted_approx": true,
@@ -27590,12 +27508,12 @@
    "baseline": true
   },
   {
-   "id": "48646c45ad9b9f",
+   "id": "b3dd434526d0b0",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Digital Quality Transformation - Senior Consultant - Life Sciences (QMS)",
+   "title": "Digital Lab Transformation - Senior Consultant - Life Sciences (LIMS)",
    "location": "New, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/New-York-Digital-Quality-Transformation-Senior-Consultant-Life-Sciences-%28QMS%29-NY-10001-8604/1407620633/",
+   "url": "https://careers.ey.com/ey/job/New-York-Digital-Lab-Transformation-Senior-Consultant-Life-Sciences-%28LIMS%29-NY-10001-8604/1407620333/",
    "posted": null,
    "posted_date": "2026-10-13",
    "posted_approx": true,
@@ -27614,12 +27532,12 @@
    "baseline": true
   },
   {
-   "id": "b3dd434526d0b0",
+   "id": "48646c45ad9b9f",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Digital Lab Transformation - Senior Consultant - Life Sciences (LIMS)",
+   "title": "Digital Quality Transformation - Senior Consultant - Life Sciences (QMS)",
    "location": "New, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/New-York-Digital-Lab-Transformation-Senior-Consultant-Life-Sciences-%28LIMS%29-NY-10001-8604/1407620333/",
+   "url": "https://careers.ey.com/ey/job/New-York-Digital-Quality-Transformation-Senior-Consultant-Life-Sciences-%28QMS%29-NY-10001-8604/1407620633/",
    "posted": null,
    "posted_date": "2026-10-13",
    "posted_approx": true,
@@ -28736,6 +28654,29 @@
    "stale": true
   },
   {
+   "id": "2a7c45bc325806",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Senior Consultant - Insurance Technology Transformation, TC FS",
+   "location": "London, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/London-Senior-Consultant-Insurance-Technology-Transformation%2C-TC-FS-E14-5EY/1373712633/",
+   "posted": null,
+   "posted_date": "2026-10-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 32,
+   "hits": [
+    "consultant",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "3a54515cb8f569",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
@@ -28751,29 +28692,6 @@
     "operations",
     "consulting",
     "implementation",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "2a7c45bc325806",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "Senior Consultant - Insurance Technology Transformation, TC FS",
-   "location": "London, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/London-Senior-Consultant-Insurance-Technology-Transformation%2C-TC-FS-E14-5EY/1373712633/",
-   "posted": null,
-   "posted_date": "2026-10-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 32,
-   "hits": [
-    "consultant",
-    "consulting",
     "transformation"
    ],
    "lang": null,
@@ -32214,29 +32132,6 @@
    "stale": true
   },
   {
-   "id": "3a5e946376a7ed",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "FSO Business Transformation - WAM, Wealth Senior Consultant",
-   "location": "New, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/New-York-FSO-Business-Transformation-WAM%2C-Wealth-Senior-Consultant-NY-10001-8604/1416893733/",
-   "posted": null,
-   "posted_date": "2026-10-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 22,
-   "hits": [
-    "consultant",
-    "consulting",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "0c4fcfe4d591a4",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
@@ -32252,6 +32147,29 @@
     "strategy",
     "consultant",
     "consulting"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "3a5e946376a7ed",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "FSO Business Transformation - WAM, Wealth Senior Consultant",
+   "location": "New, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/New-York-FSO-Business-Transformation-WAM%2C-Wealth-Senior-Consultant-NY-10001-8604/1416893733/",
+   "posted": null,
+   "posted_date": "2026-10-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 22,
+   "hits": [
+    "consultant",
+    "consulting",
+    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -35798,6 +35716,28 @@
    "stale": true
   },
   {
+   "id": "8f84dc05585eab",
+   "company": "EY Nederland",
+   "region": "NL",
+   "title": "Senior Consultant SAP S/4HANA Procure-to-Pay (MM)",
+   "location": "Amsterdam, Netherlands",
+   "url": "https://careers.ey.com/ey/job/Amsterdam-Senior-Consultant-SAP-S4HANA-Procure-to-Pay-%28MM%29-1083-HP/1394391833/",
+   "posted": null,
+   "posted_date": "2026-10-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 16,
+   "hits": [
+    "consultant",
+    "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "34999132b50ddc",
    "company": "EY Nederland",
    "region": "NL",
@@ -35814,28 +35754,6 @@
     "consultant",
     "implementation",
     "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "8f84dc05585eab",
-   "company": "EY Nederland",
-   "region": "NL",
-   "title": "Senior Consultant SAP S/4HANA Procure-to-Pay (MM)",
-   "location": "Amsterdam, Netherlands",
-   "url": "https://careers.ey.com/ey/job/Amsterdam-Senior-Consultant-SAP-S4HANA-Procure-to-Pay-%28MM%29-1083-HP/1394391833/",
-   "posted": null,
-   "posted_date": "2026-10-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 16,
-   "hits": [
-    "consultant",
-    "implementation"
    ],
    "lang": null,
    "visa": null,
@@ -39667,28 +39585,6 @@
    "stale": true
   },
   {
-   "id": "abe1d2d8a51cb4",
-   "company": "EY Nederland",
-   "region": "NL",
-   "title": "EY-Parthenon - Manager - M&A Technology",
-   "location": "Amsterdam EY, Netherlands",
-   "url": "https://careers.ey.com/ey/job/Amsterdam-EY-Parthenon-Manager-M&amp;A-Technology-1083-HP/1386861633/",
-   "posted": null,
-   "posted_date": "2026-10-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 7,
-   "hits": [
-    "strategy",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "c202fd07473c3c",
    "company": "EY Nederland",
    "region": "NL",
@@ -39702,6 +39598,28 @@
    "score": 7,
    "hits": [
     "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "abe1d2d8a51cb4",
+   "company": "EY Nederland",
+   "region": "NL",
+   "title": "EY-Parthenon - Manager - M&A Technology",
+   "location": "Amsterdam EY, Netherlands",
+   "url": "https://careers.ey.com/ey/job/Amsterdam-EY-Parthenon-Manager-M&amp;A-Technology-1083-HP/1386861633/",
+   "posted": null,
+   "posted_date": "2026-10-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 7,
+   "hits": [
+    "strategy",
     "transformation"
    ],
    "lang": null,
@@ -40546,12 +40464,12 @@
    "stale": true
   },
   {
-   "id": "d4cf15ab1c30da",
+   "id": "028f14f9731bb6",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Senior, Private Capital Transactions, London",
+   "title": "Senior Manager, Private Capital Transactions, London",
    "location": "London, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/London-Senior%2C-Private-Capital-Transactions%2C-London-SE1-2AF/1250586401/",
+   "url": "https://careers.ey.com/ey/job/London-Senior-Manager%2C-Private-Capital-Transactions%2C-London-SE1-2AF/1250878701/",
    "posted": null,
    "posted_date": "2026-10-13",
    "posted_approx": true,
@@ -40565,12 +40483,12 @@
    "baseline": true
   },
   {
-   "id": "028f14f9731bb6",
+   "id": "d4cf15ab1c30da",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
-   "title": "Senior Manager, Private Capital Transactions, London",
+   "title": "Senior, Private Capital Transactions, London",
    "location": "London, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/London-Senior-Manager%2C-Private-Capital-Transactions%2C-London-SE1-2AF/1250878701/",
+   "url": "https://careers.ey.com/ey/job/London-Senior%2C-Private-Capital-Transactions%2C-London-SE1-2AF/1250586401/",
    "posted": null,
    "posted_date": "2026-10-13",
    "posted_approx": true,
@@ -46701,8 +46619,8 @@
    ],
    "source": "amazon",
    "error": null,
-   "total": 794,
-   "in_region": 794,
+   "total": 791,
+   "in_region": 791,
    "kept": 274
   },
   {
@@ -46711,8 +46629,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 638,
-   "in_region": 61,
+   "total": 635,
+   "in_region": 63,
    "kept": 22
   },
   {
@@ -46721,7 +46639,7 @@
    ],
    "source": "atlassian",
    "error": null,
-   "total": 235,
+   "total": 233,
    "in_region": 57,
    "kept": 14
   },
@@ -46824,7 +46742,7 @@
    "error": null,
    "total": 10,
    "in_region": 10,
-   "kept": 9,
+   "kept": 8,
    "method": "structured data on job pages"
   },
   {
@@ -46924,7 +46842,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 897,
+   "total": 896,
    "in_region": 101,
    "kept": 8
   },
@@ -46987,9 +46905,9 @@
    ],
    "source": "rmk_html",
    "error": null,
-   "total": 1420,
-   "in_region": 1420,
-   "kept": 133
+   "total": 1417,
+   "in_region": 1417,
+   "kept": 132
   },
   {
    "companies": [
@@ -47027,7 +46945,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 146,
+   "total": 147,
    "in_region": 20,
    "kept": 4
   },
@@ -47208,7 +47126,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 35,
+   "total": 36,
    "in_region": 5,
    "kept": 2
   },
@@ -47229,9 +47147,9 @@
    ],
    "source": "pcsx",
    "error": null,
-   "total": 92,
-   "in_region": 88,
-   "kept": 31
+   "total": 90,
+   "in_region": 86,
+   "kept": 30
   },
   {
    "companies": [
@@ -47259,9 +47177,9 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 60,
-   "in_region": 52,
-   "kept": 14
+   "total": 59,
+   "in_region": 51,
+   "kept": 13
   },
   {
    "companies": [
@@ -47339,7 +47257,7 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 851,
+   "total": 852,
    "in_region": 42,
    "kept": 9
   },
@@ -47431,9 +47349,9 @@
    ],
    "source": "jibe",
    "error": null,
-   "total": 3305,
-   "in_region": 304,
-   "kept": 116
+   "total": 3304,
+   "in_region": 305,
+   "kept": 118
   },
   {
    "companies": [
@@ -47472,9 +47390,9 @@
    ],
    "source": "smartrecruiters",
    "error": null,
-   "total": 928,
-   "in_region": 52,
-   "kept": 15
+   "total": 998,
+   "in_region": 53,
+   "kept": 16
   },
   {
    "companies": [
@@ -47555,7 +47473,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 780,
+   "total": 778,
    "in_region": 64,
    "kept": 18
   },
@@ -47607,7 +47525,7 @@
    "error": null,
    "total": 28,
    "in_region": 11,
-   "kept": 2
+   "kept": 1
   },
   {
    "companies": [
@@ -47655,7 +47573,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 348,
+   "total": 352,
    "in_region": 20,
    "kept": 3
   },
@@ -47686,8 +47604,8 @@
    "source": "sf_rmk",
    "error": null,
    "total": 400,
-   "in_region": 39,
-   "kept": 18
+   "in_region": 37,
+   "kept": 16
   },
   {
    "companies": [
@@ -47696,7 +47614,7 @@
    "source": "page",
    "error": null,
    "total": 12,
-   "in_region": 8,
+   "in_region": 7,
    "kept": 1,
    "method": "structured data on job pages"
   },
@@ -47716,8 +47634,8 @@
    ],
    "source": "jibe",
    "error": null,
-   "total": 281,
-   "in_region": 8,
+   "total": 278,
+   "in_region": 6,
    "kept": 4
   },
   {
@@ -47744,8 +47662,8 @@
  "counts": {
   "companies": 215,
   "feeds": 126,
-  "jobs": 1986,
-  "new_today": 102,
+  "jobs": 1982,
+  "new_today": 5,
   "pages": 5
  },
  "coverage": {

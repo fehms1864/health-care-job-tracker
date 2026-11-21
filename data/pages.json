@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-20T20:43:42+00:00",
+  "checked": "2026-11-21T13:31:35+00:00",
   "error": null,
   "changed_on": "2026-11-20",
   "new_links": {},
@@ -35,8 +35,9 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "5af508e53173d474d28aef87b198f816df4315e9",
+  "hash": "e7e320e63eba85403a7838fc37bf8ac679539e3b",
   "postings": {
+   "https://wise.jobs/job/fincrime-reporting-specialist-in-hyderabad-jid-4514": "FinCrime Reporting Specialist",
    "https://wise.jobs/job/it-sox-controls-tester-cloud-assurance-in-london-jid-4244": "IT SOX Controls Tester - Cloud Assurance",
    "https://wise.jobs/job/staff-product-designer-money-movement-in-london-jid-4561": "Staff Product Designer - Money Movement",
    "https://wise.jobs/job/complaints-officer-in-hyderabad-jid-4560": "Complaints Officer",
@@ -47,27 +48,25 @@
    "https://wise.jobs/job/senior-product-manager-payment-integrations-in-london-jid-4549": "Senior Product Manager – Payment integrations",
    "https://wise.jobs/job/senior-backend-engineer-conversational-money-transfers-in-london-jid-4556": "Senior Backend Engineer - Conversational Money Transfers",
    "https://wise.jobs/job/product-manager-connect-cloud-platform-in-tallinn-jid-3448": "Product Manager - Connect (Cloud Platform)",
-   "https://wise.jobs/job/engineering-lead-api-experience-in-london-jid-4529": "Engineering Lead - API Experience",
-   "https://wise.jobs/job/engineering-lead-send-for-partners-in-london-jid-4398": "Engineering Lead - Send for Partners"
+   "https://wise.jobs/job/engineering-lead-api-experience-in-london-jid-4529": "Engineering Lead - API Experience"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-20T20:43:42+00:00",
+  "checked": "2026-11-21T13:31:35+00:00",
   "error": null,
-  "changed_on": "2026-11-20",
+  "changed_on": "2026-11-21",
   "new_links": {
-   "https://wise.jobs/job/complaints-officer-in-hyderabad-jid-4560": "Complaints Officer",
-   "https://wise.jobs/job/people-operations-junior-specialist-18-month-contract-in-tallinn-jid-4557": "People Operations Junior Specialist (18-month contract)"
+   "https://wise.jobs/job/fincrime-reporting-specialist-in-hyderabad-jid-4514": "FinCrime Reporting Specialist"
   },
-  "new_on": "2026-11-20"
+  "new_on": "2026-11-21"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "7d4a576d368c979b3c9484fc93ec3c88d0e2a370",
+  "hash": "e01a81151d37ba4c82b4df28fd2458f16ca75978",
   "postings": {
-   "https://optiver.com/join-us/jobs/events/chicago/futurefocus-quants-trading-and-research-2027/": "FutureFocus: Quants (Trading & Research) 2027",
-   "https://optiver.com/join-us/jobs/events/chicago/futurefocus-tech-2027/": "FutureFocus: Tech 2027",
+   "https://optiver.com/join-us/jobs/trading/chicago/futurefocus-quants-trading-and-research-2027/": "FutureFocus: Quants (Trading & Research) 2027",
+   "https://optiver.com/join-us/jobs/technology/chicago/futurefocus-tech-2027/": "FutureFocus: Tech 2027",
    "https://optiver.com/join-us/jobs/technology/shanghai/technology-procurement-sourcing-specialist/": "Technology Procurement Sourcing Specialist",
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/mumbai/operational-risk-manager/": "Operational Risk Manager",
    "https://optiver.com/join-us/jobs/technology/new-york/software-engineer-ai-lab/": "Software Engineer - AI Lab",
@@ -85,13 +84,13 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-20T20:43:42+00:00",
+  "checked": "2026-11-21T13:31:35+00:00",
   "error": null,
-  "changed_on": "2026-11-20",
+  "changed_on": "2026-11-21",
   "new_links": {
-   "https://optiver.com/join-us/jobs/events/chicago/futurefocus-tech-2027/": "FutureFocus: Tech 2027"
+   "https://optiver.com/join-us/jobs/technology/chicago/futurefocus-tech-2027/": "FutureFocus: Tech 2027"
   },
-  "new_on": "2026-11-20"
+  "new_on": "2026-11-21"
  },
  "https://careers.shezlong.com/": {
   "company": "Shezlong",
@@ -103,7 +102,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-20T20:43:42+00:00",
+  "checked": "2026-11-21T13:31:35+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -112,7 +111,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "e3cb4be739bd973e96eb32cf9cd74a87e1ef24dc",
+  "hash": "291b5c8a5e81a31ecfa0619d2645cc131c41e6e3",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-registrar-internal-medicine-1100063734/": "Senior Registrar – Internal Medicine",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-medical-claims-operations-pipeline-1100092663/": "Manager - Medical Claims Operations (Pipeline)",
@@ -122,14 +121,14 @@
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-medical-pre-authorization-pipeline-1100062472/": "Manager - Medical Pre Authorization ( Pipeline )",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-pre-authorization-pipeline-1100073541/": "Manager - Pre Authorization (Pipeline)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-data-security-analysis-1100088379/": "Manager - Data Security Analysis",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-litigation-regulatory-affairs-legal-risk-1100092557/": "Manager - Litigation, Regulatory Affairs & Legal Risk",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-pre-authorization-pipeline-1100067272/": "Manager - Pre Authorization (Pipeline)"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-pre-authorization-pipeline-1100067272/": "Manager - Pre Authorization (Pipeline)",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-graphic-design-1100091982/": "Coop - Graphic Design"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-20T20:43:42+00:00",
+  "checked": "2026-11-21T13:31:35+00:00",
   "error": null,
-  "changed_on": "2026-11-20",
+  "changed_on": "2026-11-21",
   "new_links": {},
   "new_on": "2026-11-19"
  }
