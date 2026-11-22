@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-22T13:25:26+00:00",
+  "checked": "2026-11-22T19:58:29+00:00",
   "error": null,
   "changed_on": "2026-11-20",
   "new_links": {},
@@ -35,7 +35,7 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "4867a4b5218a59329e62178934ae24b057a9b5b8",
+  "hash": "314e85aad647d34877365915dfbff18ab9317ac9",
   "postings": {
    "https://wise.jobs/job/fincrime-reporting-specialist-in-hyderabad-jid-4514": "FinCrime Reporting Specialist",
    "https://wise.jobs/job/it-sox-controls-tester-cloud-assurance-in-london-jid-4244": "IT SOX Controls Tester - Cloud Assurance",
@@ -52,7 +52,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-22T13:25:26+00:00",
+  "checked": "2026-11-22T19:58:29+00:00",
   "error": null,
   "changed_on": "2026-11-22",
   "new_links": {},
@@ -82,7 +82,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-22T13:25:26+00:00",
+  "checked": "2026-11-22T19:58:29+00:00",
   "error": null,
   "changed_on": "2026-11-21",
   "new_links": {},
@@ -98,7 +98,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-22T13:25:26+00:00",
+  "checked": "2026-11-22T19:58:29+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -107,7 +107,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "cd799a7a78cd0d319a3acf6adbdeacf8710bca50",
+  "hash": "a041094e91d55adb1dfffb1db4a6f045eae5b233",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/professional-onboarding-engagement-pipeline-1100092677/": "Professional - Onboarding Engagement (Pipeline)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-registrar-internal-medicine-1100063734/": "Senior Registrar – Internal Medicine",
@@ -122,7 +122,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-22T13:25:26+00:00",
+  "checked": "2026-11-22T19:58:29+00:00",
   "error": null,
   "changed_on": "2026-11-22",
   "new_links": {

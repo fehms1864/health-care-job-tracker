@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T13:25:26+00:00",
+ "generated_at": "2026-11-22T19:58:29+00:00",
  "baseline_date": "2026-09-27",
  "rules_version": 6,
  "sources": {
@@ -199,6 +199,44 @@
    "baseline": false
   },
   {
+   "id": "066ae10790b561",
+   "company": "Abbott NL",
+   "region": "NL",
+   "title": "Procesoperator Poeder- en Liquid Processing in Zwolle",
+   "location": "Netherlands - Zwolle",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Procesoperator-Poeder--en-Liquid-Processing-in-Zwolle_31166287",
+   "posted": "23 Days Ago",
+   "posted_date": "2026-10-30",
+   "posted_approx": false,
+   "first_seen": "2026-11-22",
+   "score": 3,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "377e868b9e14c7",
+   "company": "EY-Parthenon Middle East",
+   "region": "ME",
+   "title": "Mergers & Acquisitions Senior Manager - EY Parthenon - Riyadh",
+   "location": "Riyadh, United Arab Emirates",
+   "url": "https://careers.ey.com/ey/job/Riyadh-Mergers-&amp;-Acquisitions-Senior-Manager-EY-Parthenon-Riyadh-11391/1459520733/",
+   "posted": null,
+   "posted_date": "2026-11-22",
+   "posted_approx": true,
+   "first_seen": "2026-11-22",
+   "score": 1,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "8e5318bc0a3b3c",
    "company": "EY-Parthenon Middle East",
    "region": "ME",
@@ -323,7 +361,7 @@
    "title": "Occupational Health Advisor - York",
    "location": "United Kingdom-York",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom-York/Occupational-Health-Advisor---York_31167236",
-   "posted": "4 Days Ago",
+   "posted": "5 Days Ago",
    "posted_date": "2026-11-17",
    "posted_approx": false,
    "first_seen": "2026-11-21",
@@ -336,8 +374,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "447b34e3884ed2",
@@ -414,7 +451,7 @@
    "title": "Senior EP Field Clinical Affairs Specialist",
    "location": "United Kingdom : Remote",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom--Remote/Senior-EP-Field-Clinical-Affairs-Specialist_31167487",
-   "posted": "2 Days Ago",
+   "posted": "3 Days Ago",
    "posted_date": "2026-11-19",
    "posted_approx": false,
    "first_seen": "2026-11-21",
@@ -424,10 +461,9 @@
    ],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "5e33a1a0a1ac7f",
@@ -488,10 +524,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "2466fc772d7e1b",
@@ -508,10 +543,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "d2756e1589bb99",
@@ -528,10 +562,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "8dedadb22e14ba",
@@ -540,7 +573,7 @@
    "title": "Operator Poedertoren",
    "location": "Netherlands - Zwolle",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Operator-Poedertoren_31166916-2",
-   "posted": "15 Days Ago",
+   "posted": "16 Days Ago",
    "posted_date": "2026-11-06",
    "posted_approx": false,
    "first_seen": "2026-11-21",
@@ -548,10 +581,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "13b50d92a1c556",
@@ -560,7 +592,7 @@
    "title": "OPERATOR POEDERTOREN (5-PLOEGENDIENST)",
    "location": "Netherlands - Zwolle",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/OPERATOR-POEDERTOREN--5-PLOEGENDIENST-_31166901",
-   "posted": "15 Days Ago",
+   "posted": "16 Days Ago",
    "posted_date": "2026-11-06",
    "posted_approx": false,
    "first_seen": "2026-11-21",
@@ -568,10 +600,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "20b3de5e4bdbaf",
@@ -580,7 +611,7 @@
    "title": "Procesoperator Poeder- en Liquid Processing in Zwolle",
    "location": "Netherlands - Zwolle",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Procesoperator-Poeder--en-Liquid-Processing-in-Zwolle_31166900-3",
-   "posted": "15 Days Ago",
+   "posted": "16 Days Ago",
    "posted_date": "2026-11-06",
    "posted_approx": false,
    "first_seen": "2026-11-21",
@@ -588,10 +619,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "6a2e2311e66fa3",
@@ -600,7 +630,7 @@
    "title": "Procesoperator Poeder- en Liquid Processing",
    "location": "Netherlands - Zwolle",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Procesoperator-Poeder--en-Liquid-Processing_31166899",
-   "posted": "15 Days Ago",
+   "posted": "16 Days Ago",
    "posted_date": "2026-11-06",
    "posted_approx": false,
    "first_seen": "2026-11-21",
@@ -608,10 +638,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "6d7cc3399b37d5",
@@ -620,7 +649,7 @@
    "title": "Operator Poederpak",
    "location": "Netherlands - Zwolle",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Operator-Poederpak_31166897",
-   "posted": "15 Days Ago",
+   "posted": "16 Days Ago",
    "posted_date": "2026-11-06",
    "posted_approx": false,
    "first_seen": "2026-11-21",
@@ -628,10 +657,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "974e9611c654d4",
@@ -640,7 +668,7 @@
    "title": "Operator Poederpak",
    "location": "Netherlands - Zwolle",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Operator-Poederpak_31166370",
-   "posted": "15 Days Ago",
+   "posted": "16 Days Ago",
    "posted_date": "2026-11-06",
    "posted_approx": false,
    "first_seen": "2026-11-21",
@@ -648,10 +676,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "4c8692dac026bc",
@@ -660,7 +687,7 @@
    "title": "Operator Poederpak",
    "location": "Netherlands - Zwolle",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Operator-Poederpak_31166364",
-   "posted": "15 Days Ago",
+   "posted": "16 Days Ago",
    "posted_date": "2026-11-06",
    "posted_approx": false,
    "first_seen": "2026-11-21",
@@ -668,10 +695,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "7897a7d558a2fc",
@@ -680,7 +706,7 @@
    "title": "Operator Poederpak",
    "location": "Netherlands - Zwolle",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Operator-Poederpak_31166363",
-   "posted": "15 Days Ago",
+   "posted": "16 Days Ago",
    "posted_date": "2026-11-06",
    "posted_approx": false,
    "first_seen": "2026-11-21",
@@ -688,10 +714,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "a1f6556c8374ee",
@@ -700,7 +725,7 @@
    "title": "Operator Liquid Packaging",
    "location": "Netherlands - Zwolle",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Operator-Liquid-Packaging--------_31165856",
-   "posted": "25 Days Ago",
+   "posted": "26 Days Ago",
    "posted_date": "2026-10-27",
    "posted_approx": false,
    "first_seen": "2026-11-21",
@@ -708,10 +733,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "8b6a976503ab1b",
@@ -728,10 +752,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "3e04e7d6e51479",
@@ -748,10 +771,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "218febe17553c9",
@@ -768,10 +790,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "6d0f7a70f38d89",
@@ -788,10 +809,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "892cfdca00bb12",
@@ -808,10 +828,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "76c95672920c5a",
@@ -828,10 +847,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "649b11ec3cfead",
@@ -848,10 +866,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "4b81e8670b8a4a",
@@ -868,10 +885,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "5782617770c979",
@@ -888,10 +904,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "97251a89db599c",
@@ -908,10 +923,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "f414fddccd16ce",
@@ -928,10 +942,9 @@
    "hits": [],
    "lang": null,
    "visa": null,
-   "details": false,
+   "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "4c182d1a1c6491",
@@ -1991,29 +2004,6 @@
     "consultant",
     "implementation",
     "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "37591446fecdaa",
-   "company": "EY-Parthenon Middle East",
-   "region": "ME",
-   "title": "Executive, Operational Due Diligence, Strategy & Execution, EY-Parthenon, Belfast",
-   "location": "Belfast, United Arab Emirates",
-   "url": "https://careers.ey.com/ey/job/Belfast-Executive%2C-Operational-Due-Diligence%2C-Strategy-&amp;-Execution%2C-EY-Parthenon%2C-Belfast-BT2-7DT/1450353033/",
-   "posted": null,
-   "posted_date": "2026-11-20",
-   "posted_approx": true,
-   "first_seen": "2026-11-20",
-   "score": 24,
-   "hits": [
-    "strategy",
-    "operational",
-    "consulting"
    ],
    "lang": null,
    "visa": null,
@@ -13062,7 +13052,7 @@
    "title": "Clinical Specialist - Endovascular",
    "location": "United Kingdom - Maidenhead",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Maidenhead/Clinical-Specialist---Endovascular_31166650",
-   "posted": "12 Days Ago",
+   "posted": "13 Days Ago",
    "posted_date": "2026-11-09",
    "posted_approx": false,
    "first_seen": "2026-11-09",
@@ -13077,8 +13067,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "2a9babff551643",
@@ -13616,7 +13605,7 @@
    "title": "Territory Manager Endovascular (London & South East)",
    "location": "United Kingdom > Maidenhead : Remote",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom--Maidenhead--Remote/Territory-Manager-Endovascular--London---South-East-_31159811",
-   "posted": "12 Days Ago",
+   "posted": "13 Days Ago",
    "posted_date": "2026-11-09",
    "posted_approx": false,
    "first_seen": "2026-11-09",
@@ -13629,8 +13618,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "bdbeecfcf4edd3",
@@ -20712,7 +20700,7 @@
    "title": "Quality Assurance Specialist.",
    "location": "United Kingdom : Blythe Valley Park , Elder (Plot C1b), Central Boulevard Solihull",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom--Blythe-Valley-Park--Elder-Plot-C1b-Central-Boulevard-Solihull/Quality-Assurance-Specialist_31165001",
-   "posted": "23 Days Ago",
+   "posted": "24 Days Ago",
    "posted_date": "2026-10-29",
    "posted_approx": false,
    "first_seen": "2026-10-29",
@@ -20727,8 +20715,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "10fc49a57d1445",
@@ -23747,7 +23734,7 @@
    "title": "eSolutions Advisor",
    "location": "United Kingdom - Maidenhead",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Maidenhead/eSolutions-Advisor_31164996",
-   "posted": "29 Days Ago",
+   "posted": "30 Days Ago",
    "posted_date": "2026-10-23",
    "posted_approx": false,
    "first_seen": "2026-10-23",
@@ -23762,8 +23749,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "557e3951b56b6a",
@@ -24368,7 +24354,7 @@
    "title": "EMEA Content Manager",
    "location": "United Kingdom - Maidenhead",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Maidenhead/EMEA-Content-Manager_31165454",
-   "posted": "30 Days Ago",
+   "posted": "30+ Days Ago",
    "posted_date": "2026-10-22",
    "posted_approx": false,
    "first_seen": "2026-10-22",
@@ -24382,8 +24368,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "4f98794ffdab93",
@@ -24821,8 +24806,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "2e8feb793df273",
@@ -26656,6 +26640,27 @@
    "baseline": false
   },
   {
+   "id": "34f5437aaa845b",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "Territory Manager Radiofrequency Ablation (RF) - South West",
+   "location": "4 Locations",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Solihull--Remote/Territory-Manager-Radiofrequency-Ablation--RF----South-West_31158541",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-09-16",
+   "posted_approx": true,
+   "first_seen": "2026-10-16",
+   "score": 12,
+   "hits": [
+    "healthcare"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "923258a834678a",
    "company": "Adyen",
    "region": "NL",
@@ -26698,28 +26703,6 @@
    "details": true,
    "lang_checked": true,
    "baseline": false
-  },
-  {
-   "id": "34f5437aaa845b",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Territory Manager Radiofrequency Ablation (RF) - South West",
-   "location": "4 Locations",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Solihull--Remote/Territory-Manager-Radiofrequency-Ablation--RF----South-West_31158541",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-16",
-   "posted_approx": true,
-   "first_seen": "2026-10-16",
-   "score": 12,
-   "hits": [
-    "healthcare"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false,
-   "stale": true
   },
   {
    "id": "10956ca1661f42",
@@ -28084,8 +28067,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": false,
-   "stale": true
+   "baseline": false
   },
   {
    "id": "e8d7925f187138",
@@ -28484,30 +28466,6 @@
    "stale": true
   },
   {
-   "id": "88c8dc33296218",
-   "company": "Fractal Analytics",
-   "region": "UK",
-   "title": "Principal consultant - CPG Data foundations & Strategy",
-   "location": "London",
-   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/London/Senior-CPG-Data-Foundation-Advisor_SR-43253",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-30",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 36,
-   "hits": [
-    "strategy",
-    "consultant",
-    "consulting",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "881cf48c1f7386",
    "company": "BCG",
    "region": "UK",
@@ -28554,6 +28512,31 @@
    "details": true,
    "lang_checked": true,
    "baseline": true
+  },
+  {
+   "id": "88c8dc33296218",
+   "company": "Fractal Analytics",
+   "region": "UK",
+   "title": "Principal consultant - CPG Data foundations & Strategy",
+   "location": "London",
+   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/London/Senior-CPG-Data-Foundation-Advisor_SR-43253",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-09-30",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 36,
+   "hits": [
+    "strategy",
+    "consultant",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true,
+   "stale": true
   },
   {
    "id": "b20811d481103b",
@@ -28918,6 +28901,30 @@
    "baseline": true
   },
   {
+   "id": "7362f8e6914b55",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "Clinical Development Specialist Electrophysiology London/South East UK",
+   "location": "United Kingdom-London",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom-London/Clinical-Development-Specialist-Electrophysiology-London-South-East-UK_31160099",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-09-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 33,
+   "hits": [
+    "healthcare",
+    "health care",
+    "clinical",
+    "patient"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "6d714ae3a2162b",
    "company": "Strategy& Middle East",
    "region": "ME",
@@ -28940,31 +28947,6 @@
    "details": true,
    "lang_checked": true,
    "baseline": true
-  },
-  {
-   "id": "7362f8e6914b55",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Clinical Development Specialist Electrophysiology London/South East UK",
-   "location": "United Kingdom-London",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom-London/Clinical-Development-Specialist-Electrophysiology-London-South-East-UK_31160099",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 33,
-   "hits": [
-    "healthcare",
-    "health care",
-    "clinical",
-    "patient"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
   },
   {
    "id": "2b485505800f33",
@@ -30025,8 +30007,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": true,
-   "stale": true
+   "baseline": true
   },
   {
    "id": "52a5108bc99b30",
@@ -30878,8 +30859,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": true,
-   "stale": true
+   "baseline": true
   },
   {
    "id": "efced1eb9546a4",
@@ -31325,7 +31305,7 @@
    "title": "Senior Regulatory Affairs Specialist",
    "location": "United Kingdom - Witney",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Witney/Senior-Regulatory-Affairs-Specialist_31152152",
-   "posted": "2 Days Ago",
+   "posted": "3 Days Ago",
    "posted_date": "2026-09-13",
    "posted_approx": true,
    "first_seen": "2026-10-13",
@@ -31340,8 +31320,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": true,
-   "stale": true
+   "baseline": true
   },
   {
    "id": "16ea3725ca0dac",
@@ -31365,8 +31344,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": true,
-   "stale": true
+   "baseline": true
   },
   {
    "id": "0019f78c7cf209",
@@ -32127,6 +32105,30 @@
    "baseline": true
   },
   {
+   "id": "a9098bdff48c96",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "Senior Manager, Design Transfer",
+   "location": "United Kingdom - Witney",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Witney/Senior-Manager--Design-Transfer_31163944",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-06",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 23,
+   "hits": [
+    "healthcare",
+    "hospital",
+    "digital health",
+    "strategy"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "87f2cfdcc49736",
    "company": "Siemens Healthineers",
    "region": "UK",
@@ -32149,31 +32151,6 @@
    "details": true,
    "lang_checked": true,
    "baseline": true
-  },
-  {
-   "id": "a9098bdff48c96",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Senior Manager, Design Transfer",
-   "location": "United Kingdom - Witney",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Witney/Senior-Manager--Design-Transfer_31163944",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-10-06",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 23,
-   "hits": [
-    "healthcare",
-    "hospital",
-    "digital health",
-    "strategy"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
   },
   {
    "id": "1582ceee8bca1b",
@@ -32722,6 +32699,30 @@
    "baseline": true
   },
   {
+   "id": "64b9742c14e797",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "Territory Manager MCS, Heart Failure - North UK",
+   "location": "3 Locations",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Solihull--Remote/Territory-Manager-MCS--Heart-Failure---North-UK_31150377",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-09-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 22,
+   "hits": [
+    "healthcare",
+    "patient",
+    "strategy",
+    "operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "6bf9c49dc32159",
    "company": "Siemens Healthineers",
    "region": "UK",
@@ -32876,31 +32877,6 @@
     "implementation",
     "change management",
     "engagement manager"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
-  },
-  {
-   "id": "64b9742c14e797",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Territory Manager MCS, Heart Failure - North UK",
-   "location": "3 Locations",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Solihull--Remote/Territory-Manager-MCS--Heart-Failure---North-UK_31150377",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 22,
-   "hits": [
-    "healthcare",
-    "patient",
-    "strategy",
-    "operations"
    ],
    "lang": null,
    "visa": null,
@@ -33504,8 +33480,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": true,
-   "stale": true
+   "baseline": true
   },
   {
    "id": "ad5358bbdededc",
@@ -35533,6 +35508,72 @@
    "baseline": true
   },
   {
+   "id": "f2514b92c785af",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "(Senior) Territory Manager Electrophysiology - South Coast",
+   "location": "2 Locations",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Solihull--Remote/XMLNAME--Senior--Territory-Manager-Electrophysiology---South-Coast_31157153",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-13",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 18,
+   "hits": [
+    "healthcare",
+    "health care"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "f788884ed3d0ad",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "Territory Manager Electrophysiology (Central London)",
+   "location": "2 Locations",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Solihull--Remote/Territory-Manager-Electrophysiology--Central-London-_31159965-1",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-09-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 18,
+   "hits": [
+    "healthcare",
+    "health care"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "dea47daf287cbf",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "Occupational Health Advisors (Pipeline for current and future openings in the UK)",
+   "location": "8 Locations",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Loughton--Remote/Occupational-Health-Advisors--Pipeline-for-current-and-future-openings-in-the-UK-_31078872",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-09-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 18,
+   "hits": [
+    "healthcare",
+    "health"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "d4fea8cc8f4c65",
    "company": "Siemens Healthineers",
    "region": "UK",
@@ -35576,75 +35617,6 @@
    "details": true,
    "lang_checked": true,
    "baseline": true
-  },
-  {
-   "id": "f2514b92c785af",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "(Senior) Territory Manager Electrophysiology - South Coast",
-   "location": "2 Locations",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Solihull--Remote/XMLNAME--Senior--Territory-Manager-Electrophysiology---South-Coast_31157153",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-10-13",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 18,
-   "hits": [
-    "healthcare",
-    "health care"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false,
-   "stale": true
-  },
-  {
-   "id": "f788884ed3d0ad",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Territory Manager Electrophysiology (Central London)",
-   "location": "2 Locations",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Solihull--Remote/Territory-Manager-Electrophysiology--Central-London-_31159965-1",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 18,
-   "hits": [
-    "healthcare",
-    "health care"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
-  },
-  {
-   "id": "dea47daf287cbf",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Occupational Health Advisors (Pipeline for current and future openings in the UK)",
-   "location": "8 Locations",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Loughton--Remote/Occupational-Health-Advisors--Pipeline-for-current-and-future-openings-in-the-UK-_31078872",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 18,
-   "hits": [
-    "healthcare",
-    "health"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
   },
   {
    "id": "eca710938a0af4",
@@ -36483,8 +36455,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": true,
-   "stale": true
+   "baseline": true
   },
   {
    "id": "62c908d452ee33",
@@ -36953,6 +36924,28 @@
    "baseline": true
   },
   {
+   "id": "ef2a5aad761b13",
+   "company": "Abbott UK",
+   "region": "UK",
+   "title": "Supply Chain Executive (Diagnostics) - Glasgow",
+   "location": "United Kingdom-Glasgow",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom-Glasgow/Supply-Chain-Executive--Diagnostics----Glasgow_31159356",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-09-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 15,
+   "hits": [
+    "healthcare",
+    "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
    "id": "a2c0fe4c8df6e4",
    "company": "M42",
    "region": "ME",
@@ -36998,29 +36991,6 @@
    "details": true,
    "lang_checked": true,
    "baseline": true
-  },
-  {
-   "id": "ef2a5aad761b13",
-   "company": "Abbott UK",
-   "region": "UK",
-   "title": "Supply Chain Executive (Diagnostics) - Glasgow",
-   "location": "United Kingdom-Glasgow",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom-Glasgow/Supply-Chain-Executive--Diagnostics----Glasgow_31159356",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 15,
-   "hits": [
-    "healthcare",
-    "implementation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true,
-   "stale": true
   },
   {
    "id": "67a826ad186371",
@@ -40700,8 +40670,7 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": true,
-   "stale": true
+   "baseline": true
   },
   {
    "id": "028f14f9731bb6",
@@ -45920,6 +45889,13 @@
    "alert": false
   },
   {
+   "company": "Fractal Analytics",
+   "region": "UK",
+   "url": "https://fractal.wd1.myworkdayjobs.com/Careers",
+   "kind": "feed_error",
+   "alert": false
+  },
+  {
    "company": "KPMG",
    "region": "UK",
    "url": "https://kpmg.com/uk/en/careers.html",
@@ -46113,13 +46089,6 @@
    "alert": false
   },
   {
-   "company": "Abbott UK",
-   "region": "UK",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers",
-   "kind": "feed_error",
-   "alert": false
-  },
-  {
    "company": "AstraZeneca",
    "region": "UK",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers",
@@ -46221,13 +46190,6 @@
    "url": "https://careers.castoredc.com/vacancies/",
    "kind": "link",
    "note": "careers.castoredc.com/vacancies/",
-   "alert": false
-  },
-  {
-   "company": "Abbott NL",
-   "region": "NL",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers",
-   "kind": "feed_error",
    "alert": false
   },
   {
@@ -46556,17 +46518,6 @@
  "status": [
   {
    "companies": [
-    "Abbott UK",
-    "Abbott NL"
-   ],
-   "source": "workday",
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abbott.wd5.myworkdayjobs.com/wday/cxs/abbott/abbottcareers/jobs",
-   "total": 0,
-   "in_region": 0,
-   "kept": 0
-  },
-  {
-   "companies": [
     "Accenture",
     "Accenture NL"
    ],
@@ -46602,6 +46553,16 @@
    ],
    "source": "workday",
    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ferring.wd3.myworkdayjobs.com/wday/cxs/ferring/Ferring/jobs",
+   "total": 0,
+   "in_region": 0,
+   "kept": 0
+  },
+  {
+   "companies": [
+    "Fractal Analytics"
+   ],
+   "source": "workday",
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://fractal.wd1.myworkdayjobs.com/wday/cxs/fractal/Careers/jobs",
    "total": 0,
    "in_region": 0,
    "kept": 0
@@ -46806,6 +46767,17 @@
   },
   {
    "companies": [
+    "Abbott UK",
+    "Abbott NL"
+   ],
+   "source": "workday",
+   "error": null,
+   "total": 115,
+   "in_region": 115,
+   "kept": 48
+  },
+  {
+   "companies": [
     "Accurx"
    ],
    "source": "ashby",
@@ -46842,8 +46814,8 @@
    ],
    "source": "amazon",
    "error": null,
-   "total": 791,
-   "in_region": 791,
+   "total": 792,
+   "in_region": 792,
    "kept": 275
   },
   {
@@ -46852,7 +46824,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 633,
+   "total": 636,
    "in_region": 63,
    "kept": 22
   },
@@ -47065,7 +47037,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 895,
+   "total": 893,
    "in_region": 100,
    "kept": 8
   },
@@ -47128,8 +47100,8 @@
    ],
    "source": "rmk_html",
    "error": null,
-   "total": 1410,
-   "in_region": 1410,
+   "total": 1408,
+   "in_region": 1408,
    "kept": 134
   },
   {
@@ -47182,16 +47154,6 @@
    "total": 30,
    "in_region": 20,
    "kept": 4
-  },
-  {
-   "companies": [
-    "Fractal Analytics"
-   ],
-   "source": "workday",
-   "error": null,
-   "total": 4,
-   "in_region": 4,
-   "kept": 1
   },
   {
    "companies": [
@@ -47410,8 +47372,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 59,
-   "in_region": 51,
+   "total": 58,
+   "in_region": 50,
    "kept": 13
   },
   {
@@ -47582,7 +47544,7 @@
    ],
    "source": "jibe",
    "error": null,
-   "total": 3302,
+   "total": 3301,
    "in_region": 305,
    "kept": 118
   },
@@ -47623,7 +47585,7 @@
    ],
    "source": "smartrecruiters",
    "error": null,
-   "total": 999,
+   "total": 1000,
    "in_region": 53,
    "kept": 16
   },
@@ -47895,7 +47857,7 @@
  "counts": {
   "companies": 215,
   "feeds": 126,
-  "jobs": 1996,
+  "jobs": 1997,
   "new_today": 2,
   "pages": 5
  },
