@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "3498a8c7edfe0cde8acbb8969daa99898c29a6b6",
+  "hash": "6e93ee2a66c60464059dd3173513e8117adddb01",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -26,42 +26,46 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-22T19:58:29+00:00",
+  "checked": "2026-11-23T16:06:33+00:00",
   "error": null,
-  "changed_on": "2026-11-20",
+  "changed_on": "2026-11-23",
   "new_links": {},
   "new_on": "2026-11-05"
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "314e85aad647d34877365915dfbff18ab9317ac9",
+  "hash": "062cd56399507f32e69ff08459eea172881148d0",
   "postings": {
+   "https://wise.jobs/job/senior-implementation-manager-finance-systems-microsoft-dynamics-365-business-central-in-london-jid-4146": "Senior Implementation Manager - Finance Systems - Microsoft Dynamics 365 Business Central",
+   "https://wise.jobs/job/product-lead-money-laundering-prevention-in-london-jid-4551": "Product Lead - Money Laundering Prevention",
+   "https://wise.jobs/job/staff-product-designer-tooling-platform-in-london-jid-4558": "Staff Product Designer – Tooling Platform",
+   "https://wise.jobs/job/wisewomencode-budapest-in-budapest-jid-4498": "WiseWomenCode - Budapest",
+   "https://wise.jobs/job/wfm-capacity-planning-analyst-in-tallinn-jid-4562": "WFM Capacity Planning Analyst",
    "https://wise.jobs/job/fincrime-reporting-specialist-in-hyderabad-jid-4514": "FinCrime Reporting Specialist",
    "https://wise.jobs/job/it-sox-controls-tester-cloud-assurance-in-london-jid-4244": "IT SOX Controls Tester - Cloud Assurance",
    "https://wise.jobs/job/staff-product-designer-money-movement-in-london-jid-4561": "Staff Product Designer - Money Movement",
    "https://wise.jobs/job/complaints-officer-in-hyderabad-jid-4560": "Complaints Officer",
    "https://wise.jobs/job/fincrime-investigator-aml-investigations-in-budapest-jid-4328": "FinCrime Investigator - AML Investigations",
    "https://wise.jobs/job/senior-software-engineer-safer-changes-java-in-london-jid-4559": "Senior Software Engineer: Safer Changes - Java",
-   "https://wise.jobs/job/people-operations-junior-specialist-18-month-contract-in-tallinn-jid-4557": "People Operations Junior Specialist (18-month contract)",
-   "https://wise.jobs/job/principal-product-designer-mitigation-platform-in-london-jid-4558": "Principal Product Designer – Mitigation Platform",
-   "https://wise.jobs/job/senior-product-manager-payment-integrations-in-london-jid-4549": "Senior Product Manager – Payment integrations",
-   "https://wise.jobs/job/senior-backend-engineer-conversational-money-transfers-in-london-jid-4556": "Senior Backend Engineer - Conversational Money Transfers",
-   "https://wise.jobs/job/product-manager-connect-cloud-platform-in-tallinn-jid-3448": "Product Manager - Connect (Cloud Platform)",
-   "https://wise.jobs/job/engineering-lead-api-experience-in-london-jid-4529": "Engineering Lead - API Experience"
+   "https://wise.jobs/job/people-operations-junior-specialist-18-month-contract-in-tallinn-jid-4557": "People Operations Junior Specialist (18-month contract)"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-22T19:58:29+00:00",
+  "checked": "2026-11-23T16:06:33+00:00",
   "error": null,
-  "changed_on": "2026-11-22",
-  "new_links": {},
-  "new_on": "2026-11-21"
+  "changed_on": "2026-11-23",
+  "new_links": {
+   "https://wise.jobs/job/product-lead-money-laundering-prevention-in-london-jid-4551": "Product Lead - Money Laundering Prevention",
+   "https://wise.jobs/job/wisewomencode-budapest-in-budapest-jid-4498": "WiseWomenCode - Budapest",
+   "https://wise.jobs/job/wfm-capacity-planning-analyst-in-tallinn-jid-4562": "WFM Capacity Planning Analyst"
+  },
+  "new_on": "2026-11-23"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
   "region": "NL",
-  "hash": "e01a81151d37ba4c82b4df28fd2458f16ca75978",
+  "hash": "4e5fa5cc96a5ce4f6bc7715770820c5bc75fc782",
   "postings": {
    "https://optiver.com/join-us/jobs/trading/chicago/futurefocus-quants-trading-and-research-2027/": "FutureFocus: Quants (Trading & Research) 2027",
    "https://optiver.com/join-us/jobs/technology/chicago/futurefocus-tech-2027/": "FutureFocus: Tech 2027",
@@ -74,17 +78,17 @@
    "https://optiver.com/join-us/jobs/risk-finance-and-legal/sydney/accounts-payable-officer/": "Accounts Payable Officer",
    "https://optiver.com/join-us/jobs/technology/austin/software-engineer-2/": "Software Engineer",
    "https://optiver.com/join-us/jobs/trading/singapore/trade-supervisor/": "Trade Supervisor",
-   "https://optiver.com/join-us/jobs/strategy/washington-d.c./government-affairs-strategy-analyst/": "Government Affairs Strategy Analyst",
    "https://optiver.com/join-us/jobs/business-operations/amsterdam/procurement-analyst/": "Procurement Analyst",
    "https://optiver.com/join-us/jobs/human-resources-and-recruiting/sydney/apac-mobility-partner-12-month-contract/": "APAC Mobility Partner (12-month contract)",
    "https://optiver.com/join-us/jobs/technology/shanghai/technology-operations-engineer-shanghai/": "Technology Operations Engineer - Shanghai",
-   "https://optiver.com/join-us/jobs/technology/taipei/technology-operations-engineer-taipei/": "Technology Operations Engineer - Taipei"
+   "https://optiver.com/join-us/jobs/technology/taipei/technology-operations-engineer-taipei/": "Technology Operations Engineer - Taipei",
+   "https://optiver.com/join-us/jobs/technology/sydney/software-engineer-c-plus-plus-derivatives/": "Software Engineer (C++) - Derivatives"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-22T19:58:29+00:00",
+  "checked": "2026-11-23T16:06:33+00:00",
   "error": null,
-  "changed_on": "2026-11-21",
+  "changed_on": "2026-11-23",
   "new_links": {},
   "new_on": "2026-11-21"
  },
@@ -98,7 +102,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-22T19:58:29+00:00",
+  "checked": "2026-11-23T16:06:33+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -107,8 +111,9 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "a041094e91d55adb1dfffb1db4a6f045eae5b233",
+  "hash": "b8c8dcc984b3b143757ef587e9051de82224643a",
   "postings": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/registrar-ent-otolaryngology-1100085198/": "Registrar – ENT (Otolaryngology)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/professional-onboarding-engagement-pipeline-1100092677/": "Professional - Onboarding Engagement (Pipeline)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-registrar-internal-medicine-1100063734/": "Senior Registrar – Internal Medicine",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-medical-claims-operations-pipeline-1100092663/": "Manager - Medical Claims Operations (Pipeline)",
@@ -117,17 +122,14 @@
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-operational-transformation-1100091836/": "Manager - Operational Transformation",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-medical-pre-authorization-pipeline-1100062472/": "Manager - Medical Pre Authorization ( Pipeline )",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-pre-authorization-pipeline-1100073541/": "Manager - Pre Authorization (Pipeline)",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-data-security-analysis-1100088379/": "Manager - Data Security Analysis",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-pre-authorization-pipeline-1100067272/": "Manager - Pre Authorization (Pipeline)"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-data-security-analysis-1100088379/": "Manager - Data Security Analysis"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-22T19:58:29+00:00",
+  "checked": "2026-11-23T16:06:33+00:00",
   "error": null,
-  "changed_on": "2026-11-22",
-  "new_links": {
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/professional-onboarding-engagement-pipeline-1100092677/": "Professional - Onboarding Engagement (Pipeline)"
-  },
+  "changed_on": "2026-11-23",
+  "new_links": {},
   "new_on": "2026-11-22"
  }
 }
