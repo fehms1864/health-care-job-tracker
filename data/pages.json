@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "4271f0b8b32314b1f8f3d25e73119b9b4b2856f2",
+  "hash": "925c74382f6ffed04c431c4befe780b9d472d535",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-24T15:57:17+00:00",
+  "checked": "2026-11-24T22:46:39+00:00",
   "error": null,
   "changed_on": "2026-11-24",
   "new_links": {},
@@ -35,8 +35,10 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "c1d157c96c42ae933114638a06bdbcf5281c72e0",
+  "hash": "63c6e83f3b0dceb3e6c696ba92aa3e09a46df362",
   "postings": {
+   "https://wise.jobs/job/senior-growth-crm-specialist-in-sao-paulo-jid-4321": "Senior Growth CRM Specialist",
+   "https://wise.jobs/job/customer-support-specialist-french-speaking-in-tallinn-jid-4572": "Customer Support Specialist (French Speaking)",
    "https://wise.jobs/job/senior-operations-solutions-specialist-in-budapest-jid-4571": "Senior Operations Solutions Specialist",
    "https://wise.jobs/job/compliance-senior-specialist-fincrime-operations-in-madrid-jid-4569": "Compliance Senior Specialist - FinCrime Operations",
    "https://wise.jobs/job/senior-operations-solutions-specialist-in-tallinn-jid-4570": "Senior Operations Solutions Specialist",
@@ -45,24 +47,16 @@
    "https://wise.jobs/job/market-abuse-and-operations-delivery-specialist-in-tallinn-jid-4484": "Market Abuse and Operations Delivery Specialist",
    "https://wise.jobs/job/general-accounting-senior-lead-product-accounting-and-journaling-in-tallinn-jid-4566": "General Accounting Senior Lead (Product accounting & Journaling)",
    "https://wise.jobs/job/regulatory-compliance-manager-in-sydney-jid-4565": "Regulatory Compliance Manager",
-   "https://wise.jobs/job/hr-operations-manager-in-hyderabad-jid-4555": "HR Operations Manager",
-   "https://wise.jobs/job/senior-business-recruiter-in-hyderabad-jid-4564": "Senior Business Recruiter",
-   "https://wise.jobs/job/legal-counsel-apac-in-singapore-jid-4520": "Legal Counsel APAC",
-   "https://wise.jobs/job/sr-business-development-manager-banks-in-austin-jid-4515": "Sr. Business Development Manager - Banks"
+   "https://wise.jobs/job/hr-operations-manager-in-hyderabad-jid-4555": "HR Operations Manager"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-24T15:57:17+00:00",
+  "checked": "2026-11-24T22:46:39+00:00",
   "error": null,
   "changed_on": "2026-11-24",
   "new_links": {
-   "https://wise.jobs/job/senior-operations-solutions-specialist-in-budapest-jid-4571": "Senior Operations Solutions Specialist",
-   "https://wise.jobs/job/compliance-senior-specialist-fincrime-operations-in-madrid-jid-4569": "Compliance Senior Specialist - FinCrime Operations",
-   "https://wise.jobs/job/senior-operations-solutions-specialist-in-tallinn-jid-4570": "Senior Operations Solutions Specialist",
-   "https://wise.jobs/job/business-operations-manager-in-london-jid-4568": "Business Operations Manager",
-   "https://wise.jobs/job/market-abuse-and-operations-delivery-specialist-in-tallinn-jid-4484": "Market Abuse and Operations Delivery Specialist",
-   "https://wise.jobs/job/regulatory-compliance-manager-in-sydney-jid-4565": "Regulatory Compliance Manager",
-   "https://wise.jobs/job/hr-operations-manager-in-hyderabad-jid-4555": "HR Operations Manager"
+   "https://wise.jobs/job/senior-growth-crm-specialist-in-sao-paulo-jid-4321": "Senior Growth CRM Specialist",
+   "https://wise.jobs/job/customer-support-specialist-french-speaking-in-tallinn-jid-4572": "Customer Support Specialist (French Speaking)"
   },
   "new_on": "2026-11-24"
  },
@@ -90,7 +84,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-24T15:57:17+00:00",
+  "checked": "2026-11-24T22:46:39+00:00",
   "error": null,
   "changed_on": "2026-11-24",
   "new_links": {},
@@ -106,7 +100,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-24T15:57:17+00:00",
+  "checked": "2026-11-24T22:46:39+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -115,7 +109,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "44aee818805639dc459804c42e1f5ed620cc0399",
+  "hash": "5f3b41ea78df1363f7250a927fd74973b914f846",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/registrar-ent-otolaryngology-1100085198/": "Registrar – ENT (Otolaryngology)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/professional-onboarding-engagement-pipeline-1100092677/": "Professional - Onboarding Engagement (Pipeline)",
@@ -130,7 +124,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-24T15:57:17+00:00",
+  "checked": "2026-11-24T22:46:39+00:00",
   "error": null,
   "changed_on": "2026-11-24",
   "new_links": {},
