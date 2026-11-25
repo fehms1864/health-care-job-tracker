@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "925c74382f6ffed04c431c4befe780b9d472d535",
+  "hash": "6be01901b233c9072ae99a779a2a820936baecb1",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -26,39 +26,46 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-24T22:46:39+00:00",
+  "checked": "2026-11-25T15:43:06+00:00",
   "error": null,
-  "changed_on": "2026-11-24",
+  "changed_on": "2026-11-25",
   "new_links": {},
   "new_on": "2026-11-05"
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "63c6e83f3b0dceb3e6c696ba92aa3e09a46df362",
+  "hash": "c197b7e13f5ff61cf496a7d37102dbb93e402cef",
   "postings": {
-   "https://wise.jobs/job/senior-growth-crm-specialist-in-sao-paulo-jid-4321": "Senior Growth CRM Specialist",
-   "https://wise.jobs/job/customer-support-specialist-french-speaking-in-tallinn-jid-4572": "Customer Support Specialist (French Speaking)",
-   "https://wise.jobs/job/senior-operations-solutions-specialist-in-budapest-jid-4571": "Senior Operations Solutions Specialist",
-   "https://wise.jobs/job/compliance-senior-specialist-fincrime-operations-in-madrid-jid-4569": "Compliance Senior Specialist - FinCrime Operations",
-   "https://wise.jobs/job/senior-operations-solutions-specialist-in-tallinn-jid-4570": "Senior Operations Solutions Specialist",
-   "https://wise.jobs/job/business-operations-manager-in-london-jid-4568": "Business Operations Manager",
-   "https://wise.jobs/job/payroll-specialist-fixed-term-contract-12-months-in-tallinn-jid-4567": "Payroll Specialist (Fixed Term Contract - 12 Months)",
-   "https://wise.jobs/job/market-abuse-and-operations-delivery-specialist-in-tallinn-jid-4484": "Market Abuse and Operations Delivery Specialist",
-   "https://wise.jobs/job/general-accounting-senior-lead-product-accounting-and-journaling-in-tallinn-jid-4566": "General Accounting Senior Lead (Product accounting & Journaling)",
-   "https://wise.jobs/job/regulatory-compliance-manager-in-sydney-jid-4565": "Regulatory Compliance Manager",
-   "https://wise.jobs/job/hr-operations-manager-in-hyderabad-jid-4555": "HR Operations Manager"
+   "https://wise.jobs/job/group-regulatory-affairs-lead-in-london-jid-4040": "Group Regulatory Affairs Lead",
+   "https://wise.jobs/job/principal-content-designer-fincrime-aup-in-london-jid-4581": "Principal Content Designer, Fincrime - AUP",
+   "https://wise.jobs/job/payment-operations-global-processing-function-lead-in-sao-paulo-jid-4335": "Payment Operations Global Processing Function Lead",
+   "https://wise.jobs/job/enterprise-pricing-manager-emea-in-london-jid-4312": "Enterprise Pricing Manager (EMEA)",
+   "https://wise.jobs/job/senior-backend-engineer-ii-send-experience-in-london-jid-4580": "Senior Backend Engineer II - Send Experience",
+   "https://wise.jobs/job/senior-product-manager-payment-integrations-in-london-jid-4549": "Senior Product Manager – Payment integrations",
+   "https://wise.jobs/job/people-operations-junior-specialist-18-month-contract-in-tallinn-jid-4557": "People Operations Junior Specialist (18-month contract)",
+   "https://wise.jobs/job/fincrime-reporting-specialist-in-hyderabad-jid-4514": "FinCrime Reporting Specialist",
+   "https://wise.jobs/job/high-volume-total-service-support-specialist-in-singapore-jid-4578": "High Volume (Total Service) Support Specialist",
+   "https://wise.jobs/job/payroll-specialist-in-tallinn-jid-4577": "Payroll Specialist",
+   "https://wise.jobs/job/people-operations-associate-in-hyderabad-jid-4576": "People Operations Associate",
+   "https://wise.jobs/job/senior-im-in-austin-jid-4542": "Senior IM"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-24T22:46:39+00:00",
+  "checked": "2026-11-25T15:43:06+00:00",
   "error": null,
-  "changed_on": "2026-11-24",
+  "changed_on": "2026-11-25",
   "new_links": {
-   "https://wise.jobs/job/senior-growth-crm-specialist-in-sao-paulo-jid-4321": "Senior Growth CRM Specialist",
-   "https://wise.jobs/job/customer-support-specialist-french-speaking-in-tallinn-jid-4572": "Customer Support Specialist (French Speaking)"
+   "https://wise.jobs/job/group-regulatory-affairs-lead-in-london-jid-4040": "Group Regulatory Affairs Lead",
+   "https://wise.jobs/job/payment-operations-global-processing-function-lead-in-sao-paulo-jid-4335": "Payment Operations Global Processing Function Lead",
+   "https://wise.jobs/job/senior-product-manager-payment-integrations-in-london-jid-4549": "Senior Product Manager – Payment integrations",
+   "https://wise.jobs/job/people-operations-junior-specialist-18-month-contract-in-tallinn-jid-4557": "People Operations Junior Specialist (18-month contract)",
+   "https://wise.jobs/job/fincrime-reporting-specialist-in-hyderabad-jid-4514": "FinCrime Reporting Specialist",
+   "https://wise.jobs/job/high-volume-total-service-support-specialist-in-singapore-jid-4578": "High Volume (Total Service) Support Specialist",
+   "https://wise.jobs/job/people-operations-associate-in-hyderabad-jid-4576": "People Operations Associate",
+   "https://wise.jobs/job/senior-im-in-austin-jid-4542": "Senior IM"
   },
-  "new_on": "2026-11-24"
+  "new_on": "2026-11-25"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
@@ -84,7 +91,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-24T22:46:39+00:00",
+  "checked": "2026-11-25T15:43:06+00:00",
   "error": null,
   "changed_on": "2026-11-24",
   "new_links": {},
@@ -100,7 +107,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-24T22:46:39+00:00",
+  "checked": "2026-11-25T15:43:06+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -109,25 +116,28 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "5f3b41ea78df1363f7250a927fd74973b914f846",
+  "hash": "bde61f796add28545ca61971200723ed89323d54",
   "postings": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-pre-authorization-pipeline-1100067272/": "Manager - Pre Authorization (Pipeline)",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/tamheer-coop-actuarial-1100091491/": "Tamheer/Coop - Actuarial",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/assistant-specialist-physiotherapy-home-healthcare-1100092834/": "View Job Details",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/registrar-ent-otolaryngology-1100085198/": "Registrar – ENT (Otolaryngology)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/professional-onboarding-engagement-pipeline-1100092677/": "Professional - Onboarding Engagement (Pipeline)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-registrar-internal-medicine-1100063734/": "Senior Registrar – Internal Medicine",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-medical-claims-operations-pipeline-1100092663/": "Manager - Medical Claims Operations (Pipeline)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-clinical-excellence-1100092634/": "Manager - Clinical Excellence",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-pr-contract-management-1100089040/": "Senior Executive Manager - PR Contract Management",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-operational-transformation-1100091836/": "Manager - Operational Transformation",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-pre-authorization-pipeline-1100073541/": "Manager - Pre Authorization (Pipeline)",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-data-security-analysis-1100088379/": "Manager - Data Security Analysis",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/coop-graphic-design-1100091982/": "Coop - Graphic Design"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-operational-transformation-1100091836/": "Manager - Operational Transformation"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-24T22:46:39+00:00",
+  "checked": "2026-11-25T15:43:06+00:00",
   "error": null,
-  "changed_on": "2026-11-24",
-  "new_links": {},
-  "new_on": "2026-11-22"
+  "changed_on": "2026-11-25",
+  "new_links": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-pre-authorization-pipeline-1100067272/": "Manager - Pre Authorization (Pipeline)",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/assistant-specialist-physiotherapy-home-healthcare-1100092834/": "View Job Details"
+  },
+  "new_on": "2026-11-25"
  }
 }
