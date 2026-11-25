@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "6be01901b233c9072ae99a779a2a820936baecb1",
+  "hash": "5c5e608031b40f35904a8755fa3e48e918f7e353",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-25T15:43:06+00:00",
+  "checked": "2026-11-25T21:58:52+00:00",
   "error": null,
   "changed_on": "2026-11-25",
   "new_links": {},
@@ -35,8 +35,12 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "c197b7e13f5ff61cf496a7d37102dbb93e402cef",
+  "hash": "b7a123211dd1e326ebc81478d86d74e5285c113e",
   "postings": {
+   "https://wise.jobs/job/internal-audit-senior-specialist-in-austin-jid-3586": "Internal Audit Senior Specialist",
+   "https://wise.jobs/job/head-of-business-marketing-north-america-in-austin-jid-4582": "Head of Business Marketing North America",
+   "https://wise.jobs/job/senior-software-engineer-ii-data-onboarding-and-reporting-in-london-jid-3904": "Senior Software Engineer II - Data Onboarding & Reporting",
+   "https://wise.jobs/job/senior-content-designer-spend-in-london-jid-3874": "Senior Content Designer - Spend",
    "https://wise.jobs/job/group-regulatory-affairs-lead-in-london-jid-4040": "Group Regulatory Affairs Lead",
    "https://wise.jobs/job/principal-content-designer-fincrime-aup-in-london-jid-4581": "Principal Content Designer, Fincrime - AUP",
    "https://wise.jobs/job/payment-operations-global-processing-function-lead-in-sao-paulo-jid-4335": "Payment Operations Global Processing Function Lead",
@@ -44,15 +48,11 @@
    "https://wise.jobs/job/senior-backend-engineer-ii-send-experience-in-london-jid-4580": "Senior Backend Engineer II - Send Experience",
    "https://wise.jobs/job/senior-product-manager-payment-integrations-in-london-jid-4549": "Senior Product Manager – Payment integrations",
    "https://wise.jobs/job/people-operations-junior-specialist-18-month-contract-in-tallinn-jid-4557": "People Operations Junior Specialist (18-month contract)",
-   "https://wise.jobs/job/fincrime-reporting-specialist-in-hyderabad-jid-4514": "FinCrime Reporting Specialist",
-   "https://wise.jobs/job/high-volume-total-service-support-specialist-in-singapore-jid-4578": "High Volume (Total Service) Support Specialist",
-   "https://wise.jobs/job/payroll-specialist-in-tallinn-jid-4577": "Payroll Specialist",
-   "https://wise.jobs/job/people-operations-associate-in-hyderabad-jid-4576": "People Operations Associate",
-   "https://wise.jobs/job/senior-im-in-austin-jid-4542": "Senior IM"
+   "https://wise.jobs/job/fincrime-reporting-specialist-in-hyderabad-jid-4514": "FinCrime Reporting Specialist"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-25T15:43:06+00:00",
+  "checked": "2026-11-25T21:58:52+00:00",
   "error": null,
   "changed_on": "2026-11-25",
   "new_links": {
@@ -91,7 +91,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-25T15:43:06+00:00",
+  "checked": "2026-11-25T21:58:52+00:00",
   "error": null,
   "changed_on": "2026-11-24",
   "new_links": {},
@@ -107,7 +107,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-25T15:43:06+00:00",
+  "checked": "2026-11-25T21:58:52+00:00",
   "error": null,
   "changed_on": "2026-10-13",
   "new_links": {},
@@ -116,7 +116,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "bde61f796add28545ca61971200723ed89323d54",
+  "hash": "2db195a5e9bc26f76b65cf414fe67f6797d02031",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-pre-authorization-pipeline-1100067272/": "Manager - Pre Authorization (Pipeline)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/tamheer-coop-actuarial-1100091491/": "Tamheer/Coop - Actuarial",
@@ -131,7 +131,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-25T15:43:06+00:00",
+  "checked": "2026-11-25T21:58:52+00:00",
   "error": null,
   "changed_on": "2026-11-25",
   "new_links": {

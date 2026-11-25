@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T15:43:06+00:00",
+ "generated_at": "2026-11-25T21:58:52+00:00",
  "baseline_date": "2026-09-27",
  "rules_version": 6,
  "sources": {
@@ -322,6 +322,143 @@
    "baseline": false
   },
   {
+   "id": "be4ef1622b997f",
+   "company": "Microsoft NL",
+   "region": "NL",
+   "title": "Marketing Services Centre (MSC) Execution Lead, EMEA",
+   "location": "United Kingdom, London, London / France, Paris, Paris / Germany, Bavaria, Munich / Netherlands, Noord-Holland, Amsterdam",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557070600",
+   "posted": "2026-11-25T16:31:21+00:00",
+   "posted_date": "2026-11-25",
+   "posted_approx": false,
+   "first_seen": "2026-11-25",
+   "score": 19,
+   "hits": [
+    "operations",
+    "implementation",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "371a9e8ffa718c",
+   "company": "Amazon / AWS (UK)",
+   "region": "UK",
+   "title": "Engagement Manager, Professional Services, UK NatSec, WWPS",
+   "location": "London, England, GBR",
+   "url": "https://www.amazon.jobs/en/jobs/10614062/engagement-manager-professional-services-uk-natsec-wwps",
+   "posted": "November 25, 2026",
+   "posted_date": "2026-11-25",
+   "posted_approx": true,
+   "first_seen": "2026-11-25",
+   "score": 19,
+   "hits": [
+    "transformation",
+    "engagement manager"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "f7dda9d2a87e87",
+   "company": "Intercom",
+   "region": "UK",
+   "title": "Senior Forward Deployed Product Manager",
+   "location": "San Francisco, California / Dublin, Ireland Dublin, Ireland / London, England London, Greater London, England, United Kingdom / San Francisco, CA San Francisco,",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/7111007",
+   "posted": "2025-07-28T13:07:36-04:00",
+   "posted_date": "2025-07-28",
+   "posted_approx": false,
+   "first_seen": "2026-11-25",
+   "score": 19,
+   "hits": [
+    "strategy",
+    "transformation",
+    "product manager"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "a64adb0831450c",
+   "company": "Intercom",
+   "region": "UK",
+   "title": "Senior Forward Deployed Product Manager (Chicago)",
+   "location": "Chicago, Illinois / Dublin, Ireland Dublin, Ireland / London, England London, Greater London, England, United Kingdom / San Francisco, CA San Francisco, CA, Uni",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/8417296",
+   "posted": "2026-11-25T11:13:21-05:00",
+   "posted_date": "2026-11-25",
+   "posted_approx": false,
+   "first_seen": "2026-11-25",
+   "score": 19,
+   "hits": [
+    "strategy",
+    "transformation",
+    "product manager"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "087d84ed18d48c",
+   "company": "Intercom",
+   "region": "UK",
+   "title": "Senior Forward Deployed Product Manager (London)",
+   "location": "London, England / Dublin, Ireland Dublin, Ireland",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/8417286",
+   "posted": "2026-11-25T11:07:55-05:00",
+   "posted_date": "2026-11-25",
+   "posted_approx": false,
+   "first_seen": "2026-11-25",
+   "score": 19,
+   "hits": [
+    "strategy",
+    "transformation",
+    "product manager"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "cf200f8faae966",
+   "company": "Intercom",
+   "region": "UK",
+   "title": "Senior Forward Deployed Product Manager (NYC)",
+   "location": "New York, New York / Dublin, Ireland Dublin, Ireland / London, England London, Greater London, England, United Kingdom / San Francisco, CA San Francisco, CA, Un",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/8417303",
+   "posted": "2026-11-25T11:15:38-05:00",
+   "posted_date": "2026-11-25",
+   "posted_approx": false,
+   "first_seen": "2026-11-25",
+   "score": 19,
+   "hits": [
+    "strategy",
+    "transformation",
+    "product manager"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "58d226da9a1e97",
    "company": "Amazon / AWS (UK)",
    "region": "UK",
@@ -364,6 +501,28 @@
    "lang": null,
    "visa": null,
    "details": false,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "e3381d4479d7f8",
+   "company": "Flo Health",
+   "region": "UK",
+   "title": "Office Manager",
+   "location": "London London, England, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/flohealth/jobs/8217048003",
+   "posted": "2026-11-25T12:54:38-05:00",
+   "posted_date": "2026-11-25",
+   "posted_approx": false,
+   "first_seen": "2026-11-25",
+   "score": 17,
+   "hits": [
+    "digital health",
+    "operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
    "lang_checked": true,
    "baseline": false
   },
@@ -500,6 +659,27 @@
    "baseline": false
   },
   {
+   "id": "6599e30da57471",
+   "company": "Monzo",
+   "region": "UK",
+   "title": "Senior Manager, Supplier Performance (Vulnerable Customers)",
+   "location": "Cardiff, London or Remote (UK)",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8365388",
+   "posted": "2026-11-09T13:32:44-05:00",
+   "posted_date": "2026-11-09",
+   "posted_approx": false,
+   "first_seen": "2026-11-25",
+   "score": 10,
+   "hits": [
+    "operations"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
    "id": "86827f07dbac1d",
    "company": "Wise",
    "region": "UK",
@@ -580,18 +760,20 @@
    "baseline": false
   },
   {
-   "id": "e9756bc78b7d43",
-   "company": "Wipro",
+   "id": "4f986076554393",
+   "company": "Quantexa",
    "region": "UK",
-   "title": "Client Services Administrator (12 Months FTC)",
-   "location": "Bath, GBR-SO, GBR / United Kingdom",
-   "url": "https://careers.wipro.com/job/Client-Services-Administrator-%2812-Months-FTC%29/212765-en_US",
-   "posted": "11/25/26",
+   "title": "Industry Lead - Central Government - EMEA",
+   "location": "London / United Kingdom",
+   "url": "https://jobs.ashbyhq.com/quantexa/dec5e6af-2f2c-4650-9ecf-b4ce1ed950ca",
+   "posted": "2026-11-25T17:59:00.490+00:00",
    "posted_date": "2026-11-25",
    "posted_approx": false,
    "first_seen": "2026-11-25",
    "score": 6,
-   "hits": [],
+   "hits": [
+    "strategy"
+   ],
    "lang": null,
    "visa": null,
    "details": true,
@@ -692,6 +874,25 @@
    "posted_approx": false,
    "first_seen": "2026-11-25",
    "score": 4,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false
+  },
+  {
+   "id": "8a919efc13b389",
+   "company": "Quantexa",
+   "region": "UK",
+   "title": "Industry Lead - Defence & National Security - EMEA",
+   "location": "London / United Kingdom",
+   "url": "https://jobs.ashbyhq.com/quantexa/2112d78c-969b-4c45-930b-9fe150fed091",
+   "posted": "2026-11-25T18:12:35.914+00:00",
+   "posted_date": "2026-11-25",
+   "posted_approx": false,
+   "first_seen": "2026-11-25",
+   "score": 1,
    "hits": [],
    "lang": null,
    "visa": null,
@@ -2401,25 +2602,6 @@
    "baseline": false
   },
   {
-   "id": "057d182e26b33d",
-   "company": "Fractal Analytics",
-   "region": "UK",
-   "title": "Principal Account Lead – Insurance Domain",
-   "location": "London",
-   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/London/Lead-Onsite-Account-Manager---Insurance-Domain--_SR-47654",
-   "posted": "Yesterday",
-   "posted_date": "2026-11-24",
-   "posted_approx": false,
-   "first_seen": "2026-11-24",
-   "score": 4,
-   "hits": [],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "31b05597740bf0",
    "company": "Stripe",
    "region": "UK",
@@ -2439,6 +2621,26 @@
    "details": true,
    "lang_checked": true,
    "baseline": false
+  },
+  {
+   "id": "057d182e26b33d",
+   "company": "Fractal Analytics",
+   "region": "UK",
+   "title": "Principal Account Lead – Insurance Domain",
+   "location": "London",
+   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/London/Lead-Onsite-Account-Manager---Insurance-Domain--_SR-47654",
+   "posted": "Yesterday",
+   "posted_date": "2026-11-24",
+   "posted_approx": false,
+   "first_seen": "2026-11-24",
+   "score": 4,
+   "hits": [],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false,
+   "stale": true
   },
   {
    "id": "e6eb25e698147d",
@@ -3293,7 +3495,8 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": false
+   "baseline": false,
+   "stale": true
   },
   {
    "id": "d43449d32775e4",
@@ -9168,7 +9371,8 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": false
+   "baseline": false,
+   "stale": true
   },
   {
    "id": "9e2557a7728ba9",
@@ -16533,13 +16737,13 @@
    "stale": true
   },
   {
-   "id": "2a29e518e3abed",
+   "id": "f6889ac8873bb7",
    "company": "Databricks",
    "region": "UK",
    "title": "Senior Delivery Partner Manager, Services",
-   "location": "Paris, France / London, United Kingdom London, United Kingdom",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8933236002",
-   "posted": "2026-11-06T10:18:37-05:00",
+   "location": "London, United Kingdom London, United Kingdom",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8931716002",
+   "posted": "2026-11-06T10:16:57-05:00",
    "posted_date": "2026-11-06",
    "posted_approx": false,
    "first_seen": "2026-11-06",
@@ -16556,13 +16760,13 @@
    "baseline": false
   },
   {
-   "id": "f6889ac8873bb7",
+   "id": "2a29e518e3abed",
    "company": "Databricks",
    "region": "UK",
    "title": "Senior Delivery Partner Manager, Services",
-   "location": "London, United Kingdom London, United Kingdom",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8931716002",
-   "posted": "2026-11-06T10:16:57-05:00",
+   "location": "Paris, France / London, United Kingdom London, United Kingdom",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8933236002",
+   "posted": "2026-11-06T10:18:37-05:00",
    "posted_date": "2026-11-06",
    "posted_approx": false,
    "first_seen": "2026-11-06",
@@ -17265,30 +17469,6 @@
    "stale": true
   },
   {
-   "id": "f8705c17890543",
-   "company": "HCA Healthcare UK",
-   "region": "UK",
-   "title": "Estates Manager",
-   "location": "London, United Kingdom",
-   "url": "https://www.hcahealthcare.co.uk/careers/vacancy/0051383",
-   "posted": "2026-06-16",
-   "posted_date": "2026-06-16",
-   "posted_approx": false,
-   "first_seen": "2026-11-05",
-   "score": 23,
-   "hits": [
-    "healthcare",
-    "patient",
-    "hospital",
-    "operations"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "68e591060ca21f",
    "company": "HCA Healthcare UK",
    "region": "UK",
@@ -17334,7 +17514,8 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": false
+   "baseline": false,
+   "stale": true
   },
   {
    "id": "fd5599ee0d02ba",
@@ -17502,9 +17683,9 @@
    "id": "e187f02eeb0e74",
    "company": "BCG",
    "region": "UK",
-   "title": "Project Leader- Consumer, LAB, 2026",
+   "title": "Project Leader- Consumer, London",
    "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/57748/Project-Leader-Consumer-LAB-2026",
+   "url": "https://careers.bcg.com/global/en/job/57748/Project-Leader-Consumer-London",
    "posted": "2026-11-04T00:00:00.000+0000",
    "posted_date": "2026-11-04",
    "posted_approx": false,
@@ -17515,29 +17696,6 @@
     "strategy",
     "operations",
     "consultant"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "6dcb8e024b0231",
-   "company": "Workday",
-   "region": "UK",
-   "title": "Managing Partner - Platform EMEA",
-   "location": "2 Locations",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/France-Paris/Managing-Partner---Platform-EMEA_JR-0111108",
-   "posted": "20 Days Ago",
-   "posted_date": "2026-11-05",
-   "posted_approx": false,
-   "first_seen": "2026-11-05",
-   "score": 20,
-   "hits": [
-    "strategy",
-    "consulting",
-    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -17567,6 +17725,30 @@
    "details": true,
    "lang_checked": true,
    "baseline": false
+  },
+  {
+   "id": "6dcb8e024b0231",
+   "company": "Workday",
+   "region": "UK",
+   "title": "Managing Partner - Platform EMEA",
+   "location": "2 Locations",
+   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/France-Paris/Managing-Partner---Platform-EMEA_JR-0111108",
+   "posted": "20 Days Ago",
+   "posted_date": "2026-11-05",
+   "posted_approx": false,
+   "first_seen": "2026-11-05",
+   "score": 20,
+   "hits": [
+    "strategy",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false,
+   "stale": true
   },
   {
    "id": "ffc2f496c1c780",
@@ -19527,7 +19709,8 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": false
+   "baseline": false,
+   "stale": true
   },
   {
    "id": "25e3d49547ab35",
@@ -19599,7 +19782,8 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": false
+   "baseline": false,
+   "stale": true
   },
   {
    "id": "19a303a49e305b",
@@ -21730,27 +21914,6 @@
    "baseline": false
   },
   {
-   "id": "c73bfa79156dca",
-   "company": "Intercom",
-   "region": "UK",
-   "title": "Senior Customer Education Manager, Live Programs",
-   "location": "Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/intercom/jobs/8337122",
-   "posted": "2026-10-30T12:51:32-04:00",
-   "posted_date": "2026-10-30",
-   "posted_approx": false,
-   "first_seen": "2026-10-30",
-   "score": 10,
-   "hits": [
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "59fae8d91c041a",
    "company": "Intercom",
    "region": "UK",
@@ -21772,19 +21935,19 @@
    "baseline": false
   },
   {
-   "id": "0ed91862907851",
-   "company": "Publicis",
+   "id": "c73bfa79156dca",
+   "company": "Intercom",
    "region": "UK",
-   "title": "Planning Manager",
-   "location": "London, United Kingdom / 2 Television Centre",
-   "url": "https://careers.publicisgroupe.com/jobs/178780?lang=en-us",
-   "posted": "2026-10-30T12:11:00+0000",
+   "title": "Senior Customer Education Manager, Live Programs",
+   "location": "Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/8337122",
+   "posted": "2026-10-30T12:51:32-04:00",
    "posted_date": "2026-10-30",
    "posted_approx": false,
    "first_seen": "2026-10-30",
-   "score": 6,
+   "score": 10,
    "hits": [
-    "strategy"
+    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -23661,7 +23824,7 @@
    "company": "Quantexa",
    "region": "UK",
    "title": "Programme Manager - UK Government",
-   "location": "London / United Kingdom",
+   "location": "Manchester / United Kingdom",
    "url": "https://jobs.ashbyhq.com/quantexa/797c8f3b-e7ee-42dd-b749-b4bb788861eb",
    "posted": "2026-10-27T09:07:34.371+00:00",
    "posted_date": "2026-10-27",
@@ -33599,29 +33762,6 @@
    "baseline": true
   },
   {
-   "id": "65db47f088939f",
-   "company": "Workday",
-   "region": "UK",
-   "title": "Engagement Manager - Sana (London)",
-   "location": "United Kingdom, London",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Engagement-Manager---Sana--London-_JR-0110504",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-10-07",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 22,
-   "hits": [
-    "implementation",
-    "change management",
-    "engagement manager"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "f8af8f133de6a3",
    "company": "Siemens Healthineers",
    "region": "UK",
@@ -33712,6 +33852,30 @@
    "details": false,
    "lang_checked": true,
    "baseline": true
+  },
+  {
+   "id": "65db47f088939f",
+   "company": "Workday",
+   "region": "UK",
+   "title": "Engagement Manager - Sana (London)",
+   "location": "United Kingdom, London",
+   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Engagement-Manager---Sana--London-_JR-0110504",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-07",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 22,
+   "hits": [
+    "implementation",
+    "change management",
+    "engagement manager"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true,
+   "stale": true
   },
   {
    "id": "64b9742c14e797",
@@ -34503,30 +34667,6 @@
    "baseline": true
   },
   {
-   "id": "d54755264d7c61",
-   "company": "BCG",
-   "region": "UK",
-   "title": "Events Technology Manager",
-   "location": "London, United Kingdom / Munich, Germany / Lisbon, Portugal",
-   "url": "https://careers.bcg.com/global/en/job/57791/Events-Technology-Manager",
-   "posted": "2026-04-14T00:00:00.000+0000",
-   "posted_date": "2026-04-14",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 20,
-   "hits": [
-    "strategy",
-    "operations",
-    "consulting",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "253cd894d57976",
    "company": "BCG",
    "region": "UK",
@@ -34567,6 +34707,30 @@
     "consultant",
     "consulting",
     "implementation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "d54755264d7c61",
+   "company": "BCG",
+   "region": "UK",
+   "title": "Events Technology Manager",
+   "location": "London, United Kingdom / Munich, Germany / Lisbon, Portugal",
+   "url": "https://careers.bcg.com/global/en/job/57791/Events-Technology-Manager",
+   "posted": "2026-04-14T00:00:00.000+0000",
+   "posted_date": "2026-04-14",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 20,
+   "hits": [
+    "strategy",
+    "operations",
+    "consulting",
+    "transformation"
    ],
    "lang": null,
    "visa": null,
@@ -34736,52 +34900,6 @@
    "baseline": true
   },
   {
-   "id": "6f036f394cb95a",
-   "company": "Workday",
-   "region": "UK",
-   "title": "Principal Managing Partner - UKI",
-   "location": "United Kingdom, London",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Principal-Managing-Partner---Financial-Software_JR-0107017",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-10-13",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 20,
-   "hits": [
-    "strategy",
-    "consulting",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
-   "id": "da81eed49cce3e",
-   "company": "Workday",
-   "region": "UK",
-   "title": "Principal Managing Partner - Public Sector",
-   "location": "United Kingdom, London",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Principal-Managing-Partner---UKI_JR-0102298",
-   "posted": "30+ Days Ago",
-   "posted_date": "2026-09-13",
-   "posted_approx": true,
-   "first_seen": "2026-10-13",
-   "score": 20,
-   "hits": [
-    "strategy",
-    "consulting",
-    "transformation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "338bbb079d4f97",
    "company": "Adyen",
    "region": "NL",
@@ -34874,6 +34992,54 @@
    "details": true,
    "lang_checked": true,
    "baseline": true
+  },
+  {
+   "id": "6f036f394cb95a",
+   "company": "Workday",
+   "region": "UK",
+   "title": "Principal Managing Partner - UKI",
+   "location": "United Kingdom, London",
+   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Principal-Managing-Partner---Financial-Software_JR-0107017",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-10-13",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 20,
+   "hits": [
+    "strategy",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": false,
+   "stale": true
+  },
+  {
+   "id": "da81eed49cce3e",
+   "company": "Workday",
+   "region": "UK",
+   "title": "Principal Managing Partner - Public Sector",
+   "location": "United Kingdom, London",
+   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Principal-Managing-Partner---UKI_JR-0102298",
+   "posted": "30+ Days Ago",
+   "posted_date": "2026-09-13",
+   "posted_approx": true,
+   "first_seen": "2026-10-13",
+   "score": 20,
+   "hits": [
+    "strategy",
+    "consulting",
+    "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true,
+   "stale": true
   },
   {
    "id": "e27e77b0e03d52",
@@ -36224,28 +36390,6 @@
    "baseline": true
   },
   {
-   "id": "369a05bde5af83",
-   "company": "Siemens Healthineers",
-   "region": "UK",
-   "title": "Quality Release Officer (FTC)",
-   "location": "Llanberis, Caernarfon, UK / United Kingdom",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100709/Quality-Release-Officer-FTC",
-   "posted": "2026-10-07T13:52:57.422+0000",
-   "posted_date": "2026-10-07",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 18,
-   "hits": [
-    "healthcare",
-    "change management"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
    "id": "d4fea8cc8f4c65",
    "company": "Siemens Healthineers",
    "region": "UK",
@@ -36261,6 +36405,28 @@
     "healthcare",
     "operations",
     "transformation"
+   ],
+   "lang": null,
+   "visa": null,
+   "details": true,
+   "lang_checked": true,
+   "baseline": true
+  },
+  {
+   "id": "369a05bde5af83",
+   "company": "Siemens Healthineers",
+   "region": "UK",
+   "title": "Quality Release Officer (FTC)",
+   "location": "Llanberis, Caernarfon, UK / United Kingdom",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100709/Quality-Release-Officer-FTC",
+   "posted": "2026-10-07T13:52:57.422+0000",
+   "posted_date": "2026-10-07",
+   "posted_approx": false,
+   "first_seen": "2026-10-13",
+   "score": 18,
+   "hits": [
+    "healthcare",
+    "change management"
    ],
    "lang": null,
    "visa": null,
@@ -38389,14 +38555,14 @@
    "baseline": true
   },
   {
-   "id": "fd8eb7ba61087f",
+   "id": "60e28090898078",
    "company": "BCG",
    "region": "UK",
-   "title": "Global Product Senior Manager - Risk-InfoEx",
+   "title": "Global Paid Social Media Manager",
    "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/59188/Global-Product-Senior-Manager-Risk-InfoEx",
-   "posted": "2026-08-24T00:00:00.000+0000",
-   "posted_date": "2026-08-24",
+   "url": "https://careers.bcg.com/global/en/job/59296/Global-Paid-Social-Media-Manager",
+   "posted": "2026-09-01T00:00:00.000+0000",
+   "posted_date": "2026-09-01",
    "posted_approx": false,
    "first_seen": "2026-10-13",
    "score": 12,
@@ -38412,14 +38578,14 @@
    "baseline": true
   },
   {
-   "id": "60e28090898078",
+   "id": "fd8eb7ba61087f",
    "company": "BCG",
    "region": "UK",
-   "title": "Global Paid Social Media Manager",
+   "title": "Global Product Senior Manager - Risk-InfoEx",
    "location": "London, United Kingdom",
-   "url": "https://careers.bcg.com/global/en/job/59296/Global-Paid-Social-Media-Manager",
-   "posted": "2026-09-01T00:00:00.000+0000",
-   "posted_date": "2026-09-01",
+   "url": "https://careers.bcg.com/global/en/job/59188/Global-Product-Senior-Manager-Risk-InfoEx",
+   "posted": "2026-08-24T00:00:00.000+0000",
+   "posted_date": "2026-08-24",
    "posted_approx": false,
    "first_seen": "2026-10-13",
    "score": 12,
@@ -39057,7 +39223,8 @@
    "visa": null,
    "details": true,
    "lang_checked": true,
-   "baseline": true
+   "baseline": true,
+   "stale": true
   },
   {
    "id": "544950350d700d",
@@ -39209,27 +39376,6 @@
    "hits": [
     "strategy",
     "implementation"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": true
-  },
-  {
-   "id": "b317c070d69996",
-   "company": "Publicis",
-   "region": "UK",
-   "title": "Retail Media Manager",
-   "location": "London, United Kingdom / 2 Television Centre",
-   "url": "https://careers.publicisgroupe.com/jobs/150577?lang=en-us",
-   "posted": "2026-09-16T14:40:00+0000",
-   "posted_date": "2026-09-16",
-   "posted_approx": false,
-   "first_seen": "2026-10-13",
-   "score": 10,
-   "hits": [
-    "strategy"
    ],
    "lang": null,
    "visa": null,
@@ -42291,30 +42437,6 @@
    "baseline": false
   },
   {
-   "id": "38d98f63f0f94e",
-   "company": "Stripe",
-   "region": "UK",
-   "title": "Program Manager, Professional Services",
-   "location": "Dublin, London / Ireland Locations",
-   "url": "https://stripe.com/jobs/search?gh_jid=8007692",
-   "posted": "2026-08-20T04:29:45-04:00",
-   "posted_date": "2026-08-20",
-   "posted_approx": false,
-   "first_seen": "2026-09-29",
-   "score": 30,
-   "hits": [
-    "strategy",
-    "operations",
-    "consulting",
-    "program manager"
-   ],
-   "lang": null,
-   "visa": null,
-   "details": true,
-   "lang_checked": true,
-   "baseline": false
-  },
-  {
    "id": "39f69ad1036399",
    "company": "IQVIA",
    "region": "UK",
@@ -44158,14 +44280,14 @@
    "baseline": false
   },
   {
-   "id": "e6a2d181965e1e",
+   "id": "81c39b525e545a",
    "company": "Intercom",
    "region": "UK",
    "title": "Staff AI Product Manager",
    "location": "Dublin, Ireland Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/intercom/jobs/7464291",
-   "posted": "2025-12-12T04:36:29-05:00",
-   "posted_date": "2025-12-12",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/7377200",
+   "posted": "2025-11-20T08:26:34-05:00",
+   "posted_date": "2025-11-20",
    "posted_approx": false,
    "first_seen": "2026-09-27",
    "score": 20,
@@ -44182,14 +44304,14 @@
    "baseline": false
   },
   {
-   "id": "81c39b525e545a",
+   "id": "e6a2d181965e1e",
    "company": "Intercom",
    "region": "UK",
    "title": "Staff AI Product Manager",
    "location": "Dublin, Ireland Dublin, Ireland / London, England London, Greater London, England, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/intercom/jobs/7377200",
-   "posted": "2025-11-20T08:26:34-05:00",
-   "posted_date": "2025-11-20",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/7464291",
+   "posted": "2025-12-12T04:36:29-05:00",
+   "posted_date": "2025-12-12",
    "posted_approx": false,
    "first_seen": "2026-09-27",
    "score": 20,
@@ -45099,13 +45221,13 @@
    "baseline": false
   },
   {
-   "id": "5c9923fc2a4c97",
+   "id": "94cb7bc472850f",
    "company": "SumUp",
    "region": "UK",
    "title": "Workday Specialist",
    "location": "Barcelona Barcelona, Barcelona, Spain / Berlin Berlin, Germany / London London, England, United Kingdom / Mexico - Remote Mexico City, Mexico City, Mexico / War",
-   "url": "https://sumup.com/careers/positions/8547633002?gh_jid=8547633002",
-   "posted": "2026-05-13T10:38:36-04:00",
+   "url": "https://sumup.com/careers/positions/8547634002?gh_jid=8547634002",
+   "posted": "2026-05-13T10:39:15-04:00",
    "posted_date": "2026-05-13",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -45121,13 +45243,13 @@
    "baseline": false
   },
   {
-   "id": "94cb7bc472850f",
+   "id": "5c9923fc2a4c97",
    "company": "SumUp",
    "region": "UK",
    "title": "Workday Specialist",
    "location": "Barcelona Barcelona, Barcelona, Spain / Berlin Berlin, Germany / London London, England, United Kingdom / Mexico - Remote Mexico City, Mexico City, Mexico / War",
-   "url": "https://sumup.com/careers/positions/8547634002?gh_jid=8547634002",
-   "posted": "2026-05-13T10:39:15-04:00",
+   "url": "https://sumup.com/careers/positions/8547633002?gh_jid=8547633002",
+   "posted": "2026-05-13T10:38:36-04:00",
    "posted_date": "2026-05-13",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -45599,14 +45721,14 @@
    "baseline": false
   },
   {
-   "id": "a8be7cd2eb02f7",
+   "id": "cc79a4f82bba3e",
    "company": "Datadog",
    "region": "UK",
    "title": "Principal GSI Partner Manager - Accenture (EMEA)",
-   "location": "London, United Kingdom / Amsterdam Amsterdam, Noord-Holland, Netherlands / London London, Greater London, England, United Kingdom / Paris Paris, Paris, France /",
-   "url": "https://careers.datadoghq.com/detail/8219989/?gh_jid=8219989",
-   "posted": "2026-09-21T04:54:47-04:00",
-   "posted_date": "2026-09-21",
+   "location": "United Kingdom, Remote / Amsterdam Amsterdam, Noord-Holland, Netherlands / London London, Greater London, England, United Kingdom / Paris Paris, Paris, France /",
+   "url": "https://careers.datadoghq.com/detail/8203733/?gh_jid=8203733",
+   "posted": "2026-09-18T05:55:33-04:00",
+   "posted_date": "2026-09-18",
    "posted_approx": false,
    "first_seen": "2026-09-27",
    "score": 2,
@@ -45618,14 +45740,14 @@
    "baseline": false
   },
   {
-   "id": "cc79a4f82bba3e",
+   "id": "a8be7cd2eb02f7",
    "company": "Datadog",
    "region": "UK",
    "title": "Principal GSI Partner Manager - Accenture (EMEA)",
-   "location": "United Kingdom, Remote / Amsterdam Amsterdam, Noord-Holland, Netherlands / London London, Greater London, England, United Kingdom / Paris Paris, Paris, France /",
-   "url": "https://careers.datadoghq.com/detail/8203733/?gh_jid=8203733",
-   "posted": "2026-09-18T05:55:33-04:00",
-   "posted_date": "2026-09-18",
+   "location": "London, United Kingdom / Amsterdam Amsterdam, Noord-Holland, Netherlands / London London, Greater London, England, United Kingdom / Paris Paris, Paris, France /",
+   "url": "https://careers.datadoghq.com/detail/8219989/?gh_jid=8219989",
+   "posted": "2026-09-21T04:54:47-04:00",
+   "posted_date": "2026-09-21",
    "posted_approx": false,
    "first_seen": "2026-09-27",
    "score": 2,
@@ -45656,13 +45778,13 @@
    "baseline": false
   },
   {
-   "id": "ceeaa0cf8c6de2",
+   "id": "5436cb72ceda73",
    "company": "Datadog",
    "region": "UK",
    "title": "Senior Partner Manager - Channels (Security)",
-   "location": "Sydney, Australia / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
-   "url": "https://careers.datadoghq.com/detail/8166231/?gh_jid=8166231",
-   "posted": "2026-09-04T06:56:39-04:00",
+   "location": "Singapore, Singapore / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
+   "url": "https://careers.datadoghq.com/detail/8164588/?gh_jid=8164588",
+   "posted": "2026-09-04T06:56:37-04:00",
    "posted_date": "2026-09-04",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -45675,13 +45797,13 @@
    "baseline": false
   },
   {
-   "id": "5436cb72ceda73",
+   "id": "ceeaa0cf8c6de2",
    "company": "Datadog",
    "region": "UK",
    "title": "Senior Partner Manager - Channels (Security)",
-   "location": "Singapore, Singapore / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
-   "url": "https://careers.datadoghq.com/detail/8164588/?gh_jid=8164588",
-   "posted": "2026-09-04T06:56:37-04:00",
+   "location": "Sydney, Australia / Singapore Singapore, North West, Singapore / Sydney Sydney, New South Wales, Australia",
+   "url": "https://careers.datadoghq.com/detail/8166231/?gh_jid=8166231",
+   "posted": "2026-09-04T06:56:39-04:00",
    "posted_date": "2026-09-04",
    "posted_approx": false,
    "first_seen": "2026-09-27",
@@ -46006,6 +46128,13 @@
    "alert": false
   },
   {
+   "company": "Fractal Analytics",
+   "region": "UK",
+   "url": "https://fractal.wd1.myworkdayjobs.com/Careers",
+   "kind": "feed_error",
+   "alert": false
+  },
+  {
    "company": "KPMG",
    "region": "UK",
    "url": "https://kpmg.com/uk/en/careers.html",
@@ -46181,6 +46310,13 @@
    "url": "https://retool.com/careers",
    "kind": "link",
    "note": "",
+   "alert": false
+  },
+  {
+   "company": "Workday",
+   "region": "UK",
+   "url": "https://workday.wd5.myworkdayjobs.com/Workday",
+   "kind": "feed_error",
    "alert": false
   },
   {
@@ -46373,6 +46509,13 @@
    "company": "Philips",
    "region": "NL",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
+   "kind": "feed_error",
+   "alert": false
+  },
+  {
+   "company": "Roche NL",
+   "region": "NL",
+   "url": "https://roche.wd3.myworkdayjobs.com/roche-ext",
    "kind": "feed_error",
    "alert": false
   },
@@ -46687,6 +46830,16 @@
   },
   {
    "companies": [
+    "Fractal Analytics"
+   ],
+   "source": "workday",
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://fractal.wd1.myworkdayjobs.com/wday/cxs/fractal/Careers/jobs",
+   "total": 0,
+   "in_region": 0,
+   "kept": 0
+  },
+  {
+   "companies": [
     "GE HealthCare Middle East"
    ],
    "source": "workday",
@@ -46825,6 +46978,16 @@
   },
   {
    "companies": [
+    "Roche NL"
+   ],
+   "source": "workday",
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://roche.wd3.myworkdayjobs.com/wday/cxs/roche/roche-ext/jobs",
+   "total": 0,
+   "in_region": 0,
+   "kept": 0
+  },
+  {
+   "companies": [
     "Salesforce"
    ],
    "source": "workday",
@@ -46865,6 +47028,16 @@
   },
   {
    "companies": [
+    "Workday"
+   ],
+   "source": "workday",
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs",
+   "total": 0,
+   "in_region": 0,
+   "kept": 0
+  },
+  {
+   "companies": [
     "Zendesk"
    ],
    "source": "workday",
@@ -46890,7 +47063,7 @@
    "source": "greenhouse",
    "error": null,
    "total": 242,
-   "in_region": 76,
+   "in_region": 75,
    "kept": 25
   },
   {
@@ -46911,9 +47084,9 @@
    ],
    "source": "amazon",
    "error": null,
-   "total": 774,
-   "in_region": 774,
-   "kept": 277
+   "total": 777,
+   "in_region": 777,
+   "kept": 278
   },
   {
    "companies": [
@@ -46922,7 +47095,7 @@
    "source": "greenhouse",
    "error": null,
    "total": 635,
-   "in_region": 62,
+   "in_region": 61,
    "kept": 22
   },
   {
@@ -46931,7 +47104,7 @@
    ],
    "source": "atlassian",
    "error": null,
-   "total": 224,
+   "total": 223,
    "in_region": 50,
    "kept": 13
   },
@@ -47002,7 +47175,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 55,
+   "total": 54,
    "in_region": 0,
    "kept": 0
   },
@@ -47134,7 +47307,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 875,
+   "total": 873,
    "in_region": 96,
    "kept": 9
   },
@@ -47144,8 +47317,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 387,
-   "in_region": 34,
+   "total": 392,
+   "in_region": 33,
    "kept": 11
   },
   {
@@ -47154,8 +47327,8 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 192,
-   "in_region": 132,
+   "total": 193,
+   "in_region": 133,
    "kept": 39
   },
   {
@@ -47197,8 +47370,8 @@
    ],
    "source": "rmk_html",
    "error": null,
-   "total": 1430,
-   "in_region": 1430,
+   "total": 1422,
+   "in_region": 1422,
    "kept": 134
   },
   {
@@ -47237,7 +47410,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 145,
+   "total": 142,
    "in_region": 18,
    "kept": 4
   },
@@ -47248,19 +47421,9 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 26,
-   "in_region": 20,
-   "kept": 4
-  },
-  {
-   "companies": [
-    "Fractal Analytics"
-   ],
-   "source": "workday",
-   "error": null,
-   "total": 3,
-   "in_region": 3,
-   "kept": 1
+   "total": 27,
+   "in_region": 21,
+   "kept": 5
   },
   {
    "companies": [
@@ -47278,9 +47441,9 @@
    ],
    "source": "yext_hca",
    "error": null,
-   "total": 31,
-   "in_region": 31,
-   "kept": 27
+   "total": 30,
+   "in_region": 30,
+   "kept": 26
   },
   {
    "companies": [
@@ -47338,9 +47501,9 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 126,
-   "in_region": 45,
-   "kept": 10
+   "total": 132,
+   "in_region": 49,
+   "kept": 14
   },
   {
    "companies": [
@@ -47378,8 +47541,8 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 67,
-   "in_region": 63,
+   "total": 66,
+   "in_region": 62,
    "kept": 27
   },
   {
@@ -47408,8 +47571,8 @@
    ],
    "source": "jibe",
    "error": null,
-   "total": 90,
-   "in_region": 90,
+   "total": 91,
+   "in_region": 91,
    "kept": 31
   },
   {
@@ -47449,9 +47612,9 @@
    ],
    "source": "pcsx",
    "error": null,
-   "total": 86,
-   "in_region": 82,
-   "kept": 30
+   "total": 85,
+   "in_region": 81,
+   "kept": 31
   },
   {
    "companies": [
@@ -47469,8 +47632,8 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 48,
-   "in_region": 20,
+   "total": 46,
+   "in_region": 18,
    "kept": 4
   },
   {
@@ -47479,9 +47642,9 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 53,
-   "in_region": 44,
-   "kept": 7
+   "total": 54,
+   "in_region": 45,
+   "kept": 8
   },
   {
    "companies": [
@@ -47519,7 +47682,7 @@
    ],
    "source": "eightfold",
    "error": null,
-   "total": 441,
+   "total": 444,
    "in_region": 7,
    "kept": 5
   },
@@ -47651,9 +47814,9 @@
    ],
    "source": "jibe",
    "error": null,
-   "total": 3305,
+   "total": 3303,
    "in_region": 300,
-   "kept": 116
+   "kept": 114
   },
   {
    "companies": [
@@ -47661,19 +47824,9 @@
    ],
    "source": "ashby",
    "error": null,
-   "total": 55,
-   "in_region": 21,
-   "kept": 3
-  },
-  {
-   "companies": [
-    "Roche NL"
-   ],
-   "source": "workday",
-   "error": null,
-   "total": 4,
-   "in_region": 4,
-   "kept": 3
+   "total": 58,
+   "in_region": 23,
+   "kept": 5
   },
   {
    "companies": [
@@ -47702,7 +47855,7 @@
    ],
    "source": "smartrecruiters",
    "error": null,
-   "total": 973,
+   "total": 972,
    "in_region": 56,
    "kept": 17
   },
@@ -47765,8 +47918,8 @@
    ],
    "source": "workable",
    "error": null,
-   "total": 49,
-   "in_region": 47,
+   "total": 50,
+   "in_region": 48,
    "kept": 12
   },
   {
@@ -47785,9 +47938,9 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 771,
-   "in_region": 64,
-   "kept": 20
+   "total": 772,
+   "in_region": 65,
+   "kept": 19
   },
   {
    "companies": [
@@ -47795,7 +47948,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 322,
+   "total": 320,
    "in_region": 95,
    "kept": 7
   },
@@ -47875,7 +48028,7 @@
    ],
    "source": "greenhouse",
    "error": null,
-   "total": 352,
+   "total": 350,
    "in_region": 19,
    "kept": 3
   },
@@ -47906,8 +48059,8 @@
    "source": "sf_rmk",
    "error": null,
    "total": 400,
-   "in_region": 40,
-   "kept": 20
+   "in_region": 38,
+   "kept": 19
   },
   {
    "companies": [
@@ -47916,19 +48069,9 @@
    "source": "page",
    "error": null,
    "total": 12,
-   "in_region": 5,
+   "in_region": 7,
    "kept": 2,
    "method": "structured data on job pages"
-  },
-  {
-   "companies": [
-    "Workday"
-   ],
-   "source": "workday",
-   "error": null,
-   "total": 13,
-   "in_region": 13,
-   "kept": 7
   },
   {
    "companies": [
@@ -47946,7 +48089,7 @@
    ],
    "source": "jibe",
    "error": null,
-   "total": 280,
+   "total": 281,
    "in_region": 5,
    "kept": 3
   },
@@ -47974,8 +48117,8 @@
  "counts": {
   "companies": 215,
   "feeds": 126,
-  "jobs": 2001,
-  "new_today": 25,
+  "jobs": 2006,
+  "new_today": 10,
   "pages": 5
  },
  "coverage": {
