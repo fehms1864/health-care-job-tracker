@@ -2,14 +2,13 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "5c5e608031b40f35904a8755fa3e48e918f7e353",
+  "hash": "376065a371df66f6d8de4e4401570528f6de7b05",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Junior-Delivery-Manager-Defence-and-Security/25120": "Agile Junior Delivery Manager, Defence and Security",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-and-Data-Architect-Strategy-Governance-Architecture-AI-Data/24375": "AI and Data Architect, Strategy, Governance & Architecture, AI & Data",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Application-Architect-Senior-Manager-AI-and-Cloud-Engineering/25331": "AI Application Architect, Senior Manager, AI and Cloud Engineering",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Engineer-Forensic-and-Financial-Crime-Technology-Advisory-and-Data-Analytics/25246": "AI Engineer, Forensic and Financial Crime Technology Advisory and Data Analytics",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/AI-Governance-Lead-Manager-Financial-Services/24374": "AI Governance Lead, Manager, Financial Services",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Architect-Manager-Senior-Manager-Commerce-Deloitte-Digital/24737": "Architect, Manager, Senior Manager, Commerce, Deloitte Digital",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Architect-Senior-Manager-Insurance-Deloitte-Digital/24385": "Architect, Senior Manager, Insurance, Deloitte Digital",
@@ -22,50 +21,47 @@
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-M-A/24358": "Assistant Director, Financial Due Diligence - Financial Services, M&A",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Financial-Services-Manchester/25282": "Assistant Director, Financial Due Diligence, Financial Services, Manchester",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Private-Equity-TMT-Tech/25721": "Assistant Director, Financial Due Diligence, Private Equity, TMT Tech",
-   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Private-Equity-TMT-Tech/25545": "Assistant Director, Financial Due Diligence, Private Equity, TMT, Tech"
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Financial-Due-Diligence-Private-Equity-TMT-Tech/25545": "Assistant Director, Financial Due Diligence, Private Equity, TMT, Tech",
+   "https://apply.deloitte.co.uk/UKCareers/JobDetail/Assistant-Director-Government-and-Public-Sector-Occupiers-and-Capital-Projects/22155": "Assistant Director, Government and Public Sector Occupiers and Capital Projects"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-25T21:58:52+00:00",
+  "checked": "2026-11-26T15:24:09+00:00",
   "error": null,
-  "changed_on": "2026-11-25",
+  "changed_on": "2026-11-26",
   "new_links": {},
   "new_on": "2026-11-05"
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "b7a123211dd1e326ebc81478d86d74e5285c113e",
+  "hash": "236bf59dcfda2b14cfb244ac18437c8a5e61e11c",
   "postings": {
-   "https://wise.jobs/job/internal-audit-senior-specialist-in-austin-jid-3586": "Internal Audit Senior Specialist",
-   "https://wise.jobs/job/head-of-business-marketing-north-america-in-austin-jid-4582": "Head of Business Marketing North America",
-   "https://wise.jobs/job/senior-software-engineer-ii-data-onboarding-and-reporting-in-london-jid-3904": "Senior Software Engineer II - Data Onboarding & Reporting",
-   "https://wise.jobs/job/senior-content-designer-spend-in-london-jid-3874": "Senior Content Designer - Spend",
-   "https://wise.jobs/job/group-regulatory-affairs-lead-in-london-jid-4040": "Group Regulatory Affairs Lead",
-   "https://wise.jobs/job/principal-content-designer-fincrime-aup-in-london-jid-4581": "Principal Content Designer, Fincrime - AUP",
-   "https://wise.jobs/job/payment-operations-global-processing-function-lead-in-sao-paulo-jid-4335": "Payment Operations Global Processing Function Lead",
-   "https://wise.jobs/job/enterprise-pricing-manager-emea-in-london-jid-4312": "Enterprise Pricing Manager (EMEA)",
-   "https://wise.jobs/job/senior-backend-engineer-ii-send-experience-in-london-jid-4580": "Senior Backend Engineer II - Send Experience",
-   "https://wise.jobs/job/senior-product-manager-payment-integrations-in-london-jid-4549": "Senior Product Manager – Payment integrations",
-   "https://wise.jobs/job/people-operations-junior-specialist-18-month-contract-in-tallinn-jid-4557": "People Operations Junior Specialist (18-month contract)",
-   "https://wise.jobs/job/fincrime-reporting-specialist-in-hyderabad-jid-4514": "FinCrime Reporting Specialist"
+   "https://wise.jobs/job/senior-product-designer-scalable-growth-in-london-jid-4523": "Senior Product Designer - Scalable Growth",
+   "https://wise.jobs/job/compliance-senior-specialist-fincrime-operations-spanish-speaking-in-tallinn-jid-4585": "Compliance Senior Specialist - FinCrime Operations (Spanish Speaking)",
+   "https://wise.jobs/job/group-controlling-director-in-london-jid-4584": "Group Controlling Director",
+   "https://wise.jobs/job/senior-software-engineer-cards-api-team-in-singapore-jid-3988": "Senior Software Engineer - Cards API team",
+   "https://wise.jobs/job/director-of-risk-analytics-in-london-jid-4083": "Director of Risk Analytics",
+   "https://wise.jobs/job/regional-risk-lead-emea-12-months-maternity-cover-in-london-jid-4254": "Regional Risk Lead - EMEA - 12 months Maternity Cover",
+   "https://wise.jobs/job/senior-network-automation-engineer-in-hyderabad-jid-3996": "Senior Network Automation Engineer",
+   "https://wise.jobs/job/senior-product-compliance-manager-india-in-singapore-jid-4583": "Senior Product Compliance Manager - India",
+   "https://wise.jobs/job/people-operations-specialist-in-singapore-jid-4419": "People Operations Specialist",
+   "https://wise.jobs/job/senior-software-engineer-apac-expansion-in-singapore-jid-4478": "Senior Software Engineer - APAC Expansion",
+   "https://wise.jobs/job/erp-engineer-mc-business-central-in-tallinn-jid-3789": "ERP Engineer - MC Business central",
+   "https://wise.jobs/job/fincrime-operations-senior-lead-aml-investigations-in-kuala-lumpur-jid-4285": "FinCrime Operations Senior Lead - AML Investigations"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-25T21:58:52+00:00",
+  "checked": "2026-11-26T15:24:09+00:00",
   "error": null,
-  "changed_on": "2026-11-25",
+  "changed_on": "2026-11-26",
   "new_links": {
-   "https://wise.jobs/job/group-regulatory-affairs-lead-in-london-jid-4040": "Group Regulatory Affairs Lead",
-   "https://wise.jobs/job/payment-operations-global-processing-function-lead-in-sao-paulo-jid-4335": "Payment Operations Global Processing Function Lead",
-   "https://wise.jobs/job/senior-product-manager-payment-integrations-in-london-jid-4549": "Senior Product Manager – Payment integrations",
-   "https://wise.jobs/job/people-operations-junior-specialist-18-month-contract-in-tallinn-jid-4557": "People Operations Junior Specialist (18-month contract)",
-   "https://wise.jobs/job/fincrime-reporting-specialist-in-hyderabad-jid-4514": "FinCrime Reporting Specialist",
-   "https://wise.jobs/job/high-volume-total-service-support-specialist-in-singapore-jid-4578": "High Volume (Total Service) Support Specialist",
-   "https://wise.jobs/job/people-operations-associate-in-hyderabad-jid-4576": "People Operations Associate",
-   "https://wise.jobs/job/senior-im-in-austin-jid-4542": "Senior IM"
+   "https://wise.jobs/job/compliance-senior-specialist-fincrime-operations-spanish-speaking-in-tallinn-jid-4585": "Compliance Senior Specialist - FinCrime Operations (Spanish Speaking)",
+   "https://wise.jobs/job/regional-risk-lead-emea-12-months-maternity-cover-in-london-jid-4254": "Regional Risk Lead - EMEA - 12 months Maternity Cover",
+   "https://wise.jobs/job/senior-product-compliance-manager-india-in-singapore-jid-4583": "Senior Product Compliance Manager - India",
+   "https://wise.jobs/job/people-operations-specialist-in-singapore-jid-4419": "People Operations Specialist"
   },
-  "new_on": "2026-11-25"
+  "new_on": "2026-11-26"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
@@ -91,7 +87,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-25T21:58:52+00:00",
+  "checked": "2026-11-26T15:24:09+00:00",
   "error": null,
   "changed_on": "2026-11-24",
   "new_links": {},
@@ -100,44 +96,47 @@
  "https://careers.shezlong.com/": {
   "company": "Shezlong",
   "region": "ME",
-  "hash": "12ece2e9e2bc670a4f9665b2a97c4a0aceb9bc4e",
+  "hash": "2a6b7e991c7d2b2dc0a6baea396c76579f4fd993",
   "postings": {
-   "https://careers.shezlong.com/vacancy/41f94ee7-8b98-4748-ab40-e920172a99f8": "View Details",
+   "https://careers.shezlong.com/vacancy/2b02037a-6b61-4078-9614-79663e72b272": "View Details",
+   "https://careers.shezlong.com/vacancy/191849e4-dca7-4be5-8281-be4231226a89": "View Details",
    "https://careers.shezlong.com/vacancy/375769ac-095f-46b8-ae0b-b05ef924eb05": "View Details"
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-25T21:58:52+00:00",
+  "checked": "2026-11-26T15:24:09+00:00",
   "error": null,
-  "changed_on": "2026-10-13",
-  "new_links": {},
-  "new_on": "2026-10-13"
+  "changed_on": "2026-11-26",
+  "new_links": {
+   "https://careers.shezlong.com/vacancy/2b02037a-6b61-4078-9614-79663e72b272": "View Details",
+   "https://careers.shezlong.com/vacancy/191849e4-dca7-4be5-8281-be4231226a89": "View Details"
+  },
+  "new_on": "2026-11-26"
  },
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "2db195a5e9bc26f76b65cf414fe67f6797d02031",
+  "hash": "afa1754af97e36a196fc9e20ff648360b4005b6c",
   "postings": {
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-pricing-intelligence-quality-assurance-1100092893/": "Senior Executive Manager - Pricing Intelligence & Quality Assurance",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-fwa-ai-engineer-1100088889/": "Manager - FWA AI Engineer",
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/medical-specialist-physiotherapy-home-healthcare-1100092635/": "View Job Details",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-pre-authorization-pipeline-1100067272/": "Manager - Pre Authorization (Pipeline)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/tamheer-coop-actuarial-1100091491/": "Tamheer/Coop - Actuarial",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/assistant-specialist-physiotherapy-home-healthcare-1100092834/": "View Job Details",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/registrar-ent-otolaryngology-1100085198/": "Registrar – ENT (Otolaryngology)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/professional-onboarding-engagement-pipeline-1100092677/": "Professional - Onboarding Engagement (Pipeline)",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-registrar-internal-medicine-1100063734/": "Senior Registrar – Internal Medicine",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-medical-claims-operations-pipeline-1100092663/": "Manager - Medical Claims Operations (Pipeline)",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-clinical-excellence-1100092634/": "Manager - Clinical Excellence",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-pr-contract-management-1100089040/": "Senior Executive Manager - PR Contract Management",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-operational-transformation-1100091836/": "Manager - Operational Transformation"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-medical-claims-operations-pipeline-1100092663/": "Manager - Medical Claims Operations (Pipeline)"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-25T21:58:52+00:00",
+  "checked": "2026-11-26T15:24:09+00:00",
   "error": null,
-  "changed_on": "2026-11-25",
+  "changed_on": "2026-11-26",
   "new_links": {
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-pre-authorization-pipeline-1100067272/": "Manager - Pre Authorization (Pipeline)",
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/assistant-specialist-physiotherapy-home-healthcare-1100092834/": "View Job Details"
+   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/medical-specialist-physiotherapy-home-healthcare-1100092635/": "View Job Details"
   },
-  "new_on": "2026-11-25"
+  "new_on": "2026-11-26"
  }
 }
