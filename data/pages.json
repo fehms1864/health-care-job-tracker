@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "376065a371df66f6d8de4e4401570528f6de7b05",
+  "hash": "a58756422e7d1eeab8064573e631de54b726ca22",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -26,7 +26,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-26T15:24:09+00:00",
+  "checked": "2026-11-26T21:55:55+00:00",
   "error": null,
   "changed_on": "2026-11-26",
   "new_links": {},
@@ -35,8 +35,10 @@
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "236bf59dcfda2b14cfb244ac18437c8a5e61e11c",
+  "hash": "10a609081093eda9e606eddb3b46444b494a9cac",
   "postings": {
+   "https://wise.jobs/job/customer-support-specialist-spanish-speaker-5-am-shift-in-sao-paulo-jid-4545": "Customer Support Specialist (Spanish Speaker - 5 am shift)",
+   "https://wise.jobs/job/customer-support-specialist-spanish-speaker-nightime-1-am-shift-in-sao-paulo-jid-4544": "Customer Support Specialist (Spanish Speaker - Nightime - 1 am shift)",
    "https://wise.jobs/job/senior-product-designer-scalable-growth-in-london-jid-4523": "Senior Product Designer - Scalable Growth",
    "https://wise.jobs/job/compliance-senior-specialist-fincrime-operations-spanish-speaking-in-tallinn-jid-4585": "Compliance Senior Specialist - FinCrime Operations (Spanish Speaking)",
    "https://wise.jobs/job/group-controlling-director-in-london-jid-4584": "Group Controlling Director",
@@ -46,20 +48,16 @@
    "https://wise.jobs/job/senior-network-automation-engineer-in-hyderabad-jid-3996": "Senior Network Automation Engineer",
    "https://wise.jobs/job/senior-product-compliance-manager-india-in-singapore-jid-4583": "Senior Product Compliance Manager - India",
    "https://wise.jobs/job/people-operations-specialist-in-singapore-jid-4419": "People Operations Specialist",
-   "https://wise.jobs/job/senior-software-engineer-apac-expansion-in-singapore-jid-4478": "Senior Software Engineer - APAC Expansion",
-   "https://wise.jobs/job/erp-engineer-mc-business-central-in-tallinn-jid-3789": "ERP Engineer - MC Business central",
-   "https://wise.jobs/job/fincrime-operations-senior-lead-aml-investigations-in-kuala-lumpur-jid-4285": "FinCrime Operations Senior Lead - AML Investigations"
+   "https://wise.jobs/job/senior-software-engineer-apac-expansion-in-singapore-jid-4478": "Senior Software Engineer - APAC Expansion"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-26T15:24:09+00:00",
+  "checked": "2026-11-26T21:55:55+00:00",
   "error": null,
   "changed_on": "2026-11-26",
   "new_links": {
-   "https://wise.jobs/job/compliance-senior-specialist-fincrime-operations-spanish-speaking-in-tallinn-jid-4585": "Compliance Senior Specialist - FinCrime Operations (Spanish Speaking)",
-   "https://wise.jobs/job/regional-risk-lead-emea-12-months-maternity-cover-in-london-jid-4254": "Regional Risk Lead - EMEA - 12 months Maternity Cover",
-   "https://wise.jobs/job/senior-product-compliance-manager-india-in-singapore-jid-4583": "Senior Product Compliance Manager - India",
-   "https://wise.jobs/job/people-operations-specialist-in-singapore-jid-4419": "People Operations Specialist"
+   "https://wise.jobs/job/customer-support-specialist-spanish-speaker-5-am-shift-in-sao-paulo-jid-4545": "Customer Support Specialist (Spanish Speaker - 5 am shift)",
+   "https://wise.jobs/job/customer-support-specialist-spanish-speaker-nightime-1-am-shift-in-sao-paulo-jid-4544": "Customer Support Specialist (Spanish Speaker - Nightime - 1 am shift)"
   },
   "new_on": "2026-11-26"
  },
@@ -87,7 +85,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-26T15:24:09+00:00",
+  "checked": "2026-11-26T21:55:55+00:00",
   "error": null,
   "changed_on": "2026-11-24",
   "new_links": {},
@@ -104,7 +102,7 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-26T15:24:09+00:00",
+  "checked": "2026-11-26T21:55:55+00:00",
   "error": null,
   "changed_on": "2026-11-26",
   "new_links": {
@@ -116,7 +114,7 @@
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "afa1754af97e36a196fc9e20ff648360b4005b6c",
+  "hash": "fd45ca598a0e192e93b2dcb821a20e20b2377db4",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-pricing-intelligence-quality-assurance-1100092893/": "Senior Executive Manager - Pricing Intelligence & Quality Assurance",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-fwa-ai-engineer-1100088889/": "Manager - FWA AI Engineer",
@@ -131,7 +129,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-26T15:24:09+00:00",
+  "checked": "2026-11-26T21:55:55+00:00",
   "error": null,
   "changed_on": "2026-11-26",
   "new_links": {
