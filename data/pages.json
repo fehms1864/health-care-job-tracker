@@ -2,7 +2,7 @@
  "https://apply.deloitte.co.uk/UKCareers/SearchJobs": {
   "company": "Deloitte",
   "region": "UK",
-  "hash": "a58756422e7d1eeab8064573e631de54b726ca22",
+  "hash": "a0bfecbb21e3cfed236858b2e706d9fbe78e87a9",
   "postings": {
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/NET-Developer-Consultant-Manager/25553": ".NET Developer, Consultant, Manager",
    "https://apply.deloitte.co.uk/UKCareers/JobDetail/Agile-Delivery-Lead-Defence-and-Security/25121": "Agile Delivery Lead, Defence and Security",
@@ -26,40 +26,46 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-26T21:55:55+00:00",
+  "checked": "2026-11-27T15:11:50+00:00",
   "error": null,
-  "changed_on": "2026-11-26",
+  "changed_on": "2026-11-27",
   "new_links": {},
   "new_on": "2026-11-05"
  },
  "https://wise.jobs/jobs": {
   "company": "Wise",
   "region": "UK",
-  "hash": "10a609081093eda9e606eddb3b46444b494a9cac",
+  "hash": "c24ecb0b6db5f66fd4d01ede4a95fe28b8612bf0",
   "postings": {
-   "https://wise.jobs/job/customer-support-specialist-spanish-speaker-5-am-shift-in-sao-paulo-jid-4545": "Customer Support Specialist (Spanish Speaker - 5 am shift)",
-   "https://wise.jobs/job/customer-support-specialist-spanish-speaker-nightime-1-am-shift-in-sao-paulo-jid-4544": "Customer Support Specialist (Spanish Speaker - Nightime - 1 am shift)",
-   "https://wise.jobs/job/senior-product-designer-scalable-growth-in-london-jid-4523": "Senior Product Designer - Scalable Growth",
+   "https://wise.jobs/job/balance-sheet-and-product-financials-controller-in-london-jid-4304": "Balance Sheet & Product Financials Controller",
+   "https://wise.jobs/job/fincrime-quality-senior-specialist-in-sao-paulo-jid-4592": "Fincrime Quality Senior Specialist",
+   "https://wise.jobs/job/fincrime-quality-specialist-in-sao-paulo-jid-4591": "Fincrime Quality Specialist",
    "https://wise.jobs/job/compliance-senior-specialist-fincrime-operations-spanish-speaking-in-tallinn-jid-4585": "Compliance Senior Specialist - FinCrime Operations (Spanish Speaking)",
-   "https://wise.jobs/job/group-controlling-director-in-london-jid-4584": "Group Controlling Director",
-   "https://wise.jobs/job/senior-software-engineer-cards-api-team-in-singapore-jid-3988": "Senior Software Engineer - Cards API team",
-   "https://wise.jobs/job/director-of-risk-analytics-in-london-jid-4083": "Director of Risk Analytics",
-   "https://wise.jobs/job/regional-risk-lead-emea-12-months-maternity-cover-in-london-jid-4254": "Regional Risk Lead - EMEA - 12 months Maternity Cover",
-   "https://wise.jobs/job/senior-network-automation-engineer-in-hyderabad-jid-3996": "Senior Network Automation Engineer",
-   "https://wise.jobs/job/senior-product-compliance-manager-india-in-singapore-jid-4583": "Senior Product Compliance Manager - India",
-   "https://wise.jobs/job/people-operations-specialist-in-singapore-jid-4419": "People Operations Specialist",
-   "https://wise.jobs/job/senior-software-engineer-apac-expansion-in-singapore-jid-4478": "Senior Software Engineer - APAC Expansion"
+   "https://wise.jobs/job/product-lead-wise-for-banks-in-london-jid-4233": "Product Lead, Wise for Banks",
+   "https://wise.jobs/job/product-compliance-lead-remediation-in-london-jid-4201": "Product Compliance Lead - Remediation",
+   "https://wise.jobs/job/compliance-manager-fincrime-operations-in-tallinn-jid-4590": "Compliance Manager - FinCrime Operations",
+   "https://wise.jobs/job/operations-solutions-team-lead-business-in-tallinn-jid-4589": "Operations Solutions Team Lead, Business",
+   "https://wise.jobs/job/customer-support-specialist-in-hyderabad-jid-4588": "Customer Support Specialist",
+   "https://wise.jobs/job/kyc-operations-team-lead-consumer-in-budapest-jid-4587": "KYC Operations Team Lead-Consumer",
+   "https://wise.jobs/job/backend-engineer-product-eligibility-in-london-jid-4130": "Backend Engineer - Product Eligibility",
+   "https://wise.jobs/job/senior-product-manager-apac-risk-and-controls-in-singapore-jid-4586": "Senior Product Manager, APAC Risk & Controls"
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-26T21:55:55+00:00",
+  "checked": "2026-11-27T15:11:50+00:00",
   "error": null,
-  "changed_on": "2026-11-26",
+  "changed_on": "2026-11-27",
   "new_links": {
-   "https://wise.jobs/job/customer-support-specialist-spanish-speaker-5-am-shift-in-sao-paulo-jid-4545": "Customer Support Specialist (Spanish Speaker - 5 am shift)",
-   "https://wise.jobs/job/customer-support-specialist-spanish-speaker-nightime-1-am-shift-in-sao-paulo-jid-4544": "Customer Support Specialist (Spanish Speaker - Nightime - 1 am shift)"
+   "https://wise.jobs/job/fincrime-quality-senior-specialist-in-sao-paulo-jid-4592": "Fincrime Quality Senior Specialist",
+   "https://wise.jobs/job/fincrime-quality-specialist-in-sao-paulo-jid-4591": "Fincrime Quality Specialist",
+   "https://wise.jobs/job/product-lead-wise-for-banks-in-london-jid-4233": "Product Lead, Wise for Banks",
+   "https://wise.jobs/job/product-compliance-lead-remediation-in-london-jid-4201": "Product Compliance Lead - Remediation",
+   "https://wise.jobs/job/compliance-manager-fincrime-operations-in-tallinn-jid-4590": "Compliance Manager - FinCrime Operations",
+   "https://wise.jobs/job/operations-solutions-team-lead-business-in-tallinn-jid-4589": "Operations Solutions Team Lead, Business",
+   "https://wise.jobs/job/customer-support-specialist-in-hyderabad-jid-4588": "Customer Support Specialist",
+   "https://wise.jobs/job/senior-product-manager-apac-risk-and-controls-in-singapore-jid-4586": "Senior Product Manager, APAC Risk & Controls"
   },
-  "new_on": "2026-11-26"
+  "new_on": "2026-11-27"
  },
  "https://optiver.com/working-at-optiver/career-opportunities/": {
   "company": "Optiver",
@@ -85,7 +91,7 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-26T21:55:55+00:00",
+  "checked": "2026-11-27T15:11:50+00:00",
   "error": null,
   "changed_on": "2026-11-24",
   "new_links": {},
@@ -94,7 +100,7 @@
  "https://careers.shezlong.com/": {
   "company": "Shezlong",
   "region": "ME",
-  "hash": "2a6b7e991c7d2b2dc0a6baea396c76579f4fd993",
+  "hash": "ffcecac950d210a57cf668e0a6fe7112cc0cd254",
   "postings": {
    "https://careers.shezlong.com/vacancy/2b02037a-6b61-4078-9614-79663e72b272": "View Details",
    "https://careers.shezlong.com/vacancy/191849e4-dca7-4be5-8281-be4231226a89": "View Details",
@@ -102,19 +108,16 @@
   },
   "readable": true,
   "method": "link titles",
-  "checked": "2026-11-26T21:55:55+00:00",
+  "checked": "2026-11-27T15:11:50+00:00",
   "error": null,
-  "changed_on": "2026-11-26",
-  "new_links": {
-   "https://careers.shezlong.com/vacancy/2b02037a-6b61-4078-9614-79663e72b272": "View Details",
-   "https://careers.shezlong.com/vacancy/191849e4-dca7-4be5-8281-be4231226a89": "View Details"
-  },
+  "changed_on": "2026-11-27",
+  "new_links": {},
   "new_on": "2026-11-26"
  },
  "https://careers.bupa.com.sa/en/saudi-arabia/jobs/": {
   "company": "Bupa Arabia",
   "region": "ME",
-  "hash": "fd45ca598a0e192e93b2dcb821a20e20b2377db4",
+  "hash": "e9f3078da6f1590b5812f40e9fd62a28af75d3fe",
   "postings": {
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/senior-executive-manager-pricing-intelligence-quality-assurance-1100092893/": "Senior Executive Manager - Pricing Intelligence & Quality Assurance",
    "https://careers.bupa.com.sa/en/saudi-arabia/jobs/manager-fwa-ai-engineer-1100088889/": "Manager - FWA AI Engineer",
@@ -129,12 +132,10 @@
   },
   "readable": true,
   "method": "structured data on job pages",
-  "checked": "2026-11-26T21:55:55+00:00",
+  "checked": "2026-11-27T15:11:50+00:00",
   "error": null,
-  "changed_on": "2026-11-26",
-  "new_links": {
-   "https://careers.bupa.com.sa/en/saudi-arabia/jobs/medical-specialist-physiotherapy-home-healthcare-1100092635/": "View Job Details"
-  },
+  "changed_on": "2026-11-27",
+  "new_links": {},
   "new_on": "2026-11-26"
  }
 }
